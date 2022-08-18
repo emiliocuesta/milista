@@ -1,1 +1,1001 @@
-
+#EXTM3U
+#EXTINF:0 type="favorites" channelId="1477" group="encohd", Channel 21
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/21.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 23
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/23.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 27
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/27.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 36
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/36.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 48
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/48.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 49
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/49.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 51
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/51.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 52
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/52.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 54
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/54.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 58
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/58.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 63
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/63.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Salvador", wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:0 type="favorites" channelId="3782" group="andromeda", RCN Novelas
+http://45.71.185.142:8500/play/a03i
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Mi Bella Genio SD" group="CANALES 24/7" logo="https://www.pngitem.com/pimgs/m/79-791003_comedy-and-tragedy-comedia-y-tragedia-hd-png.png", 24/7 | Mi Bella Genio SD
+http://magmas5.com:8000/malotv/gratis/2549
+#EXTINF:0 type="favorites" channelId="-1" name="03 | CARACOL HD" group="COLOMBIA" logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png", 03 | CARACOL HD
+http://magmas5.com:8000/malotv/gratis/3572
+#EXTINF:0 type="favorites" channelId="-1" name="06 | RCN FHD" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png", 06 | RCN FHD
+http://magmas5.com:8000/malotv/gratis/3575
+#EXTINF:0 type="favorites" channelId="-1" name="01 | CANAL UNO" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png", 01 | CANAL UNO
+http://magmas5.com:8000/malotv/gratis/3570
+#EXTINF:0 type="favorites" channelId="-1" name="19 | CABLE NOTICIAS HD" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png", 19 | CABLE NOTICIAS HD
+http://magmas5.com:8000/malotv/gratis/3588
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | La Pantera Rosa" group="CANALES 24/7" logo="https://formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png", 24/7 | La Pantera Rosa
+http://magmas5.com:8000/malotv/gratis/129347
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Los Picapiedra" group="CANALES 24/7" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/640px-The_Flintstones_logo.svg.png", 24/7 | Los Picapiedra
+http://magmas5.com:8000/malotv/gratis/129349
+#EXTINF:0 type="favorites" channelId="-1" name="Peliculas Marvel" group="CANALES 24/7" logo="https://app.mxl-iptv.tv/logos_tv/saga_marvel.jpg", Peliculas Marvel
+http://magmas5.com:8000/malotv/gratis/129366
+#EXTINF:0 type="favorites" channelId="-1" name="Peliculas Inframundo" group="CANALES 24/7" logo="https://image.tmdb.org/t/p/w185/pu67UYA22j2kSkPth0i1O7pilzc.jpg", Peliculas Inframundo
+http://magmas5.com:8000/malotv/gratis/129373
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 |  X-Men" group="CANALES 24/7" logo="https://www.cultture.com/pics/2017/12/elkas16.jpg", 24/7 |  X-Men
+http://magmas5.com:8000/malotv/gratis/129375
+#EXTINF:0 type="favorites" channelId="-1" name="Peliculas Resident Evil" group="CANALES 24/7" logo="https://n3.sdlcdn.com/imgs/h/5/6/Resident-Evil-All-6-Parts-SDL071003500-1-7bf66.jpeg", Peliculas Resident Evil
+http://magmas5.com:8000/malotv/gratis/129379
+#EXTINF:0 type="favorites" channelId="-1" name="X-Men" group="CANALES 24/7" logo="https://image.tmdb.org/t/p/w185/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg", X-Men
+http://magmas5.com:8000/malotv/gratis/129386
+#EXTINF:0 type="favorites" channelId="-1" name="02 | WIN SPORTS FHD" group="COLOMBIA -PRIMERA A⚽" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png", 02 | WIN SPORTS FHD
+http://magmas5.com:8000/malotv/gratis/131983
+#EXTINF:0 type="favorites" channelId="-1" name="06 | DISCOVERY H&H" group="CULTURA SD" logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png", 06 | DISCOVERY H&H
+http://magmas5.com:8000/malotv/gratis/132578
+#EXTINF:0 type="favorites" channelId="-1" name="09 | Discovery Home & Healt" group="LOW CHANNEL" logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", 09 | Discovery Home & Healt
+http://magmas5.com:8000/malotv/gratis/3847
+#EXTINF:0 type="favorites" channelId="-1" name="22 | Fox Series (Low)" group="LOW CHANNEL" logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fox_Premium_Series_%28Latin_America%29_-_2017_Logo.png", 22 | Fox Series (Low)
+http://magmas5.com:8000/malotv/gratis/3860
+#EXTINF:0 type="favorites" channelId="-1" name="24 | STAR CLASSIC" group="CINE STD" logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", 24 | STAR CLASSIC
+http://magmas5.com:8000/malotv/gratis/65
+#EXTINF:0 type="favorites" channelId="-1" name="22 | UNIVERSAL REALITY MX" group="CINE STD" logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png", 22 | UNIVERSAL REALITY MX
+http://magmas5.com:8000/malotv/gratis/63
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:SEXTREME_LA6" group="⛔ ADULTOS", XXX:SEXTREME_LA6
+http://magmas5.com:8000/malotv/gratis/4159
+#EXTINF:0 type="favorites" channelId="-1" name="XXX | DORCEL HD" group="⛔ ADULTOS", XXX | DORCEL HD
+http://magmas5.com:8000/malotv/gratis/4231
+#EXTINF:0 type="favorites" channelId="-1" name="XXX | HUSTLER FHD" group="⛔ ADULTOS", XXX | HUSTLER FHD
+http://magmas5.com:8000/malotv/gratis/141933
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png", ACS NETWORK
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | AMC" group="CANALES PREMIUM ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", ARG | AMC
+http://magmas5.com:8000/malotv/gratis/135656
+#EXTINF:0 type="favorites" channelId="-1" group="AMBA" logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw", GEN TV  17.4
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="NACIONALES" logo="https://pbs.twimg.com/profile_images/1507186058747854848/liVKa4wY_400x400.jpg" country="AR", CINEAR  22.4
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="AMBA" logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png", Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="AMBA" logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg", CINCO TV TIGRE  30.1
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="NOTICIAS" logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg", DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CUYO" logo="https://pbs.twimg.com/profile_images/2751264928/0facb64f7c7468a07681c5f27874d9a4_400x400.png", CANAL 8 VALLE DE UCO
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CUYO" logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj", COSMOS TV SAN JUAN
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CUYO" logo="https://pbs.twimg.com/profile_images/3720036066/64995b5df909d36608df78a24638afc6_400x400.jpeg", RADIO BLU SAN JUAN
+https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="NORTE" logo="https://i1.wp.com/radioplus1035.com.ar/wp/wp-content/uploads/2021/05/cropped-133737876_867518750733014_8075470442578818509_o-1.jpg?w=512", CANAL 6 PLUS TV  PRESIDENCIA DE LA PLAZA  CHACO
+http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://i.imgur.com/dWNxCqp.png", RAKUTEN TV DRAMA
+https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel%3D429%26ads.wurl_name%3DRakutenTVShows%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://i.imgur.com/eQKFgpa.png", RAKUTEN COMEDIA
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://a.jsrdn.com/hls/23008/chiquilines/thumbh_20211116_011429.jpg", CHIQUILINES
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/4226980d-98bb-4fe2-af57-94dcd2167174/4.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://a.jsrdn.com/hls/23008/horrorfy/thumbh_20211119_205238.jpg", HORRORFY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/6105ccc7-7a04-41f9-b07c-2705f56a0d8b/4.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://a.jsrdn.com/hls/23008/cine-real-latam/thumbh_20211206_225151.jpg", CINE REAL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/c2ad726d-bf69-4f75-8e5f-1007ef768eb8/4.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://a.jsrdn.com/hls/23008/juntos/thumbh_20211119_205416.jpg", JUNTOS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/27d354f8-74a3-476f-a2b8-d5d691f2ff2b/4.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://a.jsrdn.com/hls/23008/top-cine-latam/thumbh_20211206_224726.jpg", TOP CINE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/520936ec-fb0d-453e-bff9-98f7e65d2c13/4.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2", MY TIME MOVIES 1
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2", MY TIME MOVIES 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png", BUTACA TV
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3186" group="CINE" logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png", Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png", Cine Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Canela.TV_190x190_circle.jpg?raw=true", CANELA TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LaCorriente_Logo_Dark.png", La Corriente
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=499&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=HXPEXX8sxRq2Fzzka8Jc&content_series=602d6608f867c4002c897e27&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=HXPEXX8sxRq2Fzzka8Jc&custom_7=602d6608f867c4002c897e27
+#EXTINF:0 type="favorites" channelId="-1" group="INFANTIL" logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg", LOS SIMPSONS
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="INFANTIL" logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg", LOS SIMPSONS 2
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="INFANTIL" logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png", Los Tres Chiflados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="favorites" channelId="-1" group="INFANTIL" logo="http://x.playerlatino.live/alf.png", ALF
+https://srv5.zcast.com.br/alf/alf/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="64" group="spliktv", Cinecanal
+https://sv.spliktv.xyz/live/caster/RA/CinecanalHD.m3u8
+#EXTINF:0 type="favorites" channelId="2409" group="spliktv", El Trece
+https://sv.spliktv.xyz/live/caster/RA/ArtearHD.m3u8
+#EXTINF:0 type="favorites" channelId="287" group="spliktv", claro sports
+https://sv.spliktv.xyz/live/caster/CLARO-SPORTS.m3u8
+#EXTINF:0 type="favorites" channelId="2496" group="spliktv", TV Max
+https://sv.spliktv.xyz/live/caster/PA/TVMAX.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="spliktv", Telecaf
+https://sv.spliktv.xyz/live/caster/CO/TELECAFE.m3u8
+#EXTINF:0 type="favorites" channelId="2542" group="spliktv", TV Peru
+https://sv.spliktv.xyz/live/caster/PE/TVPERU.m3u8
+#EXTINF:0 type="favorites" channelId="1954" group="spliktv", Las Estrellas
+https://sv.spliktv.xyz/live/caster/RU/ADN40.m3u8
+#EXTINF:0 type="favorites" channelId="2344" group="spliktv", TVN
+https://sv.spliktv.xyz/live/caster/PA/TVN.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="solo deportes", ASXTV FIGHTS
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="solo deportes", COMBATE AMÃ‰RICAS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 type="favorites" channelId="-1" group="solo deportes", Channel Fight (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
+#EXTINF:0 type="favorites" channelId="-1" group="solo deportes", DEPORTV - 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="solo deportes", Fite (720p) [Not 24/7]
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="solo deportes", LUCHA LIBRE AAA 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="solo deportes", Pluto TV Yoga (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd
+#EXTINF:0 type="favorites" channelId="1333" group="solo deportes", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Chavo TV" logo="https://www.m3u.cl/logo/46_Chavo_TV.png", Chavo TV * | CL
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="Caracola TV" logo="https://www.m3u.cl/logo/1020_Caracola_TV.png", Caracola TV * | CL
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="Retro Plus TV Señal 3" logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="Mi TV Televisión Clásica" logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png", Mi TV Televisión Clásica | US
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="WOW TV" logo="https://www.m3u.cl/logo/476_WOW_TV.png", WOW TV | SV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="Exprezion TV" logo="https://www.m3u.cl/logo/67_Exprezion_TV.png", Exprezion TV | CL
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1", Telenord
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="40" group="andromeda", Cartoon Network
+http://45.71.185.142:8500/play/a00f
+#EXTINF:0 type="favorites" channelId="2505" group="andromeda", Discovery Kids
+http://45.71.185.142:8500/play/a00m
+#EXTINF:0 type="favorites" channelId="19" group="andromeda", Disney Channel
+http://45.71.185.142:8500/play/a017
+#EXTINF:0 type="favorites" channelId="1198" group="andromeda", Disney XD
+http://45.71.185.142:8500/play/a002
+#EXTINF:0 type="favorites" channelId="4774" group="andromeda", Canal Claro
+http://45.71.185.142:8500/play/a03j
+#EXTINF:0 type="favorites" channelId="-1" group="andromeda", Claro Cinema
+http://45.71.185.142:8500/play/a03r
+#EXTINF:0 type="favorites" channelId="57" group="andromeda", Discovery Channel
+http://45.71.185.142:8500/play/a018
+#EXTINF:0 type="favorites" channelId="2840" group="andromeda", Discovery Turbo
+http://45.71.185.142:8500/play/a039
+#EXTINF:0 type="favorites" channelId="2540" group="andromeda", ESPN
+http://45.71.185.142:8500/play/a01e
+#EXTINF:0 type="favorites" channelId="344" group="andromeda", ESPN 2
+http://45.71.185.142:8500/play/a015
+#EXTINF:0 type="favorites" channelId="4746" group="andromeda", Ecuador TV
+http://45.71.185.142:8500/play/a026
+#EXTINF:0 type="favorites" channelId="1329" group="andromeda", Fox Sports 1
+http://45.71.185.142:8500/play/a021
+#EXTINF:0 type="favorites" channelId="170" group="andromeda", Fox Sports 2
+http://45.71.185.142:8500/play/a01n
+#EXTINF:0 type="favorites" channelId="180" group="andromeda", Fox Sports 3
+http://45.71.185.142:8500/play/a01o
+#EXTINF:0 type="favorites" channelId="-1" group="REPUBLICA DOMINICANA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/135px-Flag_of_the_Dominican_Republic.svg.png", Vallevision
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Coat_of_arms_of_Colombia.svg/1200px-Coat_of_arms_of_Colombia.svg.png", MUNDO +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CHILE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Coat_of_arms_of_Chile_%28c%29.svg/350px-Coat_of_arms_of_Chile_%28c%29.svg.png", TEC Television Temuco
+http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="4786" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Coat_of_arms_of_Colombia.svg/1200px-Coat_of_arms_of_Colombia.svg.png", TELEPACIFICO
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CHILE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Coat_of_arms_of_Chile_%28c%29.svg/350px-Coat_of_arms_of_Chile_%28c%29.svg.png", Buin Somos Todos
+https://bst.buin.cl/0.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="BOLIVIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Escudo_de_Bolivia.svg/200px-Escudo_de_Bolivia.svg.png", Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist_w1291195276.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Escudo_nacional_del_Per%C3%BA.svg/245px-Escudo_nacional_del_Per%C3%BA.svg.png", TV PERUANISIMA
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png", Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Coat_of_arms_of_Colombia.svg/1200px-Coat_of_arms_of_Colombia.svg.png", TV PEOL
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png", ESTRELLA NEWS
+https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Escudo_nacional_del_Per%C3%BA.svg/245px-Escudo_nacional_del_Per%C3%BA.svg.png", ANTARES TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REPUBLICA DOMINICANA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/135px-Flag_of_the_Dominican_Republic.svg.png", DAN TV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REPUBLICA DOMINICANA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/135px-Flag_of_the_Dominican_Republic.svg.png", Telenord Canal 10
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png", JALISCO TV MEXICO
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png", TVP Culiacan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png", TRC TV Campeche
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="espaa", DW Espaol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 type="favorites" channelId="2528" group="espaa", LaOtra
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="espaa", TV Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="espaa", Punt 3 Vall Uix
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 50
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/50.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 57
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/57.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 66
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/66.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="spliktv", Seal Colombia
+https://sv.spliktv.xyz/live/caster/CO/SE-CO.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="encohd", Channel 53
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/53.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | DISCOVERY HOME AND HEALTH" group="CANALES AMÉRICA SUR STD" logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", SUR | DISCOVERY HOME AND HEALTH
+http://magmas5.com:8000/malotv/gratis/4809
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo New York" group="USA" country="us", Telemundo New York
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/336.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Univision Chicago" group="USA" country="us", Univision Chicago
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/343.m3u8
+#EXTINF:0 type="favorites" channelId="4788" name="Win sports" group="MX" country="mx", Win sports
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/384.m3u8
+#EXTINF:0 type="favorites" channelId="4669" name="MX: Fox Sports Premium" group="MX" country="mx", Fox Sports Premium
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/385.m3u8
+#EXTINF:0 type="favorites" channelId="2839" name="Discovery World" group="MX" country="mx", Discovery World
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/391.m3u8
+#EXTINF:0 type="favorites" channelId="1960" name="DePelicula Clasico" group="MX" country="mx", DePelicula Clasico
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/392.m3u8
+#EXTINF:0 type="favorites" channelId="1961" name="Distrito Comedia" group="MX" country="mx", Distrito Comedia
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/397.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="HD | A&E" group="TV | CINE & SERIES ( HD )" logo="http://tvstarlife.com:25461/images/1c961811ad68433fe9403cff3b2da4e5.png", HD | A&E
+http://tvstarlife.com:25461/Rodriguez/2022/92
+#EXTINF:0 type="favorites" channelId="-1", TNT Sports 2 Chile
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/94.m3u8
+#EXTINF:0 type="favorites" channelId="-1", MX || Bitme SD
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/97.m3u8
+#EXTINF:0 type="favorites" channelId="-1", ||ES3|| CANAL ODISEA HD
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/98.m3u8
+#EXTINF:0 type="favorites" channelId="4668", TNT Sports
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/99.m3u8
+#EXTINF:0 type="favorites" channelId="-1", AMC MX
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/101.m3u8
+#EXTINF:0 type="favorites" channelId="-1", ESPN 2 ARGENTINA
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/108.m3u8
+#EXTINF:0 type="favorites" channelId="-1", ESPN ARGENTINA
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/107.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo Los Angeles" group="USA" country="us", Telemundo Los Angeles
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/337.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo Chicago" group="USA" country="us", Telemundo Chicago
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/338.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo Houston" group="USA" country="us", Telemundo Houston
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/339.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo Miami" group="USA" country="us", Telemundo Miami
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/340.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Univision New York" group="USA" country="us", Univision New York
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/341.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Univision Los Angeles" group="USA" country="us", Univision Los Angeles
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/342.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Univision Miami" group="USA" country="us", Univision Miami
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/345.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Directv Sports" group="MX" country="mx", Directv Sports
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/382.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Directv Sports 2" group="MX" country="mx", Directv Sports 2
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/383.m3u8
+#EXTINF:0 type="favorites" channelId="3802" name="Tyc Sports" group="MX" country="mx", Tyc Sports
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/389.m3u8
+#EXTINF:0 type="favorites" channelId="2504" name="TLNovelas" group="MX" country="mx", TLNovelas
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/393.m3u8
+#EXTINF:0 type="favorites" channelId="243" name="AzClic" group="MX" country="mx", AzClic
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/394.m3u8
+#EXTINF:0 type="favorites" channelId="228" name="AzMundo" group="MX" country="mx", AzMundo
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/395.m3u8
+#EXTINF:0 type="favorites" channelId="310" name="El Gourmet" group="MX" country="mx", El Gourmet
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/398.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Extranormal 24/7" group="MX" country="mx", Extranormal 24/7
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/406.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Dr House 24/7" group="MX" country="mx", Dr House 24/7
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/408.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Futurama 24/7" group="MX" country="mx", Futurama 24/7
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/412.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Los Simpsons 24/7" group="MX" country="mx", Los Simpsons 24/7
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/414.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="A&e Full HD LA" group="Latinos Full - HD" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png", A&e Full HD LA
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19845
+#EXTINF:0 type="favorites" channelId="-1" name="Universal Channel P5" group="Latinos Full - HD" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/UniversalChannel.png", Universal Channel P5
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19727
+#EXTINF:0 type="favorites" channelId="-1" name="AXN Full HD LA" group="Latinos Full - HD" logo="http://ltv-reloaded.xyz:2095/images/625fa0bfdb706073072b1d52884d47c6.png", AXN Full HD LA
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19844
+#EXTINF:0 type="favorites" channelId="-1" name="Caracol TV Full HD" group="Latinos Full - HD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1024px-Caracol_TV_HD_logo.svg.png", Caracol TV Full HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19846
+#EXTINF:0 type="favorites" channelId="-1" name="HBO Family Full HD LA" group="Latinos Full - HD" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbofamily.png", HBO Family Full HD LA
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19825
+#EXTINF:0 type="favorites" channelId="-1" name="HBO POP LA" group="Latinos Full - HD" logo="http://mylatinotv.com:8080/images/mexico/maxup.png", HBO POP LA
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19819
+#EXTINF:0 type="favorites" channelId="-1" name="AMC CLCL" group="Latino America Premium" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png", AMC CLCL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18978
+#EXTINF:0 type="favorites" channelId="-1" name="TNT Centro TrL" group="Latino America Premium" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tnt.png", TNT Centro TrL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/14442
+#EXTINF:0 type="favorites" channelId="-1" name="Golden Premier [Dual] CLCL" group="Latino America Premium" logo="http://mylatinotv.com:8080/images/mexico/goldenpremier.png", Golden Premier [Dual] CLCL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18941
+#EXTINF:0 type="favorites" channelId="-1" name="AXN [Dual]  CLCL" group="Latino America Premium" logo="http://ltv-reloaded.xyz:2095/images/625fa0bfdb706073072b1d52884d47c6.png", AXN [Dual]  CLCL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18943
+#EXTINF:0 type="favorites" channelId="-1" name="INTI  CLCL" group="Latino America Premium", INTI  CLCL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18947
+#EXTINF:0 type="favorites" channelId="-1" name="Discovery Home and Health HD [Dual] CLCL" group="Latino America Premium" logo="http://mylatinotv.com:8080/images/mexico/homeandhealth.png", Discovery Home and Health HD [Dual] CLCL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18950
+#EXTINF:0 type="favorites" channelId="-1" name="Cinecanal [Dual] CLCL" group="Latino America Premium" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/cinecanal.png", Cinecanal [Dual] CLCL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18954
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: AMC HD" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png", CLARO2: AMC HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19418
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: AXN HD" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/625fa0bfdb706073072b1d52884d47c6.png", CLARO2: AXN HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19389
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: DHE HD" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/dhe.png", CLARO2: DHE HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19338
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: E!" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/E!Entertainment.png", CLARO2: E!
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19384
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: FX HD" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/fx.png", CLARO2: FX HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19373
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: FXM" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FXM.png", CLARO2: FXM
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19447
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: GOLDEN HD" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/goldenedge.png", CLARO2: GOLDEN HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19379
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: GOLDEN PLUS" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/goldenedge.png", CLARO2: GOLDEN PLUS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19446
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: GOLDEN PREMIER HD" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/goldenpremier.png", CLARO2: GOLDEN PREMIER HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19378
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: GOURMET HD" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/elgourmet.png", CLARO2: GOURMET HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19407
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: HOLA TV HD" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/holatv.png", CLARO2: HOLA TV HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19333
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: LIFETIME" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/lifetime.png", CLARO2: LIFETIME
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19362
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: MASCHIC HD" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/maschic.png", CLARO2: MASCHIC HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19420
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: HBO Mundi" group="LATINOS" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/9095fa697aeaa3d31a7e2356d7cf2cb6.jpg", CLARO2: HBO Mundi
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19429
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: HBO POP" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/maxup.png", CLARO2: HBO POP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19393
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: MP" group="LATINOS", CLARO2: MP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19466
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: MULTIPREMIER" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/multipremier.png", CLARO2: MULTIPREMIER
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19436
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: PARAMOUNT HD" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/paramount.png", CLARO2: PARAMOUNT HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19423
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: SONY HD" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/sony.png", CLARO2: SONY HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19385
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: SPACE HD" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/spacehd.png", CLARO2: SPACE HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19340
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: STUDIO UNIVERSAL" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/studiouniversal.png", CLARO2: STUDIO UNIVERSAL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19425
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: TCM" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/tcm.png", CLARO2: TCM
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19390
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: THE FILM ZONE HD" group="LATINOS", CLARO2: THE FILM ZONE HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19434
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: TNT HD" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tnt.png", CLARO2: TNT HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19409
+#EXTINF:0 type="favorites" channelId="-1" name="TNT SERIES- LC" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tntseries.png", TNT SERIES- LC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19371
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: TRUTV HD" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/trutv.png", CLARO2: TRUTV HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19455
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: UNIVERSAL CHANNEL" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/UniversalChannel.png", CLARO2: UNIVERSAL CHANNEL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19387
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: WARNER HD" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/warner.png", CLARO2: WARNER HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19363
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: GLITZ" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/glitz.png", CLARO2: GLITZ
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19488
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: CITY NOTICIAS" group="LATINOS" logo="http://mylatinotv.com:8080/images/colombia/citynoticas.gif", CLARO2: CITY NOTICIAS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19497
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: TNT SERIES HD" group="LATINOS" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tntseries.png", CLARO2: TNT SERIES HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/27561
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: DISNEY HD" group="LATINOS" logo="http://mylatinotv.com:8080/images/mexico/disney.png", CLARO2: DISNEY HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19345
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: TELEMUNDO" group="LATINOS" logo="https://imgx.fubo.tv/station_logos/telemundo_c.png", CLARO2: TELEMUNDO
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19339
+#EXTINF:0 type="favorites" channelId="-1" name="CLARO2: TELEMUNDO INTERNACIONAL." group="LATINOS" logo="https://imgx.fubo.tv/station_logos/telemundo_c.png", CLARO2: TELEMUNDO INTERNACIONAL.
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19490
+#EXTINF:0 type="favorites" channelId="-1" name="Claro: TLC" group="Claro Tv" logo="https://thesmarthuman.com/wp-content/uploads/2016/03/tlc-logo.jpg", Claro: TLC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18898
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:AMC HD" group="Claro Tv" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png", Claro:AMC HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23500
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:CINEMAX" group="Claro Tv" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/cinemax.png", Claro:CINEMAX
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23524
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:DE PELICULA" group="Claro Tv" logo="http://mylatinotv.com:8080/images/mexico1/de-pelicula.png", Claro:DE PELICULA
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23448
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:DISCOVERY HOME HEALTH HD" group="Claro Tv" logo="http://mylatinotv.com:8080/images/mexico/homeandhealth.png", Claro:DISCOVERY HOME HEALTH HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23533
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:Star Cinema HD" group="Claro Tv" logo="https://i.imgur.com/pQzMKei.png", Claro:Star Cinema HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23549
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:GOLDEN HD" group="Claro Tv" logo="http://mylatinotv.com:8080/images/mexico/goldenedge.png", Claro:GOLDEN HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23568
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:FXM" group="Claro Tv" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FXM.png", Claro:FXM
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23476
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:GOLDEN PLUS" group="Claro Tv" logo="http://mylatinotv.com:8080/images/mexico/goldenedge.png", Claro:GOLDEN PLUS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23475
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:GOLDEN PREMIER HD" group="Claro Tv" logo="http://mylatinotv.com:8080/images/mexico/goldenpremier.png", Claro:GOLDEN PREMIER HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23567
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:HBO (W)" group="Claro Tv" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbo.png", Claro:HBO (W)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23491
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:HBO 2 HD" group="Claro Tv" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbo2.png", Claro:HBO 2 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23528
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:HBO FAMILY HD" group="Claro Tv" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbofamily.png", Claro:HBO FAMILY HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23563
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:HBO PLUS HD" group="Claro Tv" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/HBOPlus.png", Claro:HBO PLUS HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23595
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:LIFETIME" group="Claro Tv" logo="http://mylatinotv.com:8080/images/mexico/lifetime.png", Claro:LIFETIME
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23551
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:MASCHIC HD" group="Claro Tv" logo="http://mylatinotv.com:8080/images/mexico/maschic.png", Claro:MASCHIC HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23502
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:HBO POP" group="Claro Tv" logo="http://mylatinotv.com:8080/images/mexico/maxup.png", Claro:HBO POP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23529
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:MULTIPREMIER" group="Claro Tv" logo="http://mylatinotv.com:8080/images/mexico/multipremier.png", Claro:MULTIPREMIER
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23518
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:SONY HD" group="Claro Tv" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/sony.png", Claro:SONY HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23521
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:SPACE HD" group="Claro Tv" logo="http://mylatinotv.com:8080/images/mexico/spacehd.png", Claro:SPACE HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23583
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:STUDIO UNIVERSAL" group="Claro Tv" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/studiouniversal.png", Claro:STUDIO UNIVERSAL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23507
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:TCM" group="Claro Tv" logo="http://mylatinotv.com:8080/images/mexico/tcm.png", Claro:TCM
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23526
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:TLC" group="Claro Tv" logo="https://thesmarthuman.com/wp-content/uploads/2016/03/tlc-logo.jpg", Claro:TLC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23452
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:TNT SERIES HD" group="Claro Tv" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tntseries.png", Claro:TNT SERIES HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23560
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:UNIVERSAL CHANNEL" group="Claro Tv" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/UniversalChannel.png", Claro:UNIVERSAL CHANNEL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23523
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:WARNER HD" group="Claro Tv" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/warner.png", Claro:WARNER HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23552
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:WIN SPORTS" group="Claro Tv" logo="http://mylatinotv.com:8080/images/mexico/win.png", Claro:WIN SPORTS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23489
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:CLARO SPORTS LATAM HD" group="Claro Tv" logo="http://mylatinotv.com:8080/images/colombia/Claro_Sports_logo.png", Claro:CLARO SPORTS LATAM HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1164620
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:TELEMUNDO INTERNACIONAL" group="Claro Tv" logo="https://imgx.fubo.tv/station_logos/telemundo_c.png", Claro:TELEMUNDO INTERNACIONAL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23453
+#EXTINF:0 type="favorites" channelId="-1" name="Claro:TELEMUNDO" group="Claro Tv" logo="https://imgx.fubo.tv/station_logos/telemundo_c.png", Claro:TELEMUNDO
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23582
+#EXTINF:0 type="favorites" channelId="1208" name="A&E" group="Peru" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png", A&E
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210660
+#EXTINF:0 type="favorites" channelId="1330" name="HBO" group="Peru" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/522.png", HBO
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210661
+#EXTINF:0 type="favorites" channelId="383" name="Space" group="Peru" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/518.png", Space
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210666
+#EXTINF:0 type="favorites" channelId="3765" name="Golden Plus" group="Peru", Golden Plus
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210678
+#EXTINF:0 type="favorites" channelId="1326" name="Cinemax" group="Peru" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/509.png", Cinemax
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210679
+#EXTINF:0 type="favorites" channelId="-1" name="COLOMBIA || Win Sports Colombia" group="Colombia" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/1280px-Winsports.svg.png", COLOMBIA || Win Sports Colombia
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125101
+#EXTINF:0 type="favorites" channelId="-1" name="COLOMBIA || Win Sports Colombia &gt;)" group="Colombia", COLOMBIA || Win Sports Colombia &gt;)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133401
+#EXTINF:0 type="favorites" channelId="-1" name="COLOMBIA || WinSports Plus &gt;)" group="Colombia", COLOMBIA || WinSports Plus &gt;)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133430
+#EXTINF:0 type="favorites" channelId="-1" name="Colombia|| CITY TV" group="Colombia" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/e3eeba8d30ab4a97d02ac17a916f1f1a.jpg", Colombia|| CITY TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/14199
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| Caracol Opc. 1" group="Colombia" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1024px-Caracol_TV_HD_logo.svg.png", CO|| Caracol Opc. 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16280
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| RCN HD Opc 1" group="Colombia" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/cf484136df087e299aa4f0783c401289.jpg", CO|| RCN HD Opc 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/14195
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| Win Sports Opc2" group="Colombia Full" logo="http://mylatinotv.com:8080/images/mexico/win.png", CO|| Win Sports Opc2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19545
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| Win Sports + Opc. 1" group="Colombia Full" logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg", CO|| Win Sports + Opc. 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1130771
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| Win Sports + Opc. 2" group="Colombia Full" logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg", CO|| Win Sports + Opc. 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1130772
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| Win Sports + Opc. 3" group="Colombia Full" logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg", CO|| Win Sports + Opc. 3
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1130773
+#EXTINF:0 type="favorites" channelId="2686" name="TNT Series" group="Peru" logo="http://xtream-coders.com/x0/latino/tnt_series.png", TNT Series
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1210681
+#EXTINF:0 type="favorites" channelId="-1" name="COLOMBIA || CITY TV :)" group="Colombia" logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Citytv_logo.svg", COLOMBIA || CITY TV :)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1125094
+#EXTINF:0 type="favorites" channelId="-1" name="COLOMBIA || City Tv &gt;)" group="Colombia", COLOMBIA || City Tv &gt;)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133410
+#EXTINF:0 type="favorites" channelId="-1" name="COLOMBIA || RCN FHD &gt;)" group="Colombia", COLOMBIA || RCN FHD &gt;)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133415
+#EXTINF:0 type="favorites" channelId="-1" name="COLOMBIA || WinSports &gt;)" group="Colombia", COLOMBIA || WinSports &gt;)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133429
+#EXTINF:0 type="favorites" channelId="-1" name="US: WAPA America HD" group="USA" logo="http://mylatinotv.com:8080/images/mexico/wapa.png" country="us", WAPA America HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28497
+#EXTINF:0 type="favorites" channelId="1970" name="US: GALAVISION" group="USA" logo="http://mylatinotv.com:8080/images/mexico/galavision.png" country="us", GALAVISION
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28525
+#EXTINF:0 type="favorites" channelId="-1" name="US: WWE Network FHD" group="USA" logo="https://tinyurl.com/y6249rxw" country="us", WWE Network FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28625
+#EXTINF:0 type="favorites" channelId="-1" name="US: UNIMAS" group="USA" logo="http://mylatinotv.com:8080/images/mexico/UUnimas.png" country="us", UNIMAS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28638
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 01 Kings Man: El origen (HD)" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 01 Kings Man: El origen (HD)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1139052
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Sexo, pudor y lágrimas 2" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Sexo\\\, pudor y lágrimas 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42197
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 03 A través de mi ventana" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 03 A través de mi ventana
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42196
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 04 Tom y Jerry: ¡Arriba, vaquero!" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 04 Tom y Jerry: ¡Arriba\\\, vaquero!
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42195
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 05 La era de hielo: las aventuras de Buck" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 05 La era de hielo: las aventuras de Buck
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42194
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 06 Spider-Man: No Way Home" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 06 Spider-Man: No Way Home
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42193
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 07 Harry Potter 20th Anniversary: Return to Hogwarts" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 07 Harry Potter 20th Anniversary: Return to Hogwarts
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42192
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 10 Scream" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 10 Scream
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42189
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 11 Perdona nuestras ofensas" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 11 Perdona nuestras ofensas
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42188
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 12 La Casa Gucci" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 12 La Casa Gucci
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42187
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 13 Jugar en casa" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 13 Jugar en casa
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42186
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 14 Ser padre" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 14 Ser padre
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42185
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 17 Los Elfkins" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 17 Los Elfkins
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42182
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 19 Souvenir" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 19 Souvenir
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42180
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 20 Contagio en alta mar" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 20 Contagio en alta mar
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42179
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 21 Nomadland" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 21 Nomadland
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42178
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 23 Seguridad" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 23 Seguridad
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42176
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 24 La otra Missy" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 24 La otra Missy
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42175
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 25 La caza (The Hunt)" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 25 La caza (The Hunt)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42174
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 27 El baile de los 41" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 27 El baile de los 41
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42172
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 28 En El Barrio" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 28 En El Barrio
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42171
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 29 Disomnia" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 29 Disomnia
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42170
+#EXTINF:0 type="favorites" channelId="-1" name="*Latino | Cinema 34 John Was Trying to Contact Aliens" group="CINEMA LATINO" logo="https://i.imgur.com/lcHhtx1.jpg", *Latino | Cinema 34 John Was Trying to Contact Aliens
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42165
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Cinemax HD" group="CINEMA LATINO" logo="https://pbs.twimg.com/profile_images/1157334251106381825/3O0jRDbV_400x400.jpg", Lat | Cinemax HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42162
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | HBO Family HD" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png", Lat | HBO Family HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42160
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Hbo Plus HD" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png", Lat | Hbo Plus HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42159
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Hbo Plus West HD" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png", Lat | Hbo Plus West HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42158
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Hbo West HD" group="CINEMA LATINO" logo="https://i.imgur.com/2T1qoh3.gif", Lat | Hbo West HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42156
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | MoreMax HD" group="CINEMA LATINO" logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/MoreMax_2016_.png/revision/latest/scale-to-width-down/340?cb=20200121010009&path-prefix=es", Lat | MoreMax HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42154
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Showtime West HD" group="CINEMA LATINO" logo="https://www.directhd.tv/wp-content/uploads/2018/09/showtime-west.jpg", Lat | Showtime West HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42145
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | HBO HD Opc 1" group="CINEMA LATINO" logo="https://comparaiso.mx/sites/default/files/images/logos/hbo-200x300.png", Lat | HBO HD Opc 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1124169
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Axn Vip" group="CINEMA LATINO" logo="https://i.imgur.com/fympeSA.jpg", MX || Axn Vip
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16518
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Universal Vip HD" group="CINEMA LATINO" logo="https://i.imgur.com/j0Tzy5G.jpg", MX || Universal Vip HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16514
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Cine Canal Vip" group="CINEMA LATINO" logo="https://i.imgur.com/OMpHZoC.png", MX || Cine Canal Vip
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/16370
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Fox HD" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_fox_m.png", Lat | Fox HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19427
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Star Fun HD" group="CINEMA LATINO" logo="https://i.imgur.com/YTOItqs.png", Lat | Star Fun HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19353
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Star Fun SD" group="CINEMA LATINO" logo="https://i.imgur.com/YTOItqs.png", Lat | Star Fun SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19458
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Hbo Plus HD" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png", Lat | Hbo Plus HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19352
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | HBO Family HD" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png", Lat | HBO Family HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19374
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Cinemax HD" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/ar_cinemax-sur_m.png", MX || Cinemax HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81859
+#EXTINF:0 type="favorites" channelId="-1" name="MX || De Pelicula Plus HD" group="CINEMA LATINO" logo="https://i.imgur.com/GIdrkKE.jpg", MX || De Pelicula Plus HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81864
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Golden Plus HD" group="CINEMA LATINO" logo="https://latelegratis.com/wp-content/uploads/2020/02/goldenplus.png", MX || Golden Plus HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81866
+#EXTINF:0 type="favorites" channelId="-1" name="MX || De Pelicula" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png", MX || De Pelicula
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81887
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Golden Edge SD" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png", MX || Golden Edge SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81690
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Sony Channel HD" group="CINEMA LATINO" logo="https://i.imgur.com/yCDDvBX.png", MX || Sony Channel HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81954
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Paramount Channel HD" group="CINEMA LATINO" logo="https://d2xhqqdaxyaju6.cloudfront.net/file/teaser-ci/293920/1615420420/1200-400.jpg", MX || Paramount Channel HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81977
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Golden Edge SD" group="CINEMA LATINO" logo="https://i.imgur.com/XkLF5Ff.png", MX || Golden Edge SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81858
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Warner HD" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_warner_m.png", MX || Warner HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81953
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Paramount SD" group="CINEMA LATINO" logo="https://i.blogs.es/417744/paramount_network_logo/450_1000.jpg", MX || Paramount SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81819
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Star Cinema SD" group="CINEMA LATINO" logo="https://i.imgur.com/pQzMKei.png", MX || Star Cinema SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81871
+#EXTINF:0 type="favorites" channelId="-1" name="MX || De Pelicula + SD" group="CINEMA LATINO" logo="https://i.imgur.com/GIdrkKE.jpg", MX || De Pelicula + SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81695
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Golden Plus SD" group="CINEMA LATINO" logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/GPlus.png", MX || Golden Plus SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81698
+#EXTINF:0 type="favorites" channelId="-1" name="MX || De pelicula Opc 1 SD" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png", MX || De pelicula Opc 1 SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81720
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Star Channel SD" group="CINEMA LATINO" logo="https://i.imgur.com/NULADuX.jpg", MX || Star Channel SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81742
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Star Channel SD Opc 1" group="CINEMA LATINO" logo="https://i.imgur.com/NULADuX.jpg", MX || Star Channel SD Opc 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81791
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Golden SD Opc 1" group="CINEMA LATINO" logo="https://www.codice.tv/images/canales/mexico/55sky-logo-GoldenEdge.jpg", MX || Golden SD Opc 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81828
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Cinecanal HD" group="CINEMA LATINO" logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png", MX || Cinecanal HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81868
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Studio Universal SD" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png", MX || Studio Universal SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81687
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Star Cinema SD" group="CINEMA LATINO" logo="https://i.imgur.com/pQzMKei.png", MX || Star Cinema SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81703
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Golden" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_golden_m.png", MX || Golden
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81986
+#EXTINF:0 type="favorites" channelId="-1" name="LAt | Cinelatino" group="CINEMA LATINO" logo="https://i.imgur.com/ZR0bpQf.png", LAt | Cinelatino
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19366
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Cinemax" group="CINEMA LATINO" logo="https://pbs.twimg.com/profile_images/1157334251106381825/3O0jRDbV_400x400.jpg", Lat | Cinemax
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19388
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Hbo (W)." group="CINEMA LATINO" logo="https://i.imgur.com/2T1qoh3.gif", Lat | Hbo (W).
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19462
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | DE Pelicula" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png", Lat | DE Pelicula
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19485
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Cinecanal HD" group="CINEMA LATINO" logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png", Lat | Cinecanal HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19357
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Hbo 2 HD" group="CINEMA LATINO" logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png", Lat | Hbo 2 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19392
+#EXTINF:0 type="favorites" channelId="-1" name="Lat | Star Cinema HD" group="CINEMA LATINO" logo="https://i.imgur.com/pQzMKei.png", Lat | Star Cinema HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/19360
+#EXTINF:0 type="favorites" channelId="-1" name="Universal Crime" group="CINEMA LATINO", Universal Crime
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1242799
+#EXTINF:0 type="favorites" channelId="-1" name="Universal Cinema" group="CINEMA LATINO", Universal Cinema
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1242801
+#EXTINF:0 type="favorites" channelId="-1" name="Universal Reality" group="CINEMA LATINO", Universal Reality
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1242802
+#EXTINF:0 type="favorites" channelId="-1" name="Universal Premier" group="CINEMA LATINO", Universal Premier
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1242803
+#EXTINF:0 type="favorites" channelId="-1" name="Cinema|| Latino PPV-1" group="CINEMA LATINO", Cinema|| Latino PPV-1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1117820
+#EXTINF:0 type="favorites" channelId="-1" name="Colombia|| Canal Uno" group="Colombia" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a2d0f68ee68dbcdd6e5345e510f094e0.jpg", Colombia|| Canal Uno
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/70391
+#EXTINF:0 type="favorites" channelId="-1" name="Colombia|| Tiempo TV" group="Colombia" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/163308ec0dceca207789ffb3afc68342.jpg", Colombia|| Tiempo TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/70501
+#EXTINF:0 type="favorites" channelId="-1" name="Colombia|| NTN24" group="Colombia" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/1337ac8d45711ca3591d5a03b2c1a70c.jpg", Colombia|| NTN24
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/70595
+#EXTINF:0 type="favorites" channelId="-1" name="Colombia|| TelePacifico" group="Colombia" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/699af5aa4249ba7085bf0724f13a0ece.jpg", Colombia|| TelePacifico
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/70388
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | A&E Latinoamérica 230" group="MEX | MEX" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png", • DM | A&E Latinoamérica 230
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71719
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | AXN 222" group="MEX | MEX" logo="http://ltv-reloaded.xyz:2095/images/625fa0bfdb706073072b1d52884d47c6.png", • DM | AXN 222
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/73073
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | Canal Sony 208" group="MEX | MEX" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/sony.png", • DM | Canal Sony 208
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/73091
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | CINE LATINO 382" group="MEX | MEX", • DM | CINE LATINO 382
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/73076
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | Cinecanal 398" group="MEX | MEX" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/cinecanal.png", • DM | Cinecanal 398
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/73084
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | Discovery Home & Health 236" group="MEX | MEX" logo="http://mylatinotv.com:8080/images/mexico/homeandhealth.png", • DM | Discovery Home & Health 236
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71720
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | Disney Junior México 283" group="MEX | MEX" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/disneyjunior.png", • DM | Disney Junior México 283
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71723
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | Disney Channel 282" group="MEX | MEX" logo="http://ltv-reloaded.xyz:2095/images/aacd4973a8d571b9ab1206b8f64516da.png", • DM | Disney Channel 282
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/73087
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | E! Latinoamérica 248" group="MEX | MEX" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/E!Entertainment.png", • DM | E! Latinoamérica 248
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71722
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | Star Fun 438" group="MEX | MEX" logo="https://i.imgur.com/YTOItqs.png", • DM | Star Fun 438
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71710
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | FX 224" group="MEX | MEX" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/fx.png", • DM | FX 224
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/73074
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | HBO Latinoamérica 402" group="MEX | MEX" logo="http://mylatinotv.com:8080/images/mexico/hbo.png", • DM | HBO Latinoamérica 402
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71729
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | HBO Mundi" group="MEX | MEX" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/9095fa697aeaa3d31a7e2356d7cf2cb6.jpg", • DM | HBO Mundi
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/73083
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | TLC Latinoamérica 240" group="MEX | MEX" logo="https://thesmarthuman.com/wp-content/uploads/2016/03/tlc-logo.jpg", • DM | TLC Latinoamérica 240
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71721
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | TNT 370" group="MEX | MEX" logo="http://mylatinotv.com:8080/images/espana/tnt.jpg", • DM | TNT 370
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/73085
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | TNT Series 214" group="MEX | MEX" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/tntseries.png", • DM | TNT Series 214
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71703
+#EXTINF:0 type="favorites" channelId="-1" name="• DM | Universal TV México 206" group="MEX | MEX" logo="http://mylatinotv.com:8080/images/mexico/universal.png", • DM | Universal TV México 206
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/71717
+#EXTINF:0 type="favorites" channelId="-1" name="El Salvador|| Wow TV" group="El Salvador" logo="https://1.bp.blogspot.com/-ugT31DslkAM/XxmxaS4SevI/AAAAAAAACIc/-YjKSXMvj8oFR2XbliO0P4hW3H_rkUSLwCLcBGAsYHQ/s540/wowtvelsalvador_logoroku.jpg", El Salvador|| Wow TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/87031
+#EXTINF:0 type="favorites" channelId="-1" name="MX || FX SD Lat 2" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png", MX || FX SD Lat 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81634
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Nat Geo HD | Cultural" group="Culturales" logo="https://i.imgur.com/0oQmyEn.jpg", MX || Nat Geo HD | Cultural
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81655
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Life Time SD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/sv_lifetime_m.png", MX || Life Time SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81663
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Studio Universal SD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png", MX || Studio Universal SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81664
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Mexiquense HD" group="MEXICO || LTV" logo="https://pbs.twimg.com/profile_images/1237444962121396226/hkrvwCFW_400x400.jpg", MX || Mexiquense HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81665
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Las Estrellas HD" group="MEXICO || LTV" logo="https://i.imgur.com/EHrkCCY.png", MX || Las Estrellas HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81683
+#EXTINF:0 type="favorites" channelId="-1" name="MX || TCM SD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/mx_tcm_m.png", MX || TCM SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81685
+#EXTINF:0 type="favorites" channelId="-1" name="MX || SPACE SD" group="MEXICO || LTV" logo="https://i.pinimg.com/236x/d6/6b/b5/d66bb576495837a6336a136895c0ee31--bein-sports-fox-sports.jpg", MX || SPACE SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81688
+#EXTINF:0 type="favorites" channelId="-1" name="MX || AMC SD" group="MEXICO || LTV" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png", MX || AMC SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81689
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Cinemax SD" group="MEXICO || LTV" logo="https://pbs.twimg.com/profile_images/1157334251106381825/3O0jRDbV_400x400.jpg", MX || Cinemax SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81691
+#EXTINF:0 type="favorites" channelId="-1" name="MX || AMC HD" group="MEXICO || LTV" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png", MX || AMC HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81694
+#EXTINF:0 type="favorites" channelId="-1" name="MX || FXM SD" group="MEXICO || LTV" logo="https://www.areacucuta.com/wp-content/uploads/2017/09/FXMLogo-blanco.jpg", MX || FXM SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81696
+#EXTINF:0 type="favorites" channelId="-1" name="MX || TNT SD" group="MEXICO || LTV" logo="https://multipress.com.mx/wp-content/uploads/2013/11/TNT.jpg", MX || TNT SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81699
+#EXTINF:0 type="favorites" channelId="-1" name="MX || CINECANAL SD" group="MEXICO || LTV" logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png", MX || CINECANAL SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81700
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Azteca Cinema SD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png", MX || Azteca Cinema SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81701
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Fox Series SD" group="MEXICO || LTV" logo="https://live.staticflickr.com/4907/44856199265_1f2ba16c38_m.jpg", MX || Fox Series SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81706
+#EXTINF:0 type="favorites" channelId="-1" name="MX || NAT GEO SD | Cultural" group="Culturales" logo="https://i.imgur.com/0oQmyEn.jpg", MX || NAT GEO SD | Cultural
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81712
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Discovery H&H HD | Cultural" group="Culturales" logo="https://www.comteco.com.bo/img/upload/canales/hyh-discovery.png", MX || Discovery H&H HD | Cultural
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81713
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Animal Planet SD | Cultural" group="Culturales" logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg", MX || Animal Planet SD | Cultural
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81714
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Discovery Channel SD | Cultural" group="Culturales" logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg", MX || Discovery Channel SD | Cultural
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81715
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Discovery Theater SD | Cultural" group="Culturales" logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png", MX || Discovery Theater SD | Cultural
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81719
+#EXTINF:0 type="favorites" channelId="-1" name="MX || DISNEY CHANNEL SD | Infantil" group="Infantiles" logo="https://pbs.twimg.com/profile_images/585381689427423232/f3LQu_Nb_400x400.png", MX || DISNEY CHANNEL SD | Infantil
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81729
+#EXTINF:0 type="favorites" channelId="-1" name="MX || TBS SD" group="MEXICO || LTV" logo="https://tinyurl.com/yxd84ywm", MX || TBS SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81734
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Tnt Series SD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png", MX || Tnt Series SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81739
+#EXTINF:0 type="favorites" channelId="-1" name="MX || SyFy SD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/mx_fox-sy-fy_m.png", MX || SyFy SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81740
+#EXTINF:0 type="favorites" channelId="-1" name="MX || E! SD" group="MEXICO || LTV" logo="https://i.imgur.com/cXBxi2F.jpg", MX || E! SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81741
+#EXTINF:0 type="favorites" channelId="-1" name="MX || TLC SD | Cultural" group="Culturales" logo="https://www.thewrap.com/wp-content/uploads/2014/08/tlc-logo.jpg", MX || TLC SD | Cultural
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81745
+#EXTINF:0 type="favorites" channelId="-1" name="MX || A+ HD" group="MEXICO || LTV" logo="http://mylatinotv.com:8080/images/mexico/A+.png", MX || A+ HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81762
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Mas Chic SD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/co_mas-chic_m.png", MX || Mas Chic SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81765
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Unicable SD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png", MX || Unicable SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81767
+#EXTINF:0 type="favorites" channelId="-1" name="MX || FXM SD." group="MEXICO || LTV" logo="https://www.areacucuta.com/wp-content/uploads/2017/09/FXMLogo-blanco.jpg", MX || FXM SD.
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81781
+#EXTINF:0 type="favorites" channelId="-1" name="MX || WARNER HD" group="MEXICO || LTV" logo="https://i.imgur.com/Me5uVci.jpg", MX || WARNER HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81789
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Sony SD" group="MEXICO || LTV" logo="https://i.imgur.com/7g9XVbC.jpg", MX || Sony SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81790
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Canal 5 SD" group="MEXICO || LTV" logo="https://i.imgur.com/5marY43.png", MX || Canal 5 SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81833
+#EXTINF:0 type="favorites" channelId="-1" name="MX || AZTECA CLICK SD" group="Musica" logo="https://i.imgur.com/RrQZvyy.png", MX || AZTECA CLICK SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81835
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Las Estrellas SD Opc. 4" group="MEXICO || LTV" logo="https://images.produ.com/noticias/0816/big-lasEstrellas.jpg", MX || Las Estrellas SD Opc. 4
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81836
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Azteca UNO." group="MEXICO || LTV" logo="https://i.imgur.com/f1hE6cL.jpg", MX || Azteca UNO.
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81837
+#EXTINF:0 type="favorites" channelId="-1" name="MX || TCM SD." group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/mx_tcm_m.png", MX || TCM SD.
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81856
+#EXTINF:0 type="favorites" channelId="-1" name="MX || SPACE HD" group="MEXICO || LTV" logo="https://i.pinimg.com/236x/d6/6b/b5/d66bb576495837a6336a136895c0ee31--bein-sports-fox-sports.jpg", MX || SPACE HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81862
+#EXTINF:0 type="favorites" channelId="-1" name="MX || AMC HD" group="MEXICO || LTV" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png", MX || AMC HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81863
+#EXTINF:0 type="favorites" channelId="-1" name="MX || FXM HD" group="MEXICO || LTV" logo="https://www.areacucuta.com/wp-content/uploads/2017/09/FXMLogo-blanco.jpg", MX || FXM HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81865
+#EXTINF:0 type="favorites" channelId="-1" name="MX || TNT HD" group="MEXICO || LTV" logo="https://multipress.com.mx/wp-content/uploads/2013/11/TNT.jpg", MX || TNT HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81867
+#EXTINF:0 type="favorites" channelId="-1" name="MX || AZ Cinema HD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png", MX || AZ Cinema HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81869
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Fox Series HD" group="MEXICO || LTV" logo="https://live.staticflickr.com/4907/44856199265_1f2ba16c38_m.jpg", MX || Fox Series HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81874
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Life Time HD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/sv_lifetime_m.png", MX || Life Time HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81879
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Discovery H&H HD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png", MX || Discovery H&H HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81881
+#EXTINF:0 type="favorites" channelId="-1" name="MX || National Geographic HD | Cultural" group="Culturales" logo="https://i.imgur.com/0oQmyEn.jpg", MX || National Geographic HD | Cultural
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81880
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Discovery Channel HD | Cultural" group="Culturales" logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png", MX || Discovery Channel HD | Cultural
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81882
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Discovery Theater HD | Cultural" group="Culturales" logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png", MX || Discovery Theater HD | Cultural
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81886
+#EXTINF:0 type="favorites" channelId="-1" name="MX || E! HD" group="MEXICO || LTV" logo="https://i.imgur.com/cXBxi2F.jpg", MX || E! HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81910
+#EXTINF:0 type="favorites" channelId="-1" name="MX || SyFy HD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/mx_fox-sy-fy_m.png", MX || SyFy HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81909
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Fox HD" group="CINEMA LATINO" logo="http://mylatinotv.com:8080/images/mexico/fox.png", MX || Fox HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81911
+#EXTINF:0 type="favorites" channelId="-1" name="MX || TLC HD | Cultural" group="Culturales" logo="https://www.thewrap.com/wp-content/uploads/2014/08/tlc-logo.jpg", MX || TLC HD | Cultural
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81915
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Mas Chic HD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/co_mas-chic_m.png", MX || Mas Chic HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81933
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Hola TV HD" group="MEXICO || LTV" logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png", MX || Hola TV HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81934
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Unicable HD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png", MX || Unicable HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81935
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Comedy Central HD" group="MEXICO || LTV" logo="https://i.imgur.com/cHGfy69.jpg", MX || Comedy Central HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81936
+#EXTINF:0 type="favorites" channelId="-1" name="MX || A3 Series HD" group="MEXICO || LTV" logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2015/11/10/80BBD3A5-3843-4BCE-AA2D-8064DC738680/default.jpg", MX || A3 Series HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81946
+#EXTINF:0 type="favorites" channelId="-1" name="MX || FXM HD" group="MEXICO || LTV" logo="https://www.areacucuta.com/wp-content/uploads/2017/09/FXMLogo-blanco.jpg", MX || FXM HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81948
+#EXTINF:0 type="favorites" channelId="-1" name="MX || A&E HD" group="MEXICO || LTV" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/ae.png", MX || A&E HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81947
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Latin American sports LAS" group="MEXICO || LTV" logo="https://i.imgur.com/pa9bcy0.png", MX || Latin American sports LAS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81949
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Azteca 7 HD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png", MX || Azteca 7 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81950
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Studio Universal HD" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png", MX || Studio Universal HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81951
+#EXTINF:0 type="favorites" channelId="-1" name="MX || ANTENA3 HD" group="MEXICO || LTV" logo="http://mylatinotv.com:8080/images/espana/antena3.jpg", MX || ANTENA3 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81956
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Azteca 7 HD Opc 1" group="MEXICO || LTV" logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png", MX || Azteca 7 HD Opc 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81963
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Univision SD" group="Latino || USA" logo="https://i.imgur.com/JvcmS50.png", USA | Univision SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/83899
+#EXTINF:0 type="favorites" channelId="-1" name="MX || Las Estrellas HD" group="MEXICO || LTV" logo="https://images.produ.com/noticias/0816/big-lasEstrellas.jpg", MX || Las Estrellas HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81994
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Univision Los Angeles" group="Latino || USA" logo="https://i.imgur.com/X2ap0dv.png", USA | Univision Los Angeles
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1113595
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Univision Denver" group="Latino || USA" logo="https://i.imgur.com/XwM5sDm.jpg", USA | Univision Denver
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1113597
+#EXTINF:0 type="favorites" channelId="-1" name="US: Cinemax ActionMax East" group="US1" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/cinemax.png" country="us", Cinemax ActionMax East
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/82545
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| TLC" group="Colombia Full" logo="https://thesmarthuman.com/wp-content/uploads/2016/03/tlc-logo.jpg", CO|| TLC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103510
+#EXTINF:0 type="favorites" channelId="-1" name="RCN HD." group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/cf484136df087e299aa4f0783c401289.jpg", RCN HD.
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/31614
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| DEPELICULA" group="Colombia Full" logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png", CO|| DEPELICULA
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103506
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| CINEMAPLUS" group="Colombia Full" logo="https://report.az/storage/news/12ea25fcae09e60852b96998703162b4/86cb68be-c56f-49d6-a360-954f11dd91e8_640.jpg", CO|| CINEMAPLUS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103504
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| CITY TV" group="Colombia Full" logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1557851768894-Imagen.jpg", CO|| CITY TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103516
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| CANAL UNO HD" group="Colombia Full" logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1505167587769-Imagen.png", CO|| CANAL UNO HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103517
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| Caracol Opc. 4" group="Colombia Full" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1024px-Caracol_TV_HD_logo.svg.png", CO|| Caracol Opc. 4
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103518
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| CABLENOTICIAS HD" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/b5541f3f9e643c4341f0e0e6382a049f.jpg", CO|| CABLENOTICIAS HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103527
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| TELEPACIFICO" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/699af5aa4249ba7085bf0724f13a0ece.jpg", CO|| TELEPACIFICO
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103544
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| AMC HD" group="Colombia Full" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/amc.png", CO|| AMC HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103550
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| PARAMOUNT HD" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/278b181d0e7cf53a993f55a189d75c48.jpg", CO|| PARAMOUNT HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103555
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| STUDIO UNIVERSAL" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/5e8b791086401ce466de03ef4ca718c1.jpg", CO|| STUDIO UNIVERSAL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103557
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| Star HD" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/d3b386d89f2560ca6a5e0ffdabea415b.jpg", CO|| Star HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103559
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| CINEMA DINAMITA" group="Colombia Full" logo="https://i.imgur.com/Iopzj19.jpg", CO|| CINEMA DINAMITA
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103560
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| Las Estrellas" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/41048e75696b1aa753fd54672da94b7a.jpg", CO|| Las Estrellas
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103564
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| THE FILM ZONE HD" group="Colombia Full" logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Film_Zone_logo.PNG", CO|| THE FILM ZONE HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103566
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| MULTIPREMIER" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/0bfce6d3ebc32f40c5494caac78c182a.jpg", CO|| MULTIPREMIER
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103568
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| E!" group="Colombia Full" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/E!Entertainment.png", CO|| E!
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103570
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| SONY HD" group="Colombia Full" logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1566410952966-Imagen.png", CO|| SONY HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103571
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| UNIVERSAL CHANNEL HD" group="Colombia Full" logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548106243134-Imagen.jpg", CO|| UNIVERSAL CHANNEL HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103573
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| TCM" group="Colombia Full", CO|| TCM
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103576
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| HBO 2 HD" group="Colombia Full" logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548948320646-Imagen.jpg", CO|| HBO 2 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103578
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| HBO POP HD" group="Colombia Full" logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png", CO|| HBO POP HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103579
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| EUROCHANNEL" group="Colombia Full", CO|| EUROCHANNEL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103582
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| DISCOVERY HOME HEALTH HD" group="Colombia Full" logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752058856-Imagen.png", CO|| DISCOVERY HOME HEALTH HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103583
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| DISCOVERY CHANNEL HD" group="Colombia Full" logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524665339624-Imagen.jpg", CO|| DISCOVERY CHANNEL HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103584
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| DISCOVERY CIVILIZATION" group="Colombia Full" logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png", CO|| DISCOVERY CIVILIZATION
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103585
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| NATGEO HD" group="Colombia Full" logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529351992972-Imagen.png", CO|| NATGEO HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103586
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| DISCOVERY WORLD HD" group="Colombia Full" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png", CO|| DISCOVERY WORLD HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103594
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| CINECANAL HD" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/d416a6095b820ad1a9e7d365b1fdc462.jpg", CO|| CINECANAL HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103596
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| LIFETIME" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/49d9fdc2cd8861ae7c3cba2cf2785f2c.jpg", CO|| LIFETIME
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103601
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| WARNER HD" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/883622cc06dd83ff31ef053fa09b8118.jpg", CO|| WARNER HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103602
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| CINELATINO" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/e2642160e46fdc1ef395ce104a33755e.jpg", CO|| CINELATINO
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103605
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| TNT SERIES HD" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/34eb300eabbd4746ea27003159295bfc.jpg", CO|| TNT SERIES HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103610
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| TNT HD" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/ed3a52986cb531351d4bc984a0795c61.jpg", CO|| TNT HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103611
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| FX HD" group="Colombia Full" logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/d97/d97_large.png", CO|| FX HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103612
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| HBO FAMILY HD" group="Colombia Full" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/hbofamily.png", CO|| HBO FAMILY HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103613
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| GOLDEN PREMIER HD" group="Colombia Full" logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1551730195692-Imagen.png", CO|| GOLDEN PREMIER HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103617
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| GOLDEN HD" group="Colombia Full", CO|| GOLDEN HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103618
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| TELEMUNDO" group="Colombia Full", CO|| TELEMUNDO
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103632
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| SPACE HD" group="Colombia Full" logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/509edab335d35ea52d40bee0b2ac1ee7.jpg", CO|| SPACE HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103633
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| HBO PLUS HD" group="Colombia Full" logo="http://ltv-reloaded.xyz:2095/images/tvlogos/HBOPlus.png", CO|| HBO PLUS HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103645
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| Star Fun HD" group="Colombia Full" logo="https://i.imgur.com/YTOItqs.png", CO|| Star Fun HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103646
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| HBO ES" group="Colombia Full" logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg", CO|| HBO ES
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103652
+#EXTINF:0 type="favorites" channelId="-1" name="CO|| Azteca 7" group="Colombia Full" logo="http://images.mi.tv/channels/hn_azteca-7_m.png", CO|| Azteca 7
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1113081
+#EXTINF:0 type="favorites" channelId="-1" name="Lat || Usa Univision Cleveland" group="Latino || USA" logo="https://i.imgur.com/Zg87ph2.jpg", Lat || Usa Univision Cleveland
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1113602
+#EXTINF:0 type="favorites" channelId="-1" name="Lat || Usa Univision DALLAS" group="Latino || USA" logo="https://pbs.twimg.com/profile_images/1151612385926549505/21QH7TLZ_400x400.png", Lat || Usa Univision DALLAS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1113615
+#EXTINF:0 type="favorites" channelId="-1" name="Lat || Usa UniMas Albuquerque Santa Fe" group="Latino || USA" logo="https://i.ytimg.com/vi/zeNmvwdGw7Y/maxresdefault.jpg", Lat || Usa UniMas Albuquerque Santa Fe
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1113718
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Marvel" group="24/7", *24/7 || Play! Cinema Marvel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1161645
+#EXTINF:0 type="favorites" channelId="-1" name="24/7|| Be Cool, Scooby-Doo!" group="24/7", 24/7|| Be Cool\\, Scooby-Doo!
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1137428
+#EXTINF:0 type="favorites" channelId="-1" name="24/7|| EL CHAPULIN COLORADO" group="24/7", 24/7|| EL CHAPULIN COLORADO
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116178
+#EXTINF:0 type="favorites" channelId="-1" name="24/7|| Duck Dodgers" group="24/7", 24/7|| Duck Dodgers
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1137423
+#EXTINF:0 type="favorites" channelId="-1" name="24/7|| ThunderCats SD" group="24/7" logo="https://66.media.tumblr.com/91ed3266f76790058de45b9c85ffea33/tumblr_p91nqltBcU1sigtako1_1280.png", 24/7|| ThunderCats SD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/61855
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7|| The Looney Tunes Show" group="24/7", *24/7|| The Looney Tunes Show
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1137415
+#EXTINF:0 type="favorites" channelId="-1" name="24/7|| los Picapiedra" group="24/7", 24/7|| los Picapiedra
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1137422
+#EXTINF:0 type="favorites" channelId="-1" name="24/7|| HE-MAN" group="24/7" logo="https://media.kidozi.com/unsafe/600x600/img.kidozi.com/design/600/600/ffffff-5c488b/52296/30eae15ce86f0b624f8adacc8aabbb22.png.jpg", 24/7|| HE-MAN
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1116176
+#EXTINF:0 type="favorites" channelId="-1" name="24/7|| Game of Thrones" group="24/7", 24/7|| Game of Thrones
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18833
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Harry Potter" group="24/7" logo="https://p.kindpng.com/picc/s/206-2069159_harry-potter-logo-hp-png-transparent-png.png", *24/7 || Play! Cinema Harry Potter
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1162714
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Scary Movie" group="24/7", *24/7 || Play! Cinema Scary Movie
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163033
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Dreamworks #1" group="24/7", *24/7 || Play! Cinema Dreamworks #1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163200
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Horror" group="24/7", *24/7 || Play! Cinema Horror
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163431
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Artes Marciales" group="24/7", *24/7 || Play! Cinema Artes Marciales
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163435
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Halloween" group="24/7", *24/7 || Play! Cinema Halloween
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163544
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Actividad paranormal" group="24/7", *24/7 || Play! Cinema Actividad paranormal
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163745
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Keanu Reeves" group="24/7", *24/7 || Play! Cinema Keanu Reeves
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163746
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Disney Live Action" group="24/7", *24/7 || Play! Cinema Disney Live Action
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163821
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Accion Classics" group="24/7" logo="http://lmtsmartbox.com/apk01/images/Action.png", *24/7 || Play! Cinema Accion Classics
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163822
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Mad Max" group="24/7", *24/7 || Play! Cinema Mad Max
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163823
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Transformers" group="24/7", *24/7 || Play! Cinema Transformers
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163824
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Señor de los Anillos" group="24/7", *24/7 || Play! Cinema Señor de los Anillos
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163825
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Mission: Impossible" group="24/7", *24/7 || Play! Cinema Mission: Impossible
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163826
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Jason Bourne" group="24/7", *24/7 || Play! Cinema Jason Bourne
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163827
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Indiana Jones" group="24/7", *24/7 || Play! Cinema Indiana Jones
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163829
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema Ocean's Eleven" group="24/7", *24/7 || Play! Cinema Ocean's Eleven
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163830
+#EXTINF:0 type="favorites" channelId="-1" name="*24/7 || Play! Cinema James Bond" group="24/7", *24/7 || Play! Cinema James Bond
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163831
+#EXTINF:0 type="favorites" channelId="-1" group="espaa", Canal Mlaga RTV
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
