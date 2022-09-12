@@ -1,0 +1,997 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="CINE Y SERIES" logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png", CINE CLASICO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="1214" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png", SONY MOVIES
+http://190.83.119.67:8000/play/a0qc/index.m3u8&mode=12
+#EXTINF:0 type="stream" channelId="1954" group="spliktv", Las Estrellas
+https://sv.spliktv.xyz/live/caster/RU/ADN40.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="spliktv", Panamericana
+https://sv.spliktv.xyz/live/caster/PE/PANAMERICANA.m3u8
+#EXTINF:0 type="stream" channelId="2344" group="spliktv", TVN
+https://sv.spliktv.xyz/live/caster/PA/TVN.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="11 | HBO PLUS UHD" group="CINE UHD 1*" logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", 11 | HBO PLUS UHD
+http://magmas5.com:8000/malotv/gratis/150080
+#EXTINF:0 type="stream" channelId="-1" name="12 | HBO SIGNATURE UHD" group="CINE UHD 1*" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png", 12 | HBO SIGNATURE UHD
+http://magmas5.com:8000/malotv/gratis/150081
+#EXTINF:0 type="stream" channelId="-1" name="10 | HBO FAMILY UHD" group="CINE UHD 1*" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", 10 | HBO FAMILY UHD
+http://magmas5.com:8000/malotv/gratis/150079
+#EXTINF:0 type="stream" channelId="-1" name="09 | HBO 2 UHD" group="CINE UHD 1*" logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", 09 | HBO 2 UHD
+http://magmas5.com:8000/malotv/gratis/150078
+#EXTINF:0 type="stream" channelId="-1" name="08 | HBO UHD" group="CINE UHD 1*" logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png", 08 | HBO UHD
+http://magmas5.com:8000/malotv/gratis/150077
+#EXTINF:0 type="stream" channelId="1455" group="CURIOSIDAD" logo="https://yt3.ggpht.com/0MpmmKlHqG0BdWXx0TiipcSABbIrPZKkF113gC8o-CPcX58Y2yL8WgnykcVAePa2kh_2p1TaZg=s176-c-k-c0x00ffffff-no-rj-mo", HISTORY CHANNEL
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://blogger.googleusercontent.com/img/a/AVvXsEj4PrXtFBow3WWj6wjA4yWe-10x6WykuF8TA2B-Qbnymd4UiWfGUJ65efbzbLxSPB0hESx9D9-V1BTVboEsF6k6MGekoXNPXckaJ789vCZgU7bLCG-tp9Dd6Gt0bMfoYOOsqU67KU26MKg61T8_Sct2dTZMJJlIHVRypCweX3EWJCLl008YZBCncnJkeg=s200", Cascara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="935" group="CINE" logo="https://yt3.ggpht.com/ytc/AMLnZu-4WdRYwnbSuQjwv1qwslLKWIZXhonqqB18LFc57Q=s176-c-k-c0x00ffffff-no-rj-mo", HBO 2
+https://wisp.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SALTA" logo="https://play-lh.googleusercontent.com/xOkdlwpIeM1Do72p9sEkUjRGc83UJCAQA2bwBCvJak9h012FISHmUaJ2vp9Z4W1i6g=s180", NEOX TV SALTA
+https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SAN JUAN" logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj", COSMOS TV SAN JUAN
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="RIO NEGRO" logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg", CANAL 10 RIO NEGRO
+https://panel.dattalive.com/8204/8204/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3713" group="ENTRETENIMIENTO" logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg", HOLA TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="RELIGION" logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg", SOLIDARIA TV INTERNACIONAL
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png", * Fashionstream
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png", ACS NETWORK
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+#EXTINF:0 type="stream" channelId="3186" group="CINE Y SERIES" logo="https://i.postimg.cc/cLt4CXxJ/SCIFI.png", SCI-FI
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="3186" group="CINE Y SERIES" logo="https://i.postimg.cc/cLt4CXxJ/SCIFI.png", SCI-FI (España)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/MKZd7S3d/viaje_a_las_estrellas.png", VIAJE A LAS ESTRELLAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6049295e7dcef800073c2499/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a51-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c8ef5fcb-54da-459f-aee5-b09662432fc7&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/kgGwbRzG/TWD.png", THE WALKING DEAD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" group="URUGUAY" logo="https://pbs.twimg.com/profile_images/1186616342490861569/1W-i3XmN_400x400.jpg", La Red URUGUAY
+https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Telenord 12" group="REPUBLICA DOMINICANA" logo="https://i.imgur.com/iE1xhA5.png" country="DO", Telenord 12 (720p)
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Telenord Canal 10" group="REPUBLICA DOMINICANA" country="DO", Telenord Canal 10 (1080p)
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="VALLEVISION CANAL 10 HD" group="REPUBLICA DOMINICANA" logo="https://es.live-tv-channels.org/pt-data/uploads/logo/do-vallevision-canal-10-9607-300x225.jpg" country="DO", VALLEVISION CANAL 10 HD
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w1749406618.m3u8
+#EXTINF:0 type="stream" channelId="1190" group="SERIES" logo="http://x.playerlatino.live/comedycentral.png", Comedy Central
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://i.imgur.com/eQKFgpa.png", RAKUTEN COMEDIA
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://i.imgur.com/uMcwx2p.jpg", RAKUTEN ACCION
+https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://a.jsrdn.com/hls/23008/tu-cine-latam/thumbh_20211206_224154.jpg", TU CINE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://a.jsrdn.com/hls/23008/cine-real-latam/thumbh_20211206_225151.jpg", CINE REAL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/c2ad726d-bf69-4f75-8e5f-1007ef768eb8/4.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://a.jsrdn.com/hls/23008/cine-sureo/thumbh_20211116_010445.jpg", CINE SUREÑO
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/1df0767f-74e8-44f4-9cf7-92d8d9204262/4.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://a.jsrdn.com/hls/23008/juntos/thumbh_20211119_205416.jpg", JUNTOS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/27d354f8-74a3-476f-a2b8-d5d691f2ff2b/4.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://a.jsrdn.com/hls/23008/top-cine-latam/thumbh_20211206_224726.jpg", TOP CINE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/520936ec-fb0d-453e-bff9-98f7e65d2c13/4.m3u8
+#EXTINF:0 type="stream" channelId="4672" group="CINE" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU", A3CINE
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2", MY TIME MOVIES 1
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2", MY TIME MOVIES 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png", BUTACA TV
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3186" group="CINE" logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png", Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png", Cine Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Canela.TV_190x190_circle.jpg?raw=true", CANELA TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LaCorriente_Logo_Dark.png", La Corriente
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=499&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=HXPEXX8sxRq2Fzzka8Jc&content_series=602d6608f867c4002c897e27&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=HXPEXX8sxRq2Fzzka8Jc&custom_7=602d6608f867c4002c897e27
+#EXTINF:0 type="stream" channelId="-1" group="INFANTIL" logo="http://x.playerlatino.live/alf.png", ALF
+https://srv5.zcast.com.br/alf/alf/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="07 | GAMATV" group="ECUADOR" logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/gamatv-500x500.png", 07 | GAMATV
+http://magmas5.com:8000/malotv/gratis/2569
+#EXTINF:0 type="favorites" channelId="-1" name="08 | TC TELEVISION HD" group="ECUADOR" logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png", 08 | TC TELEVISION HD
+http://magmas5.com:8000/malotv/gratis/2571
+#EXTINF:0 type="favorites" channelId="-1" name="10 | CANAL UNO" group="ECUADOR" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/1200px-Canal_Uno_%28Ecuador%29_logo.png", 10 | CANAL UNO
+http://magmas5.com:8000/malotv/gratis/3591
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | STAR LIFE" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png", SUR | STAR LIFE
+http://magmas5.com:8000/malotv/gratis/4782
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | STAR ACTION" group="CANALES AMÉRICA SUR STD" logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Action_pack.png", SUR | STAR ACTION
+http://magmas5.com:8000/malotv/gratis/4783
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | STAR SERIES" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/1200px-Star_Series_2020.svg.png", SUR | STAR SERIES
+http://magmas5.com:8000/malotv/gratis/4785
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | FX" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png", SUR | FX
+http://magmas5.com:8000/malotv/gratis/4788
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | FX MOVIES" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png", SUR | FX MOVIES
+http://magmas5.com:8000/malotv/gratis/4789
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | HBO" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png", SUR | HBO
+http://magmas5.com:8000/malotv/gratis/4796
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | HBO 2" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", SUR | HBO 2
+http://magmas5.com:8000/malotv/gratis/4797
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | HBO FAMILY" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", SUR | HBO FAMILY
+http://magmas5.com:8000/malotv/gratis/4798
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | HBO PLUS" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", SUR | HBO PLUS
+http://magmas5.com:8000/malotv/gratis/4799
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | HBO MUNDI" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png", SUR | HBO MUNDI
+http://magmas5.com:8000/malotv/gratis/4800
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | SONY" group="CANALES AMÉRICA SUR STD" logo="https://assets.stickpng.com/images/5848242ecef1014c0b5e49c8.png", SUR | SONY
+http://magmas5.com:8000/malotv/gratis/4801
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | SPACE" group="CANALES AMÉRICA SUR STD" logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png", SUR | SPACE
+http://magmas5.com:8000/malotv/gratis/4802
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | TBS" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png", SUR | TBS
+http://magmas5.com:8000/malotv/gratis/4803
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | TCM" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", SUR | TCM
+http://magmas5.com:8000/malotv/gratis/4804
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | CINECANAL" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", SUR | CINECANAL
+http://magmas5.com:8000/malotv/gratis/4805
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | CINEMA DINAMITA" group="CANALES AMÉRICA SUR STD" logo="https://i.imgur.com/8fdvFWP.png", SUR | CINEMA DINAMITA
+http://magmas5.com:8000/malotv/gratis/4806
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | CINEMAX" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png", SUR | CINEMAX
+http://magmas5.com:8000/malotv/gratis/4807
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | DISCOVERY HOME AND HEALTH" group="CANALES AMÉRICA SUR STD" logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", SUR | DISCOVERY HOME AND HEALTH
+http://magmas5.com:8000/malotv/gratis/4809
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | RCN NUESTRA TELE" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/1200px-RCN_Nuestra_Tele_logo.svg.png", SUR | RCN NUESTRA TELE
+http://magmas5.com:8000/malotv/gratis/4811
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | CARACOL NACIONAL" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png", SUR | CARACOL NACIONAL
+http://magmas5.com:8000/malotv/gratis/4810
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | WIN SPORTS" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png", SUR | WIN SPORTS
+http://magmas5.com:8000/malotv/gratis/4812
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | FRECUENCIA LATINA" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frecuencia_Latina.svg/1024px-Frecuencia_Latina.svg.png", SUR | FRECUENCIA LATINA
+http://magmas5.com:8000/malotv/gratis/4814
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | HGTV" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", SUR | HGTV
+http://magmas5.com:8000/malotv/gratis/4815
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | MAX" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png", SUR | MAX
+http://magmas5.com:8000/malotv/gratis/4829
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | EUROPA EUROPA" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png", SUR | EUROPA EUROPA
+http://magmas5.com:8000/malotv/gratis/4825
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | MOVISTAR TV" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png/640px-Movistar_TV_%28Latin_America%29_-_2018_logo.png", SUR | MOVISTAR TV
+http://magmas5.com:8000/malotv/gratis/4830
+#EXTINF:0 type="favorites" channelId="-1" name="01 | ANT TV SUR" group="CANALES AMÉRICA SUR HD" logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/1200px-Antenna_TV_logo.svg.png", 01 | ANT TV SUR
+http://magmas5.com:8000/malotv/gratis/4833
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | LATINA" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Latina_%282014-presente%29.png", SUR | LATINA
+http://magmas5.com:8000/malotv/gratis/4837
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | PANAMERICANA" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png", SUR | PANAMERICANA
+http://magmas5.com:8000/malotv/gratis/4838
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | Movistar PLUS TV" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png", SUR | Movistar PLUS TV
+http://magmas5.com:8000/malotv/gratis/4840
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | 24 HORAS" group="CANALES AMÉRICA SUR STD" logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png", SUR | 24 HORAS
+http://magmas5.com:8000/malotv/gratis/4842
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | ATV" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png", SUR | ATV
+http://magmas5.com:8000/malotv/gratis/4843
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | AXN" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png", SUR | AXN
+http://magmas5.com:8000/malotv/gratis/4844
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | CANAL CLARO" group="CANALES AMÉRICA SUR STD" logo="https://deultimahorard.com/wp-content/uploads/2020/04/claro.png", SUR | CANAL CLARO
+http://magmas5.com:8000/malotv/gratis/4848
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | CARTOON NETWORK" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png", SUR | CARTOON NETWORK
+http://magmas5.com:8000/malotv/gratis/4850
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | NAT GEO KIDS" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", SUR | NAT GEO KIDS
+http://magmas5.com:8000/malotv/gratis/4857
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | CITY" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1280px-City_tv_Bogot%C3%A1_logo.svg.png", SUR | CITY
+http://magmas5.com:8000/malotv/gratis/4867
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | TELEVEN" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG", SUR | TELEVEN
+http://magmas5.com:8000/malotv/gratis/4868
+#EXTINF:0 type="favorites" channelId="-1" name="06 | VENEVISION PLUS SUR" group="CANALES AMÉRICA SUR HD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Venevision_Plus_Logo_2016.png/1271px-Venevision_Plus_Logo_2016.png", 06 | VENEVISION PLUS SUR
+http://magmas5.com:8000/malotv/gratis/4871
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | ANIMAL PLANET SD" group="CANALES PREMIUM ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png", ARG | ANIMAL PLANET SD
+http://magmas5.com:8000/malotv/gratis/4910
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | AXN SD" group="CANALES PREMIUM ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png", ARG | AXN SD
+http://magmas5.com:8000/malotv/gratis/4912
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | COMEDY CENTRAL SD" group="CANALES PREMIUM ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png", ARG | COMEDY CENTRAL SD
+http://magmas5.com:8000/malotv/gratis/4924
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | FOX SD" group="CANALES PREMIUM ARGENTINA" logo="https://assets.stickpng.com/images/5842f04ea6515b1e0ad75b14.png", ARG | FOX SD
+http://magmas5.com:8000/malotv/gratis/4942
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | FOX ACTION SD" group="CANALES PREMIUM ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png", ARG | FOX ACTION SD
+http://magmas5.com:8000/malotv/gratis/4943
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | STAR CHANNEL CINEMA" group="CANALES PREMIUM ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png", ARG | STAR CHANNEL CINEMA
+http://magmas5.com:8000/malotv/gratis/4944
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | FOX CLASSIC SD" group="CANALES PREMIUM ARGENTINA" logo="https://help.foxplay.com/hc/article_attachments/360023531111/FOX_Classics_HD.png", ARG | FOX CLASSIC SD
+http://magmas5.com:8000/malotv/gratis/4945
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | FOX COMEDY SD" group="CANALES PREMIUM ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png", ARG | FOX COMEDY SD
+http://magmas5.com:8000/malotv/gratis/4946
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | FOX LIFE SD" group="CANALES PREMIUM ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png", ARG | FOX LIFE SD
+http://magmas5.com:8000/malotv/gratis/4948
+#EXTINF:0 type="favorites" channelId="-1" name="32 | Cinemax USA" group="USA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png", 32 | Cinemax USA
+http://magmas5.com:8000/malotv/gratis/131025
+#EXTINF:0 type="favorites" channelId="-1" name="USA 1 E! UHD" group="USA" logo="https://img2.freepng.es/20180417/gww/kisspng-television-channel-e-television-producer-entertai-tv-shows-5ad61659e7e7d3.0380401115239798659499.jpg", USA 1 E! UHD
+http://magmas5.com:8000/malotv/gratis/146558
+#EXTINF:0 type="favorites" channelId="-1" name="18 | PANAMERICANA HD" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png", 18 | PANAMERICANA HD
+http://magmas5.com:8000/malotv/gratis/3350
+#EXTINF:0 type="favorites" channelId="-1" name="06 | LATINA" group="PERU" logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png", 06 | LATINA
+http://magmas5.com:8000/malotv/gratis/3326
+#EXTINF:0 type="favorites" channelId="-1" name="28 | FORMULA 1 FHD" group="DEPORTES UHD" logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png", 28 | FORMULA 1 FHD
+http://magmas5.com:8000/malotv/gratis/145436
+#EXTINF:0 type="favorites" channelId="-1" name="56 | EVENTOS STAR+ FHD" group="PACK FUTBOL⚽" logo="https://i.blogs.es/2ec255/star-_logo.svg/original.png", 56 | EVENTOS STAR+ FHD
+http://magmas5.com:8000/malotv/gratis/152907
+#EXTINF:0 type="favorites" channelId="-1" name="54 | TNT SPORTS 3 UHD (CHIL)" group="PACK FUTBOL⚽" logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png", 54 | TNT SPORTS 3 UHD (CHIL)
+http://magmas5.com:8000/malotv/gratis/151868
+#EXTINF:0 type="favorites" channelId="-1" name="09 | WIN SPORTS" group="PACK FUTBOL⚽" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png", 09 | WIN SPORTS
+http://magmas5.com:8000/malotv/gratis/2683
+#EXTINF:0 type="favorites" channelId="-1" name="XXX |Hentai" group="⛔ ADULTOS", XXX |Hentai
+http://magmas5.com:8000/malotv/gratis/153001
+#EXTINF:0 type="favorites" channelId="-1" name="XXX |Fake Cop" group="⛔ ADULTOS", XXX |Fake Cop
+http://magmas5.com:8000/malotv/gratis/152996
+#EXTINF:0 type="favorites" channelId="-1" name="XXX | BANGBROS TV HD" group="⛔ ADULTOS" logo="https://1000logos.net/wp-content/uploads/2019/02/Bang-Bros-emblem.jpg", XXX | BANGBROS TV HD
+http://magmas5.com:8000/malotv/gratis/145823
+#EXTINF:0 type="favorites" channelId="-1" name="XXX | HUSTLER FHD" group="⛔ ADULTOS", XXX | HUSTLER FHD
+http://magmas5.com:8000/malotv/gratis/141933
+#EXTINF:0 type="favorites" channelId="-1" name="XXX | SHEMALE ANGELS FHD" group="⛔ ADULTOS", XXX | SHEMALE ANGELS FHD
+http://magmas5.com:8000/malotv/gratis/141926
+#EXTINF:0 type="favorites" channelId="-1" name="XXX: DORCEL TV UHD" group="⛔ ADULTOS" logo="http://4.bp.blogspot.com/-JX4dIm7bW2s/Uwj4VRC9VGI/AAAAAAAAFWM/qkrawwD5hqE/s1600/dorcel-tv-logotipo.png", XXX: DORCEL TV UHD
+http://magmas5.com:8000/malotv/gratis/141631
+#EXTINF:0 type="favorites" channelId="-1" name="XXX | BRAZZERS TV EUROPE HD" group="⛔ ADULTOS" logo="https://1000marcas.net/wp-content/uploads/2019/12/Brazzers-logotipo-600x338.jpg", XXX | BRAZZERS TV EUROPE HD
+http://magmas5.com:8000/malotv/gratis/140489
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:SEXTREME_LA4" group="⛔ ADULTOS", XXX:SEXTREME_LA4
+http://magmas5.com:8000/malotv/gratis/4271
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PINKO_LA2" group="⛔ ADULTOS", XXX:PINKO_LA2
+http://magmas5.com:8000/malotv/gratis/4280
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE TV HD" group="⛔ ADULTOS", XXX:PRIVATE TV HD
+http://magmas5.com:8000/malotv/gratis/4263
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PLAYBOY EUROPE" group="⛔ ADULTOS", XXX:PLAYBOY EUROPE
+http://magmas5.com:8000/malotv/gratis/4262
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:EROTIC_4 LA6" group="⛔ ADULTOS", XXX:EROTIC_4 LA6
+http://magmas5.com:8000/malotv/gratis/4249
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE_LA2" group="⛔ ADULTOS", XXX:PRIVATE_LA2
+http://magmas5.com:8000/malotv/gratis/4248
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE_LA3" group="⛔ ADULTOS", XXX:PRIVATE_LA3
+http://magmas5.com:8000/malotv/gratis/4247
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE_LA4" group="⛔ ADULTOS", XXX:PRIVATE_LA4
+http://magmas5.com:8000/malotv/gratis/4246
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE_LA5" group="⛔ ADULTOS", XXX:PRIVATE_LA5
+http://magmas5.com:8000/malotv/gratis/4245
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE_LA6" group="⛔ ADULTOS", XXX:PRIVATE_LA6
+http://magmas5.com:8000/malotv/gratis/4244
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE_LA7" group="⛔ ADULTOS", XXX:PRIVATE_LA7
+http://magmas5.com:8000/malotv/gratis/4243
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE_LA8" group="⛔ ADULTOS", XXX:PRIVATE_LA8
+http://magmas5.com:8000/malotv/gratis/4242
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE_LA9" group="⛔ ADULTOS", XXX:PRIVATE_LA9
+http://magmas5.com:8000/malotv/gratis/4241
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE_LA10" group="⛔ ADULTOS", XXX:PRIVATE_LA10
+http://magmas5.com:8000/malotv/gratis/4240
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE_LA11" group="⛔ ADULTOS", XXX:PRIVATE_LA11
+http://magmas5.com:8000/malotv/gratis/4239
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE_LA13" group="⛔ ADULTOS", XXX:PRIVATE_LA13
+http://magmas5.com:8000/malotv/gratis/4237
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:PRIVATE_LA14" group="⛔ ADULTOS", XXX:PRIVATE_LA14
+http://magmas5.com:8000/malotv/gratis/4236
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:EROTIC_6 LA4" group="⛔ ADULTOS", XXX:EROTIC_6 LA4
+http://magmas5.com:8000/malotv/gratis/4204
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:SEXTREME_LA6" group="⛔ ADULTOS", XXX:SEXTREME_LA6
+http://magmas5.com:8000/malotv/gratis/4159
+#EXTINF:0 type="favorites" channelId="-1" name="50 | CINEMA + HD CO" group="COLOMBIA", 50 | CINEMA + HD CO
+http://magmas5.com:8000/malotv/gratis/151651
+#EXTINF:0 type="favorites" channelId="2545" name="Latina" group="PERU", Latina
+http://magmas5.com:8000/malotv/gratis/151521
+#EXTINF:0 type="favorites" channelId="-1" name="07 | UNIVERSAL COMEDY UHD" group="CINE UHD 1*", 07 | UNIVERSAL COMEDY UHD
+http://magmas5.com:8000/malotv/gratis/150076
+#EXTINF:0 type="favorites" channelId="-1" name="06 | UNIVERSAL CRIME UHD" group="CINE UHD 1*", 06 | UNIVERSAL CRIME UHD
+http://magmas5.com:8000/malotv/gratis/150075
+#EXTINF:0 type="favorites" channelId="-1" name="05 | UNIVERSAL CINEMA UHD" group="CINE UHD 1*", 05 | UNIVERSAL CINEMA UHD
+http://magmas5.com:8000/malotv/gratis/150074
+#EXTINF:0 type="favorites" channelId="-1" name="04 | UNIVERSAL PREMIERE (LA) UHD" group="CINE UHD 1*", 04 | UNIVERSAL PREMIERE (LA) UHD
+http://magmas5.com:8000/malotv/gratis/150073
+#EXTINF:0 type="favorites" channelId="-1" name="03 | UNIVERSAL PREMIERE (MX) UHD" group="CINE UHD 1*", 03 | UNIVERSAL PREMIERE (MX) UHD
+http://magmas5.com:8000/malotv/gratis/150072
+#EXTINF:0 type="favorites" channelId="-1" name="02 | UNIVERSAL REALITY UHD" group="CINE UHD 1*", 02 | UNIVERSAL REALITY UHD
+http://magmas5.com:8000/malotv/gratis/150071
+#EXTINF:0 type="favorites" channelId="-1" name="08 | DISNEY XD MX HD" group="INFANTILES UHD" logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png", 08 | DISNEY XD MX HD
+http://magmas5.com:8000/malotv/gratis/149679
+#EXTINF:0 type="favorites" channelId="-1" name="EL SALVADOR | WOW TV" group="EL SALVADOR" logo="https://cordcutting.com/wp-content/uploads/2020/08/WOW_Logo_only.png", EL SALVADOR | WOW TV
+http://magmas5.com:8000/malotv/gratis/145741
+#EXTINF:0 type="favorites" channelId="-1" name="70 | AZTECA CINEMA UHD® MX" group="VARIEDADES" logo="http://4.bp.blogspot.com/-uStAfYrbZKg/Wffx-gHwe8I/AAAAAAAAAKI/zyHMYDEwt8cidArT2Q1I5mzsRW0Th-WsQCK4BGAYYCw/s1600/azcinema_thumb.png", 70 | AZTECA CINEMA UHD® MX
+http://magmas5.com:8000/malotv/gratis/145511
+#EXTINF:0 type="favorites" channelId="-1" name="69 | AZTECA CORAZÓN UHD® MX" group="VARIEDADES" logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png", 69 | AZTECA CORAZÓN UHD® MX
+http://magmas5.com:8000/malotv/gratis/145510
+#EXTINF:0 type="favorites" channelId="-1" name="21 | HOLA TV MX UHD®" group="CULTURA UHD" logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png", 21 | HOLA TV MX UHD®
+http://magmas5.com:8000/malotv/gratis/140819
+#EXTINF:0 type="favorites" channelId="-1" name="ES || FOX" group="ESPAÑA SERIES", ES || FOX
+http://magmas5.com:8000/malotv/gratis/126359
+#EXTINF:0 type="favorites" channelId="-1" name="ES || COMEDY CENTRAL FULLHD" group="ESPAÑA SERIES", ES || COMEDY CENTRAL FULLHD
+http://magmas5.com:8000/malotv/gratis/126383
+#EXTINF:0 type="favorites" channelId="-1" name="ES || AXN WHITE HD" group="ESPAÑA SERIES", ES || AXN WHITE HD
+http://magmas5.com:8000/malotv/gratis/126382
+#EXTINF:0 type="favorites" channelId="-1" name="ES || TNT FHD" group="ESPAÑA SERIES", ES || TNT FHD
+http://magmas5.com:8000/malotv/gratis/126373
+#EXTINF:0 type="favorites" channelId="-1" name="ES || FOX HD" group="ESPAÑA SERIES", ES || FOX HD
+http://magmas5.com:8000/malotv/gratis/126371
+#EXTINF:0 type="favorites" channelId="-1" name="ES || FOX LIVE HD" group="ESPAÑA SERIES", ES || FOX LIVE HD
+http://magmas5.com:8000/malotv/gratis/126370
+#EXTINF:0 type="favorites" channelId="-1" name="ES || AMC FHD" group="ESPAÑA SERIES", ES || AMC FHD
+http://magmas5.com:8000/malotv/gratis/126369
+#EXTINF:0 type="favorites" channelId="-1", TELEMUNDO PR
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/23.m3u8
+#EXTINF:0 type="favorites" channelId="1367", MOVISTAR LaLiga
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/31.m3u8
+#EXTINF:0 type="favorites" channelId="-1", AZTECA CORAZON
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/38.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | LIFETIME SD" group="CANALES PREMIUM ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png", ARG | LIFETIME SD
+http://magmas5.com:8000/malotv/gratis/4979
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Cine Accion HD" group="CANALES 24/7" logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png", 24/7 | Cine Accion HD
+http://magmas5.com:8000/malotv/gratis/2545
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Mi Bella Genio SD" group="CANALES 24/7" logo="https://www.pngitem.com/pimgs/m/79-791003_comedy-and-tragedy-comedia-y-tragedia-hd-png.png", 24/7 | Mi Bella Genio SD
+http://magmas5.com:8000/malotv/gratis/2549
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 |Cine Ficcion/Fantasia HD" group="CANALES 24/7" logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png", 24/7 |Cine Ficcion/Fantasia HD
+http://magmas5.com:8000/malotv/gratis/2552
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | MEGAMAN SERIE COMPLETA SD" group="CANALES 24/7" logo="https://freepngimg.com/thumb/graphic_design/86838-studios-area-universe-cinematic-walt-text-disney.png", 24/7 | MEGAMAN SERIE COMPLETA SD
+http://magmas5.com:8000/malotv/gratis/2560
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Cine Terror HD" group="CANALES 24/7" logo="https://logopond.com/logos/52877450ae36699b3fc6ae6ef30f0015.png", 24/7 | Cine Terror HD
+http://magmas5.com:8000/malotv/gratis/2564
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 |  Batman La serie animada" group="CANALES 24/7" logo="https://batman-on-film.com/wp-content/uploads/2018/03/batman-the-animated-series.png", 24/7 |  Batman La serie animada
+http://magmas5.com:8000/malotv/gratis/3361
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 |  Scooby-Doo HD" group="CANALES 24/7" logo="https://www.pngitem.com/pimgs/m/18-184162_scooby-doo-logo-scooby-doo-logo-png-transparent.png", 24/7 |  Scooby-Doo HD
+http://magmas5.com:8000/malotv/gratis/3385
+#EXTINF:0 type="favorites" channelId="-1" name="03 | CARACOL HD" group="COLOMBIA" logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png", 03 | CARACOL HD
+http://magmas5.com:8000/malotv/gratis/3572
+#EXTINF:0 type="favorites" channelId="-1" name="01 | CANAL UNO" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png", 01 | CANAL UNO
+http://magmas5.com:8000/malotv/gratis/3570
+#EXTINF:0 type="favorites" channelId="-1" name="06 | RCN FHD" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png", 06 | RCN FHD
+http://magmas5.com:8000/malotv/gratis/3575
+#EXTINF:0 type="favorites" channelId="-1" name="19 | CABLE NOTICIAS HD" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png", 19 | CABLE NOTICIAS HD
+http://magmas5.com:8000/malotv/gratis/3588
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Tom and Jerry" group="CANALES 24/7" logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Tom_and_Jerry_2021.jpg", 24/7 | Tom and Jerry
+http://magmas5.com:8000/malotv/gratis/129327
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Fox Family" group="CANALES 24/7" logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png", 24/7 | Fox Family
+http://magmas5.com:8000/malotv/gratis/129331
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | El Pajaro Loco" group="CANALES 24/7" logo="https://i.pinimg.com/originals/bd/7d/a6/bd7da6091c964a341bbb390f9887cd58.jpg", 24/7 | El Pajaro Loco
+http://magmas5.com:8000/malotv/gratis/129336
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Looney Tunes" group="CANALES 24/7" logo="https://www.logolynx.com/images/logolynx/01/010976d5595e2ee999cfa3cc99b0bd55.png", 24/7 | Looney Tunes
+http://magmas5.com:8000/malotv/gratis/129338
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | La Pantera Rosa" group="CANALES 24/7" logo="https://formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png", 24/7 | La Pantera Rosa
+http://magmas5.com:8000/malotv/gratis/129347
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Los Picapiedra" group="CANALES 24/7" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/640px-The_Flintstones_logo.svg.png", 24/7 | Los Picapiedra
+http://magmas5.com:8000/malotv/gratis/129349
+#EXTINF:0 type="favorites" channelId="-1" name="Cinema: EL ESPECTACULAR HOMBRE ARAÑA" group="CANALES 24/7" logo="https://repelis.live/wp-content/uploads/2018/02/el-conjuro-1-poster.jpeg", Cinema: EL ESPECTACULAR HOMBRE ARAÑA
+http://magmas5.com:8000/malotv/gratis/129362
+#EXTINF:0 type="favorites" channelId="-1" name="Peliculas Marvel" group="CANALES 24/7" logo="https://app.mxl-iptv.tv/logos_tv/saga_marvel.jpg", Peliculas Marvel
+http://magmas5.com:8000/malotv/gratis/129366
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Temes a la Oscuridad ?" group="CANALES 24/7" logo="https://i.pinimg.com/originals/81/1c/96/811c962100bce08f35cb8901f0bf0677.jpg", 24/7 | Temes a la Oscuridad ?
+http://magmas5.com:8000/malotv/gratis/129368
+#EXTINF:0 type="favorites" channelId="1361" name="Movistar Drama" group="CANALES 24/7" logo="https://2.bp.blogspot.com/-VeRuF5a8cLY/W8DjlQ8m0uI/AAAAAAAAJDY/Z7x3yjEzfv8RqCdAkc3P6lz8ClJ-GFeCwCLcBGAs/s1600/600x600---DRAMA.jpg", Movistar Drama
+http://magmas5.com:8000/malotv/gratis/129369
+#EXTINF:0 type="favorites" channelId="-1" name="A&E US HD" group="USA" logo="https://app.mxl-iptv.tv/logos_tv/4b830b5eecfd1994f39549ba1bac193f.jpg", A&E US HD
+http://magmas5.com:8000/malotv/gratis/129371
+#EXTINF:0 type="favorites" channelId="-1" name="Peliculas Inframundo" group="CANALES 24/7" logo="https://image.tmdb.org/t/p/w185/pu67UYA22j2kSkPth0i1O7pilzc.jpg", Peliculas Inframundo
+http://magmas5.com:8000/malotv/gratis/129373
+#EXTINF:0 type="favorites" channelId="-1" name="Peliculas Crepusculo" group="CANALES 24/7" logo="https://app.mxl-iptv.tv/logos_tv/peliculas_crepusculo.jpg", Peliculas Crepusculo
+http://magmas5.com:8000/malotv/gratis/129374
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 |  X-Men" group="CANALES 24/7" logo="https://www.cultture.com/pics/2017/12/elkas16.jpg", 24/7 |  X-Men
+http://magmas5.com:8000/malotv/gratis/129375
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 HI-MAN SD" group="CANALES 24/7" logo="https://image.tmdb.org/t/p/w185/4RrdeC1L8Nvs2X7KsnKGbosIItV.jpg", 24/7 HI-MAN SD
+http://magmas5.com:8000/malotv/gratis/129376
+#EXTINF:0 type="favorites" channelId="-1" name="Peliculas Harry Potter" group="CANALES 24/7" logo="https://images-na.ssl-images-amazon.com/images/I/71fkSicblAL._SY445_.jpg", Peliculas Harry Potter
+http://magmas5.com:8000/malotv/gratis/129377
+#EXTINF:0 type="favorites" channelId="-1" name="Peliculas John Wick" group="CANALES 24/7" logo="https://batsenales.files.wordpress.com/2019/05/batsejohnwick.png?w=351&h=640", Peliculas John Wick
+http://magmas5.com:8000/malotv/gratis/129378
+#EXTINF:0 type="favorites" channelId="-1" name="Peliculas Resident Evil" group="CANALES 24/7" logo="https://n3.sdlcdn.com/imgs/h/5/6/Resident-Evil-All-6-Parts-SDL071003500-1-7bf66.jpeg", Peliculas Resident Evil
+http://magmas5.com:8000/malotv/gratis/129379
+#EXTINF:0 type="favorites" channelId="-1" name="Peliculas Scary Movie" group="CANALES 24/7" logo="https://image.tmdb.org/t/p/w185/zHy065u9JCDHA9IJ93MK7isSSMw.jpg", Peliculas Scary Movie
+http://magmas5.com:8000/malotv/gratis/129380
+#EXTINF:0 type="favorites" channelId="-1" name="Peliculas Matrix" group="CANALES 24/7" logo="https://www.impactohd.cl/32766/4k-uhd-matrix-la-trilogia.jpg", Peliculas Matrix
+http://magmas5.com:8000/malotv/gratis/129381
+#EXTINF:0 type="favorites" channelId="-1" name="La  Familia Addams" group="CANALES 24/7" logo="https://image.tmdb.org/t/p/w185/aBZynbuxspjz01mxrWpP5ZyDIyq.jpg", La  Familia Addams
+http://magmas5.com:8000/malotv/gratis/129384
+#EXTINF:0 type="favorites" channelId="-1" name="X-Men" group="CANALES 24/7" logo="https://image.tmdb.org/t/p/w185/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg", X-Men
+http://magmas5.com:8000/malotv/gratis/129386
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 PELÍCULAS DE ROMANCE 2" group="CANALES 24/7", 24/7 PELÍCULAS DE ROMANCE 2
+http://magmas5.com:8000/malotv/gratis/131454
+#EXTINF:0 type="favorites" channelId="-1" name="01 | WIN SPORTS HD" group="COLOMBIA -PRIMERA A⚽" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png", 01 | WIN SPORTS HD
+http://magmas5.com:8000/malotv/gratis/131982
+#EXTINF:0 type="favorites" channelId="-1" name="02 | WIN SPORTS FHD" group="COLOMBIA -PRIMERA A⚽" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png", 02 | WIN SPORTS FHD
+http://magmas5.com:8000/malotv/gratis/131983
+#EXTINF:0 type="favorites" channelId="-1" name="03 | WIN SPORTS+ HD" group="COLOMBIA -PRIMERA A⚽" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png", 03 | WIN SPORTS+ HD
+http://magmas5.com:8000/malotv/gratis/131984
+#EXTINF:0 type="favorites" channelId="-1" name="04 | WIN SPORTS + FHD" group="COLOMBIA -PRIMERA A⚽" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png", 04 | WIN SPORTS + FHD
+http://magmas5.com:8000/malotv/gratis/131985
+#EXTINF:0 type="favorites" channelId="-1" name="09 | Discovery Home & Healt" group="LOW CHANNEL" logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", 09 | Discovery Home & Healt
+http://magmas5.com:8000/malotv/gratis/3847
+#EXTINF:0 type="favorites" channelId="-1" name="16 | Star Action (Low)" group="LOW CHANNEL" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png", 16 | Star Action (Low)
+http://magmas5.com:8000/malotv/gratis/3854
+#EXTINF:0 type="favorites" channelId="-1" name="17 |  Star Channel (L)" group="LOW CHANNEL" logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png", 17 |  Star Channel (L)
+http://magmas5.com:8000/malotv/gratis/3855
+#EXTINF:0 type="favorites" channelId="-1" name="18 |  Star Channel (L)" group="LOW CHANNEL" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png", 18 |  Star Channel (L)
+http://magmas5.com:8000/malotv/gratis/3856
+#EXTINF:0 type="favorites" channelId="-1" name="19 |  Star Life (L)" group="LOW CHANNEL" logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png", 19 |  Star Life (L)
+http://magmas5.com:8000/malotv/gratis/3857
+#EXTINF:0 type="favorites" channelId="-1" name="20 |  Star Cinema (L)" group="LOW CHANNEL" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png", 20 |  Star Cinema (L)
+http://magmas5.com:8000/malotv/gratis/3858
+#EXTINF:0 type="favorites" channelId="-1" name="21 | Star Channel (L)" group="LOW CHANNEL" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png", 21 | Star Channel (L)
+http://magmas5.com:8000/malotv/gratis/3859
+#EXTINF:0 type="favorites" channelId="-1" name="22 | Fox Series (Low)" group="LOW CHANNEL" logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fox_Premium_Series_%28Latin_America%29_-_2017_Logo.png", 22 | Fox Series (Low)
+http://magmas5.com:8000/malotv/gratis/3860
+#EXTINF:0 type="favorites" channelId="-1" name="29 |  HBO 2 (L)" group="LOW CHANNEL" logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", 29 |  HBO 2 (L)
+http://magmas5.com:8000/malotv/gratis/3867
+#EXTINF:0 type="favorites" channelId="-1" name="30 |  HBO Family (L)" group="LOW CHANNEL" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", 30 |  HBO Family (L)
+http://magmas5.com:8000/malotv/gratis/3868
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | PARAMOUNT NETWORK" group="CANALES PREMIUM ARGENTINA" logo="http://assets.stickpng.com/images/58483b6584e35b574e745380.png", ARG | PARAMOUNT NETWORK
+http://magmas5.com:8000/malotv/gratis/135670
+#EXTINF:0 type="favorites" channelId="-1" name="SUR | DISCOVERY H&H" group="CANALES AMÉRICA SUR STD" logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png", SUR | DISCOVERY H&H
+http://magmas5.com:8000/malotv/gratis/135671
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | HBO MUNDI SD" group="CANALES PREMIUM ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png", ARG | HBO MUNDI SD
+http://magmas5.com:8000/malotv/gratis/135674
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | HBO XTREME SD" group="CANALES PREMIUM ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png", ARG | HBO XTREME SD
+http://magmas5.com:8000/malotv/gratis/135677
+#EXTINF:0 type="favorites" channelId="-1" name="ARG | Discovery Home & Health" group="CANALES PREMIUM ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png", ARG | Discovery Home & Health
+http://magmas5.com:8000/malotv/gratis/135793
+#EXTINF:0 type="favorites" channelId="-1" name="34 | CITY TV" group="COLOMBIA", 34 | CITY TV
+http://magmas5.com:8000/malotv/gratis/140410
+#EXTINF:0 type="favorites" channelId="-1" name="ES || MOVISTAR SERIES" group="ESPAÑA SERIES" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFhhhPnK5f889L6BjbbeP_vcq9AJnH1P-xlngMI7bQpARQv6SZckldjOPvkNtxOQooR5Y&usqp=CAU", ES || MOVISTAR SERIES
+http://magmas5.com:8000/malotv/gratis/126350
+#EXTINF:0 type="favorites" channelId="-1" name="ES || MOVISTAR SERIES HD" group="ESPAÑA SERIES", ES || MOVISTAR SERIES HD
+http://magmas5.com:8000/malotv/gratis/126351
+#EXTINF:0 type="favorites" channelId="-1" name="ES || TNT HD" group="ESPAÑA SERIES", ES || TNT HD
+http://magmas5.com:8000/malotv/gratis/126354
+#EXTINF:0 type="favorites" channelId="-1" name="ES || FOX LIFE FHD" group="ESPAÑA SERIES", ES || FOX LIFE FHD
+http://magmas5.com:8000/malotv/gratis/126362
+#EXTINF:0 type="favorites" channelId="-1" name="ES || AXN FULL HD" group="ESPAÑA SERIES", ES || AXN FULL HD
+http://magmas5.com:8000/malotv/gratis/126365
+#EXTINF:0 type="favorites" channelId="-1" name="ES || AXN  WHITE" group="ESPAÑA SERIES", ES || AXN  WHITE
+http://magmas5.com:8000/malotv/gratis/126366
+#EXTINF:0 type="favorites" channelId="-1" name="ES || AMC" group="ESPAÑA SERIES", ES || AMC
+http://magmas5.com:8000/malotv/gratis/126368
+#EXTINF:0 type="favorites" channelId="4775" name="Canal 1 (1080p) [Geo-blocked]" group="lamtv" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png", Canal 1 (1080p) [Geo-blocked]
+http://toleflix.tk:25461/Star05/05starxx/3429
+#EXTINF:0 type="favorites" channelId="-1" name="Caracola TV (Peñalolén) (720p) [Not 24/7]" group="lamtv" logo="https://i.imgur.com/oskIGbi.png", Caracola TV (Peñalolén) (720p) [Not 24/7]
+http://toleflix.tk:25461/Star05/05starxx/3542
+#EXTINF:0 type="favorites" channelId="-1" name="like Gecko) Chrome/92.0.4515.131 Safari/537.36" group="lamtv" logo="https://i.imgur.com/IBfTNOr.png", like Gecko) Chrome/92.0.4515.131 Safari/537.36
+http://toleflix.tk:25461/Star05/05starxx/2533
+#EXTINF:0 type="favorites" channelId="-1" name="Miami TV Latino (1080p)" group="lamtv" logo="https://i.imgur.com/Y5tUClU.png", Miami TV Latino (1080p)
+http://toleflix.tk:25461/Star05/05starxx/2567
+#EXTINF:0 type="favorites" channelId="-1" name="Miami TV México (720p) [Not 24/7]" group="lamtv" logo="https://i.imgur.com/ou5afOB.jpg", Miami TV México (720p) [Not 24/7]
+http://toleflix.tk:25461/Star05/05starxx/2568
+#EXTINF:0 type="favorites" channelId="4034" name="Ve Plus (480p) [Not 24/7]" group="lamtv" logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png", Ve Plus (480p) [Not 24/7]
+http://toleflix.tk:25461/Star05/05starxx/8170
+#EXTINF:0 type="favorites" channelId="-1" name="TV Peruanísima (720p) [Not 24/7]" group="lamtv" logo="https://i.imgur.com/0bBxZ5x.png", TV Peruanísima (720p) [Not 24/7]
+http://toleflix.tk:25461/Star05/05starxx/7883
+#EXTINF:0 type="favorites" channelId="4803" name="Televen (Television de Venezuela) (404p) [Not 24/7]" group="lamtv" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_logo.PNG/512px-Televen_logo.PNG", Televen (Television de Venezuela) (404p) [Not 24/7]
+http://toleflix.tk:25461/Star05/05starxx/7524
+#EXTINF:0 type="favorites" channelId="-1" name="Pluto TV Yoga (720p)" group="lamtv" logo="https://images.pluto.tv/channels/60803e541a829e0008e91641/colorLogoPNG.png", Pluto TV Yoga (720p)
+http://toleflix.tk:25461/Star05/05starxx/6423
+#EXTINF:0 type="favorites" channelId="-1" name="MyTime movie network Spain (1080p)" group="lamtv" logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png", MyTime movie network Spain (1080p)
+http://toleflix.tk:25461/Star05/05starxx/5351
+#EXTINF:0 type="favorites" channelId="-1" name="MyTime movie network Mexico (720p)" group="lamtv" logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png", MyTime movie network Mexico (720p)
+http://toleflix.tk:25461/Star05/05starxx/5350
+#EXTINF:0 type="favorites" channelId="-1" name="MyTime movie network Brazil (720p)" group="lamtv" logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png", MyTime movie network Brazil (720p)
+http://toleflix.tk:25461/Star05/05starxx/5349
+#EXTINF:0 type="favorites" channelId="-1" name="MyTime movie network (1080p)" group="lamtv" logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png", MyTime movie network (1080p)
+http://toleflix.tk:25461/Star05/05starxx/5348
+#EXTINF:0 type="favorites" channelId="-1" name="MovieFe (360p) [Not 24/7]" group="lamtv" logo="https://i.imgur.com/FqHLJmN.png", MovieFe (360p) [Not 24/7]
+http://toleflix.tk:25461/Star05/05starxx/5289
+#EXTINF:0 type="favorites" channelId="-1" name="LimaLive (536p) [Not 24/7]" group="lamtv" logo="https://i.imgur.com/cVUmoKE.png", LimaLive (536p) [Not 24/7]
+http://toleflix.tk:25461/Star05/05starxx/5047
+#EXTINF:0 type="favorites" channelId="-1" name="LatinoKids (360p) [Not 24/7]" group="lamtv" logo="https://i.imgur.com/CBUf3K1.png", LatinoKids (360p) [Not 24/7]
+http://toleflix.tk:25461/Star05/05starxx/5002
+#EXTINF:0 type="favorites" channelId="4513" name="Canal 2 (San Antonio) (720p) [Not 24/7]" group="lamtv" logo="https://i.imgur.com/eLres7d.png", Canal 2 (San Antonio) (720p) [Not 24/7]
+http://toleflix.tk:25461/Star05/05starxx/3431
+#EXTINF:0 type="favorites" channelId="-1" name="Cali TV (Santiago de Cali | Valle del Cauca) (540p) [Not 24/7]" group="lamtv" logo="https://i.imgur.com/AZOTbvH.png", Cali TV (Santiago de Cali | Valle del Cauca) (540p) [Not 24/7]
+http://toleflix.tk:25461/Star05/05starxx/3417
+#EXTINF:0 type="favorites" channelId="4770" name="Cablenoticias (Bogotà | Cundinamarca) (1080p)" group="lamtv" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/512px-Cable_Noticias_logo.svg.png", Cablenoticias (Bogotà | Cundinamarca) (1080p)
+http://toleflix.tk:25461/Star05/05starxx/3412
+#EXTINF:0 type="favorites" channelId="-1" name="Bolivia TV (720p) [Not 24/7]" group="lamtv" logo="https://upload.wikimedia.org/wikipedia/commons/7/78/BoliviaTV-logo.jpg", Bolivia TV (720p) [Not 24/7]
+http://toleflix.tk:25461/Star05/05starxx/3314
+#EXTINF:0 type="favorites" channelId="-1" name="Bolivia TV 7.2 (480p)" group="lamtv" logo="https://i.imgur.com/1zTLGdj.jpg", Bolivia TV 7.2 (480p)
+http://toleflix.tk:25461/Star05/05starxx/3313
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  STUDIO UNIVERSAL  SD |   Future" group="LiveTv", CINEMA  |  STUDIO UNIVERSAL  SD |   Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/54
+#EXTINF:0 type="favorites" channelId="-1" name="INFANTIL |  DISNEY CHANNEL  HD  |  Marco - Jorge" group="LiveTv", INFANTIL |  DISNEY CHANNEL  HD  |  Marco - Jorge
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/71
+#EXTINF:0 type="favorites" channelId="-1" name="ENTRETENIMIENTO |  UNIVISION   |  Future - Lata" group="LiveTv", ENTRETENIMIENTO |  UNIVISION   |  Future - Lata
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/72
+#EXTINF:0 type="favorites" channelId="-1" name="MUNDO Y CULTURA | DISCOVERY TURBO SD |  Future" group="LiveTv", MUNDO Y CULTURA | DISCOVERY TURBO SD |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/73
+#EXTINF:0 type="favorites" channelId="-1" name="MUNDO Y CULTURA | TLC DISCOVERY  SD |   Future" group="LiveTv", MUNDO Y CULTURA | TLC DISCOVERY  SD |   Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/75
+#EXTINF:0 type="favorites" channelId="-1" name="MUNDO Y CULTURA | National Geographic  SD |  Future" group="LiveTv", MUNDO Y CULTURA | National Geographic  SD |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/76
+#EXTINF:0 type="favorites" channelId="-1" name="MUNDO Y CULTURA | ID DISCOVERY  SD |  Future" group="LiveTv", MUNDO Y CULTURA | ID DISCOVERY  SD |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/81
+#EXTINF:0 type="favorites" channelId="-1" name="MUNDO Y CULTURA | ID DISCOVERY  HD |  Jorge" group="LiveTv", MUNDO Y CULTURA | ID DISCOVERY  HD |  Jorge
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/82
+#EXTINF:0 type="favorites" channelId="-1" name="MUNDO Y CULTURA |  ANIMAL PLANET  SD  |  Future" group="LiveTv", MUNDO Y CULTURA |  ANIMAL PLANET  SD  |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/83
+#EXTINF:0 type="favorites" channelId="-1" name="MUNDO Y CULTURA |  DISCOVERY H&H  SD |  Future" group="LiveTv", MUNDO Y CULTURA |  DISCOVERY H&H  SD |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/85
+#EXTINF:0 type="favorites" channelId="-1" name="MUNDO Y CULTURA |  DISCOVERY H&H  HD |  Jorge - Locale" group="LiveTv", MUNDO Y CULTURA |  DISCOVERY H&H  HD |  Jorge - Locale
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/86
+#EXTINF:0 type="favorites" channelId="-1" name="MUNDO Y CULTURA |  DISCOVERY CHANNEL  SD |  Future" group="LiveTv", MUNDO Y CULTURA |  DISCOVERY CHANNEL  SD |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/87
+#EXTINF:0 type="favorites" channelId="-1" name="MUNDO Y CULTURA |  HISTORY  SD |  Future" group="LiveTv", MUNDO Y CULTURA |  HISTORY  SD |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/90
+#EXTINF:0 type="favorites" channelId="-1" name="LOCALES MEX |  CANAL NUEVE  SD  |  Future" group="LiveTv", LOCALES MEX |  CANAL NUEVE  SD  |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/111
+#EXTINF:0 type="favorites" channelId="-1" name="LOCALES MEX |    CANAL ONCE    |  Future  - Lata" group="LiveTv", LOCALES MEX |    CANAL ONCE    |  Future  - Lata
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/110
+#EXTINF:0 type="favorites" channelId="-1" name="LOCALES MEX |  AZTECA 7 SD  |  Future" group="LiveTv", LOCALES MEX |  AZTECA 7 SD  |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/113
+#EXTINF:0 type="favorites" channelId="-1" name="LOCALES MEX |  CANAL 5  SD  |  Future" group="LiveTv", LOCALES MEX |  CANAL 5  SD  |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/115
+#EXTINF:0 type="favorites" channelId="-1" name="LOCALES MEX |   LAS ESTRELLAS  -2   |  Future" group="LiveTv", LOCALES MEX |   LAS ESTRELLAS  -2   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/117
+#EXTINF:0 type="favorites" channelId="-1" name="LOCALES MEX |   LAS ESTRELLAS  -1     |  Future" group="LiveTv", LOCALES MEX |   LAS ESTRELLAS  -1     |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/118
+#EXTINF:0 type="favorites" channelId="-1" name="LOCALES MEX |   LAS ESTRELLAS  SD  |   Future  SD" group="LiveTv", LOCALES MEX |   LAS ESTRELLAS  SD  |   Future  SD
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/119
+#EXTINF:0 type="favorites" channelId="-1" name="LOCALES MEX |   LAS ESTRELLAS  HD  |   Jorge - Marco" group="LiveTv", LOCALES MEX |   LAS ESTRELLAS  HD  |   Jorge - Marco
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/120
+#EXTINF:0 type="favorites" channelId="-1" name="LOCALES MEX |  AZTECA UNO  SD  |   Future" group="LiveTv", LOCALES MEX |  AZTECA UNO  SD  |   Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/121
+#EXTINF:0 type="favorites" channelId="-1" name="INFANTIL |  CARTOON NETWORK    |   Future" group="LiveTv", INFANTIL |  CARTOON NETWORK    |   Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/130
+#EXTINF:0 type="favorites" channelId="-1" name="ENTRETENIMIENTO |  UNICABLE  SD  |  Future" group="LiveTv", ENTRETENIMIENTO |  UNICABLE  SD  |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/135
+#EXTINF:0 type="favorites" channelId="-1" name="ENTRETENIMIENTO |  COMEDY CENTRAL  SD  |  Future" group="LiveTv", ENTRETENIMIENTO |  COMEDY CENTRAL  SD  |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/139
+#EXTINF:0 type="favorites" channelId="-1" name="ENTRETENIMIENTO | ESTRELLA TV  |   Lata" group="LiveTv", ENTRETENIMIENTO | ESTRELLA TV  |   Lata
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/141
+#EXTINF:0 type="favorites" channelId="-1" name="ENTRETENIMIENTO |  UNIMAS  |  Lata" group="LiveTv", ENTRETENIMIENTO |  UNIMAS  |  Lata
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/142
+#EXTINF:0 type="favorites" channelId="-1" name="ENTRETENIMIENTO |  TELEMUNDO  Miami  |  Marco" group="LiveTv", ENTRETENIMIENTO |  TELEMUNDO  Miami  |  Marco
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/144
+#EXTINF:0 type="favorites" channelId="-1" name="ENTRETENIMIENTO |  TELEMUNDO  San Fco  |  Lata - Alfredo" group="LiveTv", ENTRETENIMIENTO |  TELEMUNDO  San Fco  |  Lata - Alfredo
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/147
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  SONY  SD   |  Future" group="LiveTv", CINEMA  |  SONY  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/184
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  WARNER  SD   |  Future" group="LiveTv", CINEMA  |  WARNER  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/185
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  GOLDEN EDGE     |  Future" group="LiveTv", CINEMA  |  GOLDEN EDGE     |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/186
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  GOLDEN PLUS  SD   |  Future - Lata" group="LiveTv", CINEMA  |  GOLDEN PLUS  SD   |  Future - Lata
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/187
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  GOLDEN  SD   |  Future" group="LiveTv", CINEMA  |  GOLDEN  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/188
+#EXTINF:0 type="favorites" channelId="-1" name="PPV  |  DAZN F1  |  Lata  Formula 1" group="LiveTv", PPV  |  DAZN F1  |  Lata  Formula 1
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/191
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  HBO PLUS  SD   |  Future" group="LiveTv", CINEMA  |  HBO PLUS  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/193
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  HBO FAMILY  SD   |  Future" group="LiveTv", CINEMA  |  HBO FAMILY  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/194
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  HBO 2  SD   |  Jorge - Future" group="LiveTv", CINEMA  |  HBO 2  SD   |  Jorge - Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/195
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  HBO  SD   |  Future  -  Lata" group="LiveTv", CINEMA  |  HBO  SD   |  Future  -  Lata
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/196
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  TNT SERIES  SD   |   Future" group="LiveTv", CINEMA  |  TNT SERIES  SD   |   Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/197
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  TNT  SD   |  Future" group="LiveTv", CINEMA  |  TNT  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/198
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  PARAMOUNT  HD   |  Marco - Jorge" group="LiveTv", CINEMA  |  PARAMOUNT  HD   |  Marco - Jorge
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/199
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  PARAMOUNT  SD   |  Future" group="LiveTv", CINEMA  |  PARAMOUNT  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/200
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  CINECANAL  SD   |  Future" group="LiveTv", CINEMA  |  CINECANAL  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/201
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  De PELICULA  SD   |  Future" group="LiveTv", CINEMA  |  De PELICULA  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/202
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  TCM  SD   |  Future" group="LiveTv", CINEMA  |  TCM  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/204
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  UNIVERSAL CHANNEL  SD   |  Future" group="LiveTv", CINEMA  |  UNIVERSAL CHANNEL  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/205
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  SPACE  SD   |  Future" group="LiveTv", CINEMA  |  SPACE  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/207
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  SPACE  HD   |  Jorge - Lata" group="LiveTv", CINEMA  |  SPACE  HD   |  Jorge - Lata
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/208
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  CINEMAX  SD   |  Future" group="LiveTv", CINEMA  |  CINEMAX  SD   |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/209
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  CINEMAX  HD   |  Marco - Lata" group="LiveTv", CINEMA  |  CINEMAX  HD   |  Marco - Lata
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/210
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  AXN  SD   |   Future" group="LiveTv", CINEMA  |  AXN  SD   |   Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/212
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  AXN  HD   |  Jorge - Future - Marco" group="LiveTv", CINEMA  |  AXN  HD   |  Jorge - Future - Marco
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/213
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  A&E  HD   |  Locale - Leo" group="LiveTv", CINEMA  |  A&E  HD   |  Locale - Leo
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/215
+#EXTINF:0 type="favorites" channelId="-1" name="ENTRETENIMIENTO | Telemundo Chicago  |  Lata" group="LiveTv", ENTRETENIMIENTO | Telemundo Chicago  |  Lata
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/216
+#EXTINF:0 type="favorites" channelId="-1" name="ENTRETENIMIENTO |  GALAVISION   |  Lata - Jorge" group="LiveTv", ENTRETENIMIENTO |  GALAVISION   |  Lata - Jorge
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/217
+#EXTINF:0 type="favorites" channelId="-1" name="ENTRETENIMIENTO | TELEMUNDO LA  |   Lata" group="LiveTv", ENTRETENIMIENTO | TELEMUNDO LA  |   Lata
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/218
+#EXTINF:0 type="favorites" channelId="-1" name="PPV  |  NBC Universo   |   Marco - Locale" group="LiveTv", PPV  |  NBC Universo   |   Marco - Locale
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/222
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 01 | Memory" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/501.jpg", PPV | 01 | Memory
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/501
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 02 | Asesino sin memoria" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/501.jpg", PPV | 02 | Asesino sin memoria
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/502
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 04 | Unabomber: Terrorista" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/503.jpg", PPV | 04 | Unabomber: Terrorista
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/504
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 06 | Hopper el polloliebre" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/505.jpg", PPV | 06 | Hopper el polloliebre
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/506
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 08 | Doctor Strange en el multiverso de la locura" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/507.jpg", PPV | 08 | Doctor Strange en el multiverso de la locura
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/508
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 10 | Llamas de venganza" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/509.jpg", PPV | 10 | Llamas de venganza
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/510
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 12 | Downton Abbey: Una nueva era" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/511.jpg", PPV | 12 | Downton Abbey: Una nueva era
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/512
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 14 | Animales fantásticos: Los secretos de Dumbledore" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/513.jpg", PPV | 14 | Animales fantásticos: Los secretos de Dumbledore
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/514
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 16 | El peso del talento" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/515.jpg", PPV | 16 | El peso del talento
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/516
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 18 | Dog: Un viaje salvaje" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/517.jpg", PPV | 18 | Dog: Un viaje salvaje
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/518
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 20 | Un día para morir" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/519.jpg", PPV | 20 | Un día para morir
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/520
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 22 | Desesperada" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/521.jpg", PPV | 22 | Desesperada
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/522
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 24 | Morbius (ESP)" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/523.jpg", PPV | 24 | Morbius (ESP)
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/524
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 26 | El milagro del Padre Stu" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/525.jpg", PPV | 26 | El milagro del Padre Stu
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/526
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 28 | Ambulancia" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/527.jpg", PPV | 28 | Ambulancia
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/528
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 30 | El hombre del norte" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/529.jpg", PPV | 30 | El hombre del norte
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/530
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 34 | Eraser: Reborn (ESP)" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/533.jpg", PPV | 34 | Eraser: Reborn (ESP)
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/534
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 36 | Pasado violento" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/535.jpg", PPV | 36 | Pasado violento
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/536
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 38 | Conspiración en Hollywood" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/537.jpg", PPV | 38 | Conspiración en Hollywood
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/538
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 40 | Umma (ESP)" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/539.jpg", PPV | 40 | Umma (ESP)
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/540
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 42 | Los tipos malos" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/541.jpg", PPV | 42 | Los tipos malos
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/542
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 44 | Chip y Dale Al rescate" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/543.jpg", PPV | 44 | Chip y Dale Al rescate
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/544
+#EXTINF:0 type="favorites" channelId="-1" name="PPV | 46 | Todos los ppv" group="LiveTv" logo="https://astramain.xyz:8443/images/ppv/545.jpg", PPV | 46 | Todos los ppv
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/546
+#EXTINF:0 type="favorites" channelId="-1" name="PPV   |   Eurosport 1  Esp  |   Lata" group="LiveTv", PPV   |   Eurosport 1  Esp  |   Lata
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/1
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="http://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png", INDIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?serverSideAds=false&deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png", DOCTOR WHO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png", SERIES RETRO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae21-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb5479a-1735-4d57-9b8e-16487d9760c3&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png", RUN:TIME 4
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_usk3hzv4/def_height/1654/def_width/3159/version/100011/type/2/q/100", NUESTRA VISION
+https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png", RAKUTEN TOP FREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb=20200303190745", TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", RETROPLUS SERIES
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png", WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="4773" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Coat_of_arms_of_Colombia.svg/1200px-Coat_of_arms_of_Colombia.svg.png", CARACOL
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES 2" logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png", ANDROMEDA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bccae160007c71eec/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES 2" logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png", MUTANTE X
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:0 type="favorites" channelId="3186" group="CINE Y SERIES 2" logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png", SCI-FI
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES 2" logo="http://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png", NUESTRA VISION
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES 2" logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png", CINE TERROR 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31d6ed5a-e18e-40e7-86c3-072f2b86df3c&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" name="NOTICIAS |  DW   |  Marco" group="LiveTv", NOTICIAS |  DW   |  Marco
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/31
+#EXTINF:0 type="favorites" channelId="-1" name="NOTICIAS |   FORO TV  SD  |   Future" group="LiveTv", NOTICIAS |   FORO TV  SD  |   Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/35
+#EXTINF:0 type="favorites" channelId="2557" group="SERIES" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjFyrkHHJbq0jYEm2FF6nYKZkdAGlCPzK3IIX9QvEOxVgREM_Dm6HgI3wnkT16yLaBDI&usqp=CAU", WARNER
+http://200.24.132.99:8000/play/a01z
+#EXTINF:0 type="favorites" channelId="-1" group="entretenimiento" logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png", FASHIONBOX
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a64-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcad69d9-cbe2-4e00-a9bc-3c865cdc4424&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="TUCUMAN" logo="http://www.radiosargentina.com.ar/png/VI---X24.png", X24 TUCUMAN
+https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="MUNDO Y CULTURA |  HISTORY  HD |   Jorge" group="LiveTv", MUNDO Y CULTURA |  HISTORY  HD |   Jorge
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/91
+#EXTINF:0 type="favorites" channelId="-1" name="LOCALES MEX |  TL NOVELAS  |   Future" group="LiveTv", LOCALES MEX |  TL NOVELAS  |   Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/108
+#EXTINF:0 type="favorites" channelId="-1" name="INFANTIL |  DISCOVERY  KIDS    |  Future" group="LiveTv", INFANTIL |  DISCOVERY  KIDS    |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/124
+#EXTINF:0 type="favorites" channelId="-1" name="ENTRETENIMIENTO |  LIFETIME  SD  |   Future" group="LiveTv", ENTRETENIMIENTO |  LIFETIME  SD  |   Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/136
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  AMC  SD   |  Future - iptv" group="LiveTv", CINEMA  |  AMC  SD   |  Future - iptv
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/211
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA  |  A&E  SD   |   Future" group="LiveTv", CINEMA  |  A&E  SD   |   Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/214
+#EXTINF:0 type="favorites" channelId="-1" name="Cinema  |  HBO xtreme |   dplay" group="LiveTv", Cinema  |  HBO xtreme |   dplay
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/219
+#EXTINF:0 type="favorites" channelId="-1" name="Deportes  |  Eurosports 1 SD |  Future" group="LiveTv", Deportes  |  Eurosports 1 SD |  Future
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/6
+#EXTINF:0 type="favorites" channelId="-1" name="Deportes  |  BEIN Sports  Esp  |  Jorge - Marco" group="LiveTv", Deportes  |  BEIN Sports  Esp  |  Jorge - Marco
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/8
+#EXTINF:0 type="favorites" channelId="-1" name="Mi TV Televisión Clásica" logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png", Mi TV Televisión Clásica | US
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" group="CHILE" logo="https://www.m3u.cl/logo/895_RLOTV.png", RLOTV
+https://593b04c4c5670.streamlock.net:443/8034/8034/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="INFANTIL" logo="https://pbs.twimg.com/profile_images/1233210919070638081/LFXXLzrw.jpg", CANAL 74 TV
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | A&E", Latino | A&E
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/38
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | AMC", Latino | AMC
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/44
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | AXN", Latino | AXN
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/47
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | AZ Cinema", Latino | AZ Cinema
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/50
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Canal 5", Latino | Canal 5
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/60
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Canal De Las Estrellas", Latino | Canal De Las Estrellas
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/61
+#EXTINF:0 type="favorites" channelId="-1" name="COLOMBIA | Caracol", COLOMBIA | Caracol
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/62
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | CineCanal", Latino | CineCanal
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/64
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Cinemax", Latino | Cinemax
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/66
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | De Pelicula", Latino | De Pelicula
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/69
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Discovery H&H", Latino | Discovery H&H
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/74
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Discovery TLC", Latino | Discovery TLC
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/79
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | E!", Latino | E!
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/86
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | FOX", Latino | FOX
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/97
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Universal Crime", Latino | Universal Crime
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/98
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Universal Reality", Latino | Universal Reality
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/101
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Universal Premier", Latino | Universal Premier
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/103
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | FX", Latino | FX
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/111
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | FXM", Latino | FXM
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/112
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Golden Plus", Latino | Golden Plus
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/117
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | HBO", Latino | HBO
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/118
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | HBO 2", Latino | HBO 2
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/119
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | HBO Family" logo="https://i.imgur.com/RQa2ipx.png", Latino | HBO Family
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/120
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | HBO Plus", Latino | HBO Plus
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/121
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | HBO XTREME", Latino | HBO XTREME
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/128
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Lifetime", Latino | Lifetime
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/126
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | HBO POP", Latino | HBO POP
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/129
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Sony", Latino | Sony
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/143
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Space", Latino | Space
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/144
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Studio Universal", Latino | Studio Universal
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/147
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | TCM", Latino | TCM
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/151
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Telemundo Int", Latino | Telemundo Int
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/154
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | TNT", Latino | TNT
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/156
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | TNT Series", Latino | TNT Series
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/157
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Universal Channel", Latino | Universal Channel
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/175
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Unicable", Latino | Unicable
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/173
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Warner", Latino | Warner
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/178
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | Win Sports", Latino | Win Sports
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/179
+#EXTINF:0 type="favorites" channelId="-1" name="PUERTO RICO | Univision", PUERTO RICO | Univision
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/182
+#EXTINF:0 type="favorites" channelId="-1" name="PERU | LATINA", PERU | LATINA
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/461
+#EXTINF:0 type="favorites" channelId="-1" name="PERU | PANAMERICANA", PERU | PANAMERICANA
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/462
+#EXTINF:0 type="favorites" channelId="-1" name="ECUADOR | TC TELEVISION", ECUADOR | TC TELEVISION
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/514
+#EXTINF:0 type="favorites" channelId="-1" name="ECUADOR | OROMAR TV", ECUADOR | OROMAR TV
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/516
+#EXTINF:0 type="favorites" channelId="-1" name="USA | UNIVISION LOS ANGELES", USA | UNIVISION LOS ANGELES
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/692
+#EXTINF:0 type="favorites" channelId="-1" name="USA | UNIMAS MIAMI", USA | UNIMAS MIAMI
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/741
+#EXTINF:0 type="favorites" channelId="-1" name="USA | UNIMAS LOS ANGELES", USA | UNIMAS LOS ANGELES
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/745
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO | MTV", LATINO | MTV
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/752
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO | UNIVERSAL COMEDY", LATINO | UNIVERSAL COMEDY
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/754
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO | HBO SIGNATURE", LATINO | HBO SIGNATURE
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/755
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO | GOLDEN PREMIER", LATINO | GOLDEN PREMIER
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/756
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO | GOLDEN", LATINO | GOLDEN
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/757
+#EXTINF:0 type="favorites" channelId="-1" name="COSTA RICA | TELETICA 7", COSTA RICA | TELETICA 7
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/793
+#EXTINF:0 type="favorites" channelId="-1" name="PANAMA | TELEMETRO", PANAMA | TELEMETRO
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/838
+#EXTINF:0 type="favorites" channelId="-1" name="USA | UNIVISION DALLAS", USA | UNIVISION DALLAS
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/983
+#EXTINF:0 type="favorites" channelId="-1" name="USA | UNIVISION", USA | UNIVISION
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1124
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO | Paramount", LATINO | Paramount
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1141
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Cinema Marvel Studio HD", USA | Cinema Marvel Studio HD
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3019
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Cinema Dc Comics HD", USA | Cinema Dc Comics HD
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3018
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Cinema Accion Classics HD", USA | Cinema Accion Classics HD
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3024
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Cinema Horror HD", USA | Cinema Horror HD
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3025
+#EXTINF:0 type="favorites" channelId="-1" name="USA | Cinema Disney Pixar HD", USA | Cinema Disney Pixar HD
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3026
+#EXTINF:0 type="favorites" channelId="-1" name="USA | The Walking Dead", USA | The Walking Dead
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3029
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | El Chapulín Colorado", 24/7 | El Chapulín Colorado
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3542
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 CAR | Looney Tunes", 24/7 CAR | Looney Tunes
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3550
+#EXTINF:0 type="favorites" channelId="-1" name="SONY NOVELAS", SONY NOVELAS
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3564
+#EXTINF:0 type="favorites" channelId="-1" name="SONY COMEDIAS", SONY COMEDIAS
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3565
+#EXTINF:0 type="favorites" channelId="1359" name="MOVISTAR ACCION", MOVISTAR ACCION
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3576
+#EXTINF:0 type="favorites" channelId="1360" name="MOVISTAR COMEDIA", MOVISTAR COMEDIA
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3577
+#EXTINF:0 type="favorites" channelId="1361" name="MOVISTAR DRAMA", MOVISTAR DRAMA
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3580
+#EXTINF:0 type="favorites" channelId="1378" name="MOVISTAR ESTRENOS", MOVISTAR ESTRENOS
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3581
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR SERIEMANIA", MOVISTAR SERIEMANIA
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3582
+#EXTINF:0 type="favorites" channelId="3813" name="ULTRA FAMILIA", ULTRA FAMILIA
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3585
+#EXTINF:0 type="favorites" channelId="3809" name="ULTRA KIDZ", ULTRA KIDZ
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3586
+#EXTINF:0 type="favorites" channelId="-1" name="CINE| A ESTRENAR FHD", CINE| A ESTRENAR FHD
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3699
+#EXTINF:0 type="favorites" channelId="-1" name="XXX | Hustler", XXX | Hustler
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/393
+#EXTINF:0 type="favorites" channelId="-1" name="XXX | Redlight", XXX | Redlight
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/856
+#EXTINF:0 type="favorites" channelId="-1" name="XXX | Penthouse Quickies", XXX | Penthouse Quickies
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/858
+#EXTINF:0 type="favorites" channelId="-1" name="XXX  | Dorcel XXX", XXX  | Dorcel XXX
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/862
+#EXTINF:0 type="favorites" channelId="-1" name="XXX | ADULTOS 12", XXX | ADULTOS 12
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/874
+#EXTINF:0 type="favorites" channelId="-1" name="XXX | Brazzers", XXX | Brazzers
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/390
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO FHD : DISCOVERY FAMILIA", LATINO FHD : DISCOVERY FAMILIA
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3134
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO FHD : DISCOVERY H&H", LATINO FHD : DISCOVERY H&H
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3135
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO FHD : FOX COMEDY (STAR COMEDY)", LATINO FHD : FOX COMEDY (STAR COMEDY)
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3139
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO FHD : HBO 2", LATINO FHD : HBO 2
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3146
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO FHD : HBO FAMILY", LATINO FHD : HBO FAMILY
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3147
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO FHD : HBO MUNDI", LATINO FHD : HBO MUNDI
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3148
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO FHD : HBO POP", LATINO FHD : HBO POP
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3149
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO FHD : HBO SIGNATURE", LATINO FHD : HBO SIGNATURE
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3150
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO FHD : HBO PLUS", LATINO FHD : HBO PLUS
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3151
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO FHD : HBO XTREME", LATINO FHD : HBO XTREME
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3152
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO FHD : ANIMAL PLANET", LATINO FHD : ANIMAL PLANET
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3131
+#EXTINF:0 type="favorites" channelId="-1" name="LATINO FHD : DISCOVERY THEATHER", LATINO FHD : DISCOVERY THEATHER
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3137
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR ESTRENOS HD ᴿ" group="|EU| ESPAÑA VIP" logo="http://xtitan.xyz:2082/images/dd94a3624f8f41e7a9ef3ee1abec6ea2.png", MOVISTAR ESTRENOS HD ᴿ
+http://topstb.com:8000/50656250782258/27115840859269/236840
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR ESTRENOS 2 FHD" group="|EU| ESPAÑA VIP" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s", MOVISTAR ESTRENOS 2 FHD
+http://topstb.com:8000/50656250782258/27115840859269/236837
+#EXTINF:0 type="favorites" channelId="1360" name="MOVISTAR COMEDIA HD" group="|EU| ESPAÑA VIP" logo="http://xtitan.xyz:2082/images/17ad467ec489133da03c6b3cb03f5d07.jpg", MOVISTAR COMEDIA HD
+http://topstb.com:8000/50656250782258/27115840859269/236832
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR DRAMA FHD" group="|EU| ESPAÑA VIP" logo="http://xtitan.xyz:2082/images/14c774786a0da8b3859c42408f63ab83.png", MOVISTAR DRAMA FHD
+http://topstb.com:8000/50656250782258/27115840859269/236828
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR CLASICOS HD" group="|EU| ESPAÑA VIP" logo="http://lara.iptvland.nl:80/images/305ea1a2ec900922e6cc1ef26fc0a52d.png", MOVISTAR CLASICOS HD
+http://topstb.com:8000/50656250782258/27115840859269/236825
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR CLASICOS FHD" group="|EU| ESPAÑA VIP" logo="http://lara.iptvland.nl:80/images/305ea1a2ec900922e6cc1ef26fc0a52d.png", MOVISTAR CLASICOS FHD
+http://topstb.com:8000/50656250782258/27115840859269/236824
+#EXTINF:0 type="favorites" channelId="1366" name="MOVISTAR  CINE ESPAÑOL" group="|EU| ESPAÑA VIP", MOVISTAR  CINE ESPAÑOL
+http://topstb.com:8000/50656250782258/27115840859269/236821
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR  SERIES 2 FHD" group="|EU| ESPAÑA VIP" logo="http://xtitan.xyz:2082/images/fa93244c9bffb41d922f5943147959e0.png", MOVISTAR  SERIES 2 FHD
+http://topstb.com:8000/50656250782258/27115840859269/236815
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR LA RESISTENCIA" group="|EU| ESPAÑA VIP", MOVISTAR LA RESISTENCIA
+http://topstb.com:8000/50656250782258/27115840859269/236806
+#EXTINF:0 type="favorites" channelId="-1" name="TNT FHD" group="|EU| ESPAÑA VIP" logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png", TNT FHD
+http://topstb.com:8000/50656250782258/27115840859269/236784
+#EXTINF:0 type="favorites" channelId="-1" name="FOX FHD" group="|EU| ESPAÑA VIP" logo="http://xtitan.xyz:2082/images/2b5421b3faae42999e766cb0736de3a3.jpg", FOX FHD
+http://topstb.com:8000/50656250782258/27115840859269/236777
+#EXTINF:0 type="favorites" channelId="-1" name="HOLLYWOOD FHD" group="|EU| ESPAÑA VIP" logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png", HOLLYWOOD FHD
+http://topstb.com:8000/50656250782258/27115840859269/236773
+#EXTINF:0 type="favorites" channelId="-1" name="BOM CINE FHD" group="|EU| ESPAÑA VIP", BOM CINE FHD
+http://topstb.com:8000/50656250782258/27115840859269/236771
+#EXTINF:0 type="favorites" channelId="2587" name="HBO XTREME" group="CINEMA PREMIUM" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO XTREME
+http://bulltv.us:2999/darlin/darlin/97
+#EXTINF:0 type="favorites" channelId="361" name="HBO POP" group="CINEMA PREMIUM" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png", HBO POP
+http://bulltv.us:2999/darlin/darlin/98
+#EXTINF:0 type="favorites" channelId="-1" name="ES || COSMOS HD" group="ESPAÑA SERIES", ES || COSMOS HD
+http://magmas5.com:8000/malotv/gratis/126379
+#EXTINF:0 type="favorites" channelId="-1" name="XXX:JASMIN TV" group="⛔ ADULTOS", XXX:JASMIN TV
+http://magmas5.com:8000/malotv/gratis/4259
+#EXTINF:0 type="favorites" channelId="1188" name="E!" group="Entretenimiento" logo="https://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg", E!
+http://bulltv.us:2999/darlin/darlin/58
+#EXTINF:0 type="favorites" channelId="177" name="FOX" group="Entretenimiento" logo="https://i.pinimg.com/280x280_RS/4e/a7/9c/4ea79c2b8eaaa0ed0b13000aeca9cab1.jpg", FOX
+http://bulltv.us:2999/darlin/darlin/69
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL CRIME" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png", UNIVERSAL CRIME
+http://bulltv.us:2999/darlin/darlin/70
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL CINEMA" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png", UNIVERSAL CINEMA
+http://bulltv.us:2999/darlin/darlin/71
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL REALITY" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png", UNIVERSAL REALITY
+http://bulltv.us:2999/darlin/darlin/73
+#EXTINF:0 type="favorites" channelId="1200" name="LIFETIME" group="Entretenimiento" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png", LIFETIME
+http://bulltv.us:2999/darlin/darlin/95
+#EXTINF:0 type="favorites" channelId="188" name="SONY" group="Entretenimiento" logo="https://cdn.mitvstatic.com/channels/co_sony_m.png", SONY
+http://bulltv.us:2999/darlin/darlin/112
+#EXTINF:0 type="favorites" channelId="383" name="SPACE" group="CINEMA PREMIUM" logo="https://www.foromedios.com/uploads/monthly_2020_07/large.321216179_space-tv(1).png.559057afa15fc73a34e57637b066b575.png", SPACE
+http://bulltv.us:2999/darlin/darlin/113
+#EXTINF:0 type="favorites" channelId="-1" name="ADULTOS 3" group="XXX ADULTOS" logo="https://st.depositphotos.com/1915171/3504/i/950/depositphotos_35046753-stock-photo-xxx-adults-only-content-sign.jpg", ADULTOS 3
+http://bulltv.us:2999/darlin/darlin/194
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL COMEDY (STAR COMEDY)" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/starcomedy.png", UNIVERSAL COMEDY (STAR COMEDY)
+http://bulltv.us:2999/darlin/darlin/12265
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR ESTRENOS 2 HD" group="|EU| ESPAÑA VIP" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s", MOVISTAR ESTRENOS 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/236838
+#EXTINF:0 type="favorites" channelId="2585" name="HBO PLUS" group="CINEMA PREMIUM" logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO PLUS
+http://bulltv.us:2999/darlin/darlin/90
+#EXTINF:0 type="favorites" channelId="2584" name="HBO FAMILY" group="CINEMA PREMIUM" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY
+http://bulltv.us:2999/darlin/darlin/89
+#EXTINF:0 type="favorites" channelId="935" name="HBO 2" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png", HBO 2
+http://bulltv.us:2999/darlin/darlin/88
+#EXTINF:0 type="favorites" channelId="1330" name="HBO" group="CINEMA PREMIUM" logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo.png", HBO
+http://bulltv.us:2999/darlin/darlin/87
+#EXTINF:0 type="favorites" channelId="3765" name="GOLDEN PLUS" group="CINEMA PREMIUM" logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png", GOLDEN PLUS
+http://bulltv.us:2999/darlin/darlin/86
+#EXTINF:0 type="favorites" channelId="1303" name="FX" group="Entretenimiento" logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg", FX
+http://bulltv.us:2999/darlin/darlin/80
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL PREMIERE" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png", UNIVERSAL PREMIERE
+http://bulltv.us:2999/darlin/darlin/75
+#EXTINF:0 type="favorites" channelId="67" name="DISCOVERY TLC" group="CULTURA" logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png", DISCOVERY TLC
+http://bulltv.us:2999/darlin/darlin/51
+#EXTINF:0 type="favorites" channelId="3727" name="AZ CINEMA" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png", AZ CINEMA
+http://bulltv.us:2999/darlin/darlin/22
+#EXTINF:0 type="favorites" channelId="2501" name="AMC" group="Entretenimiento" logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/08/amc-logo-2016.jpg", AMC
+http://bulltv.us:2999/darlin/darlin/16
+#EXTINF:0 type="favorites" channelId="-1" name="PARAMOUNT CHANNEL FHD" group="|EU| ESPAÑA VIP" logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png", PARAMOUNT CHANNEL FHD
+http://topstb.com:8000/50656250782258/27115840859269/236769
+#EXTINF:0 type="favorites" channelId="-1" name="HBO XTREME FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hboxtreme.png", HBO XTREME FHD
+http://bulltv.us:2999/darlin/darlin/12277
+#EXTINF:0 type="favorites" channelId="-1" name="HBO PLUS FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hboplus.png", HBO PLUS FHD
+http://bulltv.us:2999/darlin/darlin/12276
+#EXTINF:0 type="favorites" channelId="-1" name="HBO SIGNATURE FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbosignature.png", HBO SIGNATURE FHD
+http://bulltv.us:2999/darlin/darlin/12275
+#EXTINF:0 type="favorites" channelId="-1" name="HBO POP FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbopop.png", HBO POP FHD
+http://bulltv.us:2999/darlin/darlin/12274
+#EXTINF:0 type="favorites" channelId="-1" name="HBO MUNDI FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbomundi.png", HBO MUNDI FHD
+http://bulltv.us:2999/darlin/darlin/12273
+#EXTINF:0 type="favorites" channelId="-1" name="HBO FAMILY FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbofamily.png", HBO FAMILY FHD
+http://bulltv.us:2999/darlin/darlin/12272
+#EXTINF:0 type="favorites" channelId="-1" name="DISCOVERY H&H FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/discoveryh&h.png", DISCOVERY H&H FHD
+http://bulltv.us:2999/darlin/darlin/12262
+#EXTINF:0 type="favorites" channelId="2007" name="SONY MOVIE CHANNEL" group="Entretenimiento", SONY MOVIE CHANNEL
+http://bulltv.us:2999/darlin/darlin/36327
+#EXTINF:0 type="favorites" channelId="-1" name="STAR CHANEL" group="Latinos | USA", STAR CHANEL
+http://bulltv.us:2999/darlin/darlin/36282
+#EXTINF:0 type="favorites" channelId="4788" name="WINSPORTS +" group="Colombia" logo="https://www.futbolete.com/wp-content/uploads/2019/12/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600-1.jpg", WINSPORTS +
+http://bulltv.us:2999/darlin/darlin/268
+#EXTINF:0 type="favorites" channelId="895" name="TCM" group="CINEMA PREMIUM" logo="http://sincroguia-tv.expansion.com/uploads/images/t/c/m/tcm.jpg", TCM
+http://bulltv.us:2999/darlin/darlin/120
+#EXTINF:0 type="favorites" channelId="1952" name="DE PELICULA" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/958147557150089216/Jiah4faM_400x400.jpg", DE PELICULA
+http://bulltv.us:2999/darlin/darlin/41
+#EXTINF:0 type="favorites" channelId="-1" name="Dorcel XXX" group="XXX ADULTOS" logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/362x263-dorcel-xxx-36958.png", Dorcel XXX
+http://bulltv.us:2999/darlin/darlin/191
+#EXTINF:0 type="favorites" channelId="-1" name="18+" group="XXX ADULTOS" logo="https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png", 18+
+http://bulltv.us:2999/darlin/darlin/196
+#EXTINF:0 type="favorites" channelId="-1" name="Caracola TV" logo="https://www.m3u.cl/logo/1020_Caracola_TV.png", Caracola TV * | CL
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="Latino | A3S", Latino | A3S
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/41
+#EXTINF:0 type="favorites" channelId="-1" name="CINE| A ESTRENAR FHD" group="CINEMA PREMIUM", CINE| A ESTRENAR FHD
+http://bulltv.us:2999/darlin/darlin/36734
