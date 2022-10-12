@@ -1,0 +1,661 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1330", HBO
+http://bulltv.us:2999/darlin/darlin/87
+#EXTINF:0 type="stream" channelId="-1" name="24/7 TOM AND JERRY" group="24/7 CHANNELS", 24/7 TOM AND JERRY
+http://fortv.cc:8080/Rob/Rob2022/125635
+#EXTINF:0 type="stream" channelId="-1" name="24/7 LOONEY TUNES" group="24/7 CHANNELS", 24/7 LOONEY TUNES
+http://fortv.cc:8080/Rob/Rob2022/125638
+#EXTINF:0 type="stream" channelId="-1" name="US Cinemax (East)" group="MOVIE NETWORKS" logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", US Cinemax (East)
+http://fortv.cc:8080/Rob/Rob2022/13380
+#EXTINF:0 type="stream" channelId="-1" name="US EPIX2 (East)" group="MOVIE NETWORKS" logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png", US EPIX2 (East)
+http://fortv.cc:8080/Rob/Rob2022/12730
+#EXTINF:0 type="stream" channelId="-1" name="US Showtime East" group="MOVIE NETWORKS", US Showtime East
+http://fortv.cc:8080/Rob/Rob2022/46214
+#EXTINF:0 type="stream" channelId="-1" name="US Showtime Extreme (East) (SP)" group="MOVIE NETWORKS" logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png", US Showtime Extreme (East) (SP)
+http://fortv.cc:8080/Rob/Rob2022/13220
+#EXTINF:0 type="stream" channelId="-1" name="US Starz Cinema (East)" group="MOVIE NETWORKS" logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png", US Starz Cinema (East)
+http://fortv.cc:8080/Rob/Rob2022/17775
+#EXTINF:0 type="stream" channelId="-1" name="LAT: TELEMUNDO ORLANDO FLORIDAD HD" group="LATINO", LAT: TELEMUNDO ORLANDO FLORIDAD HD
+http://fortv.cc:8080/Rob/Rob2022/56430
+#EXTINF:0 type="stream" channelId="-1" name="MX | CNN" group="LATINO", MX | CNN
+http://fortv.cc:8080/Rob/Rob2022/57619
+#EXTINF:0 type="stream" channelId="-1" name="MX | Discovery Channel" group="LATINO", MX | Discovery Channel
+http://fortv.cc:8080/Rob/Rob2022/57625
+#EXTINF:0 type="stream" channelId="-1" name="MX (SD) TP DISTRITO COMEDIA" group="LATINO", MX (SD) TP DISTRITO COMEDIA
+http://fortv.cc:8080/Rob/Rob2022/57639
+#EXTINF:0 type="stream" channelId="-1" name="MX | TNT sports" group="LATINO", MX | TNT sports
+http://fortv.cc:8080/Rob/Rob2022/57719
+#EXTINF:0 type="stream" channelId="-1" name="MX Discovery H&H HD" group="LATINO", MX Discovery H&H HD
+http://fortv.cc:8080/Rob/Rob2022/66245
+#EXTINF:0 type="stream" channelId="-1" name="LAT: TELEMUNDO 51 MIAMI HD" group="LATINO", LAT: TELEMUNDO 51 MIAMI HD
+http://fortv.cc:8080/Rob/Rob2022/56410
+#EXTINF:0 type="stream" channelId="1954" name="LAS ESTRELLAS" group="LATINO", LAS ESTRELLAS
+http://fortv.cc:8080/Rob/Rob2022/82940
+#EXTINF:0 type="stream" channelId="-1" name="US Univision (East) (SP)" group="USA" logo="https://w7.pngwing.com/pngs/618/904/png-transparent-logo-univision-mexico-television-san-antonio-disney-junior-logo-television-text-logo.png", US Univision (East) (SP)
+http://fortv.cc:8080/Rob/Rob2022/15336
+#EXTINF:0 type="stream" channelId="-1" name="US UniMas   (F)" group="USA", US UniMas   (F)
+http://fortv.cc:8080/Rob/Rob2022/57969
+#EXTINF:0 type="stream" channelId="-1" name="US Telemundo 31 (WTMO) Orlando (F)" group="USA | NEWS | REGIONALS", US Telemundo 31 (WTMO) Orlando (F)
+http://fortv.cc:8080/Rob/Rob2022/139149
+#EXTINF:0 type="stream" channelId="67" name="DISCOVERY TLC" group="CULTURA" logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png", DISCOVERY TLC
+http://bulltv.us:2999/darlin/darlin/51
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY H&H" group="CULTURA" logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg", DISCOVERY H&H
+http://bulltv.us:2999/darlin/darlin/46
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY THEATER" group="CULTURA" logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png", DISCOVERY THEATER
+http://bulltv.us:2999/darlin/darlin/50
+#EXTINF:0 type="stream" channelId="4773" name="Caracol." group="Colombia" logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg", Caracol.
+http://bulltv.us:2999/darlin/darlin/254
+#EXTINF:0 type="stream" channelId="3783" name="RCN." group="Colombia" logo="https://www.valoraanalitik.com/wp-content/uploads/2018/07/RCNTV.jpg", RCN.
+http://bulltv.us:2999/darlin/darlin/255
+#EXTINF:0 type="stream" channelId="3780" name="NTN24." group="Colombia" logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png", NTN24.
+http://bulltv.us:2999/darlin/darlin/257
+#EXTINF:0 type="stream" channelId="1409" name="CITY TV." group="Colombia" logo="https://m.eltiempo.com/uploads/2017/09/06/59afb1bde5508.png", CITY TV.
+http://bulltv.us:2999/darlin/darlin/261
+#EXTINF:0 type="stream" channelId="4745" name="TELEANTIOQUIA" group="Colombia" logo="https://img.new.livestream.com/accounts/00000000008fda44/dac7e231-0eea-489f-8123-7eb57fe1aef7.jpg", TELEANTIOQUIA
+http://bulltv.us:2999/darlin/darlin/264
+#EXTINF:0 type="stream" channelId="4785" name="TELECARIBE" group="Colombia" logo="https://1.bp.blogspot.com/-DjzjiL_KtLU/XnuXWQZu4sI/AAAAAAAAWdI/EuRODcEXf4QhShf-PRsdwSkF8Eo2je3cwCLcBGAsYHQ/s1600/descarga.jpg", TELECARIBE
+http://bulltv.us:2999/darlin/darlin/265
+#EXTINF:0 type="stream" channelId="4788" name="WINSPORTS +" group="Colombia" logo="https://www.futbolete.com/wp-content/uploads/2019/12/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600-1.jpg", WINSPORTS +
+http://bulltv.us:2999/darlin/darlin/268
+#EXTINF:0 type="stream" channelId="4752" name="CANAL UNO" group="Ecuador" logo="https://i.pinimg.com/originals/44/56/03/445603f1f3be3708d3bf74ec435376fb.png", CANAL UNO
+http://bulltv.us:2999/darlin/darlin/355
+#EXTINF:0 type="stream" channelId="4746" name="ECUADOR TV" group="Ecuador" logo="https://live-tv-channels.org/pt-data/uploads/logo/ec-ecuador-tv-5198.jpg", ECUADOR TV
+http://bulltv.us:2999/darlin/darlin/356
+#EXTINF:0 type="stream" channelId="2686" name="TNT Series" group="Ecuador" logo="https://assets.elimparcial.com/__export/1562611313007/sites/elimparcial/img/2019/07/08/tnt-series_crop1562611186225.png_423682103.png", TNT Series
+http://bulltv.us:2999/darlin/darlin/365
+#EXTINF:0 type="stream" channelId="3727" name="AZ CINEMA" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png", AZ CINEMA
+http://bulltv.us:2999/darlin/darlin/22
+#EXTINF:0 type="stream" channelId="64" name="CINECANAL" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png", CINECANAL
+http://bulltv.us:2999/darlin/darlin/36
+#EXTINF:0 type="stream" channelId="283" name="CINELATINO" group="CINEMA PREMIUM" logo="https://lasemanadelsur.com/wp-content/uploads/2018/10/cine_02-web.jpg", CINELATINO
+http://bulltv.us:2999/darlin/darlin/37
+#EXTINF:0 type="stream" channelId="1326" name="CINEMAX" group="CINEMA PREMIUM" logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg", CINEMAX
+http://bulltv.us:2999/darlin/darlin/38
+#EXTINF:0 type="stream" channelId="1952" name="DE PELICULA" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/958147557150089216/Jiah4faM_400x400.jpg", DE PELICULA
+http://bulltv.us:2999/darlin/darlin/41
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CRIME" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png", UNIVERSAL CRIME
+http://bulltv.us:2999/darlin/darlin/70
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CINEMA" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png", UNIVERSAL CINEMA
+http://bulltv.us:2999/darlin/darlin/71
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL REALITY" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png", UNIVERSAL REALITY
+http://bulltv.us:2999/darlin/darlin/73
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL PREMIERE" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png", UNIVERSAL PREMIERE
+http://bulltv.us:2999/darlin/darlin/75
+#EXTINF:0 type="stream" channelId="3765" name="GOLDEN PLUS" group="CINEMA PREMIUM" logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png", GOLDEN PLUS
+http://bulltv.us:2999/darlin/darlin/86
+#EXTINF:0 type="stream" channelId="2584" name="HBO FAMILY" group="CINEMA PREMIUM" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY
+http://bulltv.us:2999/darlin/darlin/89
+#EXTINF:0 type="stream" channelId="2585" name="HBO PLUS" group="CINEMA PREMIUM" logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO PLUS
+http://bulltv.us:2999/darlin/darlin/90
+#EXTINF:0 type="stream" channelId="2587" name="HBO XTREME" group="CINEMA PREMIUM" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO XTREME
+http://bulltv.us:2999/darlin/darlin/97
+#EXTINF:0 type="stream" channelId="935" name="HBO 2" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png", HBO 2
+http://bulltv.us:2999/darlin/darlin/88
+#EXTINF:0 type="stream" channelId="383" name="SPACE" group="CINEMA PREMIUM" logo="https://www.foromedios.com/uploads/monthly_2020_07/large.321216179_space-tv(1).png.559057afa15fc73a34e57637b066b575.png", SPACE
+http://bulltv.us:2999/darlin/darlin/113
+#EXTINF:0 type="stream" channelId="3226" name="STARZ" group="CINEMA PREMIUM" logo="https://sm.pcmag.com/pcmag_uk/review/s/starz-revi/starz-review_33md.png", STARZ
+http://bulltv.us:2999/darlin/darlin/114
+#EXTINF:0 type="stream" channelId="3227" name="STARZ ENCORE" group="CINEMA PREMIUM" logo="https://tvseriesfinale.com/wp-content/uploads/2019/12/starz.jpg", STARZ ENCORE
+http://bulltv.us:2999/darlin/darlin/115
+#EXTINF:0 type="stream" channelId="2625" name="STUDIO UNIVERSAL" group="CINEMA PREMIUM" logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg", STUDIO UNIVERSAL
+http://bulltv.us:2999/darlin/darlin/116
+#EXTINF:0 type="stream" channelId="73" name="SYFY" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/mx_fox-sy-fy_m.png", SYFY
+http://bulltv.us:2999/darlin/darlin/118
+#EXTINF:0 type="stream" channelId="895" name="TCM" group="CINEMA PREMIUM" logo="http://sincroguia-tv.expansion.com/uploads/images/t/c/m/tcm.jpg", TCM
+http://bulltv.us:2999/darlin/darlin/120
+#EXTINF:0 type="stream" channelId="-1" name="USA -L | CINE SUREÑO" group="CINEMA PREMIUM" logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png", USA -L | CINE SUREÑO
+http://bulltv.us:2999/darlin/darlin/237
+#EXTINF:0 type="stream" channelId="-1" name="USA -L | TOP CINE" group="CINEMA PREMIUM" logo="https://bandnatal.files.wordpress.com/2012/02/top-cine.jpg", USA -L | TOP CINE
+http://bulltv.us:2999/darlin/darlin/238
+#EXTINF:0 type="stream" channelId="-1" name="USA -L | HORRORIFY" group="CINEMA PREMIUM" logo="https://ae01.alicdn.com/kf/HTB18aPhJpXXXXc3XpXXq6xXFXXXI/Calcoman-a-de-vinilo-para-pared-de-cine-pel-cula-cine-citas-Adhesivo-de-pared-con.jpg", USA -L | HORRORIFY
+http://bulltv.us:2999/darlin/darlin/240
+#EXTINF:0 type="stream" channelId="1052" name="TNT" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/1330728097348538368/i6cFKl8w_400x400.jpg", TNT
+http://bulltv.us:2999/darlin/darlin/243
+#EXTINF:0 type="stream" channelId="333" name="GOLDEN" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/mx_golden_m.png", GOLDEN
+http://bulltv.us:2999/darlin/darlin/244
+#EXTINF:0 type="stream" channelId="1963" name="GOLDEN PREMIER" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg", GOLDEN PREMIER
+http://bulltv.us:2999/darlin/darlin/245
+#EXTINF:0 type="stream" channelId="2583" name="HBO SIGNATURE" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png", HBO SIGNATURE
+http://bulltv.us:2999/darlin/darlin/246
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL COMEDY" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-comedy_m.png", UNIVERSAL COMEDY
+http://bulltv.us:2999/darlin/darlin/247
+#EXTINF:0 type="stream" channelId="187" name="Universal Channel" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/49045732/logo-universal-channel.jpg", Universal Channel
+http://bulltv.us:2999/darlin/darlin/248
+#EXTINF:0 type="stream" channelId="2725" name="HBO MUNDI" group="CINEMA PREMIUM" logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png", HBO MUNDI
+http://bulltv.us:2999/darlin/darlin/250
+#EXTINF:0 type="stream" channelId="1719" name="Paramount" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/1249929366353649669/c_MyBiGs.jpg", Paramount
+http://bulltv.us:2999/darlin/darlin/251
+#EXTINF:0 type="stream" channelId="-1" name="FILMS ART" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/1115324965681868800/7ks7jt6l_400x400.png", FILMS ART
+http://bulltv.us:2999/darlin/darlin/252
+#EXTINF:0 type="stream" channelId="1359" name="MOVISTAR ACCION" group="CINEMA PREMIUM", MOVISTAR ACCION
+http://bulltv.us:2999/darlin/darlin/36605
+#EXTINF:0 type="stream" channelId="1360" name="MOVISTAR COMEDIA" group="CINEMA PREMIUM", MOVISTAR COMEDIA
+http://bulltv.us:2999/darlin/darlin/36606
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR DISNEY" group="CINEMA PREMIUM", MOVISTAR DISNEY
+http://bulltv.us:2999/darlin/darlin/36608
+#EXTINF:0 type="stream" channelId="1361" name="MOVISTAR DRAMA" group="CINEMA PREMIUM", MOVISTAR DRAMA
+http://bulltv.us:2999/darlin/darlin/36609
+#EXTINF:0 type="stream" channelId="1378" name="MOVISTAR ESTRENOS" group="CINEMA PREMIUM", MOVISTAR ESTRENOS
+http://bulltv.us:2999/darlin/darlin/36610
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR SERIEMANIA" group="CINEMA PREMIUM", MOVISTAR SERIEMANIA
+http://bulltv.us:2999/darlin/darlin/36611
+#EXTINF:0 type="stream" channelId="3813" name="ULTRA FAMILIA" group="CINEMA PREMIUM", ULTRA FAMILIA
+http://bulltv.us:2999/darlin/darlin/36614
+#EXTINF:0 type="stream" channelId="3809" name="ULTRA KIDZ" group="CINEMA PREMIUM", ULTRA KIDZ
+http://bulltv.us:2999/darlin/darlin/36615
+#EXTINF:0 type="stream" channelId="-1" name="CINE| A ESTRENAR FHD" group="CINEMA PREMIUM", CINE| A ESTRENAR FHD
+http://bulltv.us:2999/darlin/darlin/36734
+#EXTINF:0 type="stream" channelId="-1" name="Redlight" group="XXX ADULTOS" logo="https://www.dreamportugal.pt/image/cache/catalog/Logos/redlight-tv-logo-200x200.jpg", Redlight
+http://bulltv.us:2999/darlin/darlin/187
+#EXTINF:0 type="stream" channelId="-1" name="Dorcel XXX" group="XXX ADULTOS" logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/362x263-dorcel-xxx-36958.png", Dorcel XXX
+http://bulltv.us:2999/darlin/darlin/191
+#EXTINF:0 type="stream" channelId="-1" name="ADULTOS 3" group="XXX ADULTOS" logo="https://st.depositphotos.com/1915171/3504/i/950/depositphotos_35046753-stock-photo-xxx-adults-only-content-sign.jpg", ADULTOS 3
+http://bulltv.us:2999/darlin/darlin/194
+#EXTINF:0 type="stream" channelId="-1" name="HBO XTREME FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hboxtreme.png", HBO XTREME FHD
+http://bulltv.us:2999/darlin/darlin/12277
+#EXTINF:0 type="stream" channelId="-1" name="HBO PLUS FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hboplus.png", HBO PLUS FHD
+http://bulltv.us:2999/darlin/darlin/12276
+#EXTINF:0 type="stream" channelId="-1" name="HBO SIGNATURE FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbosignature.png", HBO SIGNATURE FHD
+http://bulltv.us:2999/darlin/darlin/12275
+#EXTINF:0 type="stream" channelId="-1" name="HBO POP FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbopop.png", HBO POP FHD
+http://bulltv.us:2999/darlin/darlin/12274
+#EXTINF:0 type="stream" channelId="-1" name="HBO MUNDI FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbomundi.png", HBO MUNDI FHD
+http://bulltv.us:2999/darlin/darlin/12273
+#EXTINF:0 type="stream" channelId="-1" name="HBO FAMILY FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbofamily.png", HBO FAMILY FHD
+http://bulltv.us:2999/darlin/darlin/12272
+#EXTINF:0 type="stream" channelId="-1" name="HBO FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbo.png", HBO FHD
+http://bulltv.us:2999/darlin/darlin/12271
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CINEMA ( STAR CINEMA)" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/starcinema.png", UNIVERSAL CINEMA ( STAR CINEMA)
+http://bulltv.us:2999/darlin/darlin/12270
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL COMEDY (STAR COMEDY)" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/starcomedy.png", UNIVERSAL COMEDY (STAR COMEDY)
+http://bulltv.us:2999/darlin/darlin/12265
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY THEATHER FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/discoverytheater.png", DISCOVERY THEATHER FHD
+http://bulltv.us:2999/darlin/darlin/12263
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY H&H FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/discoveryh&h.png", DISCOVERY H&H FHD
+http://bulltv.us:2999/darlin/darlin/12262
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY FAMILIA FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/discoveryfamilia.png", DISCOVERY FAMILIA FHD
+http://bulltv.us:2999/darlin/darlin/12261
+#EXTINF:0 type="stream" channelId="-1" name="HGTV FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/HGTV.png", HGTV FHD
+http://bulltv.us:2999/darlin/darlin/12260
+#EXTINF:0 type="stream" channelId="-1" name="ANIMAL PLANET FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/animalplanet.png", ANIMAL PLANET FHD
+http://51.222.25.50:2999/BULLN3W/c3xmQXEyqf/3131
+#EXTINF:0 type="stream" channelId="2840" name="DISCOVERY TURBO" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/discoveryturbo.png", DISCOVERY TURBO
+http://bulltv.us:2999/darlin/darlin/12258
+#EXTINF:0 type="stream" channelId="-1" name="EL PRINCIPE DEL RAP" group="24/7" logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg", EL PRINCIPE DEL RAP
+http://bulltv.us:2999/darlin/darlin/156
+#EXTINF:0 type="stream" channelId="-1" name="The Big Bang Theory" group="24/7" logo="https://www.formulatv.com/images/series/posters/100/185/14_m3.jpg", The Big Bang Theory
+http://bulltv.us:2999/darlin/darlin/158
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | El Show de Garfield" group="24/7", 24/7 | El Show de Garfield
+http://bulltv.us:2999/darlin/darlin/36325
+#EXTINF:0 type="stream" channelId="-1" name="Lilo & Stitch" group="24/7", Lilo & Stitch
+http://bulltv.us:2999/darlin/darlin/36556
+#EXTINF:0 type="stream" channelId="-1" name="A3S" group="Entretenimiento" logo="https://www.cineytele.com/wp-content/uploads/2016/12/AtresSerie-Logo.jpg", A3S
+http://bulltv.us:2999/darlin/darlin/13
+#EXTINF:0 type="stream" channelId="2501" name="AMC" group="Entretenimiento" logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/08/amc-logo-2016.jpg", AMC
+http://bulltv.us:2999/darlin/darlin/16
+#EXTINF:0 type="stream" channelId="2124" name="ANTENA 3" group="Entretenimiento" logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg", ANTENA 3
+http://bulltv.us:2999/darlin/darlin/18
+#EXTINF:0 type="stream" channelId="1573" name="AXN" group="Entretenimiento" logo="https://brandemia.org/sites/default/files/nuevo_logo_axn_2.jpg", AXN
+http://bulltv.us:2999/darlin/darlin/19
+#EXTINF:0 type="stream" channelId="1574" name="AXN WHITE" group="Entretenimiento" logo="https://pbs.twimg.com/profile_images/1334801686309838850/zH4L2hgp.jpg", AXN WHITE
+http://bulltv.us:2999/darlin/darlin/20
+#EXTINF:0 type="stream" channelId="2840" name="DISCOVERY TURBO" group="Entretenimiento" logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg", DISCOVERY TURBO
+http://bulltv.us:2999/darlin/darlin/52
+#EXTINF:0 type="stream" channelId="1961" name="DISTRITO COMEDIA" group="Entretenimiento" logo="https://forounivers.com/uploads/monthly_2018_10/large.Distrito_comedia2018.png.2134b7cf7371cfacfd887b32228d20ec.png", DISTRITO COMEDIA
+http://bulltv.us:2999/darlin/darlin/57
+#EXTINF:0 type="stream" channelId="1188" name="E!" group="Entretenimiento" logo="https://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg", E!
+http://bulltv.us:2999/darlin/darlin/58
+#EXTINF:0 type="stream" channelId="-1" name="ESTRELLA TV" group="Entretenimiento" logo="https://s03.s3c.es/imag/_v0/770x420/8/b/b/600x400_Estrella-TV-770.jpg", ESTRELLA TV
+http://bulltv.us:2999/darlin/darlin/66
+#EXTINF:0 type="stream" channelId="177" name="FOX" group="Entretenimiento" logo="https://i.pinimg.com/280x280_RS/4e/a7/9c/4ea79c2b8eaaa0ed0b13000aeca9cab1.jpg", FOX
+http://bulltv.us:2999/darlin/darlin/69
+#EXTINF:0 type="stream" channelId="1303" name="FX" group="Entretenimiento" logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg", FX
+http://bulltv.us:2999/darlin/darlin/80
+#EXTINF:0 type="stream" channelId="3215" name="FXM" group="Entretenimiento" logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg", FXM
+http://bulltv.us:2999/darlin/darlin/81
+#EXTINF:0 type="stream" channelId="1957" name="GALA TV" group="Entretenimiento" logo="https://logopond.com/logos/b65f4139bec8707292f37b13d24c7081.png", GALA TV
+http://bulltv.us:2999/darlin/darlin/82
+#EXTINF:0 type="stream" channelId="3763" name="GLITZ" group="Entretenimiento" logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png", GLITZ
+http://bulltv.us:2999/darlin/darlin/83
+#EXTINF:0 type="stream" channelId="3713" name="HOLA TV" group="Entretenimiento" logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png", HOLA TV
+http://bulltv.us:2999/darlin/darlin/93
+#EXTINF:0 type="stream" channelId="1200" name="LIFETIME" group="Entretenimiento" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png", LIFETIME
+http://bulltv.us:2999/darlin/darlin/95
+#EXTINF:0 type="stream" channelId="3775" name="MASCHIC" group="Entretenimiento" logo="https://pbs.twimg.com/profile_images/616231967407906816/hFYp8Jq9_400x400.jpg", MASCHIC
+http://bulltv.us:2999/darlin/darlin/96
+#EXTINF:0 type="stream" channelId="4661" name="PASIONES" group="Entretenimiento" logo="https://cdn.mitvstatic.com/channels/1769eb87-a655-4ab6-99f5-343640682ce5_m.jpg", PASIONES
+http://bulltv.us:2999/darlin/darlin/108
+#EXTINF:0 type="stream" channelId="188" name="SONY" group="Entretenimiento" logo="https://cdn.mitvstatic.com/channels/co_sony_m.png", SONY
+http://bulltv.us:2999/darlin/darlin/112
+#EXTINF:0 type="stream" channelId="2054" name="Sundance" group="Entretenimiento" logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/01/Sundance-TV.png", Sundance
+http://bulltv.us:2999/darlin/darlin/117
+#EXTINF:0 type="stream" channelId="3228" name="TBS" group="Entretenimiento" logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png", TBS
+http://bulltv.us:2999/darlin/darlin/119
+#EXTINF:0 type="stream" channelId="1208" name="A&E" group="Entretenimiento" logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png", A&E
+http://bulltv.us:2999/darlin/darlin/6
+#EXTINF:0 type="stream" channelId="2557" name="WARNER" group="Entretenimiento" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png", WARNER
+http://bulltv.us:2999/darlin/darlin/366
+#EXTINF:0 type="stream" channelId="2626" name="TruTV" group="Entretenimiento" logo="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png", TruTV
+http://bulltv.us:2999/darlin/darlin/367
+#EXTINF:0 type="stream" channelId="388" name="Unicable" group="Entretenimiento" logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png", Unicable
+http://bulltv.us:2999/darlin/darlin/368
+#EXTINF:0 type="stream" channelId="-1" name="UNIVISION TLENOVELAS" group="Entretenimiento" logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg", UNIVISION TLENOVELAS
+http://bulltv.us:2999/darlin/darlin/371
+#EXTINF:0 type="stream" channelId="2007" name="SONY MOVIE CHANNEL" group="Entretenimiento", SONY MOVIE CHANNEL
+http://bulltv.us:2999/darlin/darlin/36327
+#EXTINF:0 type="stream" channelId="-1" name="SONY NOVELAS" group="Entretenimiento" logo="https://www.icomedios.com/sites/default/files/1024px-Canal_Sony_HD_logo.png", SONY NOVELAS
+http://bulltv.us:2999/darlin/darlin/1307
+#EXTINF:0 type="stream" channelId="-1" name="SONY COMEDIAS" group="Entretenimiento" logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY COMEDIAS
+http://bulltv.us:2999/darlin/darlin/1306
+#EXTINF:0 type="stream" channelId="-1" name="SONY COMPETENCIAS" group="Entretenimiento" logo="https://plataformas.news/online/nota_spt-renueva-su-marca-a-sony-channel.jpg", SONY COMPETENCIAS
+http://bulltv.us:2999/darlin/darlin/1305
+#EXTINF:0 type="stream" channelId="-1" name="WILLAX TV" group="Peru" logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png", WILLAX TV
+http://bulltv.us:2999/darlin/darlin/681
+#EXTINF:0 type="stream" channelId="962" name="ATV +" group="Peru" logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-atv-5885.jpg", ATV +
+http://bulltv.us:2999/darlin/darlin/682
+#EXTINF:0 type="stream" channelId="-1" name="PANAMERICANA" group="Peru" logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV-300x300.jpg", PANAMERICANA
+http://bulltv.us:2999/darlin/darlin/684
+#EXTINF:0 type="stream" channelId="-1" name="PERU MAGICO" group="Peru" logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/per-mgico-en-vivo-1386.png", PERU MAGICO
+http://bulltv.us:2999/darlin/darlin/685
+#EXTINF:0 type="stream" channelId="2546" name="AMERICA TV" group="Peru" logo="https://storage.googleapis.com/codigo_bucket/wp-content/uploads/2016/06/13346669_1174860755869071_7047790150589259625_n.png", AMERICA TV
+http://bulltv.us:2999/darlin/darlin/692
+#EXTINF:0 type="stream" channelId="-1" name="ANTARES TV" group="Peru" logo="https://moyobamba.com/wp-content/uploads/2020/05/antarestv-mnc.png", ANTARES TV
+http://bulltv.us:2999/darlin/darlin/694
+#EXTINF:0 type="stream" channelId="-1" name="DIRECTV SPORTS" group="Peru" logo="https://pbs.twimg.com/profile_images/1335010852181860352/wV_lHG2W.jpg", DIRECTV SPORTS
+http://bulltv.us:2999/darlin/darlin/17021
+#EXTINF:0 type="stream" channelId="-1" name="ECUAVISA INTERNACIONAL" group="Ecuador" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png", ECUAVISA INTERNACIONAL
+http://bulltv.us:2999/darlin/darlin/359
+#EXTINF:0 type="stream" channelId="4744" name="RTS" group="Ecuador" logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png", RTS
+http://bulltv.us:2999/darlin/darlin/361
+#EXTINF:0 type="stream" channelId="4748" name="TC TELEVISION" group="Ecuador" logo="https://i.pinimg.com/originals/bc/8e/14/bc8e14348424cc7c2dae4feec71e5a27.jpg", TC TELEVISION
+http://bulltv.us:2999/darlin/darlin/362
+#EXTINF:0 type="stream" channelId="-1" name="CINE | HBO MUNDI HD (mv)" group="CINE" logo="http://tv.streamid.ga:8080/images/ab81cb3e1f5f55ad886bde01dcde7724.png", CINE | HBO MUNDI HD (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58804
+#EXTINF:0 type="stream" channelId="-1" name="CINE | HBO PLUS HD (mv)" group="CINE" logo="http://tv.streamid.ga:8080/images/efb429f49591f00a44ea4e14e93d56a0.png", CINE | HBO PLUS HD (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58806
+#EXTINF:0 type="stream" channelId="-1" name="CINE | HBO POP HD (mv)" group="CINE" logo="http://tv.streamid.ga:8080/images/d59693b0315c2130b34fe6aea38f89fe.png", CINE | HBO POP HD (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58807
+#EXTINF:0 type="stream" channelId="-1" name="CINE | HBO POP* HD (mv)" group="CINE" logo="http://tv.streamid.tv:8080/images/97e21068a9bab4e4cce283960b479925.png", CINE | HBO POP* HD (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58808
+#EXTINF:0 type="stream" channelId="-1" name="CINE | HBO SUBTITULADO FHD (mv)" group="CINE" logo="http://tv.streamid.ga:8080/images/009add9e17a20277ee78bdc91283b44a.png", CINE | HBO SUBTITULADO FHD (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58811
+#EXTINF:0 type="stream" channelId="-1" name="CINE | LIFETIME FHD (mv)" group="CINE" logo="http://tv.streamid.ga:8080/images/98a2245eb8327ea202772dee3062f094.png", CINE | LIFETIME FHD (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58746
+#EXTINF:0 type="stream" channelId="-1" name="CINE | MAX PRIME FHD (mv)" group="CINE" logo="http://tv.streamid.ga:8080/images/d7f7ca1be3e946feb833b28aead08617.png", CINE | MAX PRIME FHD (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58815
+#EXTINF:0 type="stream" channelId="-1" name="CINE | Sony Channel SD (P)" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png", CINE | Sony Channel SD (P)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/1948
+#EXTINF:0 type="stream" channelId="-1" name="CINE | SONY FHD MEXICO (mv)" group="CINE" logo="http://tv.streamid.ga:8080/images/9ae2767f15b15da469c307585dd350c0.png", CINE | SONY FHD MEXICO (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58820
+#EXTINF:0 type="stream" channelId="-1" name="CINE | SPACE (LT)" group="CINE" logo="https://tvnotiblog.com/wp-content/uploads/2011/10/canal-space-890x501.jpg", CINE | SPACE (LT)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/4871
+#EXTINF:0 type="stream" channelId="-1" name="CINE | STUDIO UNIVERSAL HD (mv)" group="CINE" logo="http://tv.streamid.ga:8080/images/0ebb697a60717af3c135a8ebb1cf8730.png", CINE | STUDIO UNIVERSAL HD (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58825
+#EXTINF:0 type="stream" channelId="-1" name="CINE | TBS HD (mv)" group="CINE" logo="http://tv.streamid.ga:8080/images/1baabb2d7586fb25feb0a8378df0e12a.png", CINE | TBS HD (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58829
+#EXTINF:0 type="stream" channelId="-1" name="CINE | TCM HD (mv)" group="CINE" logo="http://tv.streamid.ga:8080/images/481ee88402266fde60880abc1b4f7a48.png", CINE | TCM HD (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58830
+#EXTINF:0 type="stream" channelId="-1" name="CINE | TNT  FHD (mv)" group="CINE" logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png", CINE | TNT  FHD (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58831
+#EXTINF:0 type="stream" channelId="-1" name="CINE | TNT SD (P)" group="CINE" logo="https://www.broadcastingcable.com/.image/t_share/MTU3MjM4MTk0MDkyMzg1NjA2/tnt_resized_bc.jpg", CINE | TNT SD (P)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/1957
+#EXTINF:0 type="stream" channelId="-1" name="CINE | WARNER FHD LATINO (mv)" group="CINE" logo="http://tv.streamid.ga:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png", CINE | WARNER FHD LATINO (mv)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58836
+#EXTINF:0 type="stream" channelId="4586" name="DISCOVERY FAMILIA" group="CULTURA" logo="https://pbs.twimg.com/profile_images/694917796208070660/yLTulGF__400x400.png", DISCOVERY FAMILIA
+http://bulltv.us:2999/darlin/darlin/45
+#EXTINF:0 type="favorites" channelId="-1" name="US STARZ ENCORE Black" group="MOVIE NETWORKS" logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png", US STARZ ENCORE Black
+http://fortv.cc:8080/Rob/Rob2022/16141
+#EXTINF:0 type="favorites" channelId="3224" name="USA:  Showtime NEXT" group="MOVIE NETWORKS" logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" country="us", Showtime NEXT
+http://fortv.cc:8080/Rob/Rob2022/9316
+#EXTINF:0 type="favorites" channelId="-1" name="Carib SPORT MAX2 (P)" group="Caribbean", Carib SPORT MAX2 (P)
+http://fortv.cc:8080/Rob/Rob2022/78917
+#EXTINF:0 type="favorites" channelId="-1" name="US Freeform East" group="USA" logo="https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png", US Freeform East
+http://fortv.cc:8080/Rob/Rob2022/13370
+#EXTINF:0 type="favorites" channelId="-1" name="US Latin Galavision" group="USA", US Latin Galavision
+http://fortv.cc:8080/Rob/Rob2022/58770
+#EXTINF:0 type="favorites" channelId="-1" name="US Univision (East) (SP)" group="USA", US Univision (East) (SP)
+http://fortv.cc:8080/Rob/Rob2022/46692
+#EXTINF:0 type="favorites" channelId="-1" name="US WAPA America (SP)" group="USA", US WAPA America (SP)
+http://fortv.cc:8080/Rob/Rob2022/76481
+#EXTINF:0 type="favorites" channelId="-1" name="US TUDN (SP)" group="USA", US TUDN (SP)
+http://fortv.cc:8080/Rob/Rob2022/82241
+#EXTINF:0 type="favorites" channelId="-1" name="US Latin Univision" group="USA", US Latin Univision
+http://fortv.cc:8080/Rob/Rob2022/108248
+#EXTINF:0 type="favorites" channelId="-1" name="US Telemundo (KUTU) Tulsa" group="USA | NEWS | REGIONALS", US Telemundo (KUTU) Tulsa
+http://fortv.cc:8080/Rob/Rob2022/120768
+#EXTINF:0 type="favorites" channelId="-1" name="TX | San Antonio | UNIVISION KWEX" group="USA | NEWS | REGIONALS", TX | San Antonio | UNIVISION KWEX
+http://fortv.cc:8080/Rob/Rob2022/120818
+#EXTINF:0 type="favorites" channelId="361" name="HBO POP" group="CINEMA PREMIUM" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png", HBO POP
+http://bulltv.us:2999/darlin/darlin/98
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: A GIRL KNOWS" group="XXX CHANNELS", PORNBOX: A GIRL KNOWS
+http://fortv.cc:8080/Rob/Rob2022/159953
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: ADULT TIME" group="XXX CHANNELS", PORNBOX: ADULT TIME
+http://fortv.cc:8080/Rob/Rob2022/159954
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: ALL BLACK X" group="XXX CHANNELS", PORNBOX: ALL BLACK X
+http://fortv.cc:8080/Rob/Rob2022/159955
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: ALL GROUP SEX" group="XXX CHANNELS", PORNBOX: ALL GROUP SEX
+http://fortv.cc:8080/Rob/Rob2022/159956
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: ANALIZED" group="XXX CHANNELS", PORNBOX: ANALIZED
+http://fortv.cc:8080/Rob/Rob2022/159958
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: BABES" group="XXX CHANNELS", PORNBOX: BABES
+http://fortv.cc:8080/Rob/Rob2022/159959
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: BANG BROS NETWORK" group="XXX CHANNELS", PORNBOX: BANG BROS NETWORK
+http://fortv.cc:8080/Rob/Rob2022/159960
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: BIPHORIA" group="XXX CHANNELS", PORNBOX: BIPHORIA
+http://fortv.cc:8080/Rob/Rob2022/159961
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: BLACKED" group="XXX CHANNELS", PORNBOX: BLACKED
+http://fortv.cc:8080/Rob/Rob2022/159962
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: BLOW ME POV" group="XXX CHANNELS", PORNBOX: BLOW ME POV
+http://fortv.cc:8080/Rob/Rob2022/159963
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: BOX OF PORN" group="XXX CHANNELS", PORNBOX: BOX OF PORN
+http://fortv.cc:8080/Rob/Rob2022/159964
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: BRATTY SIS" group="XXX CHANNELS", PORNBOX: BRATTY SIS
+http://fortv.cc:8080/Rob/Rob2022/159965
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: BRAZZERS" group="XXX CHANNELS", PORNBOX: BRAZZERS
+http://fortv.cc:8080/Rob/Rob2022/159966
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: BUMS BUS" group="XXX CHANNELS", PORNBOX: BUMS BUS
+http://fortv.cc:8080/Rob/Rob2022/159967
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: CASTING COUCH" group="XXX CHANNELS", PORNBOX: CASTING COUCH
+http://fortv.cc:8080/Rob/Rob2022/159968
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: DAGFS" group="XXX CHANNELS", PORNBOX: DAGFS
+http://fortv.cc:8080/Rob/Rob2022/159970
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: DDF BUSTY" group="XXX CHANNELS", PORNBOX: DDF BUSTY
+http://fortv.cc:8080/Rob/Rob2022/159971
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: CUM 4K" group="XXX CHANNELS", PORNBOX: CUM 4K
+http://fortv.cc:8080/Rob/Rob2022/159969
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: DIABOLIC" group="XXX CHANNELS", PORNBOX: DIABOLIC
+http://fortv.cc:8080/Rob/Rob2022/159972
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: DIGITAL PLAYGROUND" group="XXX CHANNELS", PORNBOX: DIGITAL PLAYGROUND
+http://fortv.cc:8080/Rob/Rob2022/159973
+#EXTINF:0 type="favorites" channelId="50" name="ANIMAL PLANET" group="CULTURA" logo="https://www.tv.maocal.com/images/animal.png", ANIMAL PLANET
+http://bulltv.us:2999/darlin/darlin/17
+#EXTINF:0 type="favorites" channelId="57" name="DISCOVERY CHANNEL" group="CULTURA" logo="https://pbs.twimg.com/profile_images/49017252/Discovery-logo.jpg", DISCOVERY CHANNEL
+http://bulltv.us:2999/darlin/darlin/42
+#EXTINF:0 type="favorites" channelId="1418" name="HGTV" group="CULTURA" logo="http://bulltv.us/logoscanales/HGTV.png", HGTV
+http://bulltv.us:2999/darlin/darlin/43
+#EXTINF:0 type="favorites" channelId="-1" name="DISCOVERY EN ESPAÑOL" group="CULTURA" logo="https://pbs.twimg.com/profile_images/49017252/Discovery-logo.jpg", DISCOVERY EN ESPAÑOL
+http://bulltv.us:2999/darlin/darlin/44
+#EXTINF:0 type="favorites" channelId="2839" name="DISCOVERY WORLD" group="CULTURA" logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png", DISCOVERY WORLD
+http://bulltv.us:2999/darlin/darlin/53
+#EXTINF:0 type="favorites" channelId="1201" name="HISTORY 2" group="CULTURA" logo="https://cdn.mitvstatic.com/channels/co_h2_m.png", HISTORY 2
+http://bulltv.us:2999/darlin/darlin/91
+#EXTINF:0 type="favorites" channelId="1455" name="HISTORY CHANNEL" group="CULTURA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png", HISTORY CHANNEL
+http://bulltv.us:2999/darlin/darlin/92
+#EXTINF:0 type="favorites" channelId="4597" name="NAT GEO MUNDO" group="CULTURA" logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png", NAT GEO MUNDO
+http://bulltv.us:2999/darlin/darlin/102
+#EXTINF:0 type="favorites" channelId="164" name="NAT GEO WILD" group="CULTURA" logo="https://4.bp.blogspot.com/-NEHF7mv2dQc/WG2gPGTgs3I/AAAAAAAABoc/yxTUmMZzghI3tKxvGyQZsLSJIB8CB4SVgCLcB/s1600/maxresdefault.jpg", NAT GEO WILD
+http://bulltv.us:2999/darlin/darlin/103
+#EXTINF:0 type="favorites" channelId="56" name="NATIONAL GEOGRAPHIC" group="CULTURA" logo="https://pbs.twimg.com/profile_images/1277658125479403520/AOFAWNvv.jpg", NATIONAL GEOGRAPHIC
+http://bulltv.us:2999/darlin/darlin/104
+#EXTINF:0 type="favorites" channelId="58" name="DISCOVERY SCIENCE" group="CULTURA" logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png", DISCOVERY SCIENCE
+http://bulltv.us:2999/darlin/darlin/280
+#EXTINF:0 type="favorites" channelId="-1" name="ROSA DE GUADALUPE" group="24/7", ROSA DE GUADALUPE
+http://bulltv.us:2999/darlin/darlin/36555
+#EXTINF:0 type="favorites" channelId="-1" name="Looney Tunes" group="24/7", Looney Tunes
+http://bulltv.us:2999/darlin/darlin/36561
+#EXTINF:0 type="favorites" channelId="228" name="AZ MUNDO" group="Mexico" logo="https://cdn.mitvstatic.com/channels/gt_azteca-13_m.png", AZ MUNDO
+http://bulltv.us:2999/darlin/darlin/24
+#EXTINF:0 type="favorites" channelId="3780" name="NTN24" group="Noticias" logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png", NTN24
+http://bulltv.us:2999/darlin/darlin/256
+#EXTINF:0 type="favorites" channelId="1409" name="CITY TV" group="Noticias" logo="https://m.eltiempo.com/uploads/2017/09/06/59afb1bde5508.png", CITY TV
+http://bulltv.us:2999/darlin/darlin/260
+#EXTINF:0 type="favorites" channelId="-1" name="UNIMAS" group="Latinos | USA" logo="http://bulltv.us/logoscanales/unimas.jpeg", UNIMAS
+http://bulltv.us:2999/darlin/darlin/369
+#EXTINF:0 type="favorites" channelId="-1" name="TELEMUNDO CONECTICUT" group="Latinos | USA" logo="https://pbs.twimg.com/profile_images/951571561676406785/gDzlfzMk.jpg", TELEMUNDO CONECTICUT
+http://bulltv.us:2999/darlin/darlin/569
+#EXTINF:0 type="favorites" channelId="-1" name="TELEMUNDO MIAMI" group="Latinos | USA" logo="http://bulltv.us/logoscanales/telemundomiami.jpeg", TELEMUNDO MIAMI
+http://bulltv.us:2999/darlin/darlin/573
+#EXTINF:0 type="favorites" channelId="-1" name="UNIMAS DALLAS" group="Latinos | USA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png", UNIMAS DALLAS
+http://bulltv.us:2999/darlin/darlin/582
+#EXTINF:0 type="favorites" channelId="-1" name="UNIMAS MIAMI" group="Latinos | USA" logo="https://demoyafoundation.com/wp-content/uploads/2018/10/Media-104.jpg", UNIMAS MIAMI
+http://bulltv.us:2999/darlin/darlin/583
+#EXTINF:0 type="favorites" channelId="-1" name="GALAVISION ALBUQUERQUE" group="Latinos | USA" logo="https://i.ytimg.com/vi/hsuJvVpC3M0/maxresdefault.jpg", GALAVISION ALBUQUERQUE
+http://bulltv.us:2999/darlin/darlin/586
+#EXTINF:0 type="favorites" channelId="-1" name="Tele 11." group="Latinos | USA" logo="https://pbs.twimg.com/profile_images/1149708692088135681/VQyj0BOx_400x400.png", Tele 11.
+http://bulltv.us:2999/darlin/darlin/606
+#EXTINF:0 type="favorites" channelId="-1" name="USA | UNIVISION LOS ANGELES" group="Latinos | USA" logo="https://i.pinimg.com/originals/13/a1/6d/13a16d48430740eeaec277a995dd24c3.jpg", USA | UNIVISION LOS ANGELES
+http://bulltv.us:2999/darlin/darlin/607
+#EXTINF:0 type="favorites" channelId="-1" name="USA | UNIVISION NEWYORK" group="Latinos | USA" logo="https://st1.uvnimg.com/dims4/default/195d2f6/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff1%2F55%2F003e5aa0491dbaf03067ee6a83d8%2Fdesktop-univision-41-nueva-york-298x168.jpg", USA | UNIVISION NEWYORK
+http://bulltv.us:2999/darlin/darlin/609
+#EXTINF:0 type="favorites" channelId="-1" name="USA | UNIVISION SAN FRANCISCO" group="Latinos | USA" logo="https://st1.uvnimg.com/73/44/0d4edea644ab9c2ff507bb182bda/univision-14-san-francisco.jpg", USA | UNIVISION SAN FRANCISCO
+http://bulltv.us:2999/darlin/darlin/611
+#EXTINF:0 type="favorites" channelId="-1" name="USA -L | JUNTOS" group="Latinos | USA" logo="https://ae01.alicdn.com/kf/HTB18aPhJpXXXXc3XpXXq6xXFXXXI/Calcoman-a-de-vinilo-para-pared-de-cine-pel-cula-cine-citas-Adhesivo-de-pared-con.jpg", USA -L | JUNTOS
+http://bulltv.us:2999/darlin/darlin/239
+#EXTINF:0 type="favorites" channelId="-1" name="USA | HBO Family" group="USA" logo="https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png", USA | HBO Family
+http://bulltv.us:2999/darlin/darlin/1398
+#EXTINF:0 type="favorites" channelId="-1" name="USA | HBO 2" group="USA" logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png", USA | HBO 2
+http://bulltv.us:2999/darlin/darlin/1492
+#EXTINF:0 type="favorites" channelId="-1" name="Fashion TV Midnite Secrets" group="FRANCIA" logo="https://i.imgur.com/auHH1Ig.png", Fashion TV Midnite Secrets
+http://bulltv.us:2999/darlin/darlin/2474
+#EXTINF:0 type="favorites" channelId="-1" name="Ready TV" group="Republica Dominicana" logo="https://i.imgur.com/QT78nTj.png", Ready TV
+http://bulltv.us:2999/darlin/darlin/8222
+#EXTINF:0 type="favorites" channelId="-1" name="VENEVISION" group="Venezuela", VENEVISION
+http://bulltv.us:2999/darlin/darlin/20496
+#EXTINF:0 type="favorites" channelId="-1" name="VENEVISION PLUS" group="Venezuela", VENEVISION PLUS
+http://bulltv.us:2999/darlin/darlin/20497
+#EXTINF:0 type="favorites" channelId="-1" name="TELEMUNDO DALLAS" group="Latinos | USA", TELEMUNDO DALLAS
+http://bulltv.us:2999/darlin/darlin/20508
+#EXTINF:0 type="favorites" channelId="3768" name="GUATEVISION" group="GUATEMALA", GUATEVISION
+http://bulltv.us:2999/darlin/darlin/20512
+#EXTINF:0 type="favorites" channelId="-1" name="TELEMUNDO SAN FRANCISCO" group="Latinos | USA", TELEMUNDO SAN FRANCISCO
+http://bulltv.us:2999/darlin/darlin/20528
+#EXTINF:0 type="favorites" channelId="-1" name="DAZN FORMULA 1" group="DAZN" logo="http://bulltv.us/logoscanales/DAZNF1.jpg", DAZN FORMULA 1
+http://bulltv.us:2999/darlin/darlin/20591
+#EXTINF:0 type="favorites" channelId="-1" name="USA | UNIVISION ATLANTA" group="Latinos | USA" logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png", USA | UNIVISION ATLANTA
+http://bulltv.us:2999/darlin/darlin/36057
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| BLAZE" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BLAZE.png", |ES| BLAZE
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/181633
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| CANAL ODISEA" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_ODISEA.png", |ES| CANAL ODISEA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127753
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| DISCOVERY CHANNEL" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISCOVERY.png", |ES| DISCOVERY CHANNEL
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127754
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| DISCOVERY CRIME INVESTIGATION" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CRIMEN+INVES.png", |ES| DISCOVERY CRIME INVESTIGATION
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127755
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| DMAX" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DMAX.png", |ES| DMAX
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127756
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| DKISS" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DKISS.png", |ES| DKISS
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127757
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| HISTORIA" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HISTORIA.png", |ES| HISTORIA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127758
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| NAT GEOGRAPHIC" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NAT_GEO_HD.png", |ES| NAT GEOGRAPHIC
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127759
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| NAT GEO WILD" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NG_WILD_HD.png", |ES| NAT GEO WILD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127760
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| CAZA & PESCA" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CAZAyPESCA_HD.png", |ES| CAZA & PESCA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127761
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| CANAL ODISEA" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_ODISEA.png", |ES-4K| CANAL ODISEA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127767
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| DISCOVERY CHANNEL" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISCOVERY.png", |ES-4K| DISCOVERY CHANNEL
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127768
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| DISCOVERY CRIME INVESTIGATION" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CRIMEN+INVES.png", |ES-4K| DISCOVERY CRIME INVESTIGATION
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127769
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| DMAX" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DMAX.png", |ES-4K| DMAX
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127770
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| HISTORIA" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/HISTORIA.png", |ES-4K| HISTORIA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127772
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| NAT GEOGRAPHIC" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NAT_GEO_HD.png", |ES-4K| NAT GEOGRAPHIC
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127773
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| NAT GEO WILD" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/NG_WILD_HD.png", |ES-4K| NAT GEO WILD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127774
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| CAZA Y PESCA" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CAZAyPESCA_HD.png", |ES-4K| CAZA Y PESCA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127775
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| CANAL COCINA" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_COCINA.png", |ES-4K| CANAL COCINA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127777
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| BLAZE" group="ESPANOL CULTURA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BLAZE.png", |ES-4K| BLAZE
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/181634
+#EXTINF:0 type="favorites" channelId="-1" name="|SP| M.ESTRENOS 2 HD" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+_ESTRENOS_2_HD.png", |SP| M.ESTRENOS 2 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164749
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| M. ACCION" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M._ACCION_HD.png", |ES| M. ACCION
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127677
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| M. COMEDIA" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.COMEDIA_HD.png", |ES| M. COMEDIA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127678
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| M. DRAMA" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DRAMA_HD.png", |ES| M. DRAMA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127679
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| M. CINE ESPANOL" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.Cine_Espanol.png", |ES| M. CINE ESPANOL
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127680
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| HOLLYWOOD" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HOLLYWOODHD.png", |ES| HOLLYWOOD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127682
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| TCM" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png", |ES| TCM
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127683
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| TNT" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TNT_HD.png", |ES| TNT
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127684
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| PARAMOUNT CHANNEL" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png", |ES| PARAMOUNT CHANNEL
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127685
+#EXTINF:0 type="favorites" channelId="-1" name="|SP| M.SERIES 2 HD" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+_SERIES_2_HD.png", |SP| M.SERIES 2 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164751
+#EXTINF:0 type="favorites" channelId="-1" name="|SP| MOVISTAR BOM CINE" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+Cine_Español.png", |SP| MOVISTAR BOM CINE
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/182510
+#EXTINF:0 type="favorites" channelId="-1" name="|SP| MOVISTAR CRIMEN" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+_CRIMEN.png", |SP| MOVISTAR CRIMEN
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/182511
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| M. ESTRENOS" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.ESTRENOSHD.png", |ES-4K| M. ESTRENOS
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127687
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| M. ACCION" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M._ACCION_HD.png", |ES-4K| M. ACCION
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127688
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| M. COMEDIA" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.COMEDIA_HD.png", |ES-4K| M. COMEDIA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127689
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| M. DRAMA" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DRAMA_HD.png", |ES-4K| M. DRAMA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127690
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| M. CINE ESPANOL" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.Cine_Espanol.png", |ES-4K| M. CINE ESPANOL
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127691
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| HOLLYWOOD" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HOLLYWOODHD.png", |ES-4K| HOLLYWOOD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127693
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| TCM" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png", |ES-4K| TCM
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127694
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| TNT" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TNT_HD.png", |ES-4K| TNT
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127695
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| PARAMOUNT CHANNEL" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png", |ES-4K| PARAMOUNT CHANNEL
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127696
+#EXTINF:0 type="favorites" channelId="-1" name="|SP-4K| SOMOS HD" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/", |SP-4K| SOMOS HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164750
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ALQELIER 1" group="ESPANOL ALQELIER" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png", |ES| ALQELIER 1
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127738
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ALQELIER 2 HD" group="ESPANOL ALQELIER" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png", |ES| ALQELIER 2 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/135210
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ALQELIER 3 HD" group="ESPANOL ALQELIER" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png", |ES| ALQELIER 3 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/135211
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ALQELIER 4 HD" group="ESPANOL ALQELIER" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png", |ES| ALQELIER 4 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/135347
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ALQELIER 5 HD" group="ESPANOL ALQELIER" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png", |ES| ALQELIER 5 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/135425
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ALQELIER 6 HD" group="ESPANOL ALQELIER" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png", |ES| ALQELIER 6 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/135426
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ALQELIER 7 HD" group="ESPANOL ALQELIER" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png", |ES| ALQELIER 7 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/135469
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ALQELIER 8 HD" group="ESPANOL ALQELIER" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png", |ES| ALQELIER 8 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/135500
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ALQELIER 9 HD" group="ESPANOL ALQELIER" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png", |ES| ALQELIER 9 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/153321
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ALQELIER 10 HD" group="ESPANOL ALQELIER" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png", |ES| ALQELIER 10 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/153322
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ALQELIER 11 HD" group="ESPANOL ALQELIER" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png", |ES| ALQELIER 11 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/153323
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ALQELIER 12 HD" group="ESPANOL ALQELIER" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png", |ES| ALQELIER 12 HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/153324
+#EXTINF:0 type="favorites" channelId="-1" name="|SP| CHRISTMAS MOVIES" group="ESPANOL ALQELIER", |SP| CHRISTMAS MOVIES
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/153325
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| NICKELODEON" group="ESPANOL NINOS" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NICKELODEONHD.png", |ES-4K| NICKELODEON
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127800
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| DREAMWORKS" group="ESPANOL NINOS" logo="http://vodkom.com:25461/Logo/NEW/DreamWorks_HD.png", |ES-4K| DREAMWORKS
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127797
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| DISNEY JR" group="ESPANOL NINOS" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_JR.png", |ES-4K| DISNEY JR
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127796
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| DISNEY CH" group="ESPANOL NINOS" logo="http://vodkom.com:25461/Logo/NEW/Disney_Channel.png", |ES-4K| DISNEY CH
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127795
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| CANAL PANDA" group="ESPANOL NINOS" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_PANDA.png", |ES-4K| CANAL PANDA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127794
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| BOING" group="ESPANOL NINOS" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BOING.png", |ES-4K| BOING
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127793
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| M. SERIES" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.SERIES_HD.png", |ES| M. SERIES
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127699
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| AMC" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AMC_HD.png", |ES-4K| AMC
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127730
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| CALLE 13" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CALLE_13_HD.png", |ES-4K| CALLE 13
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127727
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| SUNDANCE" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SUNDANCE_TV.png", |ES-4K| SUNDANCE
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127726
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| SYFY" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SYFY_HD.png", |ES-4K| SYFY
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127725
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| AXN WHITE" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_WHITE_HD.png", |ES-4K| AXN WHITE
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127724
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| AXN" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_HD.png", |ES-4K| AXN
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127723
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| FOX" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FOX_HD.png", |ES-4K| FOX
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127721
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| M. SERIES" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.SERIES_HD.png", |ES-4K| M. SERIES
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127719
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| LA 1" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_1_HD.png", |ES| LA 1
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127637
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| 24 HORAS" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/24H.png", |ES| 24 HORAS
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127639
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| MEGA" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MEGA.png", |ES| MEGA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127644
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| NOVA" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NOVA.png", |ES| NOVA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127647
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| NEOX" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NEOX.png", |ES| NEOX
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127648
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| 24 HORAS" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/24_HORAS.png", |ES-4K| 24 HORAS
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127663
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| LA 1" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_1_HD.png", |ES-4K| LA 1
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127661
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| LA 2" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA2.png", |ES-4K| LA 2
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127662
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| ANTENA 3" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ANTENA_3_HD.png", |ES-4K| ANTENA 3
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127664
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| CUATRO" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CUATRO_HD.png", |ES-4K| CUATRO
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127665
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| TELECINCO" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TELECINCO_HD.png", |ES-4K| TELECINCO
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127666
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| LA SEXTA" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_SEXTA_HD.png", |ES-4K| LA SEXTA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127667
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| MEGA" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MEGA.png", |ES-4K| MEGA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127668
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| NEOX" group="ESPANOL CANALES" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NEOX.png", |ES-4K| NEOX
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127672
+#EXTINF:0 type="favorites" channelId="-1" name="|SP-4K| DARK" group="ESPANOL CANALES", |SP-4K| DARK
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/194252
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| FOX" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FOX_HD.png", |ES| FOX
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127701
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| AXN" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_HD.png", |ES| AXN
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127703
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| AXN WHITE" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_WHITE_HD.png", |ES| AXN WHITE
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127704
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| SYFY" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SYFY_HD.png", |ES| SYFY
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127705
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| CALLE 13" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CALLE_13_HD.png", |ES| CALLE 13
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127707
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| CANAL DE CASA" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_DECASA.png", |ES| CANAL DE CASA
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127709
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| AMC" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AMC_HD.png", |ES| AMC
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127710
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| COSMO" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/COSMO_HD.png", |ES| COSMO
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127711
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| ENERGY" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ENERGY.png", |ES| ENERGY
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127712
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| FDF" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FDF.png", |ES| FDF
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127713
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| BE MAD TV" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BE_MAD.png", |ES| BE MAD TV
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127714
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| DIVINITY" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DIVINITY.png", |ES| DIVINITY
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127715
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| XTRM" group="ESPANOL ENTRETENIMIENTO" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/", |ES| XTRM
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127716
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| M. ESTRENOS" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.ESTRENOSHD.png", |ES| M. ESTRENOS
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127676
+#EXTINF:0 type="favorites" channelId="-1" name="|SP| SOMOS HD" group="ESPANOL CINE" logo="http://www.vodkom.com:25461/Logo/ESPANOL/", |SP| SOMOS HD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164753
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| M. DISNEY" group="ESPANOL NINOS" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_CH..png", |ES| M. DISNEY
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127780
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| DISNEY JR" group="ESPANOL NINOS" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_JR.png", |ES| DISNEY JR
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127784
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| NICK JR" group="ESPANOL NINOS" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NICK_JR.png", |ES| NICK JR
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127788
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| DREAMWORKS" group="ESPANOL NINOS" logo="http://vodkom.com:25461/Logo/NEW/DreamWorks.png", |ES| DREAMWORKS
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127790
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| MEZZO" group="ESPANOL MUSICA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MEZZO.png", |ES| MEZZO
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127804
+#EXTINF:0 type="favorites" channelId="-1" name="|ES| MEZZO LIVE" group="ESPANOL MUSICA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MEZZO_LIVE_HD.png", |ES| MEZZO LIVE
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127805
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| MTV" group="ESPANOL MUSICA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/", |ES-4K| MTV
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127809
+#EXTINF:0 type="favorites" channelId="-1" name="|ES-4K| MEZZO" group="ESPANOL MUSICA" logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/", |ES-4K| MEZZO
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127811
