@@ -1,0 +1,999 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1330" name="HBO" group="CINEMA PREMIUM" logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo.png", HBO
+http://bulltv.us:2999/darlin/darlin/87
+#EXTINF:0 type="stream" channelId="935" name="HBO 2" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png", HBO 2
+http://bulltv.us:2999/darlin/darlin/88
+#EXTINF:0 type="stream" channelId="2585" name="HBO PLUS" group="CINEMA PREMIUM" logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO PLUS
+http://bulltv.us:2999/darlin/darlin/90
+#EXTINF:0 type="stream" channelId="361" name="HBO POP" group="CINEMA PREMIUM" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png", HBO POP
+http://bulltv.us:2999/darlin/darlin/98
+#EXTINF:0 type="stream" channelId="2587" name="HBO XTREME" group="CINEMA PREMIUM" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO XTREME
+http://bulltv.us:2999/darlin/darlin/97
+#EXTINF:0 type="stream" channelId="2584" name="HBO FAMILY" group="CINEMA PREMIUM" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY
+http://bulltv.us:2999/darlin/darlin/89
+#EXTINF:0 type="stream" channelId="67" name="DISCOVERY TLC" group="CULTURA" logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png", DISCOVERY TLC
+http://bulltv.us:2999/darlin/darlin/51
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY H&H" group="CULTURA" logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg", DISCOVERY H&H
+http://bulltv.us:2999/darlin/darlin/46
+#EXTINF:0 type="stream" channelId="4773" name="Caracol." group="Colombia" logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg", Caracol.
+http://bulltv.us:2999/darlin/darlin/254
+#EXTINF:0 type="stream" channelId="64" name="CINECANAL" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png", CINECANAL
+http://bulltv.us:2999/darlin/darlin/36
+#EXTINF:0 type="stream" channelId="283" name="CINELATINO" group="CINEMA PREMIUM" logo="https://lasemanadelsur.com/wp-content/uploads/2018/10/cine_02-web.jpg", CINELATINO
+http://bulltv.us:2999/darlin/darlin/37
+#EXTINF:0 type="stream" channelId="1326" name="CINEMAX" group="CINEMA PREMIUM" logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg", CINEMAX
+http://bulltv.us:2999/darlin/darlin/38
+#EXTINF:0 type="stream" channelId="1952" name="DE PELICULA" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/958147557150089216/Jiah4faM_400x400.jpg", DE PELICULA
+http://bulltv.us:2999/darlin/darlin/41
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CRIME" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png", UNIVERSAL CRIME
+http://bulltv.us:2999/darlin/darlin/70
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL CINEMA" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png", UNIVERSAL CINEMA
+http://bulltv.us:2999/darlin/darlin/71
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL REALITY" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png", UNIVERSAL REALITY
+http://bulltv.us:2999/darlin/darlin/73
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL PREMIERE" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png", UNIVERSAL PREMIERE
+http://bulltv.us:2999/darlin/darlin/75
+#EXTINF:0 type="stream" channelId="2625" name="STUDIO UNIVERSAL" group="CINEMA PREMIUM" logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg", STUDIO UNIVERSAL
+http://bulltv.us:2999/darlin/darlin/116
+#EXTINF:0 type="stream" channelId="187" name="Universal Channel" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/49045732/logo-universal-channel.jpg", Universal Channel
+http://bulltv.us:2999/darlin/darlin/248
+#EXTINF:0 type="stream" channelId="3727" name="AZ CINEMA" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png", AZ CINEMA
+http://bulltv.us:2999/darlin/darlin/22
+#EXTINF:0 type="stream" channelId="3765" name="GOLDEN PLUS" group="CINEMA PREMIUM" logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png", GOLDEN PLUS
+http://bulltv.us:2999/darlin/darlin/86
+#EXTINF:0 type="stream" channelId="383" name="SPACE" group="CINEMA PREMIUM" logo="https://www.foromedios.com/uploads/monthly_2020_07/large.321216179_space-tv(1).png.559057afa15fc73a34e57637b066b575.png", SPACE
+http://bulltv.us:2999/darlin/darlin/113
+#EXTINF:0 type="stream" channelId="3226" name="STARZ" group="CINEMA PREMIUM" logo="https://sm.pcmag.com/pcmag_uk/review/s/starz-revi/starz-review_33md.png", STARZ
+http://bulltv.us:2999/darlin/darlin/114
+#EXTINF:0 type="stream" channelId="3227" name="STARZ ENCORE" group="CINEMA PREMIUM" logo="https://tvseriesfinale.com/wp-content/uploads/2019/12/starz.jpg", STARZ ENCORE
+http://bulltv.us:2999/darlin/darlin/115
+#EXTINF:0 type="stream" channelId="895" name="TCM" group="CINEMA PREMIUM" logo="http://sincroguia-tv.expansion.com/uploads/images/t/c/m/tcm.jpg", TCM
+http://bulltv.us:2999/darlin/darlin/120
+#EXTINF:0 type="stream" channelId="-1" name="USA -L | CINE SUREÑO" group="CINEMA PREMIUM" logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png", USA -L | CINE SUREÑO
+http://bulltv.us:2999/darlin/darlin/237
+#EXTINF:0 type="stream" channelId="-1" name="USA -L | TOP CINE" group="CINEMA PREMIUM" logo="https://bandnatal.files.wordpress.com/2012/02/top-cine.jpg", USA -L | TOP CINE
+http://bulltv.us:2999/darlin/darlin/238
+#EXTINF:0 type="stream" channelId="-1" name="USA -L | HORRORIFY" group="CINEMA PREMIUM" logo="https://ae01.alicdn.com/kf/HTB18aPhJpXXXXc3XpXXq6xXFXXXI/Calcoman-a-de-vinilo-para-pared-de-cine-pel-cula-cine-citas-Adhesivo-de-pared-con.jpg", USA -L | HORRORIFY
+http://bulltv.us:2999/darlin/darlin/240
+#EXTINF:0 type="stream" channelId="1052" name="TNT" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/1330728097348538368/i6cFKl8w_400x400.jpg", TNT
+http://bulltv.us:2999/darlin/darlin/243
+#EXTINF:0 type="stream" channelId="333" name="GOLDEN" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/mx_golden_m.png", GOLDEN
+http://bulltv.us:2999/darlin/darlin/244
+#EXTINF:0 type="stream" channelId="1963" name="GOLDEN PREMIER" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg", GOLDEN PREMIER
+http://bulltv.us:2999/darlin/darlin/245
+#EXTINF:0 type="stream" channelId="2583" name="HBO SIGNATURE" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png", HBO SIGNATURE
+http://bulltv.us:2999/darlin/darlin/246
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL COMEDY" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-comedy_m.png", UNIVERSAL COMEDY
+http://bulltv.us:2999/darlin/darlin/247
+#EXTINF:0 type="stream" channelId="1719" name="Paramount" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/1249929366353649669/c_MyBiGs.jpg", Paramount
+http://bulltv.us:2999/darlin/darlin/251
+#EXTINF:0 type="stream" channelId="-1" name="FILMS ART" group="CINEMA PREMIUM" logo="https://pbs.twimg.com/profile_images/1115324965681868800/7ks7jt6l_400x400.png", FILMS ART
+http://bulltv.us:2999/darlin/darlin/252
+#EXTINF:0 type="stream" channelId="1359" name="MOVISTAR ACCION" group="CINEMA PREMIUM", MOVISTAR ACCION
+http://bulltv.us:2999/darlin/darlin/36605
+#EXTINF:0 type="stream" channelId="1360" name="MOVISTAR COMEDIA" group="CINEMA PREMIUM", MOVISTAR COMEDIA
+http://bulltv.us:2999/darlin/darlin/36606
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR DISNEY" group="CINEMA PREMIUM", MOVISTAR DISNEY
+http://bulltv.us:2999/darlin/darlin/36608
+#EXTINF:0 type="stream" channelId="1361" name="MOVISTAR DRAMA" group="CINEMA PREMIUM", MOVISTAR DRAMA
+http://bulltv.us:2999/darlin/darlin/36609
+#EXTINF:0 type="stream" channelId="1378" name="MOVISTAR ESTRENOS" group="CINEMA PREMIUM", MOVISTAR ESTRENOS
+http://bulltv.us:2999/darlin/darlin/36610
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR SERIEMANIA" group="CINEMA PREMIUM", MOVISTAR SERIEMANIA
+http://bulltv.us:2999/darlin/darlin/36611
+#EXTINF:0 type="stream" channelId="-1" name="CINE| A ESTRENAR FHD" group="CINEMA PREMIUM", CINE| A ESTRENAR FHD
+http://bulltv.us:2999/darlin/darlin/36734
+#EXTINF:0 type="stream" channelId="3809" name="ULTRA KIDZ" group="CINEMA PREMIUM", ULTRA KIDZ
+http://bulltv.us:2999/darlin/darlin/36615
+#EXTINF:0 type="stream" channelId="3813" name="ULTRA FAMILIA" group="CINEMA PREMIUM", ULTRA FAMILIA
+http://bulltv.us:2999/darlin/darlin/36614
+#EXTINF:0 type="stream" channelId="-1" name="A3S" group="Entretenimiento" logo="https://www.cineytele.com/wp-content/uploads/2016/12/AtresSerie-Logo.jpg", A3S
+http://bulltv.us:2999/darlin/darlin/13
+#EXTINF:0 type="stream" channelId="2501" name="AMC" group="Entretenimiento" logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/08/amc-logo-2016.jpg", AMC
+http://bulltv.us:2999/darlin/darlin/16
+#EXTINF:0 type="stream" channelId="2124" name="ANTENA 3" group="Entretenimiento" logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg", ANTENA 3
+http://bulltv.us:2999/darlin/darlin/18
+#EXTINF:0 type="stream" channelId="1573" name="AXN" group="Entretenimiento" logo="https://brandemia.org/sites/default/files/nuevo_logo_axn_2.jpg", AXN
+http://bulltv.us:2999/darlin/darlin/19
+#EXTINF:0 type="stream" channelId="1574" name="AXN WHITE" group="Entretenimiento" logo="https://pbs.twimg.com/profile_images/1334801686309838850/zH4L2hgp.jpg", AXN WHITE
+http://bulltv.us:2999/darlin/darlin/20
+#EXTINF:0 type="stream" channelId="1961" name="DISTRITO COMEDIA" group="Entretenimiento" logo="https://forounivers.com/uploads/monthly_2018_10/large.Distrito_comedia2018.png.2134b7cf7371cfacfd887b32228d20ec.png", DISTRITO COMEDIA
+http://bulltv.us:2999/darlin/darlin/57
+#EXTINF:0 type="stream" channelId="1188" name="E!" group="Entretenimiento" logo="https://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg", E!
+http://bulltv.us:2999/darlin/darlin/58
+#EXTINF:0 type="stream" channelId="310" name="EL GOURMET" group="Entretenimiento" logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg", EL GOURMET
+http://bulltv.us:2999/darlin/darlin/60
+#EXTINF:0 type="stream" channelId="-1" name="ESTRELLA TV" group="Entretenimiento" logo="https://s03.s3c.es/imag/_v0/770x420/8/b/b/600x400_Estrella-TV-770.jpg", ESTRELLA TV
+http://bulltv.us:2999/darlin/darlin/66
+#EXTINF:0 type="stream" channelId="1244" name="FOOD NETWORK" group="Entretenimiento" logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", FOOD NETWORK
+http://bulltv.us:2999/darlin/darlin/67
+#EXTINF:0 type="stream" channelId="177" name="FOX" group="Entretenimiento" logo="https://i.pinimg.com/280x280_RS/4e/a7/9c/4ea79c2b8eaaa0ed0b13000aeca9cab1.jpg", FOX
+http://bulltv.us:2999/darlin/darlin/69
+#EXTINF:0 type="stream" channelId="1303" name="FX" group="Entretenimiento" logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg", FX
+http://bulltv.us:2999/darlin/darlin/80
+#EXTINF:0 type="stream" channelId="1200" name="LIFETIME" group="Entretenimiento" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png", LIFETIME
+http://bulltv.us:2999/darlin/darlin/95
+#EXTINF:0 type="stream" channelId="3763" name="GLITZ" group="Entretenimiento" logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png", GLITZ
+http://bulltv.us:2999/darlin/darlin/83
+#EXTINF:0 type="stream" channelId="3713" name="HOLA TV" group="Entretenimiento" logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png", HOLA TV
+http://bulltv.us:2999/darlin/darlin/93
+#EXTINF:0 type="stream" channelId="4661" name="PASIONES" group="Entretenimiento" logo="https://cdn.mitvstatic.com/channels/1769eb87-a655-4ab6-99f5-343640682ce5_m.jpg", PASIONES
+http://bulltv.us:2999/darlin/darlin/108
+#EXTINF:0 type="stream" channelId="188" name="SONY" group="Entretenimiento" logo="https://cdn.mitvstatic.com/channels/co_sony_m.png", SONY
+http://bulltv.us:2999/darlin/darlin/112
+#EXTINF:0 type="stream" channelId="3228" name="TBS" group="Entretenimiento" logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png", TBS
+http://bulltv.us:2999/darlin/darlin/119
+#EXTINF:0 type="stream" channelId="1208" name="A&E" group="Entretenimiento" logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png", A&E
+http://bulltv.us:2999/darlin/darlin/6
+#EXTINF:0 type="stream" channelId="2557" name="WARNER" group="Entretenimiento" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png", WARNER
+http://bulltv.us:2999/darlin/darlin/366
+#EXTINF:0 type="stream" channelId="388" name="Unicable" group="Entretenimiento" logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png", Unicable
+http://bulltv.us:2999/darlin/darlin/368
+#EXTINF:0 type="stream" channelId="2504" name="TLnovelas" group="Entretenimiento" logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png", TLnovelas
+http://bulltv.us:2999/darlin/darlin/370
+#EXTINF:0 type="stream" channelId="-1" name="SONY COMPETENCIAS" group="Entretenimiento" logo="https://plataformas.news/online/nota_spt-renueva-su-marca-a-sony-channel.jpg", SONY COMPETENCIAS
+http://bulltv.us:2999/darlin/darlin/1305
+#EXTINF:0 type="stream" channelId="-1" name="SONY COMEDIAS" group="Entretenimiento" logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY COMEDIAS
+http://bulltv.us:2999/darlin/darlin/1306
+#EXTINF:0 type="stream" channelId="-1" name="SONY NOVELAS" group="Entretenimiento" logo="https://www.icomedios.com/sites/default/files/1024px-Canal_Sony_HD_logo.png", SONY NOVELAS
+http://bulltv.us:2999/darlin/darlin/1307
+#EXTINF:0 type="stream" channelId="2007" name="SONY MOVIE CHANNEL" group="Entretenimiento", SONY MOVIE CHANNEL
+http://bulltv.us:2999/darlin/darlin/36327
+#EXTINF:0 type="stream" channelId="1954" name="LAS ESTRELLAS  (2 HORAS)" group="Latinos | USA" shift="2", LAS ESTRELLAS  (2 HORAS)
+http://bulltv.us:2999/darlin/darlin/37939
+#EXTINF:0 type="stream" channelId="-1" name="USA -L | JUNTOS" group="Latinos | USA" logo="https://ae01.alicdn.com/kf/HTB18aPhJpXXXXc3XpXXq6xXFXXXI/Calcoman-a-de-vinilo-para-pared-de-cine-pel-cula-cine-citas-Adhesivo-de-pared-con.jpg", USA -L | JUNTOS
+http://bulltv.us:2999/darlin/darlin/239
+#EXTINF:0 type="stream" channelId="-1" name="TELEMUNDO PR" group="Latinos | USA" logo="https://pbs.twimg.com/profile_images/993581583507509249/6bbhb9Dv_400x400.jpg", TELEMUNDO PR
+http://bulltv.us:2999/darlin/darlin/708
+#EXTINF:0 type="stream" channelId="-1" name="STAR CHANEL" group="Latinos | USA", STAR CHANEL
+http://bulltv.us:2999/darlin/darlin/36282
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY H&H FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/discoveryh&h.png", DISCOVERY H&H FHD
+http://bulltv.us:2999/darlin/darlin/12262
+#EXTINF:0 type="stream" channelId="-1" name="UNIVERSAL COMEDY (STAR COMEDY)" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/starcomedy.png", UNIVERSAL COMEDY (STAR COMEDY)
+http://bulltv.us:2999/darlin/darlin/12265
+#EXTINF:0 type="stream" channelId="-1" name="HBO FAMILY FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbofamily.png", HBO FAMILY FHD
+http://bulltv.us:2999/darlin/darlin/12272
+#EXTINF:0 type="stream" channelId="-1" name="HBO MUNDI FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbomundi.png", HBO MUNDI FHD
+http://bulltv.us:2999/darlin/darlin/12273
+#EXTINF:0 type="stream" channelId="-1" name="HBO POP FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbopop.png", HBO POP FHD
+http://bulltv.us:2999/darlin/darlin/12274
+#EXTINF:0 type="stream" channelId="-1" name="HBO SIGNATURE FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hbosignature.png", HBO SIGNATURE FHD
+http://bulltv.us:2999/darlin/darlin/12275
+#EXTINF:0 type="stream" channelId="-1" name="HBO PLUS FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hboplus.png", HBO PLUS FHD
+http://bulltv.us:2999/darlin/darlin/12276
+#EXTINF:0 type="stream" channelId="-1" name="HBO XTREME FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/hboxtreme.png", HBO XTREME FHD
+http://bulltv.us:2999/darlin/darlin/12277
+#EXTINF:0 type="stream" channelId="-1" name="ANIMAL PLANET FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/animalplanet.png", ANIMAL PLANET FHD
+http://51.222.25.50:2999/Yg6eDwSTMR/bmgk4A8hbt/3131
+#EXTINF:0 type="stream" channelId="-1" name="DISCOVERY FAMILIA FHD" group="PREMIUM FHD" logo="http://bulltv.us/logoscanales/discoveryfamilia.png", DISCOVERY FAMILIA FHD
+http://bulltv.us:2999/darlin/darlin/12261
+#EXTINF:0 type="stream" channelId="-1" name="Dorcel XXX" group="XXX ADULTOS" logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/362x263-dorcel-xxx-36958.png", Dorcel XXX
+http://bulltv.us:2999/darlin/darlin/191
+#EXTINF:0 type="stream" channelId="-1" name="ADULTOS 3" group="XXX ADULTOS" logo="https://st.depositphotos.com/1915171/3504/i/950/depositphotos_35046753-stock-photo-xxx-adults-only-content-sign.jpg", ADULTOS 3
+http://bulltv.us:2999/darlin/darlin/194
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png", CIUDAD MAGICA TV
+https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://blogger.googleusercontent.com/img/a/AVvXsEj4PrXtFBow3WWj6wjA4yWe-10x6WykuF8TA2B-Qbnymd4UiWfGUJ65efbzbLxSPB0hESx9D9-V1BTVboEsF6k6MGekoXNPXckaJ789vCZgU7bLCG-tp9Dd6Gt0bMfoYOOsqU67KU26MKg61T8_Sct2dTZMJJlIHVRypCweX3EWJCLl008YZBCncnJkeg=s200", Cascara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", WIVIX 1
+https://s2.tvdatta.com:3849/hybrid/play.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", WIVIX 2
+https://s2.tvdatta.com:3402/hybrid/play.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", WIVIX 3
+https://s2.tvdatta.com:3457/hybrid/play.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", WIVIX 4
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20220914T041136.png", Grjngo
+https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700003T8_20220914T041131.png", Bjgtjme
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/ESBC2700012RP_20220713T010435.png", Cine Feel Good – Verdi TV
+https://dfekb8hx1gqcg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nmsvybp4gie0j-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/27/ESBC2700011AZ_20220713T010440.png", Cines Verdi TV
+https://d2vxs6a73h4kai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gson0whk7ox3g-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/29/ESBA3300044CZ_20220511T011717.png", Movies Central by TV Player
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png", BUTACA TV
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png", Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png", Cine Estelar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png", Cine Suspenso
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png", TV Horror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6267d4d1fb694f0007a6af0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png", Nuestro Cine
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="3186" group="CINE" logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png", Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png", Cine Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png", Cine Crimen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/61c49a1b5ec8d40008673251/colorLogoPNG.png", Cortos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c49a1b5ec8d40008673251/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png", Mi TV Televisión Clásica
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="INFANTIL - ANIME" logo="http://www.m3u.cl/logo/1300_Moni_TV.png", MONI TV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="INFANTIL - ANIME" logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png", Hechizada
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="INFANTIL - ANIME" logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg", EL CHAVO
+https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="INFANTIL - ANIME" logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png", Los Tres Chiflados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="INFANTIL - ANIME" logo="https://i.ibb.co/S7BPf6X/RETRO-MAGICO-HD.jpg", RETRO MAGICO
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="INFANTIL - ANIME" logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png", Retro Cartoons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="INFANTIL - ANIME" logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png", Series Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://images.pluto.tv/channels/619b7db4872c650008eb8b6a/colorLogoPNG.png", Star Trek
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b7db4872c650008eb8b6a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png", MTV Shore
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/kgGwbRzG/TWD.png", THE WALKING DEAD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" name="US EPIX2 (East)" group="MOVIE NETWORKS" logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png", US EPIX2 (East)
+http://fortv.cc:8080/blade123/blade123/12730
+#EXTINF:0 type="stream" channelId="-1" name="US Freeform East" group="USA" logo="https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png", US Freeform East
+http://fortv.cc:8080/blade123/blade123/13370
+#EXTINF:0 type="stream" channelId="-1" name="US Latin Galavision" group="USA", US Latin Galavision
+http://fortv.cc:8080/blade123/blade123/58770
+#EXTINF:0 type="stream" channelId="-1" name="US Showtime Extreme (East) (SP)" group="MOVIE NETWORKS" logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png", US Showtime Extreme (East) (SP)
+http://fortv.cc:8080/blade123/blade123/13220
+#EXTINF:0 type="stream" channelId="-1" group="CINE Y SERIES" logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png", RETRO PLUS TV CINE
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_usk3hzv4/def_height/1654/def_width/3159/version/100011/type/2/q/100", NUESTRA VISION
+https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="INFANTIL - ANIME" logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg", LOS SIMPSONS
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="INFANTIL - ANIME" logo="https://pbs.twimg.com/profile_images/1285557513132412929/56MTe4V2_400x400.jpg", FUTURAMA
+https://videostreaming.cloudserverlatam.com/cloudtvplus/cloudtvplus/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="INFANTIL - ANIME" logo="http://x.playerlatino.live/alf.png", ALF
+https://srv5.zcast.com.br/alf/alf/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="PT | Sextremeⓧ SD" group="|PT| ADULTOS" logo="http://platinumxmedia.xyz:8080/images/5558be54499fdd094ce5235eb309c348.png", PT | Sextremeⓧ SD
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/9727
+#EXTINF:0 type="stream" channelId="-1" name="| PlatinumXmedia | XXX | Amateur 01ⓧ" group="| PlatinumXmedia | XXX | Amateur ⓧ" logo="http://platinumxmedia.xyz:8080/images/f33f46dcef32d75b0119dffeb8a5abe7.png", | PlatinumXmedia | XXX | Amateur 01ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/129980
+#EXTINF:0 type="stream" channelId="-1" name="| PlatinumXmedia | XXX | Amateur 02ⓧ" group="| PlatinumXmedia | XXX | Amateur ⓧ" logo="http://platinumxmedia.xyz:8080/images/f33f46dcef32d75b0119dffeb8a5abe7.png", | PlatinumXmedia | XXX | Amateur 02ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/129989
+#EXTINF:0 type="stream" channelId="-1" name="| PlatinumXmedia | XXX | Amateur 03ⓧ" group="| PlatinumXmedia | XXX | Amateur ⓧ" logo="http://platinumxmedia.xyz:8080/images/f33f46dcef32d75b0119dffeb8a5abe7.png", | PlatinumXmedia | XXX | Amateur 03ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/129992
+#EXTINF:0 type="stream" channelId="-1" name="Latina & Horny 2" group="24/7 Adult" logo="http://5.44.253.151:80/images/8851655abcdc98de73d5ec219afefa93.png", Latina & Horny 2
+http://77.247.109.54:80/Terrance123/Terrance321/1860776.ts
+#EXTINF:0 type="stream" channelId="-1" name="Asian Sex Diary" group="24/7 Adult", Asian Sex Diary
+http://77.247.109.54:80/Terrance123/Terrance321/1860714.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: Alba 4" group="Adults (18+)" logo="http://tvstar.cc:8880/chimg/asdfasd.gif", XXX: Alba 4
+http://77.247.109.54:80/Terrance123/Terrance321/1915170.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE| Starz Cinema HD_1080P" group="PPV Starz" logo="http://iptvtree.es:80/images/qw9Sd5JnDX2uSQDrGmMcui8mCvEbgFxBp7XKCzamKC78GPT7Hgk8eJIGRjJ-fIU-.png", CINE| Starz Cinema HD_1080P
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/309216.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE| Starz Edge HD_1080P" group="PPV Starz" logo="http://iptvtree.es:80/images/qw9Sd5JnDX2uSQDrGmMcui8mCvEbgFxBp7XKCzamKC6DPQikyiDz1BQvKbBzZqzQ.png", CINE| Starz Edge HD_1080P
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/309219.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE| Starz Encore Classic HD_1080P" group="PPV Starz" logo="http://iptvtree.es:80/images/qw9Sd5JnDX2uSQDrGmMcui8mCvEbgFxBp7XKCzamKC6Hzi-j-uRlu1pSLOFafS7_pXmkTWe6aEzTk6T7IDLikQ.png", CINE| Starz Encore Classic HD_1080P
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/309221.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE| Starz Encore Family HD_1080P" group="PPV Starz" logo="http://iptvtree.es:80/images/qw9Sd5JnDX2uSQDrGmMcui8mCvEbgFxBp7XKCzamKC4q4OMucYZr3xAJFlgYT8Xn9xpE5n8ksl9CodYShzWIHg.png", CINE| Starz Encore Family HD_1080P
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/309222.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE| Starz Encore Suspense HD_1080P" group="PPV Starz" logo="http://iptvtree.es:80/images/qw9Sd5JnDX2uSQDrGmMcui8mCvEbgFxBp7XKCzamKC6bUtjN8F8oXwoj69iB1GlZZD20bjz5y6gRH0iJuRvCZQ.png", CINE| Starz Encore Suspense HD_1080P
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/309224.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE| Starz HD_1080P" group="PPV Starz", CINE| Starz HD_1080P
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/309226.ts
+#EXTINF:0 type="stream" channelId="-1" name="ETR: Telemundo 51 Miami" group="|LAT| Entretenimiento Latino" logo="http://skytvpremium.ddns.net:8000/images/f048592e77386d4ec39142bda4152698.jpg", ETR: Telemundo 51 Miami
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/201.ts
+#EXTINF:0 type="stream" channelId="-1" name="ETR: Univision Miami" group="|LAT| Entretenimiento Latino" logo="http://iptvtree.es:80/images/b7dde7a3b29950e53cb99e403f0c3e59.png", ETR: Univision Miami
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/204.ts
+#EXTINF:0 type="stream" channelId="-1" name="ETR: Mega TV Miami" group="|LAT| Entretenimiento Latino" logo="http://iptvtree.es:80/images/68c8ca31cb020a8decc1ef8e174f8549.jpg", ETR: Mega TV Miami
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/205.ts
+#EXTINF:0 type="stream" channelId="-1" name="ETR: America TV Miami" group="|LAT| Entretenimiento Latino" logo="http://iptvtree.es:80/images/34c28e13e4cdca789b43266b6157a507.jpeg", ETR: America TV Miami
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/206.ts
+#EXTINF:0 type="stream" channelId="-1" name="ETR: Las Estrellas" group="|LAT| Entretenimiento Latino" logo="http://iptvtree.es:80/images/30004d0dc0c99c8c43d842b20baecdd5.png", ETR: Las Estrellas
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/197.ts
+#EXTINF:0 type="stream" channelId="-1" name="ETR: Unimas" group="|LAT| Entretenimiento Latino" logo="http://iptvtree.es:80/images/3a7f14a8bc25576194761808fe4fcfe1.jpg", ETR: Unimas
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/211.ts
+#EXTINF:0 type="stream" channelId="-1" name="ETR: Mas Chic" group="|LAT| Entretenimiento Latino" logo="https://clarovideocdn5.clarovideo.net/PELICULAS/MSCHICHD/EXPORTACION_WEB/SS/MSCHICHDWHORIZONTAL.jpg?size=290x163", ETR: Mas Chic
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/212.ts
+#EXTINF:0 type="stream" channelId="-1" name="ETR: Lefitime" group="|LAT| Entretenimiento Latino" logo="http://iptvtree.es:80/images/759c97c5885c622cebbc844feb142a0f.png", ETR: Lefitime
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/214.ts
+#EXTINF:0 type="stream" channelId="-1" name="ETR: Hola" group="|LAT| Entretenimiento Latino" logo="https://clarovideocdn1.clarovideo.net/PELICULAS/HOLAHD/EXPORTACION_WEB/SS/HOLAHDWHORIZONTAL.jpg?size=290x163", ETR: Hola
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/216.ts
+#EXTINF:0 type="stream" channelId="1188" name="MX: E! Entertainment" group="|LAT| Entretenimiento Latino" country="mx", E! Entertainment
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2050.ts
+#EXTINF:0 type="stream" channelId="1200" name="MX: Lifetime" group="|LAT| Entretenimiento Latino" country="mx", Lifetime
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2076.ts
+#EXTINF:0 type="stream" channelId="2557" name="MX: Warner" group="|LAT| Entretenimiento Latino" country="mx", Warner
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2028.ts
+#EXTINF:0 type="stream" channelId="188" name="MX: Sony Channel" group="|LAT| Entretenimiento Latino" country="mx", Sony Channel
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2027.ts
+#EXTINF:0 type="stream" channelId="2625" name="MX: Studio Universal" group="|LAT| Entretenimiento Latino" country="mx", Studio Universal
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2030.ts
+#EXTINF:0 type="stream" channelId="3775" name="MX: Mas Chic" group="|LAT| Entretenimiento Latino" country="mx", Mas Chic
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2040.ts
+#EXTINF:0 type="stream" channelId="3228" name="MX: TBS" group="|LAT| Entretenimiento Latino" country="mx", TBS
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2057.ts
+#EXTINF:0 type="stream" channelId="3713" name="MX: Hola TV" group="|LAT| Entretenimiento Latino" logo="http://iptvtree.es:80/images/Z9Oq85h50zSQPV7lHIgiXxETSP1Q_zWI8X6l-CHYO2uJ2LqJMED6Ywq_z9eIgscWPvcX5X_jxBHQW9E4H-2wiKauHDXhtMnVfyKT1pZ1RKkSrwRxpulUDKkJ12eWIzkD.png" country="mx", Hola TV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2039.ts
+#EXTINF:0 type="stream" channelId="-1" name="DOC: Discovery home and health sur" group="|LAT| Documentales Latino" logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISCOVERYHOMEANDHEALTHHD/EXPORTACION_WEB/SS/DISCOVERYHOMEANDHEALTHHDWHORIZONTAL.jpg?size=290x163", DOC: Discovery home and health sur
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/329.ts
+#EXTINF:0 type="stream" channelId="-1" name="DOC: Discovery home and health" group="|LAT| Documentales Latino" logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest?cb=20220505004132&path-prefix=es", DOC: Discovery home and health
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/330.ts
+#EXTINF:0 type="stream" channelId="-1" name="DOC: Discovery TLC" group="|LAT| Documentales Latino" logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TLCHD/EXPORTACION_WEB/SS/TLCHDWHORIZONTAL.jpg?size=290x163", DOC: Discovery TLC
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/335.ts
+#EXTINF:0 type="stream" channelId="-1" name="MX: Discovery H&H" group="|LAT| Documentales Latino" logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest?cb=20220505004132&path-prefix=es" country="mx", Discovery H&H
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2074.ts
+#EXTINF:0 type="stream" channelId="-1" name="LAT_HD | AXN" group="|LAT| Latinos HD" logo="http://iptvtree.es:80/images/-VjyqeSI2zv5CVb86q1VmuizFQ-yS_bRApebBpiBHDDk-9FvMItq4Tw11Ll8OcKbVx_Pz8fCgkGJWNsCtJfT1Ukhp2jwQM4W4kMH8F94M2D5nw-lMLc4JLFL2k0Ku0O3a8YELqlCXiKLuJbO7hhiew.png", LAT_HD | AXN
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/822.ts
+#EXTINF:0 type="stream" channelId="-1" name="LAT_HD | CARACOL HD" group="|LAT| Latinos HD" logo="https://i.picasion.com/pic90/3e217057183dcea854d7075237ba4483.gif", LAT_HD | CARACOL HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/830.ts
+#EXTINF:0 type="stream" channelId="-1" name="LAT_HD | DISCOVERY H&H" group="|LAT| Latinos HD" logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest?cb=20220505004132&path-prefix=es", LAT_HD | DISCOVERY H&H
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/840.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: A&E" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGaiqG-synI7UPw9hEWKr8oZe6lgb4kBy2XlTPcu-0oRy_KEjfRXcPmOO5RippphU-hMXBmWWEG3Zu6z4NbCoRn4M.png", CIN: A&E
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/118.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: AXN" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/-VjyqeSI2zv5CVb86q1VmuizFQ-yS_bRApebBpiBHDDk-9FvMItq4Tw11Ll8OcKbVx_Pz8fCgkGJWNsCtJfT1Ukhp2jwQM4W4kMH8F94M2D5nw-lMLc4JLFL2k0Ku0O3a8YELqlCXiKLuJbO7hhiew.png", CIN: AXN
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/120.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: Cinecanal" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/KBoEg6fiLOYa2JG1PWsWgxqAfBDe35lzvRCZ_CZzqI1GwoyoTfHIt9z-TLd-zYI40MRTkq-20dqyBVsvQsvaB98wbzRRaWGMDYdR0jwF8_8.png", CIN: Cinecanal
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/126.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: De Pelicula" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHuZuI9Rzazi3LWwVKISOhWRKpKwiaWdUORQxL8L78JHli31EWeZnUBmo4qRSYtCrGQ.png", CIN: De Pelicula
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/130.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: Paramout" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGamaoJ1Ts83uvdXHsxaSNT1_4HdTaD6K5h-mtifFR7A72f6jzhU2-5Gzb3LFQJz72Ye3oHhSRH1542-O0k_NwB34.png", CIN: Paramout
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/131.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: FX" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjt5kwse9GytSgkxJ_3Bt2GKUptHBhlljANtQhlX4IgwAjj6F-JK-UBHwLLsa7Y-wl10pOcnPesJD6UsJy4We4fvB3QvGeH7Vi0BXawzc8MyY.png", CIN: FX
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/133.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: Universal" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWtzoOud_pDPkNsKCjbJpG2cEJCu-gGYMEYrj_SX5VkE2gad_Ps_4uBXMHMNBfEvO_.png", CIN: Universal
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/134.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: Studio universal" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/KBoEg6fiLOYa2JG1PWsWg9aFRwfAtKWKH-2c_6H-w3UfT9DwhakbHWQYgnL7mOb7bdEfCwPl-XdXMU4ELl9UVqp0_Tp3YFiNTsPpygdGpa4.png", CIN: Studio universal
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/135.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: Sony" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z89ifFNIvkj9SJJ6IWqqGHWJuJoukV_JMODT-YLi6P48CfxdCFUwCBKIy5IyuNzte5w.png", CIN: Sony
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/136.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: Space" group="|LAT| Cine Latino" logo="http://2tmoon.xyz:80/images/cbAkOYPHJYCs3BO3bg4PQXzmZSD8TZXF0E90d1dO5KSx0a2qq_zkz2do7rEirBMBfHng3ALBUdMb9-2M897MPd-WxkScmOzRnLBoe709uRPgkjI9Xl3GINFV05gawWR9AuBMIEh6iNlgClDgDitZKw.png", CIN: Space
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/139.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: TNT" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHj3SX96c2WqI9i98-H77I7dIRB33Jds41j-LkJLLT4zwlQwA8dMYBfbRLxkvCaYLyA.png", CIN: TNT
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/140.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: TNT series" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHh4Scnj00Weg4Xd2MySEaHD-RQ3dPYserO9nSBify99J3O6ezoHS-8UwGoBq_Rhn_w.png", CIN: TNT series
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/141.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: HBO" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8-3LQexspb1nIhyx5zBwK_h76xXgn8cGjizCh0vtsdukU53haFW0zDo2gSs7Dcvopk.png", CIN: HBO
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/155.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: HBO 2" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8-ljyNFSNgJglNXaPLGVSbSaOkPtgUaz2MoflHX1L3X0qbtwtBzboeLwMvm-jGjqVg.png", CIN: HBO 2
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/156.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: HBO plus" group="|LAT| Cine Latino" logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", CIN: HBO plus
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/157.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: HBO family" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8_PVCD2w5LZV0Ku-mTVOoerAR5Qn6Yk9Vk5fXl9ziPdjDiz0vFaUjArqOvn8Uij5qA.png", CIN: HBO family
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/159.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: HBO pop" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjs4uvde2X6F0BV0VJ_cFRl5g1wyShWGjWD4Opq8y8dLMl4pEUWoV66S81RvcIMprd.png", CIN: HBO pop
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/160.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: HBO mundi" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjauLZl80I1rWOIeFZSq5fciaPjrzIIcn2hTBf56tvq935UGij1tvO5syWcoqayzwn5Tq3IE_60gOTmvRCTkgMpA.png", CIN: HBO mundi
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/161.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: HBO xtreme" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/18ZPwTcXcrRgadGVYgzEYzjMxBYbvi98JRszJ8jXRlLyR-KNaMqHHkVh7WJMiPYIm8wJapwYUI44-A8oIzJdSDnodWmHuGMt_OKOvVorNCI.png", CIN: HBO xtreme
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/162.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: Golden prime" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGak_Hj5ZZGDUGr00Ic5AkFjQS5Cb179Y4Aoj0Qd70rogO_lW3PTfhxJP2hGoCWdmUfJMLpE7wm7tD1T_Xej4cYkQ.png", CIN: Golden prime
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/163.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: Golden edge" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGaoVZPNMxnbwhjRf7_VACfluUAHGBHRToel1oE1apUec3sjmpbmXQ9jwnaA0P8oDP0NfkJpjeprHKRokU31CZXJU.png", CIN: Golden edge
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/164.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: De pelicula plus" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/KBoEg6fiLOYa2JG1PWsWgyQTQbD7rF_Fq7xDycNUOh4jaR8-SdOIbb-imr4r6s6LANClA7_0xXZw_1Nk4IyZi5aKDDaqMiwBIKtrOU22N_M.jpg", CIN: De pelicula plus
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/165.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: Golden plus" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGau3Fk-kfAXtYpZzyrRzASx500LL8UBpZ_xpEJCTSh_3A2I7obRSAAktQ-yAXFUxoKYFKJRIYNUeZgBhqiWudtoQ.png", CIN: Golden plus
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/166.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: FX" group="|LAT| Cine Latino" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png", CIN: FX
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/167.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: Golden premier" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGak_Hj5ZZGDUGr00Ic5AkFjQS5Cb179Y4Aoj0Qd70rogO_lW3PTfhxJP2hGoCWdmUfJMLpE7wm7tD1T_Xej4cYkQ.png", CIN: Golden premier
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/168.ts
+#EXTINF:0 type="stream" channelId="-1" name="MX: SPACE LATINO" group="|LAT| Cine Latino" logo="http://2tmoon.xyz:80/images/cbAkOYPHJYCs3BO3bg4PQXzmZSD8TZXF0E90d1dO5KSx0a2qq_zkz2do7rEirBMBfHng3ALBUdMb9-2M897MPd-WxkScmOzRnLBoe709uRPgkjI9Xl3GINFV05gawWR9AuBMIEh6iNlgClDgDitZKw.png" country="mx", SPACE LATINO
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2105.ts
+#EXTINF:0 type="stream" channelId="1573" name="MX: AXN" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/-VjyqeSI2zv5CVb86q1VmuizFQ-yS_bRApebBpiBHDDk-9FvMItq4Tw11Ll8OcKbVx_Pz8fCgkGJWNsCtJfT1Ukhp2jwQM4W4kMH8F94M2D5nw-lMLc4JLFL2k0Ku0O3a8YELqlCXiKLuJbO7hhiew.png" country="mx", AXN
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2033.ts
+#EXTINF:0 type="stream" channelId="1303" name="MX: FX" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjt5kwse9GytSgkxJ_3Bt2GKUptHBhlljANtQhlX4IgwAjj6F-JK-UBHwLLsa7Y-wl10pOcnPesJD6UsJy4We4fvB3QvGeH7Vi0BXawzc8MyY.png" country="mx", FX
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2031.ts
+#EXTINF:0 type="stream" channelId="2584" name="MX: HBO FAMILY" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8_PVCD2w5LZV0Ku-mTVOoerAR5Qn6Yk9Vk5fXl9ziPdjDiz0vFaUjArqOvn8Uij5qA.png" country="mx", HBO FAMILY
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2000.ts
+#EXTINF:0 type="stream" channelId="1330" name="MX: HBO" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8-3LQexspb1nIhyx5zBwK_h76xXgn8cGjizCh0vtsdukU53haFW0zDo2gSs7Dcvopk.png" country="mx", HBO
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1999.ts
+#EXTINF:0 type="stream" channelId="2502" name="MX: Golden Edge" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGaoVZPNMxnbwhjRf7_VACfluUAHGBHRToel1oE1apUec3sjmpbmXQ9jwnaA0P8oDP0NfkJpjeprHKRokU31CZXJU.png" country="mx", Golden Edge
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1998.ts
+#EXTINF:0 type="stream" channelId="2587" name="MX : HBO Xtreme" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/18ZPwTcXcrRgadGVYgzEYzjMxBYbvi98JRszJ8jXRlLyR-KNaMqHHkVh7WJMiPYIm8wJapwYUI44-A8oIzJdSDnodWmHuGMt_OKOvVorNCI.png" country="mx", HBO Xtreme
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1960.ts
+#EXTINF:0 type="stream" channelId="2585" name="MX : HBO plus" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZ-eIOukB5-VmryD1a5zpY6--SafsWZtaY-fcN9EVZ1mQ.png" country="mx", HBO plus
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1959.ts
+#EXTINF:0 type="stream" channelId="1963" name="MX : Golden Premier" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGak_Hj5ZZGDUGr00Ic5AkFjQS5Cb179Y4Aoj0Qd70rogO_lW3PTfhxJP2hGoCWdmUfJMLpE7wm7tD1T_Xej4cYkQ.png" country="mx", Golden Premier
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1958.ts
+#EXTINF:0 type="stream" channelId="3227" name="MX : Starz Encore" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGappURQ9Wyt9DeBq5B0XtX0LIXeVLGmak0lLZMWq8_CvrP73QM4Yw2Rz_K0FZDfSP3CSkeGGySXSgS76JVrNPNIY.png" country="mx", Starz Encore
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1948.ts
+#EXTINF:0 type="stream" channelId="2585" name="MX : HBO Plus" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZ-eIOukB5-VmryD1a5zpY6--SafsWZtaY-fcN9EVZ1mQ.png" country="mx", HBO Plus
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1945.ts
+#EXTINF:0 type="stream" channelId="1326" name="MX : CINEMAX" group="|LAT| Cine Latino" logo="http://2tmoon.xyz:80/images/cbAkOYPHJYCs3BO3bg4PQXzmZSD8TZXF0E90d1dO5KSx0a2qq_zkz2do7rEirBMBzo-T7ogAhPelfLyh1ZBqwtxTcKtoR-ySKN0SFRst0FnsdjnkrNLLivnFQdsOKqstLQIflS0udWESp_GUDzKviu3nat6LN1qwBQWBS5kso5U.png" country="mx", CINEMAX
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1944.ts
+#EXTINF:0 type="stream" channelId="361" name="MX :  HBO POP" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjs4uvde2X6F0BV0VJ_cFRl5g1wyShWGjWD4Opq8y8dLMl4pEUWoV66S81RvcIMprd.png" country="mx", HBO POP
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1981.ts
+#EXTINF:0 type="stream" channelId="935" name="MX : HBO 2" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8-ljyNFSNgJglNXaPLGVSbSaOkPtgUaz2MoflHX1L3X0qbtwtBzboeLwMvm-jGjqVg.png" country="mx", HBO 2
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1978.ts
+#EXTINF:0 type="stream" channelId="1330" name="MX : HBO" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8-3LQexspb1nIhyx5zBwK_h76xXgn8cGjizCh0vtsdukU53haFW0zDo2gSs7Dcvopk.png" country="mx", HBO
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1977.ts
+#EXTINF:0 type="stream" channelId="-1" name="MX: De Pelicula plus" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/KBoEg6fiLOYa2JG1PWsWgyQTQbD7rF_Fq7xDycNUOh4jaR8-SdOIbb-imr4r6s6LANClA7_0xXZw_1Nk4IyZi5aKDDaqMiwBIKtrOU22N_M.jpg" country="mx", De Pelicula plus
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2069.ts
+#EXTINF:0 type="stream" channelId="64" name="MX: Cinecanal" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/KBoEg6fiLOYa2JG1PWsWgxqAfBDe35lzvRCZ_CZzqI1GwoyoTfHIt9z-TLd-zYI40MRTkq-20dqyBVsvQsvaB98wbzRRaWGMDYdR0jwF8_8.png" country="mx", Cinecanal
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2084.ts
+#EXTINF:0 type="stream" channelId="1963" name="MX : Golden premier" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGak_Hj5ZZGDUGr00Ic5AkFjQS5Cb179Y4Aoj0Qd70rogO_lW3PTfhxJP2hGoCWdmUfJMLpE7wm7tD1T_Xej4cYkQ.png" country="mx", Golden premier
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2012.ts
+#EXTINF:0 type="stream" channelId="3765" name="MX : Golden plus" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGau3Fk-kfAXtYpZzyrRzASx500LL8UBpZ_xpEJCTSh_3A2I7obRSAAktQ-yAXFUxoKYFKJRIYNUeZgBhqiWudtoQ.png" country="mx", Golden plus
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2006.ts
+#EXTINF:0 type="stream" channelId="1719" name="MX: Paramount Channel" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGamaoJ1Ts83uvdXHsxaSNT1_4HdTaD6K5h-mtifFR7A72f6jzhU2-5Gzb3LFQJz72Ye3oHhSRH1542-O0k_NwB34.png" country="mx", Paramount Channel
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2021.ts
+#EXTINF:0 type="stream" channelId="-1" name="CIN: DHE" group="|LAT| Cine Latino" logo="https://yt3.ggpht.com/a/AATXAJzsNdRonOPfxKMFYD2PnS2xSVmaYRPiO3XkEw=s900-c-k-c0xffffffff-no-rj-mo", CIN: DHE
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/286644.ts
+#EXTINF:0 type="stream" channelId="3228" name="MX : TBS" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Z9Oq85h50zSQPV7lHIgiXxETSP1Q_zWI8X6l-CHYO2vQynyyGz-0yiczKd846JN-SDdXcPQ4z9KrY66MXDjsMAG3GzMeEWD8Wr5R3cQsztHruSZZQ17AV0vpjE4DXLbT.png" country="mx", TBS
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1988.ts
+#EXTINF:0 type="stream" channelId="-1" name="AXN  LAT FHD" group="|LAT| Cine Latino" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU", AXN  LAT FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/301611.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7: he man" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: he man
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/507.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7: Los Picapiedras" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: Los Picapiedras
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/515.ts
+#EXTINF:0 type="stream" channelId="-1" name="LAT | ENT | Discovery H&Hⓧ FHD" group="|LAT| ENTRETENIMIENTO" logo="http://platinumxmedia.xyz:8080/images/07b31af10d3608a17caac275c79ef562.png", LAT | ENT | Discovery H&Hⓧ FHD
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119823
+#EXTINF:0 type="stream" channelId="-1" name="LAT | ENT | E! Entertainmentⓧ HD" group="|LAT| ENTRETENIMIENTO" logo="http://platinumxmedia.xyz:8080/images/acf795a17f1ccf56b8fa8b490a35a175.png", LAT | ENT | E! Entertainmentⓧ HD
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/61119
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 01ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 01ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119958
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 07ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 07ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119964
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 08ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 08ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119965
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 09ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 09ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119966
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 10ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 10ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119967
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 11ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 11ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119968
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 12ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 12ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119969
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 13ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 13ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119970
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 14ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 14ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119971
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 15ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 15ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119972
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 16ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 16ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119973
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 17ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 17ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119974
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 18ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 18ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119975
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 19ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 19ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119976
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 20ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 20ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119977
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 21ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 21ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119978
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 22ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 22ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119979
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 23ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 23ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119980
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 24ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 24ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119981
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 25ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 25ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119982
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 26ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 26ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119983
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 27ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 27ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119984
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 28ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 28ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119985
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 29ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 29ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119986
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 30ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 30ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119987
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 31ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 31ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119988
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 32ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 32ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119989
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 33ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 33ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119990
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 34ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 34ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119991
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 35ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 35ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119992
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 36ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 36ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119993
+#EXTINF:0 type="stream" channelId="-1" name="LAT | CINE PPV | Cinema 37ⓧ" group="|LAT| PPV CINEMA" logo="http://platinumxmedia.xyz:8080/images/415f879e97f38f690e80f5ab3dfd5f15.png", LAT | CINE PPV | Cinema 37ⓧ
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/119994
+#EXTINF:0 type="stream" channelId="-1" name="Adult HotClub 7" group="Adults" logo="http://77.247.109.54:80/images/da602273506e75ecd1361c230d355898.png", Adult HotClub 7
+http://5.44.253.151:80/Terrance123/Terrance321/217931.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Penthouse 2" group="Adults" logo="http://163.123.140.162:80/images/da602273506e75ecd1361c230d355898.png", Adult Penthouse 2
+http://5.44.253.151:80/Terrance123/Terrance321/217948.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Playboy TV" group="Adults" logo="http://5.44.253.151:80/images/e1fe34e314b343deb9764ca6e23f3101.png", Adult Playboy TV
+http://5.44.253.151:80/Terrance123/Terrance321/217951.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Playboy TV USA" group="Adults" logo="http://185.156.74.135:80/images/da602273506e75ecd1361c230d355898.png", Adult Playboy TV USA
+http://5.44.253.151:80/Terrance123/Terrance321/217952.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Girls Do Porn 5" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Girls Do Porn 5
+http://5.44.253.151:80/Terrance123/Terrance321/217970.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Girls Do Porn 6" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Girls Do Porn 6
+http://5.44.253.151:80/Terrance123/Terrance321/217971.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Paradise 1" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Paradise 1
+http://5.44.253.151:80/Terrance123/Terrance321/217985.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Paradise 5" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Paradise 5
+http://5.44.253.151:80/Terrance123/Terrance321/217989.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: BRAZZERS" group="Adults" logo="http://5.44.253.151:80/images/e1fe34e314b343deb9764ca6e23f3101.png", XXX: BRAZZERS
+http://5.44.253.151:80/Terrance123/Terrance321/218077.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: PINK O TV" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", XXX: PINK O TV
+http://5.44.253.151:80/Terrance123/Terrance321/218170.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: erotic 2 HD" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", XXX: erotic 2 HD
+http://5.44.253.151:80/Terrance123/Terrance321/224782.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: erotic 5" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", XXX: erotic 5
+http://5.44.253.151:80/Terrance123/Terrance321/224785.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: erotic 8" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", XXX: erotic 8
+http://5.44.253.151:80/Terrance123/Terrance321/224788.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: HOT CLUB 7" group="Adults" logo="http://77.247.109.54:80/images/da602273506e75ecd1361c230d355898.png", XXX: HOT CLUB 7
+http://5.44.253.151:80/Terrance123/Terrance321/224812.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: HOT CLUB 9" group="Adults" logo="http://185.156.74.135:80/images/da602273506e75ecd1361c230d355898.png", XXX: HOT CLUB 9
+http://5.44.253.151:80/Terrance123/Terrance321/398848.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Paradise 3" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Paradise 3
+http://5.44.253.151:80/Terrance123/Terrance321/399086.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: PINK EROTIC 2 (18)" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", XXX: PINK EROTIC 2 (18)
+http://5.44.253.151:80/Terrance123/Terrance321/399113.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Girls Do Porn 10" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Girls Do Porn 10
+http://5.44.253.151:80/Terrance123/Terrance321/399085.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Girls Do Porn 4" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Girls Do Porn 4
+http://5.44.253.151:80/Terrance123/Terrance321/399083.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Girls Do Porn 3" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Girls Do Porn 3
+http://5.44.253.151:80/Terrance123/Terrance321/399082.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Girls Do Porn 2" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Girls Do Porn 2
+http://5.44.253.151:80/Terrance123/Terrance321/399081.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Paradise 7" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Paradise 7
+http://5.44.253.151:80/Terrance123/Terrance321/217991.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Paradise 6" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Paradise 6
+http://5.44.253.151:80/Terrance123/Terrance321/217990.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Paradise 2" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Paradise 2
+http://5.44.253.151:80/Terrance123/Terrance321/217986.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Girls Do Porn 9" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Girls Do Porn 9
+http://5.44.253.151:80/Terrance123/Terrance321/217974.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Girls Do Porn 1" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Girls Do Porn 1
+http://5.44.253.151:80/Terrance123/Terrance321/217966.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Paradise 8" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Paradise 8
+http://5.44.253.151:80/Terrance123/Terrance321/217992.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Paradise 4" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Paradise 4
+http://5.44.253.151:80/Terrance123/Terrance321/217988.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Girls Do Porn 7" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Girls Do Porn 7
+http://5.44.253.151:80/Terrance123/Terrance321/217972.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Paradise 9" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Paradise 9
+http://5.44.253.151:80/Terrance123/Terrance321/217993.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Paradise 10" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Paradise 10
+http://5.44.253.151:80/Terrance123/Terrance321/217994.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: Babes TV HD" group="Adults" logo="http://ky-iptv.com:25461/images/a53cf9776d012b48a291f025fb6f038d.png", XXX: Babes TV HD
+http://5.44.253.151:80/Terrance123/Terrance321/218065.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: Alba XXX" group="Adults" logo="http://ky-iptv.com:25461/images/a53cf9776d012b48a291f025fb6f038d.png", XXX: Alba XXX
+http://5.44.253.151:80/Terrance123/Terrance321/773405.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: Alba XXX HD2" group="Adults" logo="http://ky-iptv.com:25461/images/a53cf9776d012b48a291f025fb6f038d.png", XXX: Alba XXX HD2
+http://5.44.253.151:80/Terrance123/Terrance321/773411.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: DORCEL XXX FHD" group="Adults" logo="http://185.156.74.135:80/images/da602273506e75ecd1361c230d355898.png", XXX: DORCEL XXX FHD
+http://5.44.253.151:80/Terrance123/Terrance321/773416.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: REDLIGHT FHD" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", XXX: REDLIGHT FHD
+http://5.44.253.151:80/Terrance123/Terrance321/773438.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Black" group="Adults" logo="http://185.156.74.135:80/images/da602273506e75ecd1361c230d355898.png", Adult Black
+http://5.44.253.151:80/Terrance123/Terrance321/819498.ts
+#EXTINF:0 type="stream" channelId="-1" name="Adult Lesbian" group="Adults" logo="https://pbs.twimg.com/media/EUxL4ZnWkAAXx1R.png", Adult Lesbian
+http://5.44.253.151:80/Terrance123/Terrance321/911979.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: XY MIX" group="Adults" logo="http://77.247.109.54:80/images/e1fe34e314b343deb9764ca6e23f3101.png", XXX: XY MIX
+http://5.44.253.151:80/Terrance123/Terrance321/773446.ts
+#EXTINF:0 type="stream" channelId="-1" name="XXX: BLACK" group="Adults" logo="http://163.123.140.162:80/images/e1fe34e314b343deb9764ca6e23f3101.png", XXX: BLACK
+http://5.44.253.151:80/Terrance123/Terrance321/1138969.ts
+#EXTINF:0 type="stream" channelId="-1" name="PENTHOUSE QUICKIES HD" group="ADULTS LIVE UHD", PENTHOUSE QUICKIES HD
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122037
+#EXTINF:0 type="stream" channelId="-1" name="VIXEN HD" group="ADULTS LIVE UHD", VIXEN HD
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122049
+#EXTINF:0 type="stream" channelId="-1" name="BEATE UHSE TV HD" group="ADULTS LIVE UHD", BEATE UHSE TV HD
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122050
+#EXTINF:0 type="stream" channelId="-1" name="PINK EROTIC 3" group="ADULTS LIVE UHD", PINK EROTIC 3
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122051
+#EXTINF:0 type="stream" channelId="-1" name="PINK EROTIC 4" group="ADULTS LIVE UHD", PINK EROTIC 4
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122052
+#EXTINF:0 type="stream" channelId="-1" name="PINK EROTIC 5" group="ADULTS LIVE UHD", PINK EROTIC 5
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122053
+#EXTINF:0 type="stream" channelId="-1" name="PINK EROTIC" group="ADULTS LIVE UHD", PINK EROTIC
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122054
+#EXTINF:0 type="stream" channelId="-1" name="BLUE HUSTLER HD 2" group="ADULTS LIVE UHD", BLUE HUSTLER HD 2
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122057
+#EXTINF:0 type="stream" channelId="-1" name="RUSSIAN NIGHTS" group="ADULTS LIVE UHD", RUSSIAN NIGHTS
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122059
+#EXTINF:0 type="stream" channelId="-1" name="HOT XXL HD" group="ADULTS LIVE UHD", HOT XXL HD
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122062
+#EXTINF:0 type="stream" channelId="-1" name="X1" group="ADULTS LIVE UHD", X1
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122063
+#EXTINF:0 type="stream" channelId="-1" name="HOT" group="ADULTS LIVE UHD", HOT
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122064
+#EXTINF:0 type="stream" channelId="-1" name="NAUGHTY TV" group="ADULTS LIVE UHD", NAUGHTY TV
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/122065
+#EXTINF:0 type="stream" channelId="-1" name="Wolf Wagner" group="24/7 Adult", Wolf Wagner
+http://185.156.74.135:80/Terrance123/Terrance321/1860744.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Discovery H&H" group="|LAT| Latinos" logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest?cb=20220505004132&path-prefix=es" country="la", Discovery H&H
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33193.ts
+#EXTINF:0 type="stream" channelId="1200" name="LA: Lifetime" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/4b03a9054ed3da9d0c11ab2dd696aa26.png" country="la", Lifetime
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33242.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: HBO+ FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/316a376c79bf2fab656f10d4ea5eca0b.png" country="la", HBO+ FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33231.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: HBO Pop FHD" group="|LAT| Latinos" logo="http://iptvtree.es:80/images/c7260b8e681f1f413e35cb8c31e6dd17.png" country="la", HBO Pop FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33229.ts
+#EXTINF:0 type="stream" channelId="2725" name="LA: HBO Mundi" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/cd97298ea982a6bb480602a76df0d570.png" country="la", HBO Mundi
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33228.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: HBO FHD" group="|LAT| Latinos" logo="http://iptvtree.es:80/images/ece029479a275de35d7ec5e9a10e4250.png" country="la", HBO FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33227.ts
+#EXTINF:0 type="stream" channelId="2584" name="LA: HBO Family" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/58a297b3e817f8ba6dfa4d7c5950b76f.png" country="la", HBO Family
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33226.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: HBO 2 FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/15d34574192e1dcf9b23af03ced53e72.png" country="la", HBO 2 FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33225.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Galavision Este HD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/cadc2efa84473d5cf651a2e01c197a7f.png" country="la", Galavision Este HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33220.ts
+#EXTINF:0 type="stream" channelId="3875" name="LA: E" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/71548ddc37f7825594cbf12effa6fb89.png" country="la", E
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33209.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinemax East FHD" group="|LAT| Latinos" logo="http://2tmoon.xyz:80/images/cbAkOYPHJYCs3BO3bg4PQXzmZSD8TZXF0E90d1dO5KSx0a2qq_zkz2do7rEirBMBzo-T7ogAhPelfLyh1ZBqwtxTcKtoR-ySKN0SFRst0FnsdjnkrNLLivnFQdsOKqstLQIflS0udWESp_GUDzKviu3nat6LN1qwBQWBS5kso5U.png" country="la", Cinemax East FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33187.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 01 PPV" group="|LAT| Latinos" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" country="la", Cinema 01 PPV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33148.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 02 PPV" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 02 PPV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33149.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 03 PPV" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 03 PPV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33150.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 04 PPV FHD" group="|LAT| Latinos" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" country="la", Cinema 04 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33151.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 05 PPV FHD" group="|LAT| Latinos" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" country="la", Cinema 05 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33152.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 06 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 06 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33153.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 07 PPV FHD" group="|LAT| Latinos" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" country="la", Cinema 07 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33154.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 08 PPV FHD" group="|LAT| Latinos" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" country="la", Cinema 08 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33155.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 09 PPV" group="|LAT| Latinos" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" country="la", Cinema 09 PPV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33156.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 10 PPV FHD" group="|LAT| Latinos" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" country="la", Cinema 10 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33157.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 11 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 11 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33158.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 12 PPV FHD" group="|LAT| Latinos" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" country="la", Cinema 12 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33159.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 13 PPV FHD" group="|LAT| Latinos" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" country="la", Cinema 13 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33160.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 14 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 14 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33161.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 15 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 15 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33162.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 16 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 16 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33163.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 17 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 17 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33164.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 18 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 18 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33165.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 19 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 19 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33166.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 20 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 20 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33167.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 21 PPV FHD" group="|LAT| Latinos" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" country="la", Cinema 21 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33168.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 22 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 22 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33169.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 23 PPV FHD" group="|LAT| Latinos" logo="http://iptvtree.es:80/images/a8dc8cc873573b79169dceedee0eb647.png" country="la", Cinema 23 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33170.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 24 PPV" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 24 PPV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33171.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 25 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 25 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33172.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 26 PPV FHD" group="|LAT| Latinos" logo="http://iptvtree.es:80/images/a8dc8cc873573b79169dceedee0eb647.png" country="la", Cinema 26 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33173.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 27 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 27 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33174.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 28 PPV" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 28 PPV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33175.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 29 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 29 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33176.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 31 PPV" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 31 PPV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33177.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 32 PPV FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 32 PPV FHD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33178.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 35 PPV" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 35 PPV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33181.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 36 PPV" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 36 PPV
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33182.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Cinema 37 PPV HD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/647d5bf51ff47c4e91e4138504b2f852.png" country="la", Cinema 37 PPV HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33183.ts
+#EXTINF:0 type="stream" channelId="-1" name="SP: CO: Win Sports Full HD" group="|LAT| Deportes Colombia" logo="http://iptvtree.es:80/images/S8RHVojmxa_4hYJOiPC22BYx8hKEnlmnxH_3PnuHo-1uKh_ppVvxQCPOXT8mTmIVqDGrPmueOZXrmB5Dn87224DFmk--WSoSHBzEJnS-POs.png", SP: CO: Win Sports Full HD
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33126.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7: Alf" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: Alf
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/495.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7: 50 Clásicos de Disney" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: 50 Clásicos de Disney
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/499.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7: El chapuli­n colorado" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: El chapuli­n colorado
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/503.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7: El chavo del 8" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: El chavo del 8
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/504.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7: Dr. House" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: Dr. House
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/513.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7: Smallville" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: Smallville
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/521.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7: thundercats" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: thundercats
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/527.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7:  xmen" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7:  xmen
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/528.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7: Los super sonicos" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: Los super sonicos
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/529.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7: Los locos Addams" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: Los locos Addams
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/530.ts
+#EXTINF:0 type="stream" channelId="-1" name="EL: DISCOVERY H&H" group="LATINO/SPANISH", EL: DISCOVERY H&H
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35908
+#EXTINF:0 type="stream" channelId="-1" name="EL: DISCOVERY TLC" group="LATINO/SPANISH", EL: DISCOVERY TLC
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35912
+#EXTINF:0 type="stream" channelId="-1" name="EL: HBO 2" group="LATINO/SPANISH", EL: HBO 2
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35939
+#EXTINF:0 type="stream" channelId="-1" name="EL: SPACE" group="LATINO/SPANISH", EL: SPACE
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35958
+#EXTINF:0 type="stream" channelId="-1" name="EL: TCM" group="LATINO/SPANISH", EL: TCM
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/35959
+#EXTINF:0 type="stream" channelId="-1" name="24/7 El Auto Fantastico (e)(SD)" group="24/7" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-HAgQt7ofLCjmUy0r6DB4Hg783VjsC5F30g&usqp=CAU", 24/7 El Auto Fantastico (e)(SD)
+http://speedwk.site:80/Jose2022/Jose2022/265653.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Los Magnificos (e)(720)" group="24/7" logo="http://panel.tured.live:80/images/559dca158fdb959652bd5e16f159a1a1.jpg", 24/7 Los Magnificos (e)(720)
+http://speedwk.site:80/Jose2022/Jose2022/265652.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Superman (e)(720)" group="24/7" logo="http://panel.tured.live:80/images/341d7b784aced1009019dbe87eaf8957.png", 24/7 Superman (e)(720)
+http://speedwk.site:80/Jose2022/Jose2022/265694.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Bonanza (e)(SD)" group="24/7" logo="http://panel.tured.live:80/images/bf27b300bfbc9a5df00bc669b14041ef.jpg", 24/7 Bonanza (e)(SD)
+http://speedwk.site:80/Jose2022/Jose2022/265657.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Diarios De Vampiros (e)(720)" group="24/7" logo="http://panel.tured.live:80/images/e19082ec47f30c184a8d493f98e260fc.jpg", 24/7 Diarios De Vampiros (e)(720)
+http://speedwk.site:80/Jose2022/Jose2022/265667.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7:MI BELLA GENIO SERIE COMPLETA SD 24/7." group="24/7" logo="http://panel.tured.live:80/images/nbMhdAJSzfe_uNX4fz5vwoXGufdrZXLyiHA0tnX9NpR6JDWeNM9HpP9FlmeY3oyIHxSEK7Vp0cX-m9BuurWuewVqQey9Zh377QFEKk5pydOafKvTdTMTROdwJiZZyEJa.jpg", 24/7:MI BELLA GENIO SERIE COMPLETA SD 24/7.
+http://speedwk.site:80/Jose2022/Jose2022/239071.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | El chapulin colorado" group="24/7" logo="http://panel.tured.live:80/images/XSTNKyrnWJkO-JmgKUOjUpxuO2mVMf91-XAlTxRLVcEmiwcahcuSkNDdZV-Fwf1LybhDbJ1Ni1RylWzXYXJEW5n-dZ_HC1NXjKLts4dLrRk.jpg", 24/7 | El chapulin colorado
+http://speedwk.site:80/Jose2022/Jose2022/225483.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7:PANTERA ROSA" group="INFANTILES 24/7" logo="http://panel.tured.live:80/images/a209971d4b3d6260eedf0b703aa96aeb.jpg", 24/7:PANTERA ROSA
+http://speedwk.site:80/Jose2022/Jose2022/239282.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Scooby-Doo (p)(1080)" group="INFANTILES 24/7" logo="https://static.wikia.nocookie.net/doblaje/images/e/e4/Scooby-Doo_Mystery_Incorporated.png/revision/latest/scale-to-width-down/1200?cb=20151204203324&path-prefix=es", 24/7 Scooby-Doo (p)(1080)
+http://speedwk.site:80/Jose2022/Jose2022/265622.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | Los Thundercats" group="INFANTILES 24/7" logo="http://panel.tured.live:80/images/541ecf4517ba1f3318efa2cd2b58f736.jpg", 24/7 | Los Thundercats
+http://speedwk.site:80/Jose2022/Jose2022/246488.ts
+#EXTINF:0 type="stream" channelId="-1" name="24/7 Tom and Jerry" group="INFANTILES 24/7" logo="http://panel.tured.live:80/images/38185ae0145adef6d2b4253d931b1eb5.jpg", 24/7 Tom and Jerry
+http://speedwk.site:80/Jose2022/Jose2022/225470.ts
+#EXTINF:0 type="stream" channelId="-1" name="DOC |  FAMILY DISCOVERY" group="CULTURALES FULL HD" logo="https://i0.wp.com/fontlot.com/wp-content/uploads/2020/03/Discovery-Family-Logo-Font.jpg?fit=801%2C401&ssl=1", DOC |  FAMILY DISCOVERY
+http://speedwk.site:80/Jose2022/Jose2022/257350.ts
+#EXTINF:0 type="stream" channelId="-1" name="TLC Espanol (EXCLUSIVO) UHD" group="CULTURALES FULL HD" logo="http://panel.tured.live:80/images/618158e46cf9a2b67ec2ca37b99e600f.png", TLC Espanol (EXCLUSIVO) UHD
+http://speedwk.site:80/Jose2022/Jose2022/247701.ts
+#EXTINF:0 type="stream" channelId="-1" name="Discovery H&H (EXCLUSIVO) UHD" group="CULTURALES FULL HD" logo="http://panel.tured.live:80/images/4af0643ebe02a9b112366e4de0792838.png", Discovery H&H (EXCLUSIVO) UHD
+http://speedwk.site:80/Jose2022/Jose2022/247695.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | AMC" group="CINE FULL HD" logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png", CINE HD | AMC
+http://speedwk.site:80/Jose2022/Jose2022/94113.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | A&E UHD" group="CINE FULL HD" logo="http://panel.tured.live:80/images/99c72d95a86eff2ae1aa0246e6e5833b.png", CINE HD | A&E UHD
+http://speedwk.site:80/Jose2022/Jose2022/94112.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | AXN UHD" group="CINE FULL HD" logo="http://panel.tured.live:80/images/24507a9c593a56cc3ec6315e61b49fee.png", CINE HD | AXN UHD
+http://speedwk.site:80/Jose2022/Jose2022/94115.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | CINEMAX" group="CINE FULL HD" logo="http://panel.tured.live:80/images/9c4557112f3166d7cbc8d2a04327c0cc.png", CINE HD | CINEMAX
+http://speedwk.site:80/Jose2022/Jose2022/94118.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | Golden Plus UHD" group="CINE FULL HD" logo="http://panel.tured.live:80/images/961c6435b02508d12f523495571cf9e5.png", CINE HD | Golden Plus UHD
+http://speedwk.site:80/Jose2022/Jose2022/94122.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | Paramount Channel America UHD" group="CINE FULL HD" logo="http://panel.tured.live:80/images/77aff427ad07504c88e3fe4d4b522120.png", CINE HD | Paramount Channel America UHD
+http://speedwk.site:80/Jose2022/Jose2022/94125.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | SPACE America" group="CINE FULL HD" logo="http://panel.tured.live:80/images/a106ea3cfa80ebaf3cdcaf0a37227709.png", CINE HD | SPACE America
+http://speedwk.site:80/Jose2022/Jose2022/94127.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | TNT Series America UHD" group="CINE FULL HD" logo="http://panel.tured.live:80/images/c3568f09e7f82c64822973a0a1e26110.png", CINE HD | TNT Series America UHD
+http://speedwk.site:80/Jose2022/Jose2022/94131.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | SYFY" group="CINE FULL HD" logo="http://panel.tured.live:80/images/85470b41c4778a801cfc1c17387e9fd7.png", CINE HD | SYFY
+http://speedwk.site:80/Jose2022/Jose2022/94133.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | Warner TV" group="CINE FULL HD" logo="http://panel.tured.live:80/images/54db108a23e59cd7c752fb69c5dfbf6c.png", CINE HD | Warner TV
+http://speedwk.site:80/Jose2022/Jose2022/94132.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE SD | CINELATINO" group="CINE FULL HD" logo="http://panel.tured.live:80/images/15dad44f06db7026eda63a056b8b03a6.png", CINE SD | CINELATINO
+http://speedwk.site:80/Jose2022/Jose2022/172749.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINEººSony Movies" group="CINE FULL HD" logo="http://panel.tured.live:80/images/1be8008621c643e5791d4a6c3aee4995.png", CINEººSony Movies
+http://speedwk.site:80/Jose2022/Jose2022/172823.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | Cinecanal UHD" group="CINE FULL HD" logo="http://panel.tured.live:80/images/29600f36ff030b0ffc8d0d2031669064.png", CINE HD | Cinecanal UHD
+http://speedwk.site:80/Jose2022/Jose2022/94116.ts
+#EXTINF:0 type="stream" channelId="-1" name="Cine | SONY" group="CINE FULL HD" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU", Cine | SONY
+http://speedwk.site:80/Jose2022/Jose2022/223499.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA | E! HD" group="CINE FULL HD" logo="http://panel.tured.live:80/images/68c06888a55143c577c345f612e1719e.png", USA | E! HD
+http://speedwk.site:80/Jose2022/Jose2022/91853.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE: FX MOVIES" group="CINE FULL HD" logo="http://panel.tured.live:80/images/2e732bc3793c8c42e07ad246c44795d2.png", CINE: FX MOVIES
+http://speedwk.site:80/Jose2022/Jose2022/138895.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE FHD | GOLDEN EDGE-" group="CINE FULL HD" logo="http://panel.tured.live:80/images/67e37a013a61fedc38d8401dfe70aa9a.png", CINE FHD | GOLDEN EDGE-
+http://speedwk.site:80/Jose2022/Jose2022/103947.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE FHD | DE PELICULA" group="CINE FULL HD" logo="http://panel.tured.live:80/images/540a1cfcd0ed2094cd7ae78f15d1f839.png", CINE FHD | DE PELICULA
+http://speedwk.site:80/Jose2022/Jose2022/103952.ts
+#EXTINF:0 type="stream" channelId="-1" name="VIX CINE CLUB" group="CINE FULL HD" logo="https://televisa.brightspotcdn.com/dims4/default/888a23d/2147483647/strip/true/crop/1300x731+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff3%2Feb%2Ffec5e5934874b128cb6bae21cd5e%2Fvix-la-plataforma-de-streaming-gratis.jpg", VIX CINE CLUB
+http://speedwk.site:80/Jose2022/Jose2022/240405.ts
+#EXTINF:0 type="stream" channelId="-1" name="Kanal D Drama" group="CINE FULL HD" logo="http://panel.tured.live:80/images/5006a0e5a651368f82ded652941ec2b8.png", Kanal D Drama
+http://speedwk.site:80/Jose2022/Jose2022/253219.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE || DHE" group="CINE FULL HD" logo="http://panel.tured.live:80/images/b447a945f6f05436094ac69bac3b240d.png", CINE || DHE
+http://speedwk.site:80/Jose2022/Jose2022/253220.ts
+#EXTINF:0 type="stream" channelId="-1" name="VIX RETRO HD" group="CINE FULL HD" logo="http://panel.tured.live:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUDKXu0HoXGao9N9I3XfKzQ0IBAgaUiZ492WzeN4WIT4k9qXrQXF1HTqdrBoMrNKo0.png", VIX RETRO HD
+http://speedwk.site:80/Jose2022/Jose2022/265800.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | Studio universal UHD" group="CINE FULL HD" logo="http://panel.tured.live:80/images/f58d38aed747203e5c74e3c1a37dd065.png", CINE HD | Studio universal UHD
+http://speedwk.site:80/Jose2022/Jose2022/49798.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | TNT Latin America UHD" group="CINE FULL HD" logo="http://panel.tured.live:80/images/1c80b64ed7480a3689fb6af7cef2623e.png", CINE HD | TNT Latin America UHD
+http://speedwk.site:80/Jose2022/Jose2022/94130.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | Universal Channel UHD" group="CINE FULL HD" logo="http://panel.tured.live:80/images/af4ce955a3dc2325e39809ffbb56a21e.png", CINE HD | Universal Channel UHD
+http://speedwk.site:80/Jose2022/Jose2022/103943.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE FHD | AZ CINEMA" group="CINE FULL HD" logo="http://panel.tured.live:80/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqB7NAqjGFeFYSF3TSWLfTMncUV74Ttz0s6keYcsf_lcrA.png", CINE FHD | AZ CINEMA
+http://speedwk.site:80/Jose2022/Jose2022/103951.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE SD | TCM" group="CINE FULL HD" logo="http://panel.tured.live:80/images/94f68ad1468ebfc8d0effa90f6a4f4c0.png", CINE SD | TCM
+http://speedwk.site:80/Jose2022/Jose2022/94128.ts
+#EXTINF:0 type="stream" channelId="1330" name="HBO" group="HBO CHANNELS PREMIUM" logo="http://panel.tured.live:80/images/c59db57e4398473aef4c2c3c7bdafb86.png", HBO
+http://speedwk.site:80/Jose2022/Jose2022/87423.ts
+#EXTINF:0 type="stream" channelId="935" name="HBO 2" group="HBO CHANNELS PREMIUM" logo="http://panel.tured.live:80/images/e0df91f330003e4ba73af6eb8647a1c4.png", HBO 2
+http://speedwk.site:80/Jose2022/Jose2022/87425.ts
+#EXTINF:0 type="stream" channelId="1330" name="HBO +" group="HBO CHANNELS PREMIUM" logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/300?cb=20190408002018", HBO +
+http://speedwk.site:80/Jose2022/Jose2022/237113.ts
+#EXTINF:0 type="stream" channelId="2587" name="HBO XTREME" group="HBO CHANNELS PREMIUM" logo="http://panel.tured.live:80/images/7ca887f77442e476761355b87f5f1cf9.png", HBO XTREME
+http://speedwk.site:80/Jose2022/Jose2022/237110.ts
+#EXTINF:0 type="stream" channelId="361" name="HBO POP" group="HBO CHANNELS PREMIUM" logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220707", HBO POP
+http://speedwk.site:80/Jose2022/Jose2022/237115.ts
+#EXTINF:0 type="stream" channelId="2583" name="HBO SIGNATURE" group="HBO CHANNELS PREMIUM" logo="https://static.wikia.nocookie.net/logopedia/images/3/37/HBO_Signature_2000.svg/revision/latest/scale-to-width-down/200?cb=20100323081748", HBO SIGNATURE
+http://speedwk.site:80/Jose2022/Jose2022/237114.ts
+#EXTINF:0 type="stream" channelId="2584" name="HBO FAMILY" group="HBO CHANNELS PREMIUM" logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3a/HBO_Family_logo.png/revision/latest?cb=20160707203647", HBO FAMILY
+http://speedwk.site:80/Jose2022/Jose2022/237112.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE HD | STAR CHANNEL" group="STAR CHANNELS PREMIUM" logo="http://panel.tured.live:80/images/gvtXnjT4BqmO59A6zGJHM4-rXt6G34arVXimOcIXo4URCGH-ukKtbJ-Dubp-n9FUdFvu2hkQMoV61ZxJst2t8ulucGDQOtxcJhaWHk8KL40.jpg", CINE HD | STAR CHANNEL
+http://speedwk.site:80/Jose2022/Jose2022/135556.ts
+#EXTINF:0 type="stream" channelId="-1" name="CINE || Universal TV" group="STAR CHANNELS PREMIUM" logo="http://panel.tured.live:80/images/vvt2zbl8W4F67YLGOHl5c6knzd26QWryb_VTP8xAaVLa-mQGyBYSCRW37yKl4mINamX5Vfr22NvhILRE84XY8OiOGW_AgVRd5_GeG2gYzrg.png", CINE || Universal TV
+http://speedwk.site:80/Jose2022/Jose2022/225183.ts
+#EXTINF:0 type="stream" channelId="3743" name="LA: DHE" group="USA Latin" logo="http://77.247.109.54:80/images/8cb62b2f00b0d926232d836687570f9c.png" country="la", DHE
+http://185.156.74.135:80/Terrance123/Terrance321/1188474.ts
+#EXTINF:0 type="stream" channelId="2585" name="LA: HBO Plus" group="USA Latin" logo="http://77.247.109.54:80/images/0ca51fea58727938759fb86481e68270.png" country="la", HBO Plus
+http://185.156.74.135:80/Terrance123/Terrance321/1041237.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA CINE SONY | HD" group="USA Latin" logo="http://77.247.109.54:80/images/5863c291fd640d5e0ac16ccda83f121a.png", USA CINE SONY | HD
+http://185.156.74.135:80/Terrance123/Terrance321/748640.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: UnivisionNow: Unimas Los Angeles" group="USA Latin UNIMAS" logo="http://77.247.109.54:80/images/e6c2ee15b0a23877662a82ccb72fbe3c.png" country="la", UnivisionNow: Unimas Los Angeles
+http://77.247.109.54:80/Terrance123/Terrance321/176273.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: UnivisionNow: Unimas NewYork" group="USA Latin UNIMAS" logo="http://5.44.253.151:80/images/e6c2ee15b0a23877662a82ccb72fbe3c.png" country="la", UnivisionNow: Unimas NewYork
+http://77.247.109.54:80/Terrance123/Terrance321/176274.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Univision New York NY" group="USA Latin UNIVISION" logo="http://77.247.109.54:80/images/337c09a99c38d209f9f6619a5fd715c1.png" country="la", Univision New York NY
+http://77.247.109.54:80/Terrance123/Terrance321/176280.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA Latin Atreseries" group="USA Latin" logo="http://185.156.74.135:80/images/21e741fde98fc5949caa404930cb51f5.png", USA Latin Atreseries
+http://77.247.109.54:80/Terrance123/Terrance321/176301.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA Latin De Pelicula" group="USA Latin" logo="http://5.44.253.151:80/images/4f9d012c5f3896e457a789212f4293aa.png", USA Latin De Pelicula
+http://77.247.109.54:80/Terrance123/Terrance321/176310.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA Latin DP Clasico" group="USA Latin" logo="http://ky-iptv.com:25461/images/ce1a2bd875a1d2968daaf43b069d3585.png", USA Latin DP Clasico
+http://77.247.109.54:80/Terrance123/Terrance321/176313.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA Latin NTN24" group="USA Latin" logo="http://ky-iptv.com:25461/images/c1dbc4e286ffc50fe9f44d1d0b2f4a77.png", USA Latin NTN24
+http://77.247.109.54:80/Terrance123/Terrance321/176336.ts
+#EXTINF:0 type="stream" channelId="3783" name="SUR: RCN NUESTRA TELE" group="USA Latin" logo="http://5.44.253.151:80/images/0814dcbaf10e2a0cc89b08b932e8af6b.png" country="sr", RCN NUESTRA TELE
+http://77.247.109.54:80/Terrance123/Terrance321/176337.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA Latin Paramount Network" group="USA Latin" logo="http://77.247.109.54:80/images/a9e58ae1fa7dd6190fbba092e06463f7.png", USA Latin Paramount Network
+http://77.247.109.54:80/Terrance123/Terrance321/176339.ts
+#EXTINF:0 type="stream" channelId="-1" name="MiamiTV Naked Yoga" group="24/7 Adult" logo="http://185.156.74.135:80/images/95b5213369e0e822ba86a5007e10fd15.png", MiamiTV Naked Yoga
+http://77.247.109.54:80/Terrance123/Terrance321/1860667.ts
+#EXTINF:0 type="stream" channelId="-1" name="Jays Pov" group="24/7 Adult", Jays Pov
+http://77.247.109.54:80/Terrance123/Terrance321/1860719.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA CNN en Español" group="USA Latin" logo="http://77.247.109.54:80/images/2b05a4170d32cfac8cb95ede6a4fa761.png", USA CNN en Español
+http://77.247.109.54:80/Terrance123/Terrance321/176290.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA Discovery Familia" group="USA Latin" logo="http://77.247.109.54:80/images/e94bc478154984f1f7add686b5486ea3.png", USA Discovery Familia
+http://77.247.109.54:80/Terrance123/Terrance321/176293.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA FOX Deportes" group="USA Latin" logo="http://185.156.74.135:80/images/7eae97e6d5e49e69dbe45d7a5db53af0.png", USA FOX Deportes
+http://77.247.109.54:80/Terrance123/Terrance321/176294.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA Latin La Sexta" group="USA Latin" logo="http://5.44.253.151:80/images/32600e60a8cb6c7871c641925747dcd7.png", USA Latin La Sexta
+http://77.247.109.54:80/Terrance123/Terrance321/176328.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA Latin Mas Chic" group="USA Latin" logo="http://77.247.109.54:80/images/ad95fb4f8afefed63d6aca4f66c6ccd3.png", USA Latin Mas Chic
+http://77.247.109.54:80/Terrance123/Terrance321/176329.ts
+#EXTINF:0 type="stream" channelId="2585" name="LA: HBO Plus" group="USA Latin" logo="http://5.44.253.151:80/images/0ca51fea58727938759fb86481e68270.png" country="la", HBO Plus
+http://5.44.253.151:80/Terrance123/Terrance321/1041237.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA CINE SONY | HD" group="USA Latin" logo="http://185.156.74.135:80/images/5863c291fd640d5e0ac16ccda83f121a.png", USA CINE SONY | HD
+http://5.44.253.151:80/Terrance123/Terrance321/748640.ts
+#EXTINF:0 type="stream" channelId="-1" name="USA Latin Discovery" group="USA Latin" logo="http://77.247.109.54:80/images/01a9b28e46080349f5f7f3c145f8d019.jpg", USA Latin Discovery
+http://5.44.253.151:80/Terrance123/Terrance321/176311.ts
+#EXTINF:0 type="stream" channelId="-1" name="LA: Unimas East HD" group="USA Latin UNIMAS" logo="http://77.247.109.54:80/images/bee277949355d2623acf9cf96f46cbfe.png" country="la", Unimas East HD
+http://5.44.253.151:80/Terrance123/Terrance321/514720.ts
+#EXTINF:0 type="stream" channelId="-1" name="MiamiTV Naked Yoga" group="24/7 Adult" logo="http://5.44.253.151:80/images/95b5213369e0e822ba86a5007e10fd15.png", MiamiTV Naked Yoga
+http://5.44.253.151:80/Terrance123/Terrance321/1860667.ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: AMC" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/lO4I6ENDRiY1iG64O8qqg9ywFqF80Kc0JHwLV9-1A6gKnMQhK0ExZD9mCIcuWesl69uu5rAAHRMVrcvGFb5uduzbk7OK_IhhMIorrhpQhwWFNLZcjhV8e2-eVBg_iSZzCXDxGuqp88cL7ZuEmRxc6Q6GjX0jKVfz6QaEJwhMLm4.png", CIN: AMC
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0GxoocO7gln4u1p5ymU7P5s/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: Cinecanal" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/KBoEg6fiLOYa2JG1PWsWgxqAfBDe35lzvRCZ_CZzqI1GwoyoTfHIt9z-TLd-zYI40MRTkq-20dqyBVsvQsvaB98wbzRRaWGMDYdR0jwF8_8.png", CIN: Cinecanal
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0NB9m8XNI0ufyJdNWMFV_-g/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: Cinemax" group="|LAT| Cine Latino" logo="http://2tmoon.xyz:80/images/cbAkOYPHJYCs3BO3bg4PQXzmZSD8TZXF0E90d1dO5KSx0a2qq_zkz2do7rEirBMBzo-T7ogAhPelfLyh1ZBqwtxTcKtoR-ySKN0SFRst0FnsdjnkrNLLivnFQdsOKqstLQIflS0udWESp_GUDzKviu3nat6LN1qwBQWBS5kso5U.png", CIN: Cinemax
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0MLp5g6l4gKNVehyIDtVWT4/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: Paramout" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGamaoJ1Ts83uvdXHsxaSNT1_4HdTaD6K5h-mtifFR7A72f6jzhU2-5Gzb3LFQJz72Ye3oHhSRH1542-O0k_NwB34.png", CIN: Paramout
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0IPycnJNBFqwWJ0CZTqvbkQ/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: FX" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjt5kwse9GytSgkxJ_3Bt2GKUptHBhlljANtQhlX4IgwAjj6F-JK-UBHwLLsa7Y-wl10pOcnPesJD6UsJy4We4fvB3QvGeH7Vi0BXawzc8MyY.png", CIN: FX
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0Ex7rcxz-W8nF7uixXxvsd0/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: Sony" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z89ifFNIvkj9SJJ6IWqqGHWJuJoukV_JMODT-YLi6P48CfxdCFUwCBKIy5IyuNzte5w.png", CIN: Sony
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0Dencwjrcted16LrLxEQ99c/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: TCM" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8-2XrLMHQhTLsNmlY3Cpnzu8vnwHab-x2l07jZxf99OwPUp11pf8NCbvsFLBtxKMHs.png", CIN: TCM
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0KFBby0ZSbe5DQeUtY8SnFQ/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: HBO" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8-3LQexspb1nIhyx5zBwK_h76xXgn8cGjizCh0vtsdukU53haFW0zDo2gSs7Dcvopk.png", CIN: HBO
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0GEfft_vFoZigta7GzCpNFo/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: HBO 2" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8-ljyNFSNgJglNXaPLGVSbSaOkPtgUaz2MoflHX1L3X0qbtwtBzboeLwMvm-jGjqVg.png", CIN: HBO 2
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0DPGea8KucXsnHcABdxW5ZE/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: HBO plus" group="|LAT| Cine Latino" logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", CIN: HBO plus
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0LBEHiwGMUJtdZCqnBPCyZE/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: HBO family" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8_PVCD2w5LZV0Ku-mTVOoerAR5Qn6Yk9Vk5fXl9ziPdjDiz0vFaUjArqOvn8Uij5qA.png", CIN: HBO family
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0LX_7r3dviUfAFPm08OcggI/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: HBO mundi" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjauLZl80I1rWOIeFZSq5fciaPjrzIIcn2hTBf56tvq935UGij1tvO5syWcoqayzwn5Tq3IE_60gOTmvRCTkgMpA.png", CIN: HBO mundi
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0Cck8YSCBsOv--u95GxJzW0/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: HBO xtreme" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/18ZPwTcXcrRgadGVYgzEYzjMxBYbvi98JRszJ8jXRlLyR-KNaMqHHkVh7WJMiPYIm8wJapwYUI44-A8oIzJdSDnodWmHuGMt_OKOvVorNCI.png", CIN: HBO xtreme
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0JhAnjLBY2Bie69TqoERg3A/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: Golden prime" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGak_Hj5ZZGDUGr00Ic5AkFjQS5Cb179Y4Aoj0Qd70rogO_lW3PTfhxJP2hGoCWdmUfJMLpE7wm7tD1T_Xej4cYkQ.png", CIN: Golden prime
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0Ar2KSCBSeIctOAGJYM4i8w/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: Golden edge" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGaoVZPNMxnbwhjRf7_VACfluUAHGBHRToel1oE1apUec3sjmpbmXQ9jwnaA0P8oDP0NfkJpjeprHKRokU31CZXJU.png", CIN: Golden edge
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0Af69qjIWFza1NaKUUIED3E/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: De pelicula plus" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/KBoEg6fiLOYa2JG1PWsWgyQTQbD7rF_Fq7xDycNUOh4jaR8-SdOIbb-imr4r6s6LANClA7_0xXZw_1Nk4IyZi5aKDDaqMiwBIKtrOU22N_M.jpg", CIN: De pelicula plus
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0GbI5gd-YIHxng7PyB9uTxc/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: Golden plus" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGau3Fk-kfAXtYpZzyrRzASx500LL8UBpZ_xpEJCTSh_3A2I7obRSAAktQ-yAXFUxoKYFKJRIYNUeZgBhqiWudtoQ.png", CIN: Golden plus
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0ORfdwmK1f_3mEuDEW1T-iY/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: FX" group="|LAT| Cine Latino" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png", CIN: FX
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0M9wceMy0Yqmey_ba1Pj-4Q/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: Golden premier" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGak_Hj5ZZGDUGr00Ic5AkFjQS5Cb179Y4Aoj0Qd70rogO_lW3PTfhxJP2hGoCWdmUfJMLpE7wm7tD1T_Xej4cYkQ.png", CIN: Golden premier
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0OzHjelZ9VwPvc88IsInDTk/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN:  UNIVERSAL REALITY" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGaqH2Jy-8Z8aarblBM6x28znxyao5yDW8CIaf1Musyz-LZraC3umRPnItzCN3mJYVh_DhJKbTGM0R7AM_9ByDYt4.png", CIN:  UNIVERSAL REALITY
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0Ki2NTiEZBn5Cgdg3sXeBuo/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: STAR CHANNEL" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHipXFEoCaj5Hf92SkCV_hEXdkeoOat4UhqDBIEgjHNOlTBrP5UuOUaW8B1OaXhFflw.png", CIN: STAR CHANNEL
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0IlGinhh51GM_iX4RyiZm-A/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN:  UNIVERSAL REALITY" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN0NSGoTB81Ax0PP5SImz04bzk2kByG1TcD5NP_6vl1QfE.png", CIN:  UNIVERSAL REALITY
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0DdvXjkzy6cyMGarNPpnxhA/ts
+#EXTINF:0 type="favorites" channelId="-1" name="CIN: Cine Dinamita" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGalcQCofMHF-kwVfQensnbb96XUe2ZvH7Rr0zkVgJ8YDUiz0IvBlSgr4qHE2sgyhLI81BGTNXlm33tXKyEMUQveo.png", CIN: Cine Dinamita
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0MfzXfBTaKspb8Vb5waHc8Y/ts
+#EXTINF:0 type="favorites" channelId="-1" name="MX: SPACE LATINO" group="|LAT| Cine Latino" logo="http://2tmoon.xyz:80/images/cbAkOYPHJYCs3BO3bg4PQXzmZSD8TZXF0E90d1dO5KSx0a2qq_zkz2do7rEirBMBfHng3ALBUdMb9-2M897MPd-WxkScmOzRnLBoe709uRPgkjI9Xl3GINFV05gawWR9AuBMIEh6iNlgClDgDitZKw.png" country="mx", SPACE LATINO
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0P-MxoFIaGat72WD38bjOrk/ts
+#EXTINF:0 type="favorites" channelId="1052" name="MX: TNT" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHj3SX96c2WqI9i98-H77I7dIRB33Jds41j-LkJLLT4zwlQwA8dMYBfbRLxkvCaYLyA.png" country="mx", TNT
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0GSEFRiuXiZstgF_yDQMP58/ts
+#EXTINF:0 type="favorites" channelId="2501" name="MX: AMC" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/lO4I6ENDRiY1iG64O8qqg9ywFqF80Kc0JHwLV9-1A6gKnMQhK0ExZD9mCIcuWesl69uu5rAAHRMVrcvGFb5uduzbk7OK_IhhMIorrhpQhwWFNLZcjhV8e2-eVBg_iSZzCXDxGuqp88cL7ZuEmRxc6Q6GjX0jKVfz6QaEJwhMLm4.png" country="mx", AMC
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0DYpiMFx1yX9XvyYscPdaYY/ts
+#EXTINF:0 type="favorites" channelId="1303" name="MX: FX" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjt5kwse9GytSgkxJ_3Bt2GKUptHBhlljANtQhlX4IgwAjj6F-JK-UBHwLLsa7Y-wl10pOcnPesJD6UsJy4We4fvB3QvGeH7Vi0BXawzc8MyY.png" country="mx", FX
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0PSVYzz5ZcPXp0Qkxnl6e0A/ts
+#EXTINF:0 type="favorites" channelId="1330" name="MX: HBO" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8-3LQexspb1nIhyx5zBwK_h76xXgn8cGjizCh0vtsdukU53haFW0zDo2gSs7Dcvopk.png" country="mx", HBO
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0GjFJDNfuxfbQ8LZ-XSidY0/ts
+#EXTINF:0 type="favorites" channelId="3765" name="MX: Golden Plus" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGau3Fk-kfAXtYpZzyrRzASx500LL8UBpZ_xpEJCTSh_3A2I7obRSAAktQ-yAXFUxoKYFKJRIYNUeZgBhqiWudtoQ.png" country="mx", Golden Plus
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0PFAp2WGjYqZ9gbvhTw1l-Q/ts
+#EXTINF:0 type="favorites" channelId="383" name="MX : SPACE" group="|LAT| Cine Latino" logo="http://2tmoon.xyz:80/images/cbAkOYPHJYCs3BO3bg4PQXzmZSD8TZXF0E90d1dO5KSx0a2qq_zkz2do7rEirBMBfHng3ALBUdMb9-2M897MPd-WxkScmOzRnLBoe709uRPgkjI9Xl3GINFV05gawWR9AuBMIEh6iNlgClDgDitZKw.png" country="mx", SPACE
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0BVDDfupTKLKnbOTEMV-FPI/ts
+#EXTINF:0 type="favorites" channelId="2587" name="MX : HBO Xtreme" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/18ZPwTcXcrRgadGVYgzEYzjMxBYbvi98JRszJ8jXRlLyR-KNaMqHHkVh7WJMiPYIm8wJapwYUI44-A8oIzJdSDnodWmHuGMt_OKOvVorNCI.png" country="mx", HBO Xtreme
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0O5lSldvmeQ43LsfXLCPx2E/ts
+#EXTINF:0 type="favorites" channelId="1963" name="MX : Golden Premier" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGak_Hj5ZZGDUGr00Ic5AkFjQS5Cb179Y4Aoj0Qd70rogO_lW3PTfhxJP2hGoCWdmUfJMLpE7wm7tD1T_Xej4cYkQ.png" country="mx", Golden Premier
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0Iw0nfdJv_hBuc0Y8TAjOk0/ts
+#EXTINF:0 type="favorites" channelId="1326" name="MX : CINEMAX" group="|LAT| Cine Latino" logo="http://2tmoon.xyz:80/images/cbAkOYPHJYCs3BO3bg4PQXzmZSD8TZXF0E90d1dO5KSx0a2qq_zkz2do7rEirBMBzo-T7ogAhPelfLyh1ZBqwtxTcKtoR-ySKN0SFRst0FnsdjnkrNLLivnFQdsOKqstLQIflS0udWESp_GUDzKviu3nat6LN1qwBQWBS5kso5U.png" country="mx", CINEMAX
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0FWV8voR7FrQjnUmioK5PE8/ts
+#EXTINF:0 type="favorites" channelId="361" name="MX :  HBO POP" group="|LAT| Cine Latino" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjs4uvde2X6F0BV0VJ_cFRl5g1wyShWGjWD4Opq8y8dLMl4pEUWoV66S81RvcIMprd.png" country="mx", HBO POP
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0P2nK7_MLlzsEPkvmjvc_Ak/ts
+#EXTINF:0 type="favorites" channelId="139" name="MX: France 24" group="|LAT| Latinos" country="mx", France 24
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0K1ueypxehUINRmxnZFVJuo/ts
+#EXTINF:0 type="favorites" channelId="1040" name="LA: TLC HD" group="|LAT| Latinos" logo="http://iptvtree.es:80/images/fc44024102d63f73773db3bdf054431f.png" country="la", TLC HD
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0AAJAV8aFggiYFeti_VLW0Y/ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: TNT FHD" group="|LAT| Latinos" logo="http://iptvtree.es:80/images/55832717a28b4de1f0e70a1e9b795ba0.png" country="la", TNT FHD
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0GbofbRx2T2QBRiNJSQCIgc/ts
+#EXTINF:0 type="favorites" channelId="895" name="LA: TCM" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/f8ada85460ed68320226163ce151758a.png" country="la", TCM
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0G3uSyKvW2tHNz8wSuxQWo4/ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: Studio Universal FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/ea81fda255625c062308543c20603d19.png" country="la", Studio Universal FHD
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0Nd5F4QGa1AKeVjAPN2QywQ/ts
+#EXTINF:0 type="favorites" channelId="1200" name="LA: Lifetime" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/4b03a9054ed3da9d0c11ab2dd696aa26.png" country="la", Lifetime
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0Ma9lO9UQBUsXH45jGNWsCQ/ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: HBO+ FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/316a376c79bf2fab656f10d4ea5eca0b.png" country="la", HBO+ FHD
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0EMaRizf8rQ8wirpcpPyn0I/ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: HBO 2 FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/15d34574192e1dcf9b23af03ced53e72.png" country="la", HBO 2 FHD
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0LWC-zh0C819v9yekiq33sU/ts
+#EXTINF:0 type="favorites" channelId="2584" name="LA: HBO Family" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/58a297b3e817f8ba6dfa4d7c5950b76f.png" country="la", HBO Family
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0Kwnazd5cHNAwsm1_sEeOvc/ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: Star Channel FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/8eadf1c8452bbab529851d98e3298bb6.png" country="la", Star Channel FHD
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0CXcnPRH2YN0y0eoWliU8gw/ts
+#EXTINF:0 type="favorites" channelId="-1" name="24/7: he man" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: he man
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0PoP0Zr3uwk9PIQSABDzWmc/ts
+#EXTINF:0 type="favorites" channelId="-1" name="24/7: Los Picapiedras" group="|LAT| 24/7 Latino" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: Los Picapiedras
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0GDPTAb8kkOcNA0tIksFBDE/ts
+#EXTINF:0 type="favorites" channelId="-1" name="El Chapulín Colorado" group="24/7", El Chapulín Colorado
+http://bulltv.us:2999/darlin/darlin/36554
+#EXTINF:0 type="favorites" channelId="2686" name="TNT Series" group="Ecuador" logo="https://assets.elimparcial.com/__export/1562611313007/sites/elimparcial/img/2019/07/08/tnt-series_crop1562611186225.png_423682103.png", TNT Series
+http://bulltv.us:2999/darlin/darlin/365
+#EXTINF:0 type="favorites" channelId="-1" name="PT | HotHDⓧ FHD" group="|PT| ADULTOS" logo="http://daddyserver.com:8080/images/c48842725be9a15d3c6789faea299f47.png", PT | HotHDⓧ FHD
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/9725
+#EXTINF:0 type="favorites" channelId="-1" name="CULTURALES | DISCOVERY H&H*" group="CULTURALES FULL HD" logo="http://panel.tured.live:80/images/4af0643ebe02a9b112366e4de0792838.png", CULTURALES | DISCOVERY H&H*
+http://speedwk.site:80/Jose2022/Jose2022/252112.ts
+#EXTINF:0 type="favorites" channelId="1200" name="MX: Lifetime" group="|LAT| Entretenimiento Latino" country="mx",  Lifetime
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0KpXgcZI1-fiL7FMNOt2hSU/ts
+#EXTINF:0 type="favorites" channelId="1188" name="MX: E! Entertainment" group="|LAT| Entretenimiento Latino" country="mx",  E! Entertainment
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0H9P-EaGwjhxY7p_EVtOhIw/ts
+#EXTINF:0 type="favorites" channelId="3875" name="LA: E" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/71548ddc37f7825594cbf12effa6fb89.png" country="la",  E
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0PuyiVVHNdJRh37_If4B_GM/ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA Discovery Theater FHD" group="|LAT| Latinos" logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjVPmr-JH78Wv2HlybXUOCvAIbKKHgTJ0Dg_K9K8ffGyBkn29IZdBO13EVLHnfh9cVuMyQCM5ZRaO5ad78VsLC4RNKGOO-HZwpCbW9NCC_h8T_K11xYF3TiNaZ4Au5j-U1.png", LA Discovery Theater FHD
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0EQn6-de8i-fRSFaNuQinXo/ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: Cinemax East FHD" group="|LAT| Latinos" logo="http://2tmoon.xyz:80/images/cbAkOYPHJYCs3BO3bg4PQXzmZSD8TZXF0E90d1dO5KSx0a2qq_zkz2do7rEirBMBzo-T7ogAhPelfLyh1ZBqwtxTcKtoR-ySKN0SFRst0FnsdjnkrNLLivnFQdsOKqstLQIflS0udWESp_GUDzKviu3nat6LN1qwBQWBS5kso5U.png" country="la",  Cinemax East FHD
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0AP3wkefLUdrWXwNWAAnee8/ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: Golden Premier FHD" group="|LAT| Latinos" logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGak_Hj5ZZGDUGr00Ic5AkFjQS5Cb179Y4Aoj0Qd70rogO_lW3PTfhxJP2hGoCWdmUfJMLpE7wm7tD1T_Xej4cYkQ.png" country="la",  Golden Premier FHD
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0JQzC86r0yiUvN3g4ZaAaeQ/ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: HBO FHD" group="|LAT| Latinos" logo="http://iptvtree.es:80/images/ece029479a275de35d7ec5e9a10e4250.png" country="la",  HBO FHD
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0HjreZ4omNco-7WoBDAjFO0/ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: HBO Pop FHD" group="|LAT| Latinos" logo="http://iptvtree.es:80/images/c7260b8e681f1f413e35cb8c31e6dd17.png" country="la",  HBO Pop FHD
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0BrzVsfepB8_J8NspP7AbFw/ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: Sony Channel FHD" group="|LAT| Latinos" logo="http://restream.videoflixtv.org:8000/images/4b1af406f7ad02e7c9d677d2fc4ec98b.png" country="la",  Sony Channel FHD
+http://iptvtree.es:80/play/vAWBiFlolj1G186tUZVI0M66VevbRaeXsv_Y6RARRlo/ts
+#EXTINF:0 type="favorites" channelId="-1" name="Batman" group="24/7" logo="http://live.detodotvplay.com:8080/images/746e9aee56f9281b6d0bb1c760314598.png", Batman
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/131701
+#EXTINF:0 type="favorites" channelId="-1" name="La hora pico" group="24/7" logo="http://live.detodotvplay.com:25461/images/1f5902ce964f3881b0d26b9b5e00f2fb.png", La hora pico
+http://allstar.is-by.us:25461/Da72vA84/ctxgYF4XR9qw/131712
