@@ -1,6 +1,6 @@
-"Fundamentos" "Descriptiva"
-"1" 48 56 
-"2" 53 64
-"3" 77 82
-"4" 44 67
-"5" 69 85
+"Fundamentos" "Descriptiva" "ubicacion" "estrato" "alcobas" "banos" "balcon" "parqueadero" "administracion" "avaluo" "terminado"
+"1" 48 56 "norte" 3 3 1 "si" "si" 0.05 14.923002 "no"
+"2" 53 64 "norte" 3 3 1 "si" "si" 0.05 14.923002 "no"
+"3" 77 82 "norte" 3 3 1 "si" "si" 0.05 14.923002 "no"
+"4" 44 67 "norte" 3 3 1 "si" "si" 0.05 14.923002 "no"
+"5" 69 85 "norte" 3 3 1 "si" "si" 0.05 14.923002 "no"
