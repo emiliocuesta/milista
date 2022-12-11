@@ -1,0 +1,10 @@
+# La base de datos fue recolectada en el ano 2015.
+# Las variables precio, avaluo y administracion estan en millones de pesos.
+# La variable administracion corresponde al valor mensual en pesos por el servicio de administracion del edificio.
+# La variable terminado hace referencia a si el apto tiene reformas o mejoras en relacion al estado del apto nuevo.
+"precio" "mt2" "ubicacion" "estrato" "alcobas" "banos" "balcon" "parqueadero" "administracion" "avaluo" "terminado"
+"1" 79 43.16 "norte" 3 3 1 "si" "si" 0.05 14.923002 "no"
+"2" 93 56.92 "norte" 2 2 1 "si" "si" 0.069 27 "si"
+"3" 100 66.4 "norte" 3 2 2 "no" "no" 0 15.738427 "no"
+"4" 123 61.85 "norte" 2 3 2 "si" "si" 0.13 27 "no"
+"5" 135 89.8 "norte" 4 3 2 "si" "no" 0 39.567 "si"
