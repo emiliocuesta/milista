@@ -27,8 +27,6 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 https://inliveserver.com:1936/14056/14056/chunklist_w900525224.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CINE" logo="http://www.m3u.cl/logo/1320_TV_PRIME_Movie.png", TV PRIME MOVIE
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://pbs.twimg.com/profile_images/1364373257743400970/Sju8qzR7_400x400.jpg", TELESOL
-https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://cvisiontv.com/wp-content/uploads/2022/06/cropped-logo-c-vision.png", C VISION TV
 https://stream.cvisiontv.com/cvision_stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="CINE" logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Box_Cinema.jpg/revision/latest?cb=20191224174158", BOX CINEMA
@@ -363,12 +361,6 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto/viviloendirecto/playlist.m3
 https://vd01.streaminghd.net.ar:3056/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="NEUQUEN" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cio_Qgzd_qujR2hFRp7kyIfdcB2XmU9w9Fs_mtVCPXffgMNrTdciv0OPXKnJJ42wS60&usqp=CAU", CANAL 10 SENILLOSA NEUQUEN
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="PORNBOX: BABES" group="XXX" logo="http://iptvnow.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png", PORNBOX: BABES
-http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/70718.ts
-#EXTINF:0 type="stream" channelId="-1" name="PORNBOX: PURE MATURE" group="XXX" logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png", PORNBOX: PURE MATURE
-http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/70719.ts
-#EXTINF:0 type="stream" channelId="-1" name="PORNBOX: SWEET SINNER" group="XXX" logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png", PORNBOX: SWEET SINNER
-http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/70720.ts
 #EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/25/USAK3508704A_20210224T013301.png", Canela.TV
 https://1757bd85f4304a01a89e5b299efa5994.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CanelaTV/playlist.m3u8?ads.wurl_channel=652&ads.wurl_name=CanelaTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:0 type="favorites" channelId="2163" group="CINE Y SERIES" logo="https://i.postimg.cc/k5ZDjspW/CINE.png", CINE
@@ -763,9 +755,9 @@ http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/4798
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2735
 #EXTINF:0 type="favorites" channelId="-1" name="24/7: Tarzan" group="CANALES 24/7" logo="https://static.wixstatic.com/media/0146bf_f2a6ea6efbf44456a7059988051b3493~mv2.jpg/v1/fill/w_270,h_369,al_c,q_80,usm_0.66_1.00_0.01/tarzan_poster_disney.webp", 24/7: Tarzan
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2569
-#EXTINF:0 type="favorites" channelId="-1" name="24/7: Tarzan, el señor de la jungla" group="CANALES 24/7" logo="http://51.161.117.219:80/images/ae9e07ebe9b4beb5894cf539fd3ef4ea.jpg", 24/7: Tarzan\\\\\\\\, el señor de la jungla
+#EXTINF:0 type="favorites" channelId="-1" name="24/7: Tarzan, el señor de la jungla" group="CANALES 24/7" logo="http://51.161.117.219:80/images/ae9e07ebe9b4beb5894cf539fd3ef4ea.jpg", 24/7: Tarzan\\\\\\\\\\\\\, el señor de la jungla
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2570
-#EXTINF:0 type="favorites" channelId="-1" name="24/7: Thundarr, el barbaro" group="CANALES 24/7" logo="https://pics.filmaffinity.com/thundarr_the_barbarian_tv_series-730766382-large.jpg", 24/7: Thundarr\\\\\\\\, el barbaro
+#EXTINF:0 type="favorites" channelId="-1" name="24/7: Thundarr, el barbaro" group="CANALES 24/7" logo="https://pics.filmaffinity.com/thundarr_the_barbarian_tv_series-730766382-large.jpg", 24/7: Thundarr\\\\\\\\\\\\\, el barbaro
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2604
 #EXTINF:0 type="favorites" channelId="-1" name="24/7: Timon y Pumba" group="CANALES 24/7" logo="http://51.161.117.219:80/images/e39c7291c21616af7e21168de2c348e4.jpg", 24/7: Timon y Pumba
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2605
@@ -943,3 +935,67 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="favorites" channelId="283" group="CINE" logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png", Cine Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png", Adrenalina Freezone
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png", Cine Crimen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://play-lh.googleusercontent.com/qDTPzHUKUDgd9CQzG8HaIIgAmavCqDiD_GRZBctfiRSdw1tpRd4_DoiyB1B-TvWQmJk", Aviva TV
+https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ENTRE RIOS" logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png", 6 ENTRE RIOS TV
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CULTURA" logo="https://lh3.googleusercontent.com/-ZO2ZG5c9lTg/YH4vuRraIyI/AAAAAAABBv4/sR_z5uB03g8Xo_BL094Xs-Kk31W-aFjmACK8BGAsYHg/s512/2021-04-19.png", Club TV
+https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CULTURA" logo="https://lh3.googleusercontent.com/-Qjxyu8Kt5PM/YLwQbxwGefI/AAAAAAABCs4/GhZ1MB88oewmzOGNaDLnV-qanRmEvk9JQCJEEGAsYHg/s512/2021-06-05.png", Enfoque Digital TV
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CULTURA" logo="https://lh3.googleusercontent.com/-YUlLyA8Pk7Y/X5n9AMtVNNI/AAAAAAAA61E/UkiOjRsCTWMa94h4g35uC424D4E_wU_2gCK8BGAsYHg/s0/2020-10-28.png", HiperTV  SEÑAL 2
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CULTURA" logo="https://i2.paste.pics/8c05e352159b95f3dc0092a6149b3daf.png", La Chilena TV
+https://vdochile.com:3134/hybrid/play.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CULTURA" logo="https://i2.paste.pics/632a740768764ab4dd8208568ae61b01.png", Raices Arabes TV
+https://6362ca6f1fc28.streamlock.net:443/gsnzdymwdq/gsnzdymwdq/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CULTURA" logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/2021-05-28.jpg", Wapp
+https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ENTRETENIMIENTO" logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV Contigo
+https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ENTRETENIMIENTO" logo="https://www.m3u.cl/logo/1037_Canal_SCN___San_Carlos_Nuble.png", Canal Turismo Travel TV
+https://vdo.panelstreaming.live:3936/hybrid/play.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ENTRETENIMIENTO" logo="https://i2.paste.pics/c4059d4b2eb7b24f7208a93b05312995.png", EGM Channel
+https://paneltv.online:1936/8186/8186/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ENTRETENIMIENTO" logo="https://i2.paste.pics/454ab39041c8b5867f7d4707ebd6c54f.png", VP Televisión
+https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REGIONALES" logo="https://i2.paste.pics/f68f8bb46f486aec998bb476a60d4181.png", Aysen TV
+http://v1.tustreaming.cl:80/aysentv/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REGIONALES" logo="https://yt3.ggpht.com/ytc/AKedOLRF1GsMk04otUSBGj2v35KbGNdWbzoXzHus2icI=s900-c-k-c0x00ffffff-no-rj", Buin Somos Todos
+https://bst.buin.cl/0.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REGIONALES" logo="https://i2.paste.pics/44c5f4becc68ee877580eed639645110.png", Campo Abierto TV
+https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REGIONALES" logo="https://i2.paste.pics/8023836adcf3a07cfaef99fcccbe8292.png", Canal 11 TV Aysen
+https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REGIONALES" logo="https://i2.paste.pics/ef4396a3c62252b1678b3fae595b0532.png", Canal 2 Quellon
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REGIONALES" logo="https://i2.paste.pics/b06a3259d7f1a9883bc755647b2ad1bd.png", Canal Local
+http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REGIONALES" logo="https://i2.paste.pics/1c5801e48a6cf804950bd1ce5e78a303.png", Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REGIONALES" logo="http://www.m3u.cl/logo/45154_PinguinoTV.png", EL PINGUINO TV CHILE
+https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REGIONALES" logo="https://i2.paste.pics/d091b495e5432ae25bfab9dd4624cc6d.png", G Vision
+https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REGIONALES" logo="http://www.m3u.cl/logo/1339_Senal_21.png", Señal 21
+https://tv.clientetvstudio.net:3012/live/dalestreamlive.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REGIONALES" logo="https://i.paste.pics/2c33e7d2def1859442e6f0ebf5405be3.png", Telecauquenes
+https://vdo.panelstreaming.live:3401/hybrid/play.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/SN2QBG03/color-Logo-PNG.png", BBC DRAMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/TY6HW91N/SERIES.png", SERIES 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59508532-73e8-480a-a7ac-ca658e672783&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/yd9kg98B/SERIES-LATINAS.png", SERIES LATINAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CURIOSIDAD" logo="https://elhistonauta.com/wp-content/uploads/2021/05/cropped-cropped-logo_claro.png", EL HISTONAUTA
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="PCIA BS AS" logo="https://pbs.twimg.com/profile_images/1607863993653235712/o8npYiuP_400x400.jpg", CANAL 10 MAR DEL PLATA
+https://g4.mc-hor.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:0 type="favorites" channelId="-1" group="CATAMARCA" logo="https://ltocatamarca.github.io/Logo/LTO%201%20Foto%20Portada-1.png", LTO CATAMARCA
+https://ltocatamarca.github.io/ltotv.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="NOTICIAS" logo="https://i2.paste.pics/3dcc431073eca367aef2011ebdd26387.png", Puranoticia
+https://pnt.janusmedia.tv/hls/pnt.m3u8
