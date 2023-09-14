@@ -1,0 +1,965 @@
+#EXTM3U
+#EXTINF:-1 ,DESCARGA LATINO MAX
+https://archive.org:443/serve/latino_20230416/Latino.mp4
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/0a6920ea4e4060bfd4c88ad13e86af12.png",ARG: 5TV Corrientes
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285872
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7869eca9586b44e92468ac2235338af9.png",ARG: AMC
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38654
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b049025405f7c8647448045b7406a9c7.png",ARG: Argentinisima
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38659
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9cfe9b91c3d1459beb3eca90f11a11d3.png",ARG: AXN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38651
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9468823db4171eccb76dbc2d079a34f7.png",ARG: Baby TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38649
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/72d79a9f0a7874c30f5c357bfcdfa7a1.png",ARG: Boomerang
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38657
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/55af06f2c240537cae0a2807cebc0a44.png",ARG: Canal 12 Puerto Madryn
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285879
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/7d407c5e81e5cdd4f0e4041eb8c3ff0a.png",ARG: Canal 13 La Rioja
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285880
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/b054195fa6a26e0e0f146374f2fbe5fc.png",ARG: Canal 26
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3190
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ARG: Canal 79 Catamarca
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297240
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ARG: Canal 79 Mar del Plata
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297239
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c59f4fd00eaddf3861321dd65b63720f.png",ARG: Chaco TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/166055
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d3f69eaf959038a3e7107518e6c5a6e6.png",ARG: Cinecanal
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38655
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/18343c0fb661dfdb0276d32324b92f4a.jpeg",ARG: Ciudad TV Chaco
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285892
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/727d1df5cf145f20b05ce03c8f71429c.png",ARG: Comedy Central
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/49261
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8dbe5b84ef7b00e4579e1b53426e4a13.png",ARG: DirecTV Sports
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/67721
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1d2a567812c05aa587d88f49ead9e213.png",ARG: Discovery Theater
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/172605
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d45e05543beedc3ea5bf9f26012ef4dc.png",ARG: El Nueve
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3202
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/70250fba7869925f4921f37dcb3e3d90.png",ARG: El Trece
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3194
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png",ARG: ESPN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/61174
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png",ARG: ESPN 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/70752
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png",ARG: ESPN 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/61170
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png",ARG: ESPN Extra
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/66298
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/32cd381cddd366224dff2fae29c3a2cd.svg",ARG: ESPN Premium
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298158
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6c48558da6091edd5d9ecfc4b9b77e3e.png",ARG: Europa Europa
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/29295
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/23b7e450ea406743ae73a1b3545ff3b2.png",ARG: Film & Arts
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38678
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png",ARG: FOX SPORTS Premium
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3203
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9cf183ad8689ff703062b1b2856b72c6.png",ARG: FX
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/172268
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7571477b2d1658e99c8b0646b505baec.png",ARG: Garage TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/23915
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1355a7f4596f05951f14ce3cbb52fe1f.png",ARG: Glitz
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/30712
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7241391c5fd30f0e9f8414bf2b670b49.png",ARG: HBO Xtreme
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/172272
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b1cb3b55d5c8d9b56725b77979b2563e.png",ARG: I Sat
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/148593
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/de8c1e41c7e880245088d5c5b748e02f.png",ARG: IP Noticias
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297230
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ad3ae8ea2a57ba8e4010a3cf5026e38c.png",ARG: LN+
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8758
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ff28f1cb799d59ce60f78e37921f76ea.png",ARG: Quiero Musica en mi Idioma
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/30699
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/aa3bdb7109cf72c07dc98ea8df806a78.jpeg",ARG: Santa Maria TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285904
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d968760dc7fc9a895c6f2b356bf649a9.png",ARG: Space
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/34566
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7f10e562ad4f234ae0003381fa343d45.png",ARG: Star Channel
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/280374
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e6401d2f80b1258f21dc0aa489f13b98.png",ARG: SYFY
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/49316
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/10f6c9721083bb8bec43d163bc5d791a.png",ARG: TCM
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/49314
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7278b1d68612bc4fe9abe628e0ab054f.jpg",ARG: Tele Red
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285183
+#EXTINF:-1 ,DESCARGA VOX PLAYER M3U DESDE PLAYSTORE
+https://dl.dropboxusercontent.com/s/vbbf23iud82xqks/voxplayerm3u.mp4
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/20fbd698ba0f4ac0fd5027ae3730b26f.png",ES: AFV Espanol
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/284259
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f6f125f7a752024acd8e847200d75cb8.png",ES: Alacanti TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/66947
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e5ebe505b03299cad62b100c5534114.png",ES: Alcarria TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/12153
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/c3bccbd06d4b38fb9c5dc00124d50442.png",ES: Alquiler 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/12110
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/38473aec800cbf87bb8e59ae85bb7db3.png",ES: Alquiler 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/11818
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/5307426376278aae8b9c340512ea635e.png",ES: Alquiler 9
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/281770
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3e8da71a24605361a34cc39144648101.png",ES: AMC
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1174
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/9a21b76a7e3d1750ac4c0fbc614f50ac.jpg",ES: AMC Break
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297245
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d6d9bf832a0b925f5ec4de7d91dcd96.png",ES: Antena 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1173
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/abededaf4cd8c48665cfa1d7c7caee96.png",ES: Aragon TV Internacional
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2758
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e3240330cb88d6a9880ac11d9d09ec8c.png",ES: Atreseries
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9102
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b866d9fef524fa206acd7951f852b25.png",ES: AXN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1172
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/b7223b50071211ab43dfaed242a7633f.png",ES: AXN Movies
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298734
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00b652e792492b5283d751cd0f17d618.png",ES: AXN White
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1171
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6e80d3d1f2b8abb84a77de8c5d2c9f54.png",ES: Baby TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5302
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e3d87f3f90695dac322b55c9ad941e79.png",ES: Bailen TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285732
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4d62b5fba837f0f26a56cf9bf7eaeaf4.png",ES: Be Mad
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2213
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/707da2cc95064a5008bf9d851f46ef9d.png",ES: beIN Sports Xtra en Espanol
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/281493
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d128dd4114a7cd1fa14197724b943e58.png",ES: beteve
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285834
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/59e6d62163d4e8a9a21e6f3cf1152a30.png",ES: Blaze
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5303
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/376757098c4f911e9242316d025d3756.png",ES: Bloomberg TV EMEA Live Event
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285720
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f1b59bb4c905f7d7a6ac45525311004f.png",ES: Bloomberg TV Europe
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285843
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dbc7afa6c6ed3ee73fbb53c33d5d42ca.jpg",ES: Boing
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1169
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2a14111c81a43932b7fe7395d9ab7f0c.png",ES: Bon Dia TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165148
+#EXTINF:-1 group-title="Spain ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/20e52019b8a59e1af91962063d2d1568.png",ES: Cacavision
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286374
+#EXTINF:-1 group-title="Spain ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2c08bfbc671ffc3adbe34a7922603d85.png",ES: Cadena Elite
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/200665
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eb37e4ab523860367af90cc91ccd0cc3.png",ES: Calle 13
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1168
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e1f33920e5a5e1832ddd8fb7e69ee3a.png",ES: Canal 24 Horas
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2216
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/2043470c5328db4173f7ddf99aedb777.png",ES: Canal 25 Barbastro
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/146340
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cceafe973ecd05991d6110b172af7a23.jpg",ES: Canal 56
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/270088
+#EXTINF:-1 group-title="Spain ➾ Food" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png",ES: Canal Cocina
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1167
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/d2354da291a52bee872a480fd45abdcc.png",ES: Canal Extremadura Sat
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298736
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ee0005b7bb187dca55aa851e740cf8cd.jpg",ES: Canal Malaga
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/12139
+#EXTINF:-1 group-title="Spain ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png",ES: Canal Odisea
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2194
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/46c09c894cf171f499567bdababac057.png",ES: Canal Panda
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1166
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/53d2c1faca8460edb3b304a719cc7c29.png",ES: Canal Taronja Osona
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285746
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db6dade6b271dd39ebb5e9fedc50c9a6.png",ES: Comedy Central
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1164
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/384bdebd39d8bebceda16e1240cca388.png",ES: Congreso de los Diputados 1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285747
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png",ES: Movistar Deportes
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/227121
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/94066c6ba9258ffcca2b523d4bb15503.png",ES: Movistar Deportes 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285690
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/e75a0e864a8daae27d3c86a3af556102.png",ES: Movistar Deportes 6
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/198066
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf0b506006f12487ce7053315e6ea049.png",ES: MOVISTAR Drama
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1144
+#EXTINF:-1 group-title="Spain ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/50a1f5aeede4140f8b19d307c64024af.png",ES: MOVISTAR Estrenos
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1143
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bce4e1371881d88c660da7804e154dd6.png",ES: MOVISTAR Golf
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1142
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png",ES: MOVISTAR LaLiga
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1141
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png",ES: MOVISTAR LaLiga 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5311
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png",ES: MOVISTAR LaLiga 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/281772
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png",ES: MOVISTAR LaLiga 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/269466
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png",ES: MOVISTAR LaLiga 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/281792
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/98c3b45e9801cd9fe5e72bc8d42b859d.png",ES: MOVISTAR LIGA DE CAMPEONES
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2800
+#EXTINF:-1 group-title="Spain ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/8d75f42f9380554385d706be8d276912.png",ES: MOVISTAR LIGA DE CAMPEONES 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/81096
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: Movistar Liga De Campeones 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298805
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: Movistar Liga De Campeones 6
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298808
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: Movistar Liga De Campeones 7
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/146661
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: Mundotoro
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298810
+#EXTINF:-1 group-title="Spain ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png",ES: NAT GEO
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1138
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: Negocios TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298749
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c0d67120f875960ab87b5db7e8969a2.png",ES: nickelodeon
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2218
+#EXTINF:-1 group-title="Spain ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/32f6b5b9e837262b56032e595e436877.png",ES: Popular TV Cantabria
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285794
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7722046ea70b0b4b8c4fdefd5bfba703.png",ES: Portal Foxmix
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295008
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e9b28907a1672b90b8f4262f200c7197.png",ES: Punt 3 Vall Uixo
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/269913
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: Rakuten 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285803
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f5cebb68654337bd446888464af3ed5b.jpg",ES: Rakuten 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285804
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: Rakuten 6
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285805
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: Rakuten 7
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285806
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",ES: Rakuten Family
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285801
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d0e480ee3a1003ca35a0b12936c604c8.png",ES: RT Español
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/166663
+#EXTINF:-1 group-title="Spain ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/19fa9d93e325e52d950b696a7b05b314.png",ES: RTV Vida
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285797
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/747286dfc3b254abd7fbaa3853ebc797.png",ES: Solidaria TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285810
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/97622498c703a53c3a8fb1e01a65a46e.png",ES: Sundance TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2757
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/422a7522a6687373048ce8c0f84615bf.png",ES: TCM
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1134
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e30d6e2da13306ab5d858ec08ced2d6f.png",ES: Telecinco
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1133
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67b4e401c171416a673fb3c72d074701.png",ES: Teledeporte
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2774
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/8da652483fb3f50740b1034d2c5edc74.png",ES: TeleMadrid
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298747
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8cd8221c0efe5eac3f166bf75ac70dfb.png",ES: Teleonuba
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/145619
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/de6b41bcec3ed5c0fd8a761bb90f6d20.png",ES: TeleRibera
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285823
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2dbbe518daac468a3c136de76bd93820.jpg",ES: Ten
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5306
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ec48701d1306463c043b2e6c0cd9be25.png",ES: TV 4 La Vall
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/270092
+#EXTINF:-1 group-title="Spain ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/388566485ec32c94f7d47987ebbdf1cb.png",ES: TV Castilla La Mancha
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/169000
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4d2a8759886f8d86a7658da37f9926af.png",ES: TV3 Catalunya
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9367
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/bb5c0f3cbd298ff324d35af408d0128c.jpg",ES: TVE Internacional América 1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/49480
+#EXTINF:-1 group-title="Spain ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f1ae50725dffdd143c3a3100e34399ba.png",ES: TVE Internacional Europa
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5943
+#EXTINF:-1 group-title="Spain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9d91abdf7030eabf63c8781012882b9.png",ES: TVE La 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1150
+#EXTINF:-1 group-title="Mexico ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1f1abd2161e471de993e94f3bb131977.png",MX: A&E
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9117
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8916a14d4e2a1c7a5f093901bf95d258.png",MX: ADN 40
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5799
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/4f748645727fa437970fe429a24bda07.png",MX: Adrenalina Sports Network
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/290478
+#EXTINF:-1 group-title="Mexico ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/831e6c12f6dc82dc7c001e936745a6e2.png",MX: Afizzionados
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298042
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db7232f349d96b8ed9fae2fcacaaa50e.png",MX: AMC
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9083
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2cca840e4f54f73b09a45657f2595507.png",MX: AXN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9138
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dae89e688e6ba755b1e478acffb54190.png",MX: Az Cinema
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9108
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d0d9608fb753badbadd6a8dbc1496e8.png",MX: Az Corazon
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2999
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/72ffa19b20708ee5d84c6f01c202ba9a.png",MX: AZTECA 7
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9026
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acaaac076bc2325488fbdbe92a2b7b9a.png",MX: Canal 10 Cancun
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/147894
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/77a6c741aaea77417a1d6cbc5fcd18c2.png",MX: Canal 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9024
+#EXTINF:-1 group-title="Mexico ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/7d08c7bdd34fd3069e7103139975544e.svg",MX: Canal Catorce
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287630
+#EXTINF:-1 group-title="Mexico ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3f51c3bc985994d3ea01824291571f2f.png",MX: Cartoon Network
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9043
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3c3bec641194b6d636508a46f57676bd.png",MX: Cinecanal
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9128
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/bea7ce4cfd849c58422cd24a5588fa0e.png",MX: CineLatino
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/167062
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1dfd6f5ef14ff570838c7117824342c.png",MX: Claro Cinema
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8706
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/160fa147d986ff95034f7199b1510080.png",MX: Claro Sports
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3012
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/f02c6be4bf9e85830ab781cd70f00d02.png",MX: Claro Sports 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297205
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9f09982c9fc7f833cb4f14c6f1e0e8f4.png",MX: Comedy Central
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9106
+#EXTINF:-1 group-title="Mexico ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e1131d9d1ec94f7e88e34842801790d5.png",MX: Discovery H&H
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9110
+#EXTINF:-1 group-title="Mexico ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14efc3962a7c656763a5cd0185333238.png",MX: Discovery Kids
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9060
+#EXTINF:-1 group-title="Mexico ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b5069c173bae240c9ed582b2cc41caf7.png",MX: Disney Junior
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9042
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png",MX: ESPN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9070
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/64516b5abe7608f85db2b125d4ed9166.svg",MX: ESPN 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298057
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png",MX: ESPN 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38603
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c47d68dc2974632c15a07f4a6714854d.png",MX: ESPN Extra
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38607
+#EXTINF:-1 group-title="Mexico ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/b5b2487fb5c5ed76cf033c576203f037.png",MX: Estrella News
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/284052
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/50b0c4852749c9fe37f2d541f24ab3a3.png",MX: Estrella TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/167064
+#EXTINF:-1 group-title="Mexico ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d8a7af6396e12a8262d492c16939a5b.png",MX: Europa Europa
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9130
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c57450114a42c0d62ab0e938d40cf0b2.jpg",MX: FOX SPORTS
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/10925
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/4860d5094856c80be9a0e80d4e3ea61b.jpg",MX: FOX SPORTS 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3043
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ae7fc579a89a3e135c34e8d968fdf59.png",MX: Glitz
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9125
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/31627ce18ed4c1315831d876d8fb84d7.png",MX: Golden Edge
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9076
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a08cc6163e53b2569acec7eb03e05271.png",MX: Golden Plus
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3051
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3259e1f443c20457eaa5e0c34852d23c.png",MX: Golden Premier
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3052
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0f3ec53e3a88942f81f84686e3f90ef8.png",MX: Golf Channel
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/49383
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7510a9b10984936053e620479b391ff5.png",MX: HGTV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/187048
+#EXTINF:-1 group-title="Mexico ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e534aac3780d012e249532ed727cfa26.png",MX: History
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9050
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/43af95dbb50e3d398d3d1ec5a8283937.png",MX: Jalisco TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287636
+#EXTINF:-1 group-title="Mexico ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/e16f0eb609f99e65c69e704087b78974.png",MX: Las Estrella Games
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298336
+#EXTINF:-1 group-title="Mexico ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/be65fcb335b137f9bbcf867472dafea9.png",MX: Las Estrellas
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3005
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef1c95874a83ad90fc037dafbaea536f.png",MX: Maria+Vision
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/163056
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6a873a99ddc126b9074d6c7757d9b6fe.png",MX: Milenio TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/7067
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/5c4a7007104a195f29fb572d252abd83.png",US: Bally Sports Midwest Alternate
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296669
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b77fc8a40093f389487213f19d8d4007.png",US: Bally Sports Netbase
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296671
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/6f6b51944bd9bfb34765fd84ebde36d5.png",US: Bally Sports New Orleans
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296672
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7050ebe3c5c133e7e4caf294f1f00b84.png",US: Bally Sports North
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2324
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/95344230d27ebefff1417a300fddf3d3.png",US: Bally Sports North Plus
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296674
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ef1ba362a1ddfff93e1100e2a4c0e2be.png",US: Bally Sports Ohio
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296675
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0ea318281a2d9359a0a444e8958b367a.png",US: Bally Sports Oklahoma
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/6452
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/93c01620cab5644f8e93bcb398596f2c.png",US: Bally Sports San Diego
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3361
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/c38e618757eadf3d146920cb4e3e06bb.png",US: Bally Sports SoCal
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296681
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/1b157c5e3ad4ea15ee3e0accae6e5d37.png",US: Bally Sports SoCal Plus
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296682
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/5f6098b7f5d4f5483114d31d49b2fc8b.png",US: Bally Sports South
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/277374
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/df1ae38ac0fcb2cfd0138b0177555177.png",US: Bally Sports Southeast
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/82301
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ec3c2b7c1fa878db615f0a6fccdde1f9.png",US: Bally Sports Southwest
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3364
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/180719ee7066c7cf2f643fff5112a768.jpg",US: Bally Sports Southwest Alternate
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3362
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/beffce59a7f472589bbbfd63d1133a25.png",US: Bally Sports Southwest Plus
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296685
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d757d37183d8c1141ef51906b47c9d5.png",US: Bally Sports Sun
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2325
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/5d8282db77bc09da926ec9ea15477f5e.png",US: Bally Sports Sun Plus
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296686
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/961623ebf280e45374c01097665a8aea.png",US: Bally Sports West
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3367
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a761a2cd4adba4dbaf367ecaf8b12d0a.jpg",US: Bally Sports Wisconsin
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295668
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/76cb1345883ae670f46581d6ad782962.png",US: Bally Sports Wisconsin Plus
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296689
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg",US: beIN Sports
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/284530
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/968b2561d3ef02a84e6761d4d914db6a.png",US: beIN Sports 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/151024
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/143beddb5ede0e1f1c962d27225f73e8.png",US: beIN Sports 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/151026
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/508c7fe8551803cd75658da2876e94c9.png",US: beIN Sports 6
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/151030
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/35bdc00f1836b7669f614ffa005537c1.png",US: beIN Sports 7
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/151028
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0a80bcb2eeb5e23cb9f0404c4b16a745.jfif",US: beIN Sports 8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/151032
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ac031332317a1f4f3209a4a4aa54df90.png",US: beIN Sports n
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296690
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/1af633ac21f674213181b644bd010f25.png",US: beIN Sports USA
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296691
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/147df3a992a76a6cebc0e26f825aa7b5.jpeg",US: Black News Channel
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/284042
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/dba23cc45a1c98ca5f3c72089d5dd684.png",US: Bloomberg Quicktake
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298941
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a4867ed7564efb55bd7f5af1fd61c88e.png",US: Bloomberg TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2280
+#EXTINF:-1 group-title="USA ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/261ed359779524389a93dbdcc083cac4.png",US: Boomerang
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2281
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/6daa1f0aaa97292e999acd43336d271b.png",US: Bounce TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298313
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/1ca3be8700d967a30fda3dfb823c6baf.png",US: Buzzr
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/15114
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0294ca889a775960f3add420e4f44c3e.png",US: C SPAN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/14804
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e958867effe8980a9a7694eeec9bcf94.png",US: C SPAN 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2284
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/96c1de6d637c42f28b165feef007c756.png",US: CBN Family
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298635
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/4cec690688065ad2981632779288f01d.png",US: CBN News
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/147400
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/7dc99b20c11dcb864e9de1795dd59bcd.png",US: CBS Atlanta Georgia WGCL TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/281186
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/f2e8b2b3a8e3da5a87291e6a598eaf11.png",US: CBS Baltimore Maryland WJZ TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/281187
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/7ddb06a82fe67917c15fdf164b3abee7.png",US: CBS Birmingham Alabama WIAT TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295780
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/6df4ab8de0b4cfedd66dd3d3dc5fbd66.png",US: CBS Bloomington Indiana WTTV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298324
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/df8fc696e5b96b1a505269eba6253f0d.png",US: CBS Boston Massachusetts WBZ TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/281188
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/266026c76fa70394d83570c3c5dc7889.png",US: CBS Buffalo New York WIVB TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150674
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c9411e2987caf2ba4c2d52c02a3dc307.png",US: CBS Burlington Vermont WCAX TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150718
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f75a0413f4744582d748bf0bd6843e87.png",US: CBS Cedar Rapids Iowa KGAN TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295422
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/b75bd57ca2e80cc6feb0de47d23aaed2.png",US: CBS Charlotte North Carolina WBTV TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298318
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/a41680a1e42dc88ba27bde774f449378.png",US: CBS Cincinnati Ohio WKRC TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295378
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5cc7bb6c9b79998f92f2198b74197b9a.png",US: CBS Colorado Springs Colorado KKTV TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150657
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e54a59d4269050d8ad7ab7054e4adbcf.png",US: CBS Columbia South Carolina WLTX
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150669
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/1beedc8cffa43236408f205f111c9f89.jpeg",US: CBS Columbus Ohio WBNS TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295379
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/01672c4a118b24c6c3ecf7f39bc2997c.png",US: CBS Denver Colorado KCNC TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298320
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/252b1b6aa947952041633570bfc0d0ce.png",US: CBS El Paso Texas KDBC TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/35032
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4cc83c0abe2fcabc163b9045b83e05.png",US: CBS Eugene Oregon KVAL TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150684
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a7cdba640fcaec7b108507de80f9bb61.png",US: CBS Fort Myers Florida WINK TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150660
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/880f038759df06ba1afb993e312cc937.png",US: CBS Fort Worth Texas KTVT TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/82321
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/41f9f9a63d68a7be86e6528c0d5303e8.png",US: CBS Goldsboro North Carolina WNCN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150688
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/308acfad65eaa6d62845a073767dcd5e.png",US: CBS Green Bay Wisconsin WFRV TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150719
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/7ab03601c5e6751edf0aa1fe701ec1f8.png",US: CBS Greensboro North Carolina WFMY TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8417
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5b31f5f4dd9395db8b580f7fc1ce9a95.png",US: CBS Greenville North Carolina WNCT TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150707
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/16b25505c9d72f82cefb99b923d39346.png",US: CBS Harrisburg Pennsylvania WHP TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150697
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c7d7ab7ac985040fc4df653cb40879ec.png",US: CBS Honolulu Hawaii KGMB TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150652
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/6a1f48e0eed732c46b2e58d5ee788d51.png",US: CBS Huntington West Virginia WOWK TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295411
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1fc2e0b2a33fa319837fffa6d06a6402.png",US: CBS Jacksonville Florida WJAX TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8413
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/54f935f1d730917e81be4896ad8aedd9.png",US: CBS Johnson City Tennessee WJHL TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298967
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/5ee49bbac359912c4394558e21fe44a0.png",US: CBS Kansas City Missouri KCTV TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8412
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7f0e1a560176b4f454c7e75524fd9878.png",US: CBS Lansing Michigan WLNS TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150699
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0c7822e40b5578097c1377ed10864c76.png",US: CBS Las Vegas Nevada KLAS TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150692
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10cbf166583cd7fa2ad3920d5f006fd0.png",US: CBS Little Rock Arkansas KTHV TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150636
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/453a5fb17e64e9ca43423a062b778da1.png",US: CBS Los Angeles California KCBS TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/35026
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/693c9df32fad26bd13a642e9d956bb21.png",US: CBS Louisville Kentucky WLKY TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295416
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/78ff236643fcb1a7d058bd162b3315dc.png",US: CBS Miami Florida WFOR TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/41017
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/a54701a0a7790e17a7b833c9f36b8472.png",US: CBS Milwaukee Wisconsin WDJT TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8420
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/ef923e46d851c4ba7957c6b856edc26e.png",US: CBS Minneapolis Minnesota WCCO TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8418
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/b9bdb56291dedf20f77adc3b74e015f8.png",US: CBS New Orleans Louisiana WWL TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8421
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/646889e83f30a3452f307cf34add9d4e.png",US: CBS New York WCBS TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/35036
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b228222cff3b406abf7d1019e0704ce1.png",US: CBS News
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2740
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",US: CBS News Colorado
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298949
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",US: CBS News Denver
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298951
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e939c7776aed39dee89274343e6e13a4.png",US: CBS News Minnesota
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295363
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a1d3c684c85ecec433873938c911054c.png",US: CBS News New York
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295364
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/610dfc8e2e6bd6066479296ef65848ff.png",US: CBS Orlando Florida WKMG TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/35387
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0f9387dbbacae7743d81e369b800286d.png",US: CBS Panama City Florida WECP LD
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298330
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0e696fad3d400a8fd8fcf6888ddb1092.png",US: CBS Philadelphia Pennsylvania KYW TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/41006
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/da1dbc49089a2e80155b0cbbb7406d12.png",US: CBS Phoenix Arizona KPHO TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8425
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5083ca2ff0255106d9175312e514ade3.png",US: CBS Portland Oregon KOIN TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150677
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5ee64e77e00c9b05b36e64528ba59497.png",US: CBS Providence Rhode Island WPRI TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150682
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/892578759aec89471f7e11588f421b4e.png",US: CBS Roanoke Virginia WDBJ TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150711
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/29e1395c26176021354e0ebfdf9d1da2.png",US: CBS Rochester New York WROC TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150676
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/30470809a96d55eeece105fe70dbf02c.png",US: CBS Salt Lake City KUTV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150712
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b82e53effe99538555f056f2679b44ba.svg",US: Fox Austin Texas KTBC TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8517
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4e9b6667b09b09b40a9647ed5c6c103a.png",US: Fox Baltimore Maryland WBFF
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/41027
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a667b579cc8303910eeee9faa296efc1.png",US: HBO Signature
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/6305
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fdfd8af1d831741a56868d7643fdc15d.png",US: HBO Zone
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/6328
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8bbe5654f1224356456b7ae7d20d2846.png",US: HDNet Movies
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/200162
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4e08d5b87b33a42ab5d3f2c0a6eaddfc.png",US: HGTV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2273
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d2acf62cd2fcd32d25ad9b4c2d001ae2.png",US: History
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/761
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",US: History 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/6310
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/db045ee5751934287bb38851a0dab31a.png",US: HLN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/6346
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4f03da8314f153f6bce16d1cfe9becf7.png",US: HSN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/15455
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/4b17b51abbfdfc85e6276a7f7a47981c.png",US: InfoWars
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/267255
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/9b6c5c828fa60ad8691c0ed494be2159.png",US: INSP
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/30900
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/54c21addf47bf3012a20c4aeb4b43b60.png",US: Investigation Discovery
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8557
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1062a075127055a56e7422c210404c47.png",US: ION TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/147661
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/6e3a561165d2615608f5397e5656ce29.png",US: Jacksonville Florida WJXT
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296764
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/801cca9e3a3a7491fd5a7779335fa823.png",US: Justice Central TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150732
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/16966b607ee4892dccf82776a10c6d43.png",US: Laff
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/272260
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/528851e1bc583c89875a0100fa261942.png",US: Law & Crime
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8586
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/378d493432655ace7636a9c9f16d3ede.png",US: Lifetime Movies
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/12992
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/166b30c3e10438645218c7be7e1dcaed.png",US: Logo
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150607
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bfbc3205f63f85ecc0e6c1c0079e41b4.png",US: Longhorn Network
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2340
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/889bc904cfbc10fb3c5791af964f4f98.png",US: Marquee Sports
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150609
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/157a9c38646e824c382dbd1079867573.png",US: MasterChef
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285161
+#EXTINF:-1 group-title="USA ➾ Motor Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a709b1c41887a712be0228e096b9b5d2.png",US: MavTV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9320
+#EXTINF:-1 group-title="USA ➾ LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1db5e432fd52d94c3da738844ec90eb1.png",US: Me TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/15450
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8e45359930ad5c87fae491800f570fb8.png",US: MLB Network
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2342
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/70c0db2dd46d60b48418ec3299d65ddd.png",US: MoreMax
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/752
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/772b634266e62ebfc1363128a0a36206.png",US: Motortrend
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/272264
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb1fdc8f53f95cb4e59f2458bc311404.png",US: MovieMax
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/15110
+#EXTINF:-1 group-title="USA ➾ Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2d7f2afa066c3d8e643874ece3de5047.png",US: MoviePlex
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/38477
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/043121d89a8cc59a45b250e46c5b1849.png",US: MSG
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3382
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0b5bc4fe9c0293f425ae9ae8998085e8.png",US: MSG 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/25213
+#EXTINF:-1 group-title="USA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",US: MSGSN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298972
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1279b30b8e9704c9f7b557d3bd19e8ee.png",US: MSNBC
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/406
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/09cc4c6c30d46d10fc0f05137b9203ed.png",US: MTV 00s
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1533
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/5d835a17ef8e354c192ac4cb508786b2.png",US: MTV 80s
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/19911
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d4becbed0d461d8dc25ae62ea473f97.png",US: MTV 90s
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5352
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b8a13ece3e61f706b0ba8b65784a39df.png",US: MTV Hits
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/4736
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/2bd71aa02833d403385d52f26700f74b.png",US: MTV Live
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9047
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2fd03b160cbd6cf993329d6be134c42b.png",US: MTV Live USA
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/15452
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7c59b921b8d74243f201fa2b14299666.png",US: Music Choice Kidz Only
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/66105
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/1d6f4131be3b16b47e4e6b53047e8caf.png",US: Music Choice Max
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/66084
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a530d791514915cd72288b06ff5bc567.png",US: Music Choice Pop & Country
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/66083
+#EXTINF:-1 group-title="USA ➾ Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/86eab495da97353a2c504a8c4d925890.png",US: Music Choice Pop Hits
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/66082
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/4150f62e5f1f0787699595515f215e72.png",US: My Buffalo New York WNYO TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295353
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1372bfd23eaaa34e119ed8fd0782f809.png",US: My Miami Florida WBFS TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295350
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/a41059ee5ea8ff91713c0cf9a55cf103.png",US: My Williamsport Pennsylvania WQMY TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295354
+#EXTINF:-1 group-title="USA ➾ Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7a9fd08d12f6c76c620bcef76c1438c7.png",US: NAT GEO
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/749
+#EXTINF:-1 group-title="USA ➾ Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fa9e9e44d448684c2043bbb9f38655ff.png",US: NAT GEO Wild
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/6503
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c7a9e9894c533532f081256e9aeb556c.png",US: NBA TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/762
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85a4f5ba2833b9de54b41af1d95e36a9.png",US: NBC Albany New York WNYT TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150939
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c029aa2ab94071d0ef25677337bf4d51.png",US: NBC Amarillo Texas KAMR TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150982
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10b17e944d4d6882baded5d085719eb0.png",US: NBC Atlanta Georgia WXIA TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8496
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1ccd74dd3988ca24c386ffa1ca74b71d.png",US: NBC Austin Texas KXAN TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150986
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/bb0631774eb144f8876e1622d412b044.png",US: NBC Baltimore Maryland WBAL TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8497
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/cd5cd4756fd578c7693aecd4d828e319.png",US: NBC Bangor Maine WLBZ
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295721
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aa28417476552defbe47dbdcb66cb131.png",US: NBC Baton Rouge Louisiana WVLA TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150894
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/af89b160cc1170e9e3acebfc7bc867e1.png",US: NBC Birmingham Alabama WVTM TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150832
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c1d8e71b2154b8faa0e6f22d51571e80.png",US: NBC Boise Idaho KTVB TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150877
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/80f2ea713e299e22f18ba50cc5313846.png",US: NBC Charlotte North Carolina WCNC TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8500
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e844e2a1da7c0481a2be47465b579b9b.png",US: NBC Chicago Illinois WMAQ TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/41046
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/db189c09ac962f8b1a838e0d58cdee50.png",US: NBC Cincinnati Ohio WLWT TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8489
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/158c3ae2281020824277eddfb9ed779d.png",US: NBC Columbia South Carolina WIS
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150981
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/35434623e9c42e1c821b3c29f8a1fdb0.png",US: NBC Columbus Ohio WCMH TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150954
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/be6b87466d73a9f20ec9fb77925e55b4.png",US: NBC Daytona Beach Florida WESH TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/35432
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6604144798284476ca52086a0ce5d7b2.png",US: NBC Denver Colorado KUSA TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8486
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/32e76b404600a06f5673d06977f969db.png",US: NBC Detroit Michigan WDIV TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8476
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8cecfe485d5f4dadd9c77297041455bc.png",US: NBC Eugene Oregon KMTR TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150966
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/8ec6b450001bd90946c84fe2ddc2919d.png",US: NBC Hartford Connecticut WVIT TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/82294
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c4e28063877724a1e2d69f9882c49788.png",US: NBC Honolulu Hawaii KHNL TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150869
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3a3c4e1967b1001f2258d47483d2c88a.png",US: NBC Houston Texas KPRC TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/41067
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/74bdd60acbab9dbaa0dc6d3a62b9b43c.png",US: NBC Huntington West Virginia WSAZ TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295405
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/c1a464d4f97a8a62c0a4a94836be4623.png",US: NBC Indianapolis Indiana WTHR TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8479
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0403b48dd76566f8f3e7378d09f9f527.png",US: NBC Jackson Mississippi WLBT TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150918
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/631b8ab58317031a5e6a813384174433.png",US: NBC Jacksonville Florida WTLV TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8480
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d58690483caf3654420c1e5fe316baf8.png",US: NBC Jacksonville Texas KETK TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150990
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/14bf3c56499985820ae8591af631467a.png",US: NBC Knoxville Tennessee WBIR TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295698
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c130935ac06e47cad56018536c331ae8.png",US: NBC Lake Charles Louisiana KPLC
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150895
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d9057764662c5a02e18addd70dcd421.png",US: NBC Lancaster Pennsylvania WGAL TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150971
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/cb7ff2caec30d190860f1f2c8ec16ee0.png",US: NBC Laredo KGNS TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295693
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bca27dd1f3fbe344e8205b7b0400e942.png",US: NBC Las Vegas Nevada KSNV TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150938
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4f35a2f79b866f538db12c3c554a4452.png",US: NBC Lima Ohio WLIO
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150958
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9b5928f09de237465417fbdc173a2fe6.png",US: NBC Louisville Kentucky WAVE TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150896
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/abc02a80c28f73f2453c5901ce6fa6a8.png",US: NBC Madison Wisconsin WMTV TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/200878
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/01d8a08204ae9054c95e2cd4d45d0662.png",US: NBC Meridian Mississippi WGBC DT 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/192924
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cd469eaceeb8fcb14ff8226185e32635.png",US: NBC Mesa Arizona KPNX TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/82288
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/87c38ba7b26d10c334a043184e29677a.png",US: NBC Miami Florida WTVJ TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8483
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0ae2f4ad7b2142c1e40e0044f9ab99f2.png",US: NBC Mobile Alabama WPMI TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150833
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/de9916f933d08542bf19e084bf5d72e3.png",US: NBC Montgomery Alabama WSFA TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150836
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/18f77a35010188654287d457120d3e58.png",US: NBC Nashville Tennessee WSMV TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8484
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/174c8060211d068aaa9293528bf6865c.png",US: NBC New Orleans Louisiana WDSU TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/41058
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/60569c5684434c1092ceeb239e795dd2.svg",US: NBC News Now
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162677
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3e7deb4bafa4bcd73402673287b98879.png",US: NBC Omaha Nebraska WOWT
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150941
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a81732c491bfbc2360535be03f915542.png",US: NBC Panama City Florida WJHG TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150860
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/a2be6c02cd73f60d0eddd6d6887c08d5.png",US: NBC Parkersburg West Virginia WTAP TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/151023
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6a3167e1c12a24380b96053d88554d4e.png",US: NBC Pittsburgh Pennsylvania WPXI TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/82289
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9f4499f0467fdc6898c6df297f542396.png",US: NBC Plattsburgh New York WPTZ TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150943
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3260522119428c7c848e106e1c1874a2.png",US: NBC Portland Maine WCSH TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/147566
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/3f65237df689844bddc49e394a4d43a0.png",US: NBC Providence Rhode Island WJAR TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295701
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a3d8ac34ad5684913f5c2420d984526d.png",US: NBC Raleigh North Carolina WRAL TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8469
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/190c488ac0b8f9b5407fa758e49c8de1.png",US: NBC Roanoke Virginia WSLS TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/198287
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1da0e651d152f5d413b9af04ebba9345.png",US: NBC Rochester New York WHEC TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150951
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d015fbbd6d9156aee2b944ff0aa4aa6a.png",US: NBC Sacramento California KCRA TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/13184
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3171bd823a99582face7d902edae4601.png",US: NBC San Antonio Texas WOAI TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/200868
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/47c570855042cf9b32854de16f5ffeef.png",US: NBC Sioux Falls South Dakota KDLT TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150979
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c09ce61b00f638b29d68ad29ce0ee483.png",US: NBC South Bend Indiana WNDU TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150888
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/bd2024a29811b02609c7132e0d2f2d82.png",US: NBC Spokane Washington KHQ TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150874
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c14372315f019de569b95c6ca6ce1990.png",US: NBC Sports Boston
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/35132
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b3abb90264b7d0e52f520daf34324068.png",US: NBC Sports California
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/16116
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3902545c893fac9044ca2c59f40d4aa3.png",US: NBC Sports Chicago
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8490
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24e47bcbaf28dd5bf530e5fda9faac92.png",US: NBC Sports Chicago Plus
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/12986
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/53277c8cf985c2454ce7394e4c8c5a94.jpeg",US: NBC Sports Philadelphia
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/35472
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/d98adb99006d0b9d671580ae9988a991.jpeg",US: NBC Sports Philadelphia Plus
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/281668
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e5ad8cf83398759822a2ca6665c1e64b.png",US: NBC Springfield Missouri KYTV TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/150924
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0b3cdcc3a2fc523e937c73ae23a41dc2.jpg",US: NBC St Joseph Missouri KNPG LD
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/192918
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/7deeb910f45bf576b904fcc9fd966ccb.png",US: NBC St Louis Missouri KSDK TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/41053
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8f87e8307f963446d841f2392145436b.png",US: NBC Temple Texas KCEN DT
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/200869
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fca35e21ef7e421d6bc9de65022febc.png",US: NBC Texarkana Louisiana KTAL TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/200870
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/964eea4752101c95456e432d59f8f067.png",US: Newsmax TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/163737
+#EXTINF:-1 group-title="USA ➾ News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7064a1b1dfcffb6b2188256f772dbce6.png",US: NewsNation
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/6296
+#EXTINF:-1 group-title="USA ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f883325e4f24275ba603f8a365c03b4f.png",US: NFL Network
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2367
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: 4K EVILANGEL CUM4K
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296695
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Adult Black White Porn 1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297829
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Alba XXX HD1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8311
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Alba XXX HD1 +1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296945
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Alba XXX HD2 +1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296946
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Alba XXX HD3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8315
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Alba XXX HD4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8314
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Alba XXX HD5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8313
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Alba XXX HD6
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3307
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: AMATEURS BIGTITTYGOTHEGG
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298668
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: ANAL4K
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298200
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: babes
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296234
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BALKAN EROTIC
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3320
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BARELY LEGAL
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/92037
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BEATE UHSE
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3341
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Blue Hustler
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/37296
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BRAZZERS
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/291234
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: BRAZZERS Europe +1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297441
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Cherry Grace
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297844
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: DORCEL TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3283
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cb3e377994e967a278f87247ac8d4090.png",XXX: erotic 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3317
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73b032b563fc35327ae7fe71903d64b3.png",XXX: erotic 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/52
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d784f6c8cc3da5b4f5a70e3fc0754145.png",XXX: erotic 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/35814
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ad731974dee83ee4da6cadbfe518b414.png",XXX: erotic 6
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/77
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60782fcb30648b1df7389d5351a3f0e5.png",XXX: erotic 8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3319
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/69d3c688eed474f0dcfa9157d718e31d.png",XXX: EVIL ANGEL
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/146259
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: EVIL ANGEL +1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296962
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: EVIL ANGEL +5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297442
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: EXPO EROX
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296949
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9393de8ffa8c943b09bec0d2371b7eeb.png",XXX: HOT
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1538
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: HOT GUYS FUCK
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296975
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: HOT MAN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/291244
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: HOT TABOO
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/290031
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/1161b5609e8639fa7922c371e25c63c2.png",XXX: HUSTLER HD
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/6028
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/39f670616f23f6bfb21d6f0aed98de65.png",XXX: Hustler TV RED
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/290277
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Japan HDV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297792
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Miami TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1731
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Miami TV International
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/55212
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Miami TV Latino
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/18344
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: MOFOS +1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297453
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: NET XX
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3324
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: nuart
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/49169
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/89cbca28208f364ef1b47c06315afd71.png",XXX: O.La.La
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/36535
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PENTHOUSE Passion
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/172382
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44766506a37f3b088907703a0da4b7a8.png",XXX: PENTHOUSE Quickies
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3284
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PINKO CLUB
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3342
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d6dd1f934c75182cb6ac60b311ad8183.png",XXX: PLAYBOY
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/14222
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PLAYBOY Latino
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/290309
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX 4K BBC PIE
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298231
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX 4K LUBED PORN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298235
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX 4K SPANK MONSTER
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298237
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Pornbox A girl Knows
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297795
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Pornbox Adult Time
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297865
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX ALL GROUP SEX
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298241
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX BLOW ME POV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297800
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Pornbox Box Of Porn
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297801
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Pornbox Bratty Sis
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297807
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Pornbox Bums Bus
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297806
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX DDF BUSTY
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298249
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX DIABOLIC
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298250
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX DIGITAL PLAYGROUND
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298251
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX DOGFART NETWORK
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298252
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX DORCEL CLUB
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298253
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX DREAMROOM
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298254
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX EROTIKVONBENAN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298255
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX EVIL ANGEL
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298256
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX FAKE HOSTEL
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297825
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Pornbox family Strokes
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297798
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Pornbox family Swap
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297799
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX FAPADOO
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298260
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX FIRST ANAL QUEST
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298262
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX FIT 18
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298263
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX GOTMYLF
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298264
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX HENTAINED
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298265
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX HER LIMIT
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298266
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX HOLED
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298267
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX HOT WIFE XXX
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298268
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX HUSSIE PASS
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298269
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX INTERRACIAL PASS
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298270
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Pornbox Jays Pov
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297819
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX JOI BABES
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298271
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX JULES JORDAN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298272
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX KINKY FAMILY
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297822
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX LETHAL HARDCORE
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298274
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX LETHAL TEENS
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298275
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX LETS DOE IT
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298276
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX LIFE SELECTOR
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298277
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX LOVE HER FEET
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298278
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX LOVE HOME PORN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298279
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Pornbox luxure
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297820
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX MAMACITAZ
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298281
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX MASSAGE ROOMS
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298282
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Pornbox Model Media Asia
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297809
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX MOFOS
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298283
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX MOM XXX
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298284
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX MOMMY BLOWS BEST
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298285
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX MUST NOT FAP
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298286
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX MY DIRTY HOBBY
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298287
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX MY FAMILY PIES
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298288
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Pornbox My Pervy Family
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297814
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: Pornbox Mylf
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297797
+#EXTINF:-1 group-title="XXX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: PORNBOX NEW SENSATIONS
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298291
