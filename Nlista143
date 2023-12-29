@@ -1,0 +1,1001 @@
+#EXTM3U
+#EXTINF:0 type="favorites" channelId="2903", WARNER HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:0 type="favorites" channelId="2501", AMC HD
+http://45.166.92.22:58001/play/a00q/index.m3u8
+#EXTINF:0 type="favorites" channelId="530", SONY HD
+http://45.166.92.22:58001/play/a04a/index.m3u8
+#EXTINF:0 type="favorites" channelId="3761", FX Movies HD
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="LATINO" logo="https://i.imgur.com/SXTD6Iu.jpg", FMTV HD
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:0 type="favorites" channelId="2620", Discovery Home & Health
+http://45.166.92.22:58001/play/a027/index.m3u8
+#EXTINF:0 type="favorites" channelId="3797", TNT Series HD
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:0 type="favorites" channelId="67", TLC
+http://45.166.92.22:58001/play/a04o/index.m3u8
+#EXTINF:0 type="favorites" channelId="895", TCM
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Paramount HD
+http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:0 type="favorites" channelId="2724", Home & Health HD
+http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:0 type="favorites" channelId="2503", A&E HD
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:0 type="favorites" channelId="284", CINECANAL HD
+http://45.166.92.22:58001/play/a04b/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", E! Entertairment HD
+http://45.166.92.22:58001/play/a00n/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", DISCOVERY THEATHER HD
+http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:0 type="favorites" channelId="2246", AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:0 type="favorites" channelId="64", CineCanal
+http://45.166.92.22:58001/play/a02f/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", DHE HD
+http://45.166.92.22:58001/play/a00v/index.m3u8
+#EXTINF:0 type="favorites" channelId="73" group="Mundo y Cultura", SYFY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/80
+#EXTINF:0 type="favorites" channelId="2584" group="Lista 23 Chile", 026 HBO Family HD
+http://186.67.226.14:8088/play/a031
+#EXTINF:0 type="favorites" channelId="2896" group="Lista 23 Chile", 041 Space HD
+http://186.67.226.14:8088/play/a044
+#EXTINF:0 type="favorites" channelId="1960" name="De Pelicula Clasico" group="SPANISH CHANNELS" logo="https://imgx.fubo.tv/station_logos/de_pelicula_clasico_c.png", De Pelicula Clasico
+http://thevdm.xyz:25461/Rt762/Cus762/19864
+#EXTINF:0 type="favorites" channelId="1952" name="De Pelicula" group="SPANISH CHANNELS" logo="https://imgx.fubo.tv/station_logos/de_pelicula_c.png", De Pelicula
+http://thevdm.xyz:25461/Rt762/Cus762/19863
+#EXTINF:0 type="favorites" channelId="1200" name="LIFETIME" group="SPANISH CHANNELS", LIFETIME
+http://thevdm.xyz:25461/Rt762/Cus762/19926
+#EXTINF:0 type="favorites" channelId="1963" group="Bics", GOLDEN PREMIER
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="US HBO Family (East)" group="MOVIE NETWORKS" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", US HBO Family (East)
+http://fortv.cc:8080/FJ7b1k/037357/17772
+#EXTINF:0 type="favorites" channelId="-1" group="ECUADOR" logo="http://www.m3u.cl/logo/1323_Oromar.png", OROMAR
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:0 type="favorites" channelId="2584" name="US: HBO Family (West)" group="USA MOVIES HD" country="us", HBO Family (West)
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/224671
+#EXTINF:0 type="favorites" channelId="-1" group="Familiares" logo="https://i.imgur.com/PCtEVPc.jpg", Teleclasica
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://affiliates.cinesony.com/themes/custom/cinesony_theme/images/sonycine-logo.png", Sony Cine
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Familiares" logo="https://i.imgur.com/XVb8GeN.png", TV Retro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="INFANTIL - ANIME" logo="http://www.m3u.cl/logo/1300_Moni_TV.png", MONI TV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/7aIab2r.png", ACS Network (480p)
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png", Cosmos TV (720p)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Familiares" logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", PlanetaTV Kids
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CHILE" logo="https://www.m3u.cl/logo/1020_Caracola_TV.png", Caracola TV Peñalolén CHILE
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE & SERIES" logo="https://lh3.googleusercontent.com/toW8xWKbpS-28By8XvguQOg6oG0tun1oXmvmZRnY-TUiHmgsWdHeBNfoZtlbiAbdJTA", TELERED
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="PlanetaTV Kids" logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Kids | CL
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="Mi TV Television Clasica" group="Familiares" logo="https://i.imgur.com/O5fZ5RX.png", Mi TV Television Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:0 type="favorites" channelId="2890", Discovery World HD
+http://45.166.92.22:58001/play/a01p/index.m3u8
+#EXTINF:0 type="favorites" channelId="1310", SUN CHANNEL
+http://204.199.120.34:16123/play/ch48
+#EXTINF:0 type="favorites" channelId="1954", LAS ESTRELLAS
+http://204.199.120.34:16123/play/ch44
+#EXTINF:0 type="favorites" channelId="283", Cine Latino
+http://45.166.92.22:58001/play/a02c/index.m3u8
+#EXTINF:0 type="favorites" channelId="341", Discovery Channel HD
+http://45.166.92.22:58001/play/a01n/index.m3u8
+#EXTINF:0 type="favorites" channelId="1202", HISTORY 2 HD
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", HOLA! TV HD
+http://45.166.92.22:58001/play/a016/index.m3u8
+#EXTINF:0 type="favorites" channelId="1456", History HD
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:0 type="favorites" channelId="207", Nat Geo HD
+http://45.166.92.22:58001/play/a01k/index.m3u8
+#EXTINF:0 type="favorites" channelId="2663" name="Telesur" logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur | VE
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="DW Español" logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español | DE
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" group="NOTICIAS INTERNACIONAL" logo="https://pbs.twimg.com/profile_images/1566826453190205442/EWGUZmdC_400x400.jpg", 24 HORAS ESPAÑA
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="NOTICIAS INTERNACIONAL" logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg", DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="4K | HBO FAMILY" group="⭐ | 4K PREMIUM (BUEN INTERNET)" logo="http://zonamovie.live:8008/images/856b803b9f1a9e2ed5921d7ef034f1e1.png", 4K | HBO FAMILY
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/449515
+#EXTINF:0 type="favorites" channelId="-1" name="4K | CINECANAL" group="⭐ | 4K PREMIUM (BUEN INTERNET)" logo="http://zonamovie.live:8008/images/e5693c5822333d2e7e3e1123a721f3ae.png", 4K | CINECANAL
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/449499
+#EXTINF:0 type="favorites" channelId="-1" name="4K | E!" group="⭐ | 4K PREMIUM (BUEN INTERNET)" logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=344", 4K | E!
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/449509
+#EXTINF:0 type="favorites" channelId="-1" name="4K | HBO 2" group="⭐ | 4K PREMIUM (BUEN INTERNET)" logo="http://zonamovie.live:8008/images/5afe0031ba93a4067226c00969e11537.png", 4K | HBO 2
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/449513
+#EXTINF:0 type="favorites" channelId="-1" name="4K | HBO XTREME" group="⭐ | 4K PREMIUM (BUEN INTERNET)" logo="http://zonamovie.live:8008/images/282aaf28e447683734b1974de10c2362.png", 4K | HBO XTREME
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/449517
+#EXTINF:0 type="favorites" channelId="-1" name="4K | STAR CHANNEL" group="⭐ | 4K PREMIUM (BUEN INTERNET)" logo="http://zonamovie.live:8008/images/8a030c3b4a412a946aa27139bbd4a3be.jpg", 4K | STAR CHANNEL
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/449530
+#EXTINF:0 type="favorites" channelId="-1" name="Babes - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/36104869-0635-4034-9604-f6f0cb918c8a.jpg", Babes - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604221
+#EXTINF:0 type="favorites" channelId="-1" name="Blacked - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/ca013578-8745-44a8-ac52-efc1d1a913f8.jpg", Blacked - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604223
+#EXTINF:0 type="favorites" channelId="-1" name="Deepthroat Sirens - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/5cc5427f-925c-43b6-8815-81941c40f096.jpg", Deepthroat Sirens - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604224
+#EXTINF:0 type="favorites" channelId="-1" name="Lesbian - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/28e8bd8b-f582-40db-8886-2e278e854b4c.jpg", Lesbian - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604227
+#EXTINF:0 type="favorites" channelId="-1" name="Jasmin TV - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/107b9d9e-1edf-4073-958c-2e7180580a3f.jpg", Jasmin TV - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604232
+#EXTINF:0 type="favorites" channelId="-1" name="Max - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/60775b13-38e8-46d1-b4e6-141a9d688e99.jpg", Max - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604233
+#EXTINF:0 type="favorites" channelId="-1" name="Oh - Ah - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/397a48f8-b175-4966-a992-5342fd011c02.jpg", Oh - Ah - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604234
+#EXTINF:0 type="favorites" channelId="-1" name="Penthouse 1 - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/48ecf316-638e-4024-a373-fa0888eed9b5.jpg", Penthouse 1 - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604236
+#EXTINF:0 type="favorites" channelId="-1" name="Penthouse Gold - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/e27b612c-51b5-4774-bc07-6615fff085c3.jpg", Penthouse Gold - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604237
+#EXTINF:0 type="favorites" channelId="-1" name="Private TV - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/8e93a387-5258-41c5-92ae-b4477f910345.jpg", Private TV - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604238
+#EXTINF:0 type="favorites" channelId="-1" name="Redlight - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/d50146c5-c3d8-48bd-93c6-0b94cbd04236.jpg", Redlight - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604239
+#EXTINF:0 type="favorites" channelId="-1" name="Sinsations: Girls Gone Wild - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/e69930fb-4062-4456-ba90-250d758f2c49.jpg", Sinsations: Girls Gone Wild - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604240
+#EXTINF:0 type="favorites" channelId="-1" name="Sinsations: Bang Bros - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/9a0be4b2-c555-4c39-8c5f-e03540729de7.jpg", Sinsations: Bang Bros - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604242
+#EXTINF:0 type="favorites" channelId="-1" name="Sinsations: Blacked 2 - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="http://127.0.0.1/", Sinsations: Blacked 2 - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604243
+#EXTINF:0 type="favorites" channelId="-1" name="Sinsations: Blacked - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="http://127.0.0.1/", Sinsations: Blacked - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604244
+#EXTINF:0 type="favorites" channelId="-1" name="Sinsations: Creampie 2 - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="http://127.0.0.1/", Sinsations: Creampie 2 - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604245
+#EXTINF:0 type="favorites" channelId="-1" name="Sinsations: Creampie - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="http://127.0.0.1/", Sinsations: Creampie - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604246
+#EXTINF:0 type="favorites" channelId="-1" name="Sinsations: Double Dip 2 - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="http://127.0.0.1/", Sinsations: Double Dip 2 - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604247
+#EXTINF:0 type="favorites" channelId="-1" name="Sinsations: Double Dip - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="http://127.0.0.1/", Sinsations: Double Dip - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604248
+#EXTINF:0 type="favorites" channelId="-1" name="Sinsations: Family Strokes - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="http://127.0.0.1/", Sinsations: Family Strokes - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604249
+#EXTINF:0 type="favorites" channelId="-1" name="Sinsations: Girls Gone Wild 2 - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="http://127.0.0.1/", Sinsations: Girls Gone Wild 2 - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604250
+#EXTINF:0 type="favorites" channelId="-1" name="Blacked - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/ca013578-8745-44a8-ac52-efc1d1a913f8.jpg", Blacked - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604251
+#EXTINF:0 type="favorites" channelId="-1" name="Deepthroat Sirens - XXX" group="⛔ ADULTOS ❌❌❌ ⛔" logo="https://luxplayer.norago.tv/img/resize/235x332/5cc5427f-925c-43b6-8815-81941c40f096.jpg", Deepthroat Sirens - XXX
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/604252
+#EXTINF:0 type="favorites" channelId="-1" name="CO | Win Sports + FHD" group="⚽ | DEPORTES COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png", CO | Win Sports + FHD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/395681
+#EXTINF:0 type="favorites" channelId="-1" name="CO | Win Sports + 4K (BUEN INTERNET)" group="⚽ | DEPORTES COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png", CO | Win Sports + 4K (BUEN INTERNET)
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/395682
+#EXTINF:0 type="favorites" channelId="-1" name="CO | WIN SPORTS 4K (BUEN INTERNET)" group="⚽ | DEPORTES COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png", CO | WIN SPORTS 4K (BUEN INTERNET)
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/395683
+#EXTINF:0 type="favorites" channelId="-1" name="CO | Win Sports" group="⚽ | DEPORTES COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png", CO | Win Sports
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/395684
+#EXTINF:0 type="favorites" channelId="-1" name="CR | Tigo Sports HD" group="TV COSTA RICA" logo="http://l3d.us:25461/images/782b8c2de5156e06a96932025727fc0e.png", CR | Tigo Sports HD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/396926
+#EXTINF:0 type="favorites" channelId="-1" name="STAR CHANNEL NORTE" group="⭐ | STAR Y UNIVERSAL" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png", STAR CHANNEL NORTE
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/411442
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL CINEMA" group="⭐ | STAR Y UNIVERSAL" logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png", UNIVERSAL CINEMA
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/411443
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL CRIME" group="⭐ | STAR Y UNIVERSAL" logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png", UNIVERSAL CRIME
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/411444
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL PREMIERE SUR" group="⭐ | STAR Y UNIVERSAL" logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png", UNIVERSAL PREMIERE SUR
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/411445
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL REALITY" group="⭐ | STAR Y UNIVERSAL" logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png", UNIVERSAL REALITY
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/411446
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL COMEDY" group="⭐ | STAR Y UNIVERSAL" logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png", UNIVERSAL COMEDY
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/411447
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL CINEMA" group="⭐ | STAR Y UNIVERSAL" logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png", UNIVERSAL CINEMA
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/411448
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL PREMIERE NORTE" group="⭐ | STAR Y UNIVERSAL" logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png", UNIVERSAL PREMIERE NORTE
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/411449
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 Tom Y Jerry" group="⭐️ | 24/7" logo="https://tcf.admeen.org/game/17000/16583/320x160/tom-jerry-mouse-maze.jpg", 24/7 Tom Y Jerry
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/417897
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 LA CASA DE PAPEL TEM 5 **" group="⭐️ | 24/7" logo="https://1.bp.blogspot.com/-VGYroLLXCbc/YNIm8zj6CuI/AAAAAAAAqT8/yI6oVCd2-_EhkJbu6ry4GQTNhEb7PXqCACLcBGAsYHQ/s480/7205781409596737032_1.png", 24/7 LA CASA DE PAPEL TEM 5 **
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/417900
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | The Big Bang Theory T 3- 4- 5**" group="⭐️ | 24/7" logo="http://svtv.xyz:8000/images/afa09d19ee7c0520fbcbbc76c506c699.png", 24/7 | The Big Bang Theory T 3- 4- 5**
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/417914
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 LAT | Cinema Marvel Studios ⁽ᴴᴰ⁾" group="⭐️ | 24/7" logo="https://modogeeks.com/wp-content/uploads/2018/04/marvel-studios-logo-2016.jpg", 24/7 LAT | Cinema Marvel Studios ⁽ᴴᴰ⁾
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/417925
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 LAT | Cinema Lego Movies ⁽ᴴᴰ⁾" group="⭐️ | 24/7" logo="https://www.arkadian.vg/wp-content/uploads/2015/01/the-lego-movie-logo.jpg", 24/7 LAT | Cinema Lego Movies ⁽ᴴᴰ⁾
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/417926
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 LAT | Cinema Happy Madison ⁽ᴴᴰ⁾" group="⭐️ | 24/7" logo="https://i.pinimg.com/564x/b0/12/68/b0126848846130aaabb64f0badc743eb.jpg", 24/7 LAT | Cinema Happy Madison ⁽ᴴᴰ⁾
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/417927
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 She-ra" group="⭐️ | 24/7" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZz2RvUPi49CISVXW4VfWD4U9PvzkE3gmoplC-ibHhk9y43i-1hifgRTpFPZf7Y0mrZc&usqp=CAU", 24/7 She-ra
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/417943
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Smallville" group="⭐️ | 24/7" logo="https://elnarradordehistoriasblog.files.wordpress.com/2016/05/logo-smallville.jpg", 24/7 | Smallville
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/417948
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Los Magníficos" group="⭐️ | 24/7" logo="https://popmagazine.cl/wp-content/uploads/2019/08/CV-Magnificos.jpg", 24/7 | Los Magníficos
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/417960
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 El gran Chaparral **" group="⭐️ | 24/7" logo="http://svtv.xyz/nologo.png", 24/7 El gran Chaparral **
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/417973
+#EXTINF:0 type="favorites" channelId="-1" name="STAR Channel FHD" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="http://zonamovie.live:8008/images/8a030c3b4a412a946aa27139bbd4a3be.jpg", STAR Channel FHD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/429951
+#EXTINF:0 type="favorites" channelId="-1" name="EC | OROMAR FHD" group="TV ECUADOR" logo="http://fanc.tmsimg.com/assets/s80837_ll_h3_aa.png", EC | OROMAR FHD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/437578
+#EXTINF:0 type="favorites" channelId="4788" name="WIN SPORTS +" group="⚽ | DEPORTES COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS +
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/448994
+#EXTINF:0 type="favorites" channelId="-1" name="WIN SPORTS+ 6" group="⚽ | DEPORTES COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORTS+ 6
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/448995
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | A&E FHD -" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo.jpg", PREMIUM | A&E FHD -
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531577
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | AMC HD" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://www.carlost.net/wp-content/uploads/2014/08/Logo-AMC.jpg", PREMIUM | AMC HD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531580
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | ATRESERIES -" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://www.cineytele.com/wp-content/uploads/2016/12/AtresSerie-Logo.jpg", PREMIUM | ATRESERIES -
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531581
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | AXN FHD ????" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://i.dlpng.com/static/png/400902_preview.png", PREMIUM | AXN FHD ????
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531584
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | AXN HD -" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://i.dlpng.com/static/png/400902_preview.png", PREMIUM | AXN HD -
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531583
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | CINE LATINO" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="http://127.0.0.1/", PREMIUM | CINE LATINO
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531585
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | CINECANAL FHD" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png", PREMIUM | CINECANAL FHD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531587
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | CINEMA DINAMITA HD" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png", PREMIUM | CINEMA DINAMITA HD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531589
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | CINEMAX FHD ????" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapWv0ZtvCDDJbWxrh_B-9xTzIpgcamrL0Hl7QU6_hzmT9YorrLtKqi1KOf99Rdj2fjZU&usqp=CAU", PREMIUM | CINEMAX FHD ????
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531591
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DE PELICULA PLUS ????" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png", PREMIUM | DE PELICULA PLUS ????
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531595
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | DE PELICULAS CLASICO FHD" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png", PREMIUM | DE PELICULAS CLASICO FHD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531596
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | FX HD ®" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg", PREMIUM | FX HD ®
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531601
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | HBO 2 FHD ????" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/HBO2.jpg", PREMIUM | HBO 2 FHD ????
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531610
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | HBO FAMILY FHD ????" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://d144mzi0q5mijx.cloudfront.net/img/H/B/HBO-Family.png", PREMIUM | HBO FAMILY FHD ????
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531612
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | HBO SUR" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg", PREMIUM | HBO SUR
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531614
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | HBO MUNDI HQ" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddoicif-5c26565c-0b8a-4e12-ab2c-3445915f66e2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNmEzMWJjLTUyNzYtNGJkMS1iMjVjLTVkMjI5OTkwNjUxY1wvZGRvaWNpZi01YzI2NTY1Yy0wYjhhLTRlMTItYWIyYy0zNDQ1OTE1ZjY2ZTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8hppAoC3nmeoQdtyGR04J948j3F_OEtAjUmB0pF7bD8", PREMIUM | HBO MUNDI HQ
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531617
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | HBO PLUS FHD" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg", PREMIUM | HBO PLUS FHD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531618
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | SPACE FHD" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmEH8nElhOC1Zy-eT9rciDQJrti64bkBt4VIwUFz336rh6o7c0hDzX5l0h9-g67N-Thw&usqp=CAU", PREMIUM | SPACE FHD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531634
+#EXTINF:0 type="favorites" channelId="-1" name="PREMIUM | WARNER CHANNEL HD" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Warner_Channel_Shield_2000.png/revision/latest/scale-to-width-down/250?cb=20200117133843&path-prefix=es", PREMIUM | WARNER CHANNEL HD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531653
+#EXTINF:0 type="favorites" channelId="-1" name="CUL | E! ENTERTAINMENT HD -" group="⭐ | TV CULTURA" logo="https://static.epg.best/mx/EEntertainment.mx.png", CUL | E! ENTERTAINMENT HD -
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531692
+#EXTINF:0 type="favorites" channelId="-1" name="CUL | NASA TV FHD" group="⭐ | TV CULTURA" logo="https://static.epg.best/rs/Nasa.rs.png", CUL | NASA TV FHD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531715
+#EXTINF:0 type="favorites" channelId="-1" name="CUL | LIFETIME HD" group="⭐ | TV CULTURA" logo="https://static.epg.best/mx/Lifetime.mx.png", CUL | LIFETIME HD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531709
+#EXTINF:0 type="favorites" channelId="-1" name="CUL | TLC FHD -" group="⭐ | TV CULTURA" logo="https://static.epg.best/mx/TLC.mx.png", CUL | TLC FHD -
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531723
+#EXTINF:0 type="favorites" channelId="-1" name="CUL | TLC HD" group="⭐ | TV CULTURA" logo="https://static.epg.best/mx/TLC.mx.png", CUL | TLC HD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/531724
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | SONY COMEDIAS FHD" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", CINE | SONY COMEDIAS FHD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/538845
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | SONY HD" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU", CINE | SONY HD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/538846
+#EXTINF:0 type="favorites" channelId="-1" name="SONY CINE HD" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png", SONY CINE HD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/538848
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | STUDIO CHANEL FHD" group="⭐ | STAR Y UNIVERSAL" logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png", CINE | STUDIO CHANEL FHD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/538851
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | DE PELICULA CLASICO" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="http://51.222.152.107:81/posters/1618974359150.png", CINE | DE PELICULA CLASICO
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/543872
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | DE PELICULA FHD" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=430", CINE | DE PELICULA FHD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/543874
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | DE PELICULA PLUS" group="⭐ | CINE PREMIUM EXCLUSIVO" logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo-2017.png", CINE | DE PELICULA PLUS
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/543875
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 The Boys" group="⭐ | 24/7 SERIES 4K" logo="https://i0.wp.com/pocculture.com/wp-content/uploads/2022/07/The-Boys-Logo-min.png", 24/7 The Boys
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/549104
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 The Last of Us" group="⭐ | 24/7 SERIES 4K" logo="https://www.bt.com/content/dam/bt/portal/images/articles/tv/tv-drama-the-last-of-us-key-art-now-sky-atlantic.jpg/jcr:content/renditions/landscape-tablet.935.526.jpg", 24/7 The Last of Us
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/549105
+#EXTINF:0 type="favorites" channelId="-1" name="American Horror Stories" group="⭐️ | 24/7 TERROR" logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/6z8xmLHJTuZPOQ0sXhW23oFZReb.jpg", American Horror Stories
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/567864
+#EXTINF:0 type="favorites" channelId="-1" name="Constantine" group="⭐️ | 24/7 TERROR" logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/oj0s9jvCyMSCMvw7pNWt7nELykW.jpg", Constantine
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/567865
+#EXTINF:0 type="favorites" channelId="-1" group="Animation;Kids" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png", Cartoon Network FreeLive Latam 2 (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3729" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png", Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="News" logo="https://i.imgur.com/ZnmAXVv.png", France 24 Español (1080p)
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CO | Win Sports+ SD" group="⚽ | DEPORTES COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png", CO | Win Sports+ SD
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/395679
+#EXTINF:0 type="favorites" channelId="-1" name="24/7  Disney Movies" group="⭐️ | DISNEY+ CINEMA" logo="http://boxdigital.xyz:8080/images/9b791adbbc11c3fc7c49a7f3efccec03.png", 24/7  Disney Movies
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/662421
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Tom Y Jerry**" group="⭐️ | 24/7" logo="https://m.media-amazon.com/images/I/51v9mZqOqhL._AC_SS450_.jpg", 24/7 | Tom Y Jerry**
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/417967
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 La Casa del Dragón" group="⭐ | 24/7 SERIES 4K" logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/06/23/10/15/2869612.jpg", 24/7 La Casa del Dragón
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/549100
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 Obi-Wan Kenobi" group="⭐ | 24/7 SERIES 4K" logo="https://i0.wp.com/www.lacasadeel.net/wp-content/uploads/2022/05/obi-wan-kenobi-01.jpg", 24/7 Obi-Wan Kenobi
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/549101
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 Star Wars: El libro de Boba Fett" group="⭐ | 24/7 SERIES 4K" logo="https://www.24-horas.mx/wp-content/uploads/2021/12/Todo-lo-que-tienes-que-saber-del-estreno-de-El-libro-de-Boba-Fett-.png", 24/7 Star Wars: El libro de Boba Fett
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/549103
+#EXTINF:0 type="favorites" channelId="-1" name="Alien Saga" group="⭐️ | 24/7 ACCION" logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/e4fiJmy9YHCpCpQwgWtvv6uoUWb.jpg", Alien Saga
+http://zonamovie.live:8080/AMTVPREMIUM12/5NvTYUMaUL5a/567733
+#EXTINF:0 type="favorites" channelId="3769" name="HBO Latino (East)" group="MOVIE BACKUPS" logo="https://i.ibb.co/dQ6nLgJ/hbo-latino-east.png", HBO Latino (East)
+http://thevdm.xyz:25461/Rt762/Cus762/34482
+#EXTINF:0 type="favorites" channelId="-1" name="PE: PANAMERICANA HD" group="PERU" country="pe", PANAMERICANA HD
+http://fortv.cc:8080/FJ7b1k/037357/110633
+#EXTINF:0 type="favorites" channelId="-1" name="PE: LATINA HD" group="PERU" country="pe", LATINA HD
+http://fortv.cc:8080/FJ7b1k/037357/110640
+#EXTINF:0 type="favorites" channelId="2587" name="MAX PRIME" group="SPANISH CHANNELS", MAX PRIME
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19928
+#EXTINF:0 type="favorites" channelId="1954" name="LAS ESTRELLAS" group="SPANISH CHANNELS", LAS ESTRELLAS
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19925
+#EXTINF:0 type="favorites" channelId="1963" name="GOLDEN PREMIER" group="SPANISH CHANNELS", GOLDEN PREMIER
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19908
+#EXTINF:0 type="favorites" channelId="3765" name="GOLDEN PLUS" group="SPANISH CHANNELS" logo="http://epg.epg-4iptv.com/guide/logos/mx/GoldenPlus.mx.png", GOLDEN PLUS
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19907
+#EXTINF:0 type="favorites" channelId="-1" name="DISNEY XD ES" group="SPANISH CHANNELS", DISNEY XD ES
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19879
+#EXTINF:0 type="favorites" channelId="-1" name="DISNEY CHANNEL ES" group="SPANISH CHANNELS", DISNEY CHANNEL ES
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19877
+#EXTINF:0 type="favorites" channelId="4586" name="Discovery Familia" group="SPANISH CHANNELS" logo="https://imgx.fubo.tv/station_logos/discovery-familia_c.png", Discovery Familia
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19868
+#EXTINF:0 type="favorites" channelId="-1" name="Discovery en Espanol" group="SPANISH CHANNELS" logo="https://imgx.fubo.tv/station_logos/discovery-en-espanol_c.png", Discovery en Espanol
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19866
+#EXTINF:0 type="favorites" channelId="1960" name="De Pelicula Clasico" group="SPANISH CHANNELS" logo="https://imgx.fubo.tv/station_logos/de_pelicula_clasico_c.png", De Pelicula Clasico
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19864
+#EXTINF:0 type="favorites" channelId="1952" name="De Pelicula" group="SPANISH CHANNELS" logo="https://imgx.fubo.tv/station_logos/de_pelicula_c.png", De Pelicula
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19863
+#EXTINF:0 type="favorites" channelId="64" name="CINECANAL" group="SPANISH CHANNELS", CINECANAL
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19857
+#EXTINF:0 type="favorites" channelId="-1" name="CARTOON NETWORK ES" group="SPANISH CHANNELS", CARTOON NETWORK ES
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19856
+#EXTINF:0 type="favorites" channelId="3731" name="Azteca Uno" group="SPANISH CHANNELS", Azteca Uno
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/32836
+#EXTINF:0 type="favorites" channelId="-1" name="AXN LATINO" group="SPANISH CHANNELS" logo="http://epg.epg-4iptv.com/guide/logos/mx/AXN.mx.png", AXN LATINO
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19837
+#EXTINF:0 type="favorites" channelId="-1" name="AMC ES" group="SPANISH CHANNELS" logo="https://i.imgur.com/O48wLyN.png", AMC ES
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19832
+#EXTINF:0 type="favorites" channelId="-1" name="A&E ES" group="SPANISH CHANNELS" logo="http://epg.epg-4iptv.com/guide/logos/mx/AandE.mx.png", A&E ES
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19830
+#EXTINF:0 type="favorites" channelId="187" name="UNIVERSAL CHANNEL" group="SPANISH CHANNELS", UNIVERSAL CHANNEL
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/20016
+#EXTINF:0 type="favorites" channelId="-1" name="FHD | E! Entertaiment" group="CANALES FHD" logo="http://offshore.lat:25461/images/a01945d4b5c867d4b22c1ee08a7bc492.png", FHD | E! Entertaiment
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/263298
+#EXTINF:0 type="favorites" channelId="-1" name="FHD | TLC" group="CANALES FHD" logo="http://offshore.lat:8001/images/017a544acb713ac3b4c46402c94a07fc.jpeg", FHD | TLC
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/301426
+#EXTINF:0 type="favorites" channelId="-1" name="FHD | Discovery H&H" group="CANALES FHD" logo="http://offshore.lat:25461/images/cb10af03728871ce74872412844dfd1e.png", FHD | Discovery H&H
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/263299
+#EXTINF:0 type="favorites" channelId="-1" name="FHD | AMC" group="CANALES FHD" logo="http://offshore.lat:36995/images/a34b5592645bbea24cc0e8ac51b276dd.png", FHD | AMC
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/263354
+#EXTINF:0 type="favorites" channelId="-1" name="FHD | Golden Premier 2" group="CANALES FHD" logo="http://offshore.lat:8001/images/6b253591eec3914c984f7d010df84250.jpeg", FHD | Golden Premier 2
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/301439
+#EXTINF:0 type="favorites" channelId="-1" name="FHD | HBO Family" group="CANALES FHD" logo="http://offshore.lat:8001/images/23b3b40dc8ae3565d2002145640f748d.jpeg", FHD | HBO Family
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/301434
+#EXTINF:0 type="favorites" channelId="-1" name="FHD | HBO Plus" group="CANALES FHD" logo="http://offshore.lat:8001/images/025d07370cb9c98aacd83e78e8b3a1a3.jpeg", FHD | HBO Plus
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/301442
+#EXTINF:0 type="favorites" channelId="-1" name="FHD | HBO 2" group="CANALES FHD" logo="http://offshore.lat:25461/images/df847c5f6ecb4a9754b33c7f5826851b.png", FHD | HBO 2
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/263289
+#EXTINF:0 type="favorites" channelId="-1" name="FHD | HBO Extreme" group="CANALES FHD" logo="http://offshore.lat:36995/images/60438bd372c157aff27601a54defbfe5.png", FHD | HBO Extreme
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/263437
+#EXTINF:0 type="favorites" channelId="-1" name="FHD | TNT" group="CANALES FHD" logo="http://offshore.lat:36995/images/38d61f61a07c2ca90d0d1a66e894d559.png", FHD | TNT
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/263280
+#EXTINF:0 type="favorites" channelId="-1" name="FHD | TNT Series" group="CANALES FHD" logo="http://offshore.lat:36995/images/454f1c0e5e8ea8259ef5280e079c163a.png", FHD | TNT Series
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/263342
+#EXTINF:0 type="favorites" channelId="-1" name="FHD | Universal Channel" group="CANALES FHD" logo="http://offshore.lat:25461/images/a49c61ad9f5101d3e1f856df5d725d20.png", FHD | Universal Channel
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/263283
+#EXTINF:0 type="favorites" channelId="-1" name="24h | Disney Movies" group="CANALES 24/7" logo="http://offshore.lat:36995/images/a42a5e759bd8e7924a831dbd00746685.png", 24h | Disney Movies
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/230605
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Cinema Universe" group="CANALES 24/7" logo="http://offshore.lat:36995/images/d98a1ab8a8cced81275e6972c39147b6.png", 24H | Cinema Universe
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/230604
+#EXTINF:0 type="favorites" channelId="64" name="ESP: CINECANAL" group="Spanish HD" country="es", CINECANAL
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/29465
+#EXTINF:0 type="favorites" channelId="1208" name="ESP: A&E" group="Spanish HD" country="es", A&E
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/29439
+#EXTINF:0 type="favorites" channelId="2501" name="ESP: AMC" group="Spanish HD" country="es", AMC
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/29441
+#EXTINF:0 type="favorites" channelId="50" name="ESP: ANIMAL PLANET" group="Spanish HD" country="es", ANIMAL PLANET
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/29442
+#EXTINF:0 type="favorites" channelId="178" name="ESP: FOX LIFE" group="Spanish HD" country="es", FOX LIFE
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/29501
+#EXTINF:0 type="favorites" channelId="-1" name="ESP: UNIVISION AUSTIN" group="Spanish HD" country="es", UNIVISION AUSTIN
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/15928
+#EXTINF:0 type="favorites" channelId="178" name="ESP: FOX LIFE" group="Spanish HD" country="es", FOX LIFE
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/4096
+#EXTINF:0 type="favorites" channelId="-1" name="CO1 HBO Family" group="Colombia", CO1 HBO Family
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103794
+#EXTINF:0 type="favorites" channelId="-1" name="CO1 HBO XTREME SD" group="Colombia", CO1 HBO XTREME SD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103796
+#EXTINF:0 type="favorites" channelId="-1" name="CO1 TCM" group="Colombia", CO1 TCM
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103809
+#EXTINF:0 type="favorites" channelId="-1" name="CO1 TNT HD" group="Colombia", CO1 TNT HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103811
+#EXTINF:0 type="favorites" channelId="-1" name="CO1 Warner" group="Colombia", CO1 Warner
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103825
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 A&E HD" group="Colombia", CO2 A&E HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103831
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 AZ Cinema HD" group="Colombia", CO2 AZ Cinema HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103837
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 Animal Planet HD" group="Colombia", CO2 Animal Planet HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103838
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 CINEMAX" group="Colombia", CO2 CINEMAX
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103857
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 De Pelicula" group="Colombia", CO2 De Pelicula
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103879
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 E! HD" group="Colombia", CO2 E! HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103885
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 FX HD" group="Colombia", CO2 FX HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103899
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 HBO +" group="Colombia", CO2 HBO +
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103904
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 HBO SIGNATURE" group="Colombia", CO2 HBO SIGNATURE
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103908
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 Lifetime" group="Colombia", CO2 Lifetime
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103916
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 STAR CHANNEL HD" group="Colombia", CO2 STAR CHANNEL HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103945
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 Sony HD" group="Colombia", CO2 Sony HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103948
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 Studio Universal HD" group="Colombia", CO2 Studio Universal HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103950
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 Sun Channel HD" group="Colombia", CO2 Sun Channel HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103951
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 TLC-1" group="Colombia", CO2 TLC-1
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103963
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 TNT HD" group="Colombia", CO2 TNT HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103964
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 WINSPORT 1" group="Colombia", CO2 WINSPORT 1
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103973
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 Warner Channel HD" group="Colombia", CO2 Warner Channel HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103975
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 Win Sports HD" group="Colombia", CO2 Win Sports HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103976
+#EXTINF:0 type="favorites" channelId="-1" name="CO: Canal 1 HD" group="Colombia" country="co", Canal 1 HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/79691
+#EXTINF:0 type="favorites" channelId="1409" name="CO: City Tv" group="Colombia" country="co", City Tv
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/79726
+#EXTINF:0 type="favorites" channelId="-1" name="CO1 AE Mundo" group="Colombia", CO1 AE Mundo
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103764
+#EXTINF:0 type="favorites" channelId="-1" name="CO1 Cinemax" group="Colombia", CO1 Cinemax
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103776
+#EXTINF:0 type="favorites" channelId="-1" group="Familiares" logo="https://i.imgur.com/mZNsS9S.png", TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Cine AcciÃ³n
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Cine Family
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="LA053:SONY" group="Latino" logo="http://www.tvboxgroup.com/iptv/logo/LA/LA053FoxCinema.png", LA053:SONY
+http://abcnew.site:8880/DAALM541/evpTrFTB3G/58004
+#EXTINF:0 type="favorites" channelId="-1" name="LA070:SYFY" group="Latino" logo="http://www.tvboxgroup.com/iptv/logo/LA/LA070HBOSignatureLA.png", LA070:SYFY
+http://abcnew.site:8880/DAALM541/evpTrFTB3G/57987
+#EXTINF:0 type="favorites" channelId="1955" name="ESP: CANAL 5" group="Spanish HD" country="es", CANAL 5
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/29460
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 01" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 01
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6868
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 02" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 02
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6869
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 03" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 03
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6870
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 04" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 04
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6871
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 05" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 05
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6872
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 06" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 06
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6873
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 07" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 07
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6874
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 08" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 08
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6875
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 09" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 09
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6876
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 10" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 10
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6877
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 11" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 11
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6878
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 12" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 12
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6879
+#EXTINF:0 type="favorites" channelId="-1" name="Tiny 4K - VOD 13" group="XXX HD VOD" logo="http://i.imgur.com/h9aRgeG.png", Tiny 4K - VOD 13
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/6880
+#EXTINF:0 type="favorites" channelId="-1" name="PT | Playboy TVⓧ SD" group="|PT| ADULTOS" logo="http://xplatinmedia.com:8080/images/4a4cf4cc7cbf0be4e073fe620e3e75d8.png", PT | Playboy TVⓧ SD
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/9728
+#EXTINF:0 type="favorites" channelId="-1" name="XXX: AD - PRIVATE HEVC" group="ADULTS", XXX: AD - PRIVATE HEVC
+http://946497657557710284.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/710284.ts
+#EXTINF:0 type="favorites" channelId="-1" name="XXX: DORCEL FHD" group="ADULTS", XXX: DORCEL FHD
+http://22687411724562512.ofip231209.xyz:80/play/GDVYF5CA5L/JfEPK4mP9a/562512.ts
+#EXTINF:0 type="favorites" channelId="-1" name="XXX: NUART HD" group="ADULTS", XXX: NUART HD
+http://22687411724564338.ofip231209.xyz:80/play/GDVYF5CA5L/JfEPK4mP9a/564338.ts
+#EXTINF:0 type="favorites" channelId="-1" name="XXX: DORCEL XXX HD XXX FHD" group="ADULTS", XXX: DORCEL XXX HD XXX FHD
+http://22687411724566067.ofip231209.xyz:80/play/GDVYF5CA5L/JfEPK4mP9a/566067.ts
+#EXTINF:0 type="favorites" channelId="-1" name="XXX: EXTASY HD XXX HEVC" group="ADULTS", XXX: EXTASY HD XXX HEVC
+http://22687411724694203.ofip231209.xyz:80/play/GDVYF5CA5L/JfEPK4mP9a/694203.ts
+#EXTINF:0 type="favorites" channelId="-1" group="News" logo="https://i.imgur.com/A1xzjOI.png", DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/IZxjnyp.png", Estrella TV (1080p)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/MJzuRAN.png", RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/N7VH24E.png", RCN Xtra (1080p)
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/aTcJ5p3.png", SEO TV 6 (1080p)
+https://live.seo.tv.bo/live/SEO-6.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/7wYK8m6.png", ViX Parejas (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CO1 HBO 2 HD" group="Colombia", CO1 HBO 2 HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103793
+#EXTINF:0 type="favorites" channelId="2501" name="LA: AMC HD" group="Latino" logo="https://asiagrandiptv.us/logo/amc.png" country="la", AMC HD
+http://332274857218645655.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/645655.ts
+#EXTINF:0 type="favorites" channelId="2246" name="LA: AXN HD" group="Latino" logo="https://asiagrandiptv.us/logo/axn.png" country="la", AXN HD
+http://332274857218613831.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/613831.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: HOLA! TV FHD" group="Latino" logo="https://asiagrandiptv.us/logo//holatv.png" country="la", HOLA! TV FHD
+http://332274857218644431.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/644431.ts
+#EXTINF:0 type="favorites" channelId="341" name="LA: DISCOVERY CHANNEL HD" group="Latino" logo="https://asiagrandiptv.us/logo/discoverychannel.png" country="la", DISCOVERY CHANNEL HD
+http://332274857218654663.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/654663.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: DISCOVERY CIVILIZATION FHD" group="Latino" logo="https://asiagrandiptv.us/logo/discoverycivilization.png" country="la", DISCOVERY CIVILIZATION FHD
+http://332274857218654664.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/654664.ts
+#EXTINF:0 type="favorites" channelId="207" name="LA: NAT GEO HD" group="Latino" logo="https://asiagrandiptv.us/logo/natgeo.png" country="la", NAT GEO HD
+http://332274857218655619.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/655619.ts
+#EXTINF:0 type="favorites" channelId="2503" name="LA: A&E HD" group="Latino" logo="https://asiagrandiptv.us/logo//A&E.jpg" country="la", A&E HD
+http://332274857218657185.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/657185.ts
+#EXTINF:0 type="favorites" channelId="1304" name="LA: FX HD" group="Latino" logo="https://asiagrandiptv.us/logo/fx.png" country="la", FX HD
+http://332274857218657197.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/657197.ts
+#EXTINF:0 type="favorites" channelId="1330" name="LA: HBO SD" group="Latino" logo="https://asiagrandiptv.us/logo/hbo.png" country="la", HBO SD
+http://332274857218657200.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/657200.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: UNIVERSAL CHANNEL HD" group="Latino" logo="https://asiagrandiptv.us/logo/universalchannel.png" country="la", UNIVERSAL CHANNEL HD
+http://332274857218666085.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/666085.ts
+#EXTINF:0 type="favorites" channelId="2585" name="LA: HBO PLUS SD" group="Latino" logo="https://asiagrandiptv.us/logo/hboplus.png" country="la", HBO PLUS SD
+http://332274857218669693.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/669693.ts
+#EXTINF:0 type="favorites" channelId="333" name="LA: GOLDEN SD" group="Latino" logo="https://asiagrandiptv.us/logo/golden.png" country="la", GOLDEN SD
+http://332274857218678538.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/678538.ts
+#EXTINF:0 type="favorites" channelId="2903" name="LA: WARNER CHANNEL HD" group="Latino" logo="https://asiagrandiptv.us/logo/warnerchannel.png" country="la", WARNER CHANNEL HD
+http://332274857218682523.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/682523.ts
+#EXTINF:0 type="favorites" channelId="73" name="LA: SYFY SD" group="Latino" logo="https://asiagrandiptv.us/logo/syfy.png" country="la", SYFY SD
+http://332274857218684819.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/684819.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: ACTION MAX HD" group="Latino" logo="https://asiagrandiptv.us/logo/actionmax.png" country="la", ACTION MAX HD
+http://332274857218694319.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/694319.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STARZ ENCORE FAMILY SD" group="Latino" logo="https://asiagrandiptv.us/logo/starzencorefamily.png" country="la", STARZ ENCORE FAMILY SD
+http://332274857218695813.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/695813.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: CINEMAX EAST SD" group="Latino" logo="https://asiagrandiptv.us/logo//CINEMAXEASTHD1080P.jpg" country="la", CINEMAX EAST SD
+http://332274857218696988.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/696988.ts
+#EXTINF:0 type="favorites" channelId="2888" name="LA: CINEMAX HD" group="Latino" logo="https://asiagrandiptv.us/logo/cinemax.png" country="la", CINEMAX HD
+http://332274857218696989.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/696989.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: MASCHIC HD" group="Latino" logo="https://asiagrandiptv.us/logo/maschic.png" country="la", MASCHIC HD
+http://332274857218712800.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/712800.ts
+#EXTINF:0 type="favorites" channelId="530" name="LA: SONY HD" group="Latino" logo="https://asiagrandiptv.us/logo/sony.png" country="la", SONY HD
+http://332274857218712802.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/712802.ts
+#EXTINF:0 type="favorites" channelId="2625" name="LA: STUDIO UNIVERSAL SD" group="Latino" logo="https://asiagrandiptv.us/logo/studiouniversal.png" country="la", STUDIO UNIVERSAL SD
+http://332274857218712803.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/712803.ts
+#EXTINF:0 type="favorites" channelId="895" name="LA: TCM SD" group="Latino" logo="https://asiagrandiptv.us/logo/tcm.png" country="la", TCM SD
+http://332274857218712804.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/712804.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: CINEMA 36 PPV FHD" group="Latino" logo="https://asiagrandiptv.us/logo/cinema36ppv.png" country="la", CINEMA 36 PPV FHD
+http://332274857218716108.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/716108.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: RD TELEFUTURO HEVC" group="Latino" logo="https://asiagrandiptv.us/logo//RDTELEFUTURO.jpg" country="la", RD TELEFUTURO HEVC
+http://332274857218716109.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/716109.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: CINEMA 28 PPV HD" group="Latino" logo="https://asiagrandiptv.us/logo/cinema28ppv.png" country="la", CINEMA 28 PPV HD
+http://332274857218720137.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/720137.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: CINEMA 37 PPV HD" group="Latino" logo="https://asiagrandiptv.us/logo//CINEMAPPV.png" country="la", CINEMA 37 PPV HD
+http://332274857218720138.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/720138.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: OUTERMAX FHD" group="Latino" logo="https://asiagrandiptv.us/logo/outermax.png" country="la", OUTERMAX FHD
+http://332274857218720139.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/720139.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STARZ CINEMA FHD" group="Latino" logo="https://asiagrandiptv.us/logo/starzcinema.png" country="la", STARZ CINEMA FHD
+http://332274857218720141.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/720141.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STARZ ENCORE CLASSIC SD" group="Latino" logo="https://asiagrandiptv.us/logo/starzencoreclassic.png" country="la", STARZ ENCORE CLASSIC SD
+http://332274857218720143.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/720143.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: CARACOL FHD" group="Latino" logo="https://asiagrandiptv.us/logo/caracol.png" country="la", CARACOL FHD
+http://332274857218724439.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/724439.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: MOREMAX FHD" group="Latino" logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBS5VEb0vAGDwwnZipWL6mSi1kocbTN1XV5mknQuZpFqk.png" country="la", MOREMAX FHD
+http://332274857218726500.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/726500.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: NICK 2 FHD" group="Latino" logo="https://asiagrandiptv.us/logo/nick2.png" country="la", NICK 2 FHD
+http://332274857218726501.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/726501.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: TELEMUNDO CHICAGO HD" group="Latino" logo="https://asiagrandiptv.us/logo/telemundochicago.png" country="la", TELEMUNDO CHICAGO HD
+http://332274857218726502.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/726502.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: CINEMA 30 PPV FHD" group="Latino" logo="https://asiagrandiptv.us/logo/cinema30ppv.png" country="la", CINEMA 30 PPV FHD
+http://332274857218727405.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/727405.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: PAN SER TV 11 SD" group="Latino" country="la", PAN SER TV 11 SD
+http://332274857218727407.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/727407.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: SUR_PE_ANT TV HD" group="Latino" logo="https://asiagrandiptv.us/logo//SUR_PE_ANTTV.jpg" country="la", SUR_PE_ANT TV HD
+http://332274857218727410.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/727410.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: UNIMAS GEORGIA FHD" group="Latino" logo="https://asiagrandiptv.us/logo//UNIMASGEORGIA.png" country="la", UNIMAS GEORGIA FHD
+http://332274857218727412.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/727412.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: UNIMAS HD" group="Latino" logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBbEyOL4s0IbSNRVOGwIpbmzB4iQKYfLiAMTXm6q6KDX0.png" country="la", UNIMAS HD
+http://332274857218727413.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/727413.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: CINEMA 33 PPV FHD" group="Latino" logo="https://asiagrandiptv.us/logo/cinema33ppv.png" country="la", CINEMA 33 PPV FHD
+http://332274857218729427.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/729427.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: CINEMA DINAMITA FHD" group="Latino" logo="https://asiagrandiptv.us/logo/cinemadinamita.png" country="la", CINEMA DINAMITA FHD
+http://332274857218729428.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/729428.ts
+#EXTINF:0 type="favorites" channelId="3797" name="LA: TNT SERIES HD" group="Latino" logo="https://asiagrandiptv.us/logo/tntseries.png" country="la", TNT SERIES HD
+http://332274857218729644.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/729644.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: UNIMAS ESTE HD" group="Latino" logo="https://asiagrandiptv.us/logo//UNIMASESTE.png" country="la", UNIMAS ESTE HD
+http://332274857218729645.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/729645.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: UNIVISION (NEW YORK) HD" group="Latino" logo="https://asiagrandiptv.us/logo//UNIVISION(NEWYORK).jpg" country="la", UNIVISION (NEW YORK) HD
+http://332274857218729646.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/729646.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: SHOWTIME BEYOND FHD" group="Latino" logo="https://asiagrandiptv.us/logo/showtimebeyond.png" country="la", SHOWTIME BEYOND FHD
+http://332274857218732937.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/732937.ts
+#EXTINF:0 type="favorites" channelId="935" name="LA: HBO 2 SD" group="Latino" logo="https://asiagrandiptv.us/logo/hbo2.png" country="la", HBO 2 SD
+http://332274857218624900.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/624900.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: VH1 FHD" group="Latino" logo="https://asiagrandiptv.us/logo/vh1.png" country="la", VH1 FHD
+http://332274857218630208.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/630208.ts
+#EXTINF:0 type="favorites" channelId="-1" name="PE: TV PERU NOTICIAS VIP HD" group="Peru" country="pe", TV PERU NOTICIAS VIP HD
+http://332274857218731322.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/731322.ts
+#EXTINF:0 type="favorites" channelId="-1" name="CO: RCN MáS VIP FHD" group="Colombia" logo="https://asiagrandiptv.us/logo/rcn.png" country="co", RCN MáS VIP FHD
+http://332274857218626621.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/626621.ts
+#EXTINF:0 type="favorites" channelId="-1" name="CO: WIN SPORTS PLUS VIP HEVC" group="Colombia" logo="https://asiagrandiptv.us/logo/winsportplus.png" country="co", WIN SPORTS PLUS VIP HEVC
+http://332274857218653935.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/653935.ts
+#EXTINF:0 type="favorites" channelId="-1" name="CO: WIN SPORTS VIP FHD" group="Colombia" logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBQomF1qi5gBX2M6mRL2khYez7HPDFEyvzfwiyVXwS61T.png" country="co", WIN SPORTS VIP FHD
+http://332274857218663580.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/663580.ts
+#EXTINF:0 type="favorites" channelId="-1" name="CO: CABLE NOTICIAS VIP FHD" group="Colombia" logo="https://asiagrandiptv.us/logo/cablenoticias.png" country="co", CABLE NOTICIAS VIP FHD
+http://332274857218667977.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/667977.ts
+#EXTINF:0 type="favorites" channelId="-1" name="CO: TELEPACIFICO VIP HD" group="Colombia" logo="https://asiagrandiptv.us/logo/telepacifico.png" country="co", TELEPACIFICO VIP HD
+http://332274857218667981.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/667981.ts
+#EXTINF:0 type="favorites" channelId="-1" name="CL: CARACOLA TV VIP HD" group="Chile" logo="https://asiagrandiptv.us/logo/caracolinternacional.png" country="cl", CARACOLA TV VIP HD
+http://332274857218713417.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/713417.ts
+#EXTINF:0 type="favorites" channelId="-1" name="PE: LATINA VIP SD" group="Peru" logo="https://asiagrandiptv.us/logo/latina.png" country="pe", LATINA VIP SD
+http://332274857218610813.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/610813.ts
+#EXTINF:0 type="favorites" channelId="-1" name="PE: AMERICA VIP SD" group="Peru" logo="https://asiagrandiptv.us/logo/america.png" country="pe", AMERICA VIP SD
+http://332274857218679490.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/679490.ts
+#EXTINF:0 type="favorites" channelId="-1" name="PE: CAPITAL TV VIP FHD" group="Peru" country="pe", CAPITAL TV VIP FHD
+http://332274857218687431.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/687431.ts
+#EXTINF:0 type="favorites" channelId="-1" name="PE: PERU CHANNEL VIP HD" group="Peru" country="pe", PERU CHANNEL VIP HD
+http://332274857218695878.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/695878.ts
+#EXTINF:0 type="favorites" channelId="-1" name="PE: FRECUENCIA LATINA VIP SD" group="Peru" logo="https://asiagrandiptv.us/logo/frecuencialatina.png" country="pe", FRECUENCIA LATINA VIP SD
+http://332274857218727113.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/727113.ts
+#EXTINF:0 type="favorites" channelId="-1" name="PE: ATV VIP SD" group="Peru" country="pe", ATV VIP SD
+http://332274857218731321.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/731321.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: TELEMUNDO VIP FHD" group="Argentina" logo="https://xplanetiptv.com/Logotv/countries/argentina/telemundo-international-ar.png" country="ar", TELEMUNDO VIP FHD
+http://332274857218658410.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/658410.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: E! VIP HD" group="Argentina" logo="http://fanc.tmsimg.com/assets/s30259_ll_h3_aa.png" country="ar", E! VIP HD
+http://332274857218667948.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/667948.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: HBO XTREME VIP FHD" group="Argentina" logo="https://asiagrandiptv.us/logo//maxprime.png" country="ar", HBO XTREME VIP FHD
+http://332274857218667954.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/667954.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: NICKELODEON VIP HD" group="Argentina" logo="http://fanc.tmsimg.com/assets/s97469_ll_h3_aa.png" country="ar", NICKELODEON VIP HD
+http://332274857218667959.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/667959.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: MAS CHIC VIP FHD" group="Argentina" logo="http://fanc.tmsimg.com/assets/s17457_ll_h3_aa.png" country="ar", MAS CHIC VIP FHD
+http://332274857218704177.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/704177.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: SONY VIP HD" group="Argentina" logo="http://fanc.tmsimg.com/assets/s19385_h3_aa.png" country="ar", SONY VIP HD
+http://332274857218704184.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/704184.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: TNT SERIES VIP HD" group="Argentina" logo="http://fanc.tmsimg.com/assets/s91993_ll_h3_aa.png" country="ar", TNT SERIES VIP HD
+http://332274857218710177.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/710177.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: FX VIP HD" group="Argentina" logo="http://fanc.tmsimg.com/assets/s105689_ll_h3_aa.png" country="ar", FX VIP HD
+http://332274857218717805.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/717805.ts
+#EXTINF:0 type="favorites" channelId="1304" name="ARG: FX HD" group="Argentina" country="ar", FX HD
+http://332274857218717806.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/717806.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: HBO PLUS VIP SD" group="Argentina" logo="https://asiagrandiptv.us/logo//HBO PLUS.png" country="ar", HBO PLUS VIP SD
+http://332274857218720325.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/720325.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: UNIVERSAL VIP HD" group="Argentina" logo="https://xplanetiptv.com/Logotv/countries/argentina/studio-universal-ar.png" country="ar", UNIVERSAL VIP HD
+http://332274857218720339.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/720339.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: HBO MUNDI VIP FHD" group="Argentina" logo="http://fanc.tmsimg.com/assets/s70081_h3_aa.png" country="ar", HBO MUNDI VIP FHD
+http://332274857218722756.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/722756.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: STUDIO UNIVERSAL VIP FHD" group="Argentina" logo="http://fanc.tmsimg.com/assets/s90605_h3_aa.png" country="ar", STUDIO UNIVERSAL VIP FHD
+http://332274857218729895.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/729895.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: HBO 2 VIP FHD" group="Argentina" logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" country="ar", HBO 2 VIP FHD
+http://332274857218731865.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/731865.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: NAT GEO VIP HD" group="Argentina" logo="http://fanc.tmsimg.com/assets/s25068_ll_h3_ab.png" country="ar", NAT GEO VIP HD
+http://332274857218731874.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/731874.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: SYFY VIP FHD" group="Argentina" logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyDU1XQmQfATskEMnZ8LFalUavtdki_iCFfvMo1U2KvxVQ.png" country="ar", SYFY VIP FHD
+http://332274857218731881.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/731881.ts
+#EXTINF:0 type="favorites" channelId="-1" name="ARG: TNT VIP HD" group="Argentina" logo="http://fanc.tmsimg.com/assets/s71727_ll_h3_aa.png" country="ar", TNT VIP HD
+http://332274857218731889.ofip231209.xyz:80/play/vi927873/WqmacwGHY78/731889.ts
+#EXTINF:0 type="favorites" channelId="1967" name="PR: TELEMUNDO" group="Puerto Rico" country="pr", TELEMUNDO
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/26597
+#EXTINF:0 type="favorites" channelId="3209" name="PR: UNIVISION" group="Puerto Rico" country="pr", UNIVISION
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/26596
+#EXTINF:0 type="favorites" channelId="-1" name="PR: WAPA" group="Puerto Rico" country="pr", WAPA
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/26598
+#EXTINF:0 type="favorites" channelId="-1" name="CO1 HBO HD" group="Colombia", CO1 HBO HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103795
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 Space HD" group="Colombia", CO2 Space HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103949
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 History Channel HD" group="Colombia", CO2 History Channel HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103912
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 Discovery H&H HD" group="Colombia", CO2 Discovery H&H HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103881
+#EXTINF:0 type="favorites" channelId="-1" name="CO2 AXN HD" group="Colombia", CO2 AXN HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103836
+#EXTINF:0 type="favorites" channelId="-1" name="CO1 TNT Series HD" group="Colombia", CO1 TNT Series HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103813
+#EXTINF:0 type="favorites" channelId="2625" name="STUDIO UNIVERSAL (MX)" group="LATINO" logo="https://s8.postimg.cc/ym8nguoud/1516325912_5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.jpg", STUDIO UNIVERSAL (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28034
+#EXTINF:0 type="favorites" channelId="-1" name="ES: WAPA AMERICA" group="Puerto Rico" country="es", WAPA AMERICA
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/18753
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 CINECANAL HD" group="Spain-L", SP4 CINECANAL HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103289
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 CineMax" group="Spain-L", SP4 CineMax
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103293
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Discovery Home & Health" group="Spain-L", SP4 Discovery Home & Health
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103297
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 E! Entertairment HD" group="Spain-L", SP4 E! Entertairment HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103304
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 FX HD" group="Spain-L", SP4 FX HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103311
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 HBO Family HD" group="Spain-L", SP4 HBO Family HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103317
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 HBO HD" group="Spain-L", SP4 HBO HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103318
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 HBO Plus HD" group="Spain-L", SP4 HBO Plus HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103319
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 HBO XTREME" group="Spain-L", SP4 HBO XTREME
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103320
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 HBO2 HD" group="Spain-L", SP4 HBO2 HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103321
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Home Garden Latino" group="Spain-L", SP4 Home Garden Latino
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103323
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Paramount HD" group="Spain-L", SP4 Paramount HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103333
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Playboy" group="Spain-L", SP4 Playboy
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103334
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 SONY HD" group="Spain-L", SP4 SONY HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103337
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 SPACE HD" group="Spain-L", SP4 SPACE HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103338
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 STAR CHANNEL HD" group="Spain-L", SP4 STAR CHANNEL HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103339
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 SyFy" group="Spain-L", SP4 SyFy
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103342
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 VENUS" group="Spain-L", SP4 VENUS
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103349
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 WARNER HD" group="Spain-L", SP4 WARNER HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103350
+#EXTINF:0 type="favorites" channelId="-1" name="SP2 Discovery H&H HD" group="Spain-L", SP2 Discovery H&H HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103539
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 A&E HD" group="Spain-L", SP4 A&E HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103284
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 AXN HD" group="Spain-L", SP4 AXN HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103285
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Animal Planet HD" group="Spain-L", SP4 Animal Planet HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103286
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Cine Latino" group="Spain-L", SP4 Cine Latino
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103292
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Discovery Channel HD" group="Spain-L", SP4 Discovery Channel HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103296
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Film & arts HD" group="Spain-L", SP4 Film & arts HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103312
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Golden Premiere 2 HD" group="Spain-L", SP4 Golden Premiere 2 HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103314
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Golden Premiere HD" group="Spain-L", SP4 Golden Premiere HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103315
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 History HD" group="Spain-L", SP4 History HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103322
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 MTV HD" group="Spain-L", SP4 MTV HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103326
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Multipremier" group="Spain-L", SP4 Multipremier
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103328
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Nat Geo HD" group="Spain-L", SP4 Nat Geo HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103329
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Studio Universal HD" group="Spain-L", SP4 Studio Universal HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103341
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 TLC" group="Spain-L", SP4 TLC
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103343
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 TNT Series HD" group="Spain-L", SP4 TNT Series HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103344
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 UNIVERSAL CINEMA ESTE HD" group="Spain-L", SP4 UNIVERSAL CINEMA ESTE HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103347
+#EXTINF:0 type="favorites" channelId="-1" name="SP4 Universal" group="Spain-L", SP4 Universal
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103348
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 A&E" group="Spain-L", SP3 A&E
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103352
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 AMC" group="Spain-L", SP3 AMC
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103353
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 AXN" group="Spain-L", SP3 AXN
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103354
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 AXN HD" group="Spain-L", SP3 AXN HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103355
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 CINECANAL HD" group="Spain-L", SP3 CINECANAL HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103366
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 Cine Latino" group="Spain-L", SP3 Cine Latino
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103398
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 CineMax" group="Spain-L", SP3 CineMax
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103400
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 E!" group="Spain-L", SP3 E!
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103413
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 History HD" group="Spain-L", SP3 History HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103435
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 Multicinema" group="Spain-L", SP3 Multicinema
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103447
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 Multipremier" group="Spain-L", SP3 Multipremier
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103448
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 SONY HD" group="Spain-L", SP3 SONY HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103461
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 SPACE HD" group="Spain-L", SP3 SPACE HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103463
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 STAR CHANNEL HD" group="Spain-L", SP3 STAR CHANNEL HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103465
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 SyFy" group="Spain-L", SP3 SyFy
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103470
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 TCM" group="Spain-L", SP3 TCM
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103472
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 TLC" group="Spain-L", SP3 TLC
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103473
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 TNT" group="Spain-L", SP3 TNT
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103474
+#EXTINF:0 type="favorites" channelId="-1" name="SP3 WARNER HD" group="Spain-L", SP3 WARNER HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103493
+#EXTINF:0 type="favorites" channelId="-1" name="SP2 A&E HD" group="Spain-L", SP2 A&E HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103496
+#EXTINF:0 type="favorites" channelId="-1" name="SP2 AMC HD" group="Spain-L", SP2 AMC HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103499
+#EXTINF:0 type="favorites" channelId="-1" name="SP2 AXN HD" group="Spain-L", SP2 AXN HD
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103504
+#EXTINF:0 type="favorites" channelId="-1" name="SP2 Venus" group="Spain-L", SP2 Venus
+http://jabawalkies.club:8080/ListfEedwri2699/UCrBHfiPQbd/103659
+#EXTINF:0 type="favorites" channelId="-1" name="LOVE NATURE FHD" group="⭕ CULTURA PREMIUM HD" logo="http://th4.online:2095/images/117757576fb843db8cdc6ddc4d5612fa.jpg", LOVE NATURE FHD
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/106565
+#EXTINF:0 type="favorites" channelId="2724" name="DISCOVERY HOME & HEALTH HD" group="⭕ CULTURA PREMIUM HD" logo="http://th4.online:2095/images/5b1d7e18ead904c36b0477e20cb65a18.jpg", DISCOVERY HOME & HEALTH HD
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/121176
+#EXTINF:0 type="favorites" channelId="-1" name="EC | OROMAR TV HD" group="⭕ ECUADOR" logo="http://th4.online:2095/images/c4634b2ba10eb345143b5d31071fa179.jpg", EC | OROMAR TV HD
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/1625
+#EXTINF:0 type="favorites" channelId="-1" name="⭐ CINEMA INFANTIL 05" group="⭕ 24/7  INFANTILES" logo="http://cpi4u.com:45862/images/e9296075bbdb5f28bfad4fc64f22b0b2.png", ⭐ CINEMA INFANTIL 05
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/14555
+#EXTINF:0 type="favorites" channelId="-1" name="⭐ ESTRELLA GAME" group="⭕ 24/7  INFANTILES" logo="http://cpi4u.com:45862/images/e9296075bbdb5f28bfad4fc64f22b0b2.png", ⭐ ESTRELLA GAME
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/14556
+#EXTINF:0 type="favorites" channelId="-1" name="COL| CANAL UNO HD VIP1" group="⭕  COLOMBIA" logo="http://cpi4u.com:45862/images/34e55b2187276b4057fffcdf06869f07.jpg", COL| CANAL UNO HD VIP1
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21152
+#EXTINF:0 type="favorites" channelId="-1" name="COL| CARACOL TV  HD" group="⭕  COLOMBIA" logo="http://th4.online:2095/images/9d8a5e481b713c513ab5a91b6f758723.jpg", COL| CARACOL TV  HD
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21156
+#EXTINF:0 type="favorites" channelId="-1" name="COL| CARACOL TV QH" group="⭕  COLOMBIA" logo="http://th4.online:2095/images/9d8a5e481b713c513ab5a91b6f758723.jpg", COL| CARACOL TV QH
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21159
+#EXTINF:0 type="favorites" channelId="-1" name="COL| RCN NACIONAL HD" group="⭕  COLOMBIA" logo="http://th4.online:2095/images/202e7298b891dfb477669d988a0f6a19.jpg", COL| RCN NACIONAL HD
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21164
+#EXTINF:0 type="favorites" channelId="-1" name="UK | CNN INTERNACIONAL  HD 2" group="⭕ NOTICIAS 24 NEWS" logo="http://th4.online:2095/images/2435a45b85628172c5a47122144a7c67.jpg", UK | CNN INTERNACIONAL  HD 2
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21168
+#EXTINF:0 type="favorites" channelId="-1" name="COL| CITY TV" group="⭕  COLOMBIA" logo="http://th4.online:2095/images/859214628431995197c0558f7b5f8ffc.jpg", COL| CITY TV
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21170
+#EXTINF:0 type="favorites" channelId="-1" name="COL| TELEPACIFICO HD" group="⭕  COLOMBIA" logo="http://th4.online:2095/images/3fb007ab016114a720a5b5c7a4d20b27.jpg", COL| TELEPACIFICO HD
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21200
+#EXTINF:0 type="favorites" channelId="-1" name="COL| SENAL COLOMBIA" group="⭕  COLOMBIA" logo="http://cpi4u.com:45862/images/06069fdb840daf229f1dcc0b8f3e93c9.jpg", COL| SENAL COLOMBIA
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21197
+#EXTINF:0 type="favorites" channelId="-1" name="COL| TELECAFE HD" group="⭕  COLOMBIA" logo="http://cpi4u.com:45862/images/d4f7ef68b07113db12bb5b163298ba44.jpg", COL| TELECAFE HD
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/21199
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 Smallville" group="⭕ 24/7 PREMIUM" logo="http://cpi4u.com:45862/images/765a5d7b6a96a1631b77ffd3554910a9.png", 24/7 Smallville
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/119917
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 Alerta aeropuerto" group="⭕ 24/7 PREMIUM" logo="http://th4.online:2095/images/ebc4094a88e19dbfe24a0f747165dda8.png", 24/7 Alerta aeropuerto
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/155584
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 Peliculas Spider-Man **" group="⭕ 24/7 PREMIUM" logo="http://th4.online:2095/images/56bd1e1beaafc9586a8b7d9b1b3be9c5.png", 24/7 Peliculas Spider-Man **
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/167768
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 Sam y Cat" group="⭕ 24/7 PREMIUM" logo="http://th4.online:2095/images/da0247a9149b3a5b46330e9925f474ec.png", 24/7 Sam y Cat
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/167778
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | The Walking Dead" group="⭕ 24/7 PREMIUM" logo="https://static.wikia.nocookie.net/thewalkingdead/images/a/a8/S5Intro025.jpg/revision/latest?cb=20141013200013&path-prefix=es", 24/7 | The Walking Dead
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/167802
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Don Gato y su Pandilla" group="⭕ 24/7 PREMIUM" logo="http://th4.online:2095/images/f672441e5e018fd610aa689b07742cfc.png", 24/7 | Don Gato y su Pandilla
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/167805
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | Smallville" group="⭕ 24/7 PREMIUM" logo="http://th4.online:2095/images/56cb4f7b9f8755f6d9a2cbd6f1f16019.jpg", 24/7 | Smallville
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/167806
+#EXTINF:0 type="favorites" channelId="3797" name="TNT SERIES HD" group="⭕ CINE PREMIUM HD" logo="http://th4.online:2095/images/f1e7a38ad1a75c44206b8eb3dfedfeee.png", TNT SERIES HD
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/100079
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL REALITY HD" group="⭕ CINE PREMIUM HD" logo="http://th4.online:2095/images/13332d501ddc7de209ed0ce0ad1aed9e.png", UNIVERSAL REALITY HD
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/1475
+#EXTINF:0 type="favorites" channelId="-1" name="HBO SUR  HD" group="⭕ CINE PREMIUM HD" logo="http://th4.online:2095/images/9dafbe4f468b62db768e12c88e141a14.png", HBO SUR  HD
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/1488
+#EXTINF:0 type="favorites" channelId="-1" name="HBO LATINO HD" group="⭕ CINE PREMIUM HD" logo="http://th4.online:2095/images/fa0be65467f36247e9e978d75d13f3bb.png", HBO LATINO HD
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/1489
+#EXTINF:0 type="favorites" channelId="-1" name="STAR LIFE HD" group="⭕ CINE PREMIUM HD" logo="http://th4.online:2095/images/714d7ecf22ec9f6937a11f09a3496eb7.png", STAR LIFE HD
+http://th4.online:2095/jositosder/bDeGYPqwA8JR/102721
+#EXTINF:0 type="favorites" channelId="-1" name="24H | Batman" group="CANALES 24/7" logo="http://offshore.lat:36995/images/1b6b5873e09da5b5dde162e7ff4922ab.png", 24H | Batman
+http://offshore.lat:25461/javierflores@gmail.com/Javier76889/233790
+#EXTINF:0 type="favorites" channelId="-1" name="WARNER TV ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/warner-channel-hd.png", WARNER TV ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/1024
+#EXTINF:0 type="favorites" channelId="-1" name="PARAMOUNT CHANNEL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/paramount-channel-hd.png", PARAMOUNT CHANNEL ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/3268
+#EXTINF:0 type="favorites" channelId="-1" name="COMEDY CENTRAL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/comedy-central-hd.png", COMEDY CENTRAL ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/9767
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMAX ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinemax-hd.png", CINEMAX ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/16903
+#EXTINF:0 type="favorites" channelId="-1" name="SONY CHANNEL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/sony-hd.png", SONY CHANNEL ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/16921
+#EXTINF:0 type="favorites" channelId="-1" name="AXN ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/axn-hd.png", AXN ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/1021
+#EXTINF:0 type="favorites" channelId="-1" name="HBO | Dual Audio ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-hd.png", HBO | Dual Audio ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/16897
+#EXTINF:0 type="favorites" channelId="-1" name="FX ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/fx-hd.png", FX ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/3270
+#EXTINF:0 type="favorites" channelId="-1" name="A&E ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/ae-hd.png", A&E ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/58123
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-hd.png", UNIVERSAL ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/3271
+#EXTINF:0 type="favorites" channelId="-1" name="STUDIO UNIVERSAL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/studio-universal-hd.png", STUDIO UNIVERSAL ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/9780
+#EXTINF:0 type="favorites" channelId="-1" name="SPACE ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/space-hd.png", SPACE ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/16922
+#EXTINF:0 type="favorites" channelId="-1" name="TNT SERIES ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-series-hd.png", TNT SERIES ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/16925
+#EXTINF:0 type="favorites" channelId="-1" name="TNT ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png", TNT ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/25213
+#EXTINF:0 type="favorites" channelId="-1" name="AMC ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/amc.png", AMC ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/24818
+#EXTINF:0 type="favorites" channelId="-1" name="TRU TV ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tru-tv-hd.png", TRU TV ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/118117
+#EXTINF:0 type="favorites" channelId="-1" name="HBO XTREME ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-xtreme-hd.png", HBO XTREME ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/169451
+#EXTINF:0 type="favorites" channelId="-1" name="AZ CINEMA ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/az-cinema.png", AZ CINEMA ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/160510
+#EXTINF:0 type="favorites" channelId="-1" name="SYFY ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/syfy-hd.png", SYFY ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/13230
+#EXTINF:0 type="favorites" channelId="-1" name="A3 SERIES ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/a3-series-hd.png", A3 SERIES ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/24961
+#EXTINF:0 type="favorites" channelId="-1" name="CINEMA DINAMITA ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinema-dinamita-hd.png", CINEMA DINAMITA ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/53020
+#EXTINF:0 type="favorites" channelId="-1" name="DE PELÍCULA CLÁSICO ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-clasico.png", DE PELÍCULA CLÁSICO ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/65203
+#EXTINF:0 type="favorites" channelId="-1" name="DE PELÍCULA ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula.png", DE PELÍCULA ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/43492
+#EXTINF:0 type="favorites" channelId="-1" name="DE PELÍCULA+ ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-plus-hd.png", DE PELÍCULA+ ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/43494
+#EXTINF:0 type="favorites" channelId="-1" name="DHE ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/dhe.png", DHE ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/16929
+#EXTINF:0 type="favorites" channelId="-1" name="GOLDEN PLUS ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-plus-hd.png", GOLDEN PLUS ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/9771
+#EXTINF:0 type="favorites" channelId="-1" name="GOLDEN PREMIER 2 ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-premier-2.png", GOLDEN PREMIER 2 ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/59491
+#EXTINF:0 type="favorites" channelId="-1" name="HBO 2 ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-2-hd.png", HBO 2 ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/7090
+#EXTINF:0 type="favorites" channelId="-1" name="HBO FAMILY ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-family-hd.png", HBO FAMILY ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/3273
+#EXTINF:0 type="favorites" channelId="-1" name="HBO POP ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-pop-hd.png", HBO POP ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/16902
+#EXTINF:0 type="favorites" channelId="-1" name="HBO SIGNATURE ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-signature-hd.png", HBO SIGNATURE ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/16898
+#EXTINF:0 type="favorites" channelId="-1" name="HBO+ ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-plus-hd.png", HBO+ ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/16900
+#EXTINF:0 type="favorites" channelId="-1" name="SONY CHANNEL** ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cine-sony-hd.png", SONY CHANNEL** ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/27799
+#EXTINF:0 type="favorites" channelId="-1" name="STAR CHANNEL | Andino ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/star-channel-hd.png", STAR CHANNEL | Andino ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/118115
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL CINEMA ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-cinema-hd.png", UNIVERSAL CINEMA ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/9778
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL COMEDY ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-comedy-hd.png", UNIVERSAL COMEDY ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/24328
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL CRIME ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-crime-hd.png", UNIVERSAL CRIME ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/9777
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL PREMIERE 1 ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-premiere-hd.png", UNIVERSAL PREMIERE 1 ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/14491
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL REALITY ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-reality-hd.png", UNIVERSAL REALITY ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/16923
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL PREMIERE 2 ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-premiere-hd.png", UNIVERSAL PREMIERE 2 ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/167880
+#EXTINF:0 type="favorites" channelId="-1" name="DISTRITO COMEDIA ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/distrito-comedia-hd.png", DISTRITO COMEDIA ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/59612
+#EXTINF:0 type="favorites" channelId="-1" name="CINE LATINO ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cine-latino.png", CINE LATINO ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/24648
+#EXTINF:0 type="favorites" channelId="-1" name="CLOVER ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/clover.png", CLOVER ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/187876
+#EXTINF:0 type="favorites" channelId="-1" name="MULTIPREMIER ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/multipremier-hd.png", MULTIPREMIER ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/189604
+#EXTINF:0 type="favorites" channelId="-1" name="STARZ ENCORE ESPAÑOL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/starz-encore-espanol-hd.png", STARZ ENCORE ESPAÑOL ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/189701
+#EXTINF:0 type="favorites" channelId="-1" name="A3 CINE ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/a3-cine-hd.png", A3 CINE ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/189703
+#EXTINF:0 type="favorites" channelId="-1" name="GOLDEN ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden.png", GOLDEN ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/9769
+#EXTINF:0 type="favorites" channelId="-1" name="CINECANAL ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinecanal-hd.png", CINECANAL ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/2833
+#EXTINF:0 type="favorites" channelId="-1" name="KANAL D DRAMA ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/kanal-d-drama-hd.png", KANAL D DRAMA ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/57182
+#EXTINF:0 type="favorites" channelId="2502" name="GOLDEN EDGE" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-edge.png", GOLDEN EDGE
+http://nxt.plus:8080/aldoss/334417/169449
+#EXTINF:0 type="favorites" channelId="-1" name="HBO MUNDI ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-mundi-hd.png", HBO MUNDI ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/13883
+#EXTINF:0 type="favorites" channelId="-1" name="SONY MOVIES ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/sony-movies-hd.png", SONY MOVIES ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/114820
+#EXTINF:0 type="favorites" channelId="-1" name="GOLDEN PREMIER 1 ᴴᴰ" group="CINE / SERIES | HD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-premier.png", GOLDEN PREMIER 1 ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/59490
+#EXTINF:0 type="favorites" channelId="-1" name="AMERICA TV ᴴᴰ" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/america-tv-hd.png", AMERICA TV ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/192588
+#EXTINF:0 type="favorites" channelId="1956" name="PANAMERICANA TV" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/panamericana-tv.png", PANAMERICANA TV
+http://nxt.plus:8080/aldoss/334417/43552
+#EXTINF:0 type="favorites" channelId="-1" name="ATV+ ᴴᴰ" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/atv-plus.png", ATV+ ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/18052
+#EXTINF:0 type="favorites" channelId="2545" name="LATINA" group="PERÚ" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/latina.png", LATINA
+http://nxt.plus:8080/aldoss/334417/43546
+#EXTINF:0 type="favorites" channelId="-1" name="STAR CHANNEL*" group="CINE / SERIES | SD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/star-channel.png", STAR CHANNEL*
+http://nxt.plus:8080/aldoss/334417/187963
+#EXTINF:0 type="favorites" channelId="-1" name="STAR CHANNEL/" group="CINE / SERIES | SD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/star-channel.png", STAR CHANNEL/
+http://nxt.plus:8080/aldoss/334417/59149
+#EXTINF:0 type="favorites" channelId="1330" name="HBO" group="CINE / SERIES | SD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo.png", HBO
+http://nxt.plus:8080/aldoss/334417/59122
+#EXTINF:0 type="favorites" channelId="935" name="HBO 2" group="CINE / SERIES | SD" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-2.png", HBO 2
+http://nxt.plus:8080/aldoss/334417/43536
+#EXTINF:0 type="favorites" channelId="-1" name="PLAYBOY ᴴᴰ" group="ADULTOS" logo="https://i.ibb.co/Q9FnTs6/PLAYBOY-TV-2005.png", PLAYBOY ᴴᴰ
+http://nxt.plus:8080/aldoss/334417/1177
+#EXTINF:0 type="favorites" channelId="-1" name="| XENA LA PRINCESA GUERRERA" group="24/7 NXT" logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png", | XENA LA PRINCESA GUERRERA
+http://nxt.plus:8080/aldoss/334417/114414
+#EXTINF:0 type="favorites" channelId="-1" name="| EL AUTO FANTASTICO" group="24/7 NXT" logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png", | EL AUTO FANTASTICO
+http://nxt.plus:8080/aldoss/334417/177642
+#EXTINF:0 type="favorites" channelId="-1" name="| THE DUKES OFF HAZZARS" group="24/7 NXT" logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png", | THE DUKES OFF HAZZARS
+http://nxt.plus:8080/aldoss/334417/114410
+#EXTINF:0 type="favorites" channelId="-1" name="| IEL NSPECTOR" group="24/7 NXT" logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png", | IEL NSPECTOR
+http://nxt.plus:8080/aldoss/334417/114411
+#EXTINF:0 type="favorites" channelId="-1" name="| EL COYOTE Y CORRECAMINOS" group="24/7 NXT" logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png", | EL COYOTE Y CORRECAMINOS
+http://nxt.plus:8080/aldoss/334417/130880
+#EXTINF:0 type="favorites" channelId="-1" name="| AVISPON VERDE" group="24/7 NXT" logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png", | AVISPON VERDE
+http://nxt.plus:8080/aldoss/334417/140882
+#EXTINF:0 type="favorites" channelId="-1" name="| FAMILIA MONSTER" group="24/7 NXT" logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png", | FAMILIA MONSTER
+http://nxt.plus:8080/aldoss/334417/140883
+#EXTINF:0 type="favorites" channelId="-1" name="| LA CASA DEL DIBUJO" group="24/7 NXT" logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png", | LA CASA DEL DIBUJO
+http://nxt.plus:8080/aldoss/334417/140889
+#EXTINF:0 type="favorites" channelId="-1" name="| LA PANTERA ROSA" group="24/7 NXT" logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png", | LA PANTERA ROSA
+http://nxt.plus:8080/aldoss/334417/91925
+#EXTINF:0 type="favorites" channelId="-1" name="PR | UNIVISION" group="CENTROAMÉRICA" logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/centroamerica-caribe-2/pr-univision.png", PR | UNIVISION
+http://nxt.plus:8080/aldoss/334417/191175
