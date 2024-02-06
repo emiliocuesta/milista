@@ -1,0 +1,1001 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2903", Warner HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:0 type="favorites" channelId="1330", HBO HD
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:0 type="favorites" channelId="935", HBO2 HD
+http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:0 type="favorites" channelId="2585", HBO Plus HD
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Paramount HD
+http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", STAR CHANNEL HD
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:0 type="favorites" channelId="2147", Studio Universal HD
+http://45.166.92.22:58001/play/a00k/index.m3u8
+#EXTINF:0 type="favorites" channelId="895", TCM
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:0 type="favorites" channelId="2900", TNT HD
+http://45.166.92.22:58001/play/a013/index.m3u8
+#EXTINF:0 type="favorites" channelId="1304", FX HD
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:0 type="favorites" channelId="3761", FX Movies HD
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:0 type="favorites" channelId="284", CINECANAL HD
+http://45.166.92.22:58001/play/a04b/index.m3u8
+#EXTINF:0 type="favorites" channelId="2503", A&E HD
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:0 type="favorites" channelId="2896", SPACE HD
+http://45.166.92.22:58001/play/a02o/index.m3u8
+#EXTINF:0 type="favorites" channelId="3797", TNT Series HD
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Universal cinema HD
+http://45.166.92.22:58001/play/a01t/index.m3u8
+#EXTINF:0 type="favorites" channelId="2501", AMC HD
+http://45.166.92.22:58001/play/a00q/index.m3u8
+#EXTINF:0 type="favorites" channelId="2246", AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:0 type="favorites" channelId="530", SONY HD
+http://45.166.92.22:58001/play/a04a/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://affiliates.cinesony.com/themes/custom/cinesony_theme/images/sonycine-logo.png", Sony Cine
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Familiares" logo="https://i.imgur.com/PCtEVPc.jpg", Teleclasica
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="67", TLC
+http://45.166.92.22:58001/play/a04o/index.m3u8
+#EXTINF:0 type="favorites" channelId="2724", Home & Health HD
+http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", E! Entertairment HD
+http://45.166.92.22:58001/play/a00n/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="LATINO" logo="https://i.imgur.com/SXTD6Iu.jpg", FMTV HD
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Familiares" logo="https://i.imgur.com/XVb8GeN.png", TV Retro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/7aIab2r.png", ACS Network (480p)
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png", Cosmos TV (720p)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Mi TV Television Clasica" group="Familiares" logo="https://i.imgur.com/O5fZ5RX.png", Mi TV Television Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CHILE" logo="https://www.m3u.cl/logo/1020_Caracola_TV.png", Caracola TV Peñalolén CHILE
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Familiares" logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", PlanetaTV Kids
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png", Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 34 (Chile)" logo="https://i.paste.pics/3F3oDS265pBZ6TE91MsDaQghfjACgBGUCk.png", PlanetaTV Kids | CL
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://blogger.googleusercontent.com/img/a/AVvXsEj4PrXtFBow3WWj6wjA4yWe-10x6WykuF8TA2B-Qbnymd4UiWfGUJ65efbzbLxSPB0hESx9D9-V1BTVboEsF6k6MGekoXNPXckaJ789vCZgU7bLCG-tp9Dd6Gt0bMfoYOOsqU67KU26MKg61T8_Sct2dTZMJJlIHVRypCweX3EWJCLl008YZBCncnJkeg=s200", Cascara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 SERIES" logo="https://1.bp.blogspot.com/-8DzP5qN4HIY/XucILmmQ64I/AAAAAAAACFY/uEPJyj-kb-YKw_LJHoY91RlZGWKMMz_VgCLcBGAsYHQ/s200/El%2Bauto%2Bfantastico.png", 24/7 El Auto Fantastico (e)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37806
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 CINEMA" logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png", 24/7 HBO Family(M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2106
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 CINEMA" logo="https://1.bp.blogspot.com/-jsXerJmFHK0/Xas8qIXagZI/AAAAAAAAAaE/c3OP25KYkFUA2IGufDn-M7eyR0JPdSkXgCLcBGAsYHQ/s200/31.png", 24/7 HBO Signature (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2108
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 CINEMA" logo="https://i.postimg.cc/s2sznkd3/Proyecto-X-12.png", 24/7 Peliculas 4K - 2022 (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/225771
+#EXTINF:0 type="favorites" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-pDZUOqatcCc/YDSFENFbt6I/AAAAAAAACFk/aG-Brvhw2Hoz5IsWO5eyTJtIdk3FqDS7wCLcBGAsYHQ/w200-h200/Sony.png", CINE - Sony Cine (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1929
+#EXTINF:0 type="favorites" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-iMAi_8FJwwQ/XatGmhKYmbI/AAAAAAAAAbQ/0z9DR3Ur5KYfsAzeHVCogx2jNUubeChrACLcBGAsYHQ/s200/37.png", CINE - Lifetime (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26914
+#EXTINF:0 type="favorites" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png", CINE - STAR Channel (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1454
+#EXTINF:0 type="favorites" channelId="-1" group="CANALES-ENTRETENIMIENTO" logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png", CINE - Space (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/74409
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 CINEMA" logo="https://1.bp.blogspot.com/-Jxy8js8JgTE/X0cbUmUVGEI/AAAAAAAABNc/WqqPt-nykscOnSjlDHY2X4Mwmab0RxHeQCLcBGAsYHQ/w200-h200/superman.png", 24/7 Superman (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/58181
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 CINEMA" logo="https://1.bp.blogspot.com/-iu2TPcxaYPw/Xuc5guv_jFI/AAAAAAAACHo/IB-fjgtcBqQ0Hn3b_WkC8FSB6wSvMH4YgCLcBGAsYHQ/s200/x-men%2Bmovies.png", 24/7 X-Men (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37924
+#EXTINF:0 type="favorites" channelId="-1" name="Batman la serie animada 1992" group="24/7" logo="https://i.postimg.cc/QxFpmKTJ/batman-animado.png", Batman la serie animada 1992
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/206994
+#EXTINF:0 type="favorites" channelId="-1" name="El Coyote y el Correcaminos" group="24/7" logo="https://i.postimg.cc/y655gRx1/El-Coyote-y-el-Correcaminos.png", El Coyote y el Correcaminos
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/210688
+#EXTINF:0 type="favorites" channelId="-1" name="El Inspector" group="24/7" logo="https://i.postimg.cc/nrtbtwyH/el-inspector.png", El Inspector
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/206996
+#EXTINF:0 type="favorites" channelId="-1" name="La hormiga y el oso hormiguero" group="24/7" logo="https://i.postimg.cc/XJB01vDL/La-hormiga-y-el-oso-hormiguero.png", La hormiga y el oso hormiguero
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/211380
+#EXTINF:0 type="favorites" channelId="-1" name="La mascara" group="24/7" logo="https://i.postimg.cc/26Dm9TWJ/La-mascara.png", La mascara
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/211147
+#EXTINF:0 type="favorites" channelId="-1" name="Los 4 Fantasticos" group="24/7" logo="https://i.postimg.cc/gj9bCPCW/Los-4-Fantasticos.png", Los 4 Fantasticos
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/211379
+#EXTINF:0 type="favorites" channelId="-1" name="Los Supersonicos" group="24/7" logo="https://i.postimg.cc/VNf0C00s/los-supersonicos.png", Los Supersonicos
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/205557
+#EXTINF:0 type="favorites" channelId="-1" name="Popeye el Marino" group="24/7" logo="https://i.postimg.cc/1RkrSjyq/Popeye_el_Marino.png", Popeye el Marino
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/205816
+#EXTINF:0 type="favorites" channelId="-1" name="Rambo" group="24/7" logo="https://i.postimg.cc/vB47TcDQ/Rambo.png", Rambo
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/213144
+#EXTINF:0 type="favorites" channelId="-1" name="Robocop La serie animada" group="24/7" logo="https://i.postimg.cc/G26Fydsv/Robocop.png", Robocop La serie animada
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/213146
+#EXTINF:0 type="favorites" channelId="-1" name="Spiderman y sus amigos" group="24/7" logo="https://i.postimg.cc/HLM60yC6/Spiderman-y-sus-amigos.png", Spiderman y sus amigos
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/211255
+#EXTINF:0 type="favorites" channelId="-1" name="Transformers G1" group="24/7" logo="https://i.postimg.cc/Zq13sBJR/Transformers-G1.png", Transformers G1
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/213838
+#EXTINF:0 type="favorites" channelId="-1" name="| 24/7 | Chespirito" group="24/7" logo="https://i.postimg.cc/FsdNPgyV/chespirito.png", | 24/7 | Chespirito
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/25722
+#EXTINF:0 type="favorites" channelId="-1" name="| 24/7 | El Chavo del 8" group="24/7" logo="https://i.postimg.cc/F1tqCcvT/el-chavo-del-8.png", | 24/7 | El Chavo del 8
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/25728
+#EXTINF:0 type="favorites" channelId="-1" name="| 24/7 | El Pajaro Loco" group="24/7" logo="https://i.postimg.cc/y89s49FS/pajaro-loco.png", | 24/7 | El Pajaro Loco
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/136425
+#EXTINF:0 type="favorites" channelId="-1" name="| 24/7 | La Hora Pico" group="24/7" logo="https://i.postimg.cc/0NkbxV9Y/la-hora-pico.png", | 24/7 | La Hora Pico
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/62964
+#EXTINF:0 type="favorites" channelId="-1" name="| 24/7 | He-Man" group="24/7" logo="https://i.postimg.cc/638tDrsK/he-man.png", | 24/7 | He-Man
+http://cineplay.vip:8080/pedrooo/dprh93vCuv/246893
+#EXTINF:0 type="favorites" channelId="-1" name="XXX: PLAYBOY EUROPE FHD" group="ADULTS", XXX: PLAYBOY EUROPE FHD
+http://93667812411755199.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/755199.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: OUTERMAX FHD" group="Latino" logo="https://asiagrandiptv.us/logo/outermax.png" country="la", OUTERMAX FHD
+http://48719312671778318.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/778318.ts
+#EXTINF:0 type="favorites" channelId="333" name="LA: GOLDEN SD" group="Latino" logo="https://asiagrandiptv.us/logo/golden.png" country="la", GOLDEN SD
+http://48719312671778317.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/778317.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STARZ FHD" group="Latino" logo="https://asiagrandiptv.us/logo/starz.png" country="la", STARZ FHD
+http://48719312671775708.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/775708.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: CINEMA 37 PPV FHD" group="Latino" logo="https://asiagrandiptv.us/logo//CINEMAPPV.png" country="la", CINEMA 37 PPV FHD
+http://48719312671775063.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/775063.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STAR SD" group="Latino" logo="https://asiagrandiptv.us/logo/star.png" country="la", STAR SD
+http://48719312671773427.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/773427.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STARZ ENCORE CLASSIC FHD" group="Latino" logo="https://asiagrandiptv.us/logo/starzencoreclassic.png" country="la", STARZ ENCORE CLASSIC FHD
+http://48719312671771686.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/771686.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: MOREMAX FHD" group="Latino" logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBS5VEb0vAGDwwnZipWL6mSi1kocbTN1XV5mknQuZpFqk.png" country="la", MOREMAX FHD
+http://48719312671768338.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/768338.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: CINEMAX EAST HD" group="Latino" logo="https://asiagrandiptv.us/logo//CINEMAXEASTHD1080P.jpg" country="la", CINEMAX EAST HD
+http://48719312671767884.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/767884.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STARZ EAST SD" group="Latino" logo="https://asiagrandiptv.us/logo//STARZEASTHD1080P.jpg" country="la", STARZ EAST SD
+http://48719312671764687.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/764687.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: MOVIEPLEX FHD" group="Latino" logo="https://asiagrandiptv.us/logo/movieplex.png" country="la", MOVIEPLEX FHD
+http://48719312671764686.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/764686.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: SHOWTIME BEYOND FHD" group="Latino" logo="https://asiagrandiptv.us/logo/showtimebeyond.png" country="la", SHOWTIME BEYOND FHD
+http://48719312671763896.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/763896.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STARZ CINEMA FHD" group="Latino" logo="https://asiagrandiptv.us/logo/starzcinema.png" country="la", STARZ CINEMA FHD
+http://48719312671762427.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/762427.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: MIAMI TV FHD" group="Latino" logo="https://asiagrandiptv.us/logo/miamitv.png" country="la", MIAMI TV FHD
+http://48719312671761596.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/761596.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: HOLA! TV FHD" group="Latino" logo="https://asiagrandiptv.us/logo//holatv.png" country="la", HOLA! TV FHD
+http://600624512159759697.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/759697.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: CINEMA 28 PPV HD" group="Latino" logo="https://asiagrandiptv.us/logo/cinema28ppv.png" country="la", CINEMA 28 PPV HD
+http://600624512159759693.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/759693.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: UNIVERSAL CHANNEL HD" group="Latino" logo="https://asiagrandiptv.us/logo/universalchannel.png" country="la", UNIVERSAL CHANNEL HD
+http://600624512159743925.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/743925.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: CINEMA DINAMITA HD" group="Latino" logo="https://asiagrandiptv.us/logo/cinemadinamita.png" country="la", CINEMA DINAMITA HD
+http://600624512159729428.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/729428.ts
+#EXTINF:0 type="favorites" channelId="530" name="LA: SONY HD" group="Latino" logo="https://asiagrandiptv.us/logo/sony.png" country="la", SONY HD
+http://600624512159712802.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/712802.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: ACTION MAX FHD" group="Latino" logo="https://asiagrandiptv.us/logo/actionmax.png" country="la", ACTION MAX FHD
+http://600624512159694319.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/694319.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: SYFY FHD" group="Latino" logo="https://asiagrandiptv.us/logo/syfy.png" country="la", SYFY FHD
+http://600624512159684819.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/684819.ts
+#EXTINF:0 type="favorites" channelId="2903" name="LA: WARNER CHANNEL HD" group="Latino" logo="https://asiagrandiptv.us/logo/warnerchannel.png" country="la", WARNER CHANNEL HD
+http://600624512159682523.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/682523.ts
+#EXTINF:0 type="favorites" channelId="2585" name="LA: HBO PLUS SD" group="Latino" logo="https://asiagrandiptv.us/logo/hboplus.png" country="la", HBO PLUS SD
+http://600624512159669693.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/669693.ts
+#EXTINF:0 type="favorites" channelId="1040" name="LA: TLC HD" group="Latino" logo="https://asiagrandiptv.us/logo/tlc.png" country="la", TLC HD
+http://600624512159668307.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/668307.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STAR CLASSIC SD" group="Latino" logo="https://asiagrandiptv.us/logo//starclassics.png" country="la", STAR CLASSIC SD
+http://600624512159666083.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/666083.ts
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STAR ACTION SD" group="Latino" logo="https://asiagrandiptv.us/logo/staraction.png" country="la", STAR ACTION SD
+http://600624512159666082.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/666082.ts
+#EXTINF:0 type="favorites" channelId="2583" name="LA: HBO SIGNATURE HD" group="Latino" logo="https://asiagrandiptv.us/logo/hbosignature.png" country="la", HBO SIGNATURE HD
+http://600624512159660075.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/660075.ts
+#EXTINF:0 type="favorites" channelId="383" name="LA: SPACE SD" group="Latino" logo="https://asiagrandiptv.us/logo/space.png" country="la", SPACE SD
+http://600624512159657212.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/657212.ts
+#EXTINF:0 type="favorites" channelId="2503" name="LA: A&E HD" group="Latino" logo="https://asiagrandiptv.us/logo//A&E.jpg" country="la", A&E HD
+http://600624512159657185.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/657185.ts
+#EXTINF:0 type="favorites" channelId="2501" name="LA: AMC HD" group="Latino" logo="https://asiagrandiptv.us/logo/amc.png" country="la", AMC HD
+http://600624512159645655.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/645655.ts
+#EXTINF:0 type="favorites" channelId="935" name="LA: HBO 2 SD" group="Latino" logo="https://asiagrandiptv.us/logo/hbo2.png" country="la", HBO 2 SD
+http://600624512159624900.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/624900.ts
+#EXTINF:0 type="favorites" channelId="2620" name="LA: DISCOVERY HOME & HEALTH SD" group="Latino" country="la", DISCOVERY HOME & HEALTH SD
+http://600624512159624880.starxo.xyz:80/play/hu1113998/Dh@fhBvwBW/624880.ts
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Alba XXX-HD1" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Alba XXX-HD1
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/7908
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Alba XXX-HD2" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Alba XXX-HD2
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/7909
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Alba XXX-HD3" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Alba XXX-HD3
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/7912
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Alba XXX-HD4" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Alba XXX-HD4
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/7910
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Alba XXX-HD5" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Alba XXX-HD5
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/7911
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Alba XXX-HD7" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Alba XXX-HD7
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/33170
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PENTHOUSE QUICKIES LIVE" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ PENTHOUSE QUICKIES LIVE
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/23665
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Playboy TV  LIVE" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Playboy TV  LIVE
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/23671
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PLAYGROUND HD" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ PLAYGROUND HD
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/23714
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ FAP TV PARODY HD" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ FAP TV PARODY HD
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/23765
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Porn 4K 1" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Porn 4K 1
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67751
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Porn 4K 2" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Porn 4K 2
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67752
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Porn 4K 3" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Porn 4K 3
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67753
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Porn 4K 4" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Porn 4K 4
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67754
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Porn 4K 5" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Porn 4K 5
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67755
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Porn 4K 6" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Porn 4K 6
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67756
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Legal Porno 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Legal Porno 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67757
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Legal Porno 2 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Legal Porno 2 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67758
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Legal Porno 3 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Legal Porno 3 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67759
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Legal Porno 4 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Legal Porno 4 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67760
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Legal Porno 6 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Legal Porno 6 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67762
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ 18Teens Mixed 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ 18Teens Mixed 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67763
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ 21 Mixed 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ 21 Mixed 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67764
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ 21 Mixed 2 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ 21 Mixed 2 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67765
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BangBros 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ BangBros 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67766
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BangBros 3 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ BangBros 3 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67768
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BangBros 4 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ BangBros 4 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67769
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Brazzers 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Brazzers 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67770
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Brazzers 2 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Brazzers 2 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67771
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Brazzers 3 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Brazzers 3 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67772
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Brazzers 4 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Brazzers 4 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67773
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Brazzers 5 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Brazzers 5 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67774
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BrutalFisting HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ BrutalFisting HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67775
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ DDFNetwork 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ DDFNetwork 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67776
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EvilAngel 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ EvilAngel 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67777
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EvilAngel 2 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ EvilAngel 2 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67778
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EvilAngel 3 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ EvilAngel 3 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67779
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EvilAngel 4 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ EvilAngel 4 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67780
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EvilAngel 5 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ EvilAngel 5 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67781
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ FakeTaxi 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ FakeTaxi 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67782
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ FakeTaxi 3 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ FakeTaxi 3 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67784
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Gonzo 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Gonzo 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67785
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Gonzo 2 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Gonzo 2 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67786
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Gonzo 3 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Gonzo 3 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67787
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Gonzo 4 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Gonzo 4 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67788
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ HardX 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ HardX 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67789
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ HardX 2 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ HardX 2 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67790
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ JulesJordan 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ JulesJordan 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67791
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ JulesJordan 2 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ JulesJordan 2 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67792
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ JulesJordan 3 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ JulesJordan 3 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67793
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Tushy 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Tushy 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67794
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Tushy 2 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Tushy 2 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67795
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Fake Mixed 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Fake Mixed 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67796
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Mofos 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Mofos 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67797
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Swallowed 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Swallowed 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67798
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Public Agent 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Public Agent 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67799
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ TrueAnal 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ TrueAnal 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67801
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ ADULT Latina" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ ADULT Latina
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67827
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ FAKE TAXI" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ FAKE TAXI
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67828
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ ADULT Pornstar" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ ADULT Pornstar
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67831
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Brazzers TV HD" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Brazzers TV HD
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67844
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pink Erotic 3" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Pink Erotic 3
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67847
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pink Erotic 6" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Pink Erotic 6
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67849
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Private 1 HD+" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Private 1 HD+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/67880
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ 4K EVILANGEL CUM4K" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ 4K EVILANGEL CUM4K
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71349
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ ANAL4K" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ ANAL4K
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71356
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ ATK Galleria" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ ATK Galleria
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71359
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ ATK Hairy" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ ATK Hairy
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71360
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ babes" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ babes
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71361
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BALKAN EROTIC" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ BALKAN EROTIC
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71362
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BANG U" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ BANG U
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71363
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Bangerz" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Bangerz
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71364
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BARELY LEGAL" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ BARELY LEGAL
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71365
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BLACKED" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ BLACKED
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71369
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Blue Hustler" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Blue Hustler
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71370
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Blue Hustler +1" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="1", +18:❤️ Blue Hustler +1
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71371
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BRAZZERS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ BRAZZERS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71373
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BRAZZERS Espanol" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ BRAZZERS Espanol
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71375
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BRAZZERS Europe" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ BRAZZERS Europe
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71376
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BRAZZERS Europe +1" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="1", +18:❤️ BRAZZERS Europe +1
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71377
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BRAZZERS Europe +2" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="2", +18:❤️ BRAZZERS Europe +2
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71378
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BRAZZERS VOD" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ BRAZZERS VOD
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71379
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BRAZZERS VOD +1" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="1", +18:❤️ BRAZZERS VOD +1
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71380
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BRAZZERS VOD +2" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="2", +18:❤️ BRAZZERS VOD +2
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71381
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BRAZZERS VOD +3" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="3", +18:❤️ BRAZZERS VOD +3
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71382
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ BRAZZERS VOD +4" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="4", +18:❤️ BRAZZERS VOD +4
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71383
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Cento X Cento" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Cento X Cento
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71386
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ CUM 4K" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ CUM 4K
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71391
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ DDF Network" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ DDF Network
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71393
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ DORCEL CLUB" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ DORCEL CLUB
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71395
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ DORCEL TV" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ DORCEL TV
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71396
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ DORCEL XXX" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ DORCEL XXX
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71397
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ erotic" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/0cc88b5e1837a574d9afd4c0b5548666.png", +18:❤️ erotic
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71400
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ erotic 2" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/e3ecf142562fb0dd76722e5a3f3af9f5.png", +18:❤️ erotic 2
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71401
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ erotic 3" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/cb3e377994e967a278f87247ac8d4090.png", +18:❤️ erotic 3
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71402
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ erotic 4" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/73b032b563fc35327ae7fe71903d64b3.png", +18:❤️ erotic 4
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71403
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ erotic 5" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/d784f6c8cc3da5b4f5a70e3fc0754145.png", +18:❤️ erotic 5
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71404
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ erotic 7" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/00837055688d2ce5957bb86611dfcd43.png", +18:❤️ erotic 7
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71406
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ erotic 8" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/60782fcb30648b1df7389d5351a3f0e5.png", +18:❤️ erotic 8
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71407
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Erotic Spice" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Erotic Spice
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71408
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EROX" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/e72bd471b8065c856a5bce7de14fc471.png", +18:❤️ EROX
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71410
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EROXXX" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/3911eb41a72af8e58d98221401182480.png", +18:❤️ EROXXX
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71411
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EVIL ANGEL" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2022-05/69d3c688eed474f0dcfa9157d718e31d.png", +18:❤️ EVIL ANGEL
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71412
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EVIL ANGEL +1" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="1", +18:❤️ EVIL ANGEL +1
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71413
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EVIL ANGEL +2" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="2", +18:❤️ EVIL ANGEL +2
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71414
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EVIL ANGEL +3" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="3", +18:❤️ EVIL ANGEL +3
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71415
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EVIL ANGEL +4" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="4", +18:❤️ EVIL ANGEL +4
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71416
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EVIL ANGEL +49" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ EVIL ANGEL +49
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71417
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EVIL ANGEL +5" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="5", +18:❤️ EVIL ANGEL +5
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71418
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EXPO EROX" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ EXPO EROX
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71419
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EXTASY" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2022-01/8d7833a7af9700e7a01d8b3475f8ed9c.png", +18:❤️ EXTASY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71420
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ EXTREME" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ EXTREME
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71421
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ FAKE TAXI" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ FAKE TAXI
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71423
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ FAKE TAXI 1+" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ FAKE TAXI 1+
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71424
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Fantazzy TV" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2022-06/73a0c0934dab32d4122d9bb858302204.png", +18:❤️ Fantazzy TV
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71426
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ French Lover" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ French Lover
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71427
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ HOT" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2022-05/9393de8ffa8c943b09bec0d2371b7eeb.png", +18:❤️ HOT
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71443
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ HOT Gold" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ HOT Gold
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71445
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ HOT GUYS FUCK" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ HOT GUYS FUCK
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71446
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ HOT Pleasure" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ HOT Pleasure
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71449
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ HUSTLER HD" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-08/1161b5609e8639fa7922c371e25c63c2.png", +18:❤️ HUSTLER HD
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71452
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Hustler TV RED" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2022-01/39f670616f23f6bfb21d6f0aed98de65.png", +18:❤️ Hustler TV RED
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71453
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Japan HDV" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Japan HDV
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71455
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ LEO TV" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ LEO TV
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71458
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Meiden Van Holland" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Meiden Van Holland
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71462
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ MOFOS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ MOFOS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71470
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ MOM TEACH SEX" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ MOM TEACH SEX
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71472
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ MY PERVY FAMILY" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ MY PERVY FAMILY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71473
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ NAUGHTY" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ NAUGHTY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71475
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ NET XX" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ NET XX
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71477
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ NF Busty" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ NF Busty
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71479
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ NUBILE FILMS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ NUBILE FILMS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71482
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ O.La.La" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/89cbca28208f364ef1b47c06315afd71.png", +18:❤️ O.La.La
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71483
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Passion XXX +1" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2022-05/9f800e42bd55fb7fe94baeebcb69f7b0.png" shift="1", +18:❤️ Passion XXX +1
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71486
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PENTHOUSE Quickies" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/44766506a37f3b088907703a0da4b7a8.png", +18:❤️ PENTHOUSE Quickies
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71490
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PENTHOUSE REALITY TV" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PENTHOUSE REALITY TV
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71491
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PERV CITY" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PERV CITY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71492
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Perv Mom" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Perv Mom
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71493
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PINKO CLUB" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PINKO CLUB
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71494
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PLAYBOY" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/d6dd1f934c75182cb6ac60b311ad8183.png", +18:❤️ PLAYBOY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71495
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PLAYBOY Latino" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PLAYBOY Latino
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71496
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PLAYHOUSE" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PLAYHOUSE
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71498
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX 4K BAEB" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX 4K BAEB
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71500
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox A girl Knows" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox A girl Knows
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71507
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox Adult Time" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox Adult Time
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71508
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX ALICE REDLIPS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX ALICE REDLIPS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71509
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX ALL BLACK X" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX ALL BLACK X
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71510
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX ALL GROUP SEX" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX ALL GROUP SEX
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71511
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox Amateur Euro" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox Amateur Euro
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71512
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox Amateurs Bigittygothgg" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox Amateurs Bigittygothgg
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71513
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX BABES" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX BABES
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71515
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX BANGBUS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX BANGBUS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71518
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox Biphoria" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox Biphoria
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71519
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX BLACKED" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX BLACKED
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71520
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX BLOW ME POV" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX BLOW ME POV
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71521
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox Box Of Porn" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox Box Of Porn
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71522
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox Bratty Sis" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox Bratty Sis
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71523
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX BRAZZERS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX BRAZZERS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71524
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox Bums Bus" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox Bums Bus
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71525
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX CASTING COUCH" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX CASTING COUCH
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71526
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX Cherry Grace" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX Cherry Grace
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71527
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX CUM 4K" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX CUM 4K
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71528
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX CUM FIESTA" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX CUM FIESTA
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71529
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX DAGFS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX DAGFS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71530
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX DEEPER" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX DEEPER
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71532
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX DIABOLIC" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX DIABOLIC
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71533
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX DIGITAL PLAYGROUND" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX DIGITAL PLAYGROUND
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71534
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX DORCEL CLUB" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX DORCEL CLUB
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71536
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX DREAMROOM" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX DREAMROOM
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71537
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX EROTIC SPICE" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX EROTIC SPICE
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71538
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX EROTIK VON BENAN" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX EROTIK VON BENAN
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71539
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX EVIL ANGEL" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX EVIL ANGEL
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71540
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX EXTASY" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX EXTASY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71541
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX EXXXTRA SMALL" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX EXXXTRA SMALL
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71542
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX FAKE AGENT" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX FAKE AGENT
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71543
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX FAKE DRIVING SCHOOL" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX FAKE DRIVING SCHOOL
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71544
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX FAKE HOSPITAL" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX FAKE HOSPITAL
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71545
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX FAKE HOSTEL" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX FAKE HOSTEL
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71546
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX FAKE TAXI" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX FAKE TAXI
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71547
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox family Strokes" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox family Strokes
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71548
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX FAMILY SWAP" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX FAMILY SWAP
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71549
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX FAPADOO" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX FAPADOO
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71550
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX FEMALE AGENT" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX FEMALE AGENT
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71551
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX FILTHY POV" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX FILTHY POV
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71552
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX FIRST ANAL QUEST" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX FIRST ANAL QUEST
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71553
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX FIT 18" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX FIT 18
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71554
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX FORGIVE ME FATHER" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX FORGIVE ME FATHER
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71555
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX GOTMYLF" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX GOTMYLF
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71557
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX HENTAINED" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX HENTAINED
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71558
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX HER LIMIT" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX HER LIMIT
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71559
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX HOLED" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX HOLED
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71560
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX HOT MIX" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX HOT MIX
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71561
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX INTERRACIAL PASS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX INTERRACIAL PASS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71564
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox Jays Pov" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox Jays Pov
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71565
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox Jesh By Jesh" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox Jesh By Jesh
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71566
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX JOI BABES" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX JOI BABES
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71567
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX JULES JORDAN" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX JULES JORDAN
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71568
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX KINKY FAMILY" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX KINKY FAMILY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71569
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX KINKY INLAWS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX KINKY INLAWS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71570
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX LEAH MEOW" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX LEAH MEOW
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71571
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX LETHAL HARDCORE" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX LETHAL HARDCORE
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71572
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX LETHAL TEENS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX LETHAL TEENS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71573
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX LETS DOE IT" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX LETS DOE IT
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71575
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX LIFE SELECTOR" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX LIFE SELECTOR
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71576
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX LOVE HER FEET" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX LOVE HER FEET
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71577
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX LOVE HOME PORN" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX LOVE HOME PORN
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71578
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX LUBED" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX LUBED
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71579
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox luxure" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox luxure
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71580
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX Luxury Girl" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX Luxury Girl
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71581
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MAMACITAZ" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MAMACITAZ
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71582
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MASSAGE ROOMS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MASSAGE ROOMS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71583
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MIKANIKA69" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MIKANIKA69
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71584
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MILE HIGH" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MILE HIGH
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71585
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MINI DIVA" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MINI DIVA
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71586
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox Model Media Asia" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox Model Media Asia
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71587
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MOFOS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MOFOS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71588
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MOFOS LAB" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MOFOS LAB
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71589
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MOM TEACH SEX" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MOM TEACH SEX
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71590
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MOM XXX" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MOM XXX
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71591
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MOMMY BLOWS BEST" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MOMMY BLOWS BEST
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71592
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MUST NOT FAP" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MUST NOT FAP
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71593
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MY DIRTY HOBBY" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MY DIRTY HOBBY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71594
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MY FAMILY PIES" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MY FAMILY PIES
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71595
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MY LIFE IN MIAMI" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MY LIFE IN MIAMI
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71596
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MY PERVY FAMILY" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MY PERVY FAMILY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71597
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MY TINY WISH" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MY TINY WISH
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71598
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX MYLF" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX MYLF
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71599
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX NANNY SPY" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX NANNY SPY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71600
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX NAUGHTY" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX NAUGHTY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71601
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX NEW SENSATIONS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX NEW SENSATIONS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71602
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox NF Busty" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox NF Busty
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71603
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX NOFACEGIRL" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX NOFACEGIRL
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71604
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX NOTSOAMATEUR" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX NOTSOAMATEUR
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71605
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX NUBILE FILMS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX NUBILE FILMS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71606
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX NURU MASSAGE" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX NURU MASSAGE
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71607
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX PASSION" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX PASSION
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71608
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX PERV CITY" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX PERV CITY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71609
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX PERV MOM" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX PERV MOM
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71610
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX PERVS ON PATROL" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX PERVS ON PATROL
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71611
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX PORN WORLD" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX PORN WORLD
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71612
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX PORNHOCHIC" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX PORNHOCHIC
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71613
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX POVD" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX POVD
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71614
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX PRENCESS CUM" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX PRENCESS CUM
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71615
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX PRIVATE" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX PRIVATE
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71617
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX PRIVATE SOCIETY" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX PRIVATE SOCIETY
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71618
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX PROPERTY SEX" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX PROPERTY SEX
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71619
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX PUBLIC AGENT" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX PUBLIC AGENT
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71620
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX PURE MATURE" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX PURE MATURE
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71621
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX REAL DIRTY VIDEOS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX REAL DIRTY VIDEOS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71622
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Pornbox Real Mom Exposed" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Pornbox Real Mom Exposed
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71623
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX REALITY JUNKIES" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX REALITY JUNKIES
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71624
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX REALITY KINGS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX REALITY KINGS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71625
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX SLIM" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX SLIM
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71626
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX STARS EXCLUSIVE ABELLA DANGER" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX STARS EXCLUSIVE ABELLA DANGER
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71627
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX STARS EXCLUSIVE AUGUST AMES" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX STARS EXCLUSIVE AUGUST AMES
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71628
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX STARS EXCLUSIVE DANI DANIELS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX STARS EXCLUSIVE DANI DANIELS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71629
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX STARS EXCLUSIVE JANICE GRIFFITH" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX STARS EXCLUSIVE JANICE GRIFFITH
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71630
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX STARS EXCLUSIVE LISA ANN" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX STARS EXCLUSIVE LISA ANN
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71631
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX STARS EXCLUSIVE MIA MALKOVA" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX STARS EXCLUSIVE MIA MALKOVA
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71632
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX STROKIES" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX STROKIES
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71633
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX SUGAR BABES TV" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX SUGAR BABES TV
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71634
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX SWEET SINNER" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX SWEET SINNER
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71635
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX THE WHITE BOXXX" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX THE WHITE BOXXX
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71636
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX THROATED" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX THROATED
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71637
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX TRANS ANGELS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX TRANS ANGELS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71638
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX TRANS EROTICA" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX TRANS EROTICA
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71639
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX TRUE AMATUERS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX TRUE AMATUERS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71640
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX VERIFIED AMATEURS CHESSIE RAE" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX VERIFIED AMATEURS CHESSIE RAE
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71641
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX VERIFIED AMATEURS DIANA DANIELS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX VERIFIED AMATEURS DIANA DANIELS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71642
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX VERIFIED AMATEURS ELLAKAI" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX VERIFIED AMATEURS ELLAKAI
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71643
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX VERIFIED AMATEURS FIAMURR" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX VERIFIED AMATEURS FIAMURR
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71644
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX VERIFIED AMATEURS KRISS KISS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX VERIFIED AMATEURS KRISS KISS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71645
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX VERIFIED AMATEURS MOLLYREDWOLF" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX VERIFIED AMATEURS MOLLYREDWOLF
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71646
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PORNBOX X CHIMERA" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PORNBOX X CHIMERA
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71647
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Private TV" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-05/9150f35348b9d8da4226de2b9ce6c9b2.png", +18:❤️ Private TV
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71664
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ PUBLIC AGENT" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ PUBLIC AGENT
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71665
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Reality Kings TV" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/e1a65ebbea073d02a2e015181b94f4a3.png", +18:❤️ Reality Kings TV
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71666
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Reality Kings TV +" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Reality Kings TV +
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71667
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Reality Kings TV +1" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="1", +18:❤️ Reality Kings TV +1
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71668
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Reality Kings TV +2" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="2", +18:❤️ Reality Kings TV +2
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71669
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Reality Kings TV +3" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png" shift="3", +18:❤️ Reality Kings TV +3
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71670
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ RED LIPS" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ RED LIPS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71671
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ REDLIGHT" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/8bf9a9c45c6293b91fc1f144f40e898e.png", +18:❤️ REDLIGHT
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71673
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ REDLIGHT +" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ REDLIGHT +
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71674
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Secret Circle" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Secret Circle
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71676
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ SeXation" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ SeXation
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71677
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ SEXTREME" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ SEXTREME
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71678
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Sexy HOT" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ Sexy HOT
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71679
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ SuperOne" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ SuperOne
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71682
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ TUK TUK PATROL" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ TUK TUK PATROL
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71687
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ VENUS" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/b6d6e0bb58bd4e3c2b4874c609918a94.png", +18:❤️ VENUS
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71688
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ VIVID Red" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ VIVID Red
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71690
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ VIVID Touch" group="For Adult" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", +18:❤️ VIVID Touch
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71691
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ VIVID TV" group="For Adult" logo="http://s3.i3ns.net/portal/picon/2021-07/57f0394829c11df6816fc99acd551126.png", +18:❤️ VIVID TV
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/71692
+#EXTINF:0 type="favorites" channelId="3769" name="HBO Latino (L)(1080)" group="USA-ENTERTAINMENT" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png", USA-HBO Latino (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177485
+#EXTINF:0 type="favorites" channelId="1214" name="Sony Movies (L)(1080)" group="USA-ENTERTAINMENT" logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sony_pictures_logo.png", USA-Sony Movies (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177497
+#EXTINF:0 type="favorites" channelId="-1" name="Starmax (L)(1080)" group="USA-ENTERTAINMENT" logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/5starMax_2011.svg/revision/latest/scale-to-width-down/300?cb=20201110161556&path-prefix=es", USA-Starmax (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177501
+#EXTINF:0 type="favorites" channelId="-1" name="Starz Encore Español (L)(1080)" group="USA-ENTERTAINMENT" logo="https://logos.xbots.com.mx/starz-encore.png", USA-Starz Encore Español (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177519
+#EXTINF:0 type="favorites" channelId="4547" name="Starz Kids & Family (L)(1080)" group="USA-ENTERTAINMENT" logo="https://logos.xbots.com.mx/starz_family.png", USA-Starz Kids & Family (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177523
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: HBO" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: HBO
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353572
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: HBO 2" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: HBO 2
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353573
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: HBO Family" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: HBO Family
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353574
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: HBO Plus" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: HBO Plus
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353575
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: HBO Signature" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: HBO Signature
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353576
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Turner Classic Movies" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Turner Classic Movies
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353612
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: A&E" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: A&E
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353494
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: AMC" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: AMC
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353495
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: AXN" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: AXN
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353501
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Cinecanal Colombia" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Cinecanal Colombia
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353509
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Cinemax" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Cinemax
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353510
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: CNN en Español" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: CNN en Español
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353511
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Discovery Channel" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Discovery Channel
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353514
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Discovery Theater" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Discovery Theater
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353517
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Disney (Norte)" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Disney (Norte)
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353520
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: E! Entertainment" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: E! Entertainment
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353542
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: FX (Chile)" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: FX (Chile)
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353568
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: History 2" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: History 2
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353577
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: History Channel" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: History Channel
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353578
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: HOLATV" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: HOLATV
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353579
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Lifetime" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Lifetime
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353584
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Mas Chic" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Mas Chic
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353585
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: National Geographic" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: National Geographic
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353587
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Sony" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Sony
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353596
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Sony Movies" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Sony Movies
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353597
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Space (North)" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Space (North)
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353598
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Star Channel (South)" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Star Channel (South)
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353603
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Studio Universal" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Studio Universal
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353604
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: SyFy" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: SyFy
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353605
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: Telemundo Internacional" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: Telemundo Internacional
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353606
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: TNT" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: TNT
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353608
+#EXTINF:0 type="favorites" channelId="-1" name="LATIN: TNT Series" group="LATIN" logo="http://www.muralmaster.org/the_paintings/latin-american-flags,-paintings-by-john-rivera-resto,-muralmaster.png", LATIN: TNT Series
+http://ursaiptv.xyz:8080/dkmett@gmail.com/8999936777/353610
+#EXTINF:0 type="favorites" channelId="-1" name="PornHub PornStars: SHARON LEE" group="ADULT XXX" logo="https://img.mfcimg.com/photos2/106/10681348/726-849-909-806-11678799.png", PornHub PornStars: SHARON LEE
+http://abc123.digital:8080/anthonygentry@mail.com/UESBWvaLAv/549559
+#EXTINF:0 type="favorites" channelId="2686" name="CL: TNT Series" group="CHILE" logo="http://pluspng.com/img-png/chile-png-click-on-the-chile-flag-map-1024.png" country="cl", TNT Series
+http://abc123.digital:8080/anthonygentry@mail.com/UESBWvaLAv/495698
+#EXTINF:0 type="favorites" channelId="187" name="AR: UNIVERSAL" group="ARGENTINA" logo="http://snowbrains.com/wp-content/uploads/2013/07/argentina_flag_map.png" country="ar", UNIVERSAL
+http://abc123.digital:8080/anthonygentry@mail.com/UESBWvaLAv/574353
+#EXTINF:0 type="favorites" channelId="67" name="AR: TLC" group="ARGENTINA" logo="http://snowbrains.com/wp-content/uploads/2013/07/argentina_flag_map.png" country="ar", TLC
+http://abc123.digital:8080/anthonygentry@mail.com/UESBWvaLAv/574341
+#EXTINF:0 type="favorites" channelId="895" name="AR: TCM" group="ARGENTINA" logo="http://snowbrains.com/wp-content/uploads/2013/07/argentina_flag_map.png" country="ar", TCM
+http://abc123.digital:8080/anthonygentry@mail.com/UESBWvaLAv/574335
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 1 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 1 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566098
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 2 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 2 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566099
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 3 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 3 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566100
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 4 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 4 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566101
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 5 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 5 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566102
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 6 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 6 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566103
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 7 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 7 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566104
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 8 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 8 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566105
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 9 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 9 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566106
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 10 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 10 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566107
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 11 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 11 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566108
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 12 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 12 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566109
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 13 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 13 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566110
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 14 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 14 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566111
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 15 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 15 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566112
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 16 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 16 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566113
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 17 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 17 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566114
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 18 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 18 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566115
+#EXTINF:0 type="favorites" channelId="-1" name="AEx:  Premiere 19 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgOLT2p.md.png", AEx:  Premiere 19 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566116
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Adult Time ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgKmRcB.md.png", AEx: Adult Time ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566139
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Anal Only ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/Hg0m6QI.md.png", AEx: Anal Only ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566155
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: babesTV ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HULkydP.md.png", AEx: babesTV ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566141
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: BANG ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HU4ipe9.md.png", AEx: BANG ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566134
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: BangBros 1 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUrb2ne.md.png", AEx: BangBros 1 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566123
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: BangBros 2 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUrb2ne.md.png", AEx: BangBros 2 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566124
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Blacked! ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/Hg3vdue.md.png", AEx: Blacked! ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566132
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: BlackedGirls ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgNxsGj.md.png", AEx: BlackedGirls ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566160
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: BlackedRaw! ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/Hg3vdue.md.png", AEx: BlackedRaw! ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566133
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: BrattySis ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgC8N2a.md.png", AEx: BrattySis ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566150
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Brazzers 1 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUrPXWv.md.png", AEx: Brazzers 1 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566118
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Brazzers 2 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUrPXWv.md.png", AEx: Brazzers 2 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566119
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Brazzers 3 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUrPXWv.md.png", AEx: Brazzers 3 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566120
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Deeper! ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/Hg3MjxS.md.png", AEx: Deeper! ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566129
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: DP 1 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUrgewv.md.png", AEx: DP 1 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566125
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: DP 2 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUrgewv.md.png", AEx: DP 2 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566126
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: EvilAngel ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HU4skhu.md.png", AEx: EvilAngel ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566140
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Fake Hostel ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/Hg1I1oP.md.png", AEx: Fake Hostel ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566148
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Fake Hub ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/Hg1IKcG.md.png", AEx: Fake Hub ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566146
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Fake Taxi ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/Hg1IAKu.md.png", AEx: Fake Taxi ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566147
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: JulesJordan ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgNxUy7.md.png", AEx: JulesJordan ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566137
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Lesbians ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgE3ACv.md.png", AEx: Lesbians ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566158
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Massaged ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgNn6H7.md.png", AEx: Massaged ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566159
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Mofos 1 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUrb6Ux.md.png", AEx: Mofos 1 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566135
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Mofos 2 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUrb6Ux.md.png", AEx: Mofos 2 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566136
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Mr.Lucky Pov ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgNn6H7.md.png", AEx: Mr.Lucky Pov ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566152
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: MYLF ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgCNs6b.md.png", AEx: MYLF ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566138
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Nympho ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgNomLG.md.png", AEx: Nympho ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566156
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: PervMom ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HgNxBLb.md.png", AEx: PervMom ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566145
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: PureTaboo ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HU4ZcmP.md.png", AEx: PureTaboo ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566153
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: RealityKings 1 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HU4F5X4.md.png", AEx: RealityKings 1 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566121
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: RealityKings 2 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HU4F5X4.md.png", AEx: RealityKings 2 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566122
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: SinfulRaw ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HULLbEX.md.png", AEx: SinfulRaw ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566142
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: SisLovesMe ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/Hg0CNFR.md.png", AEx: SisLovesMe ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566149
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Slayed ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUQPqyQ.md.png", AEx: Slayed ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566131
+#EXTINF:0 type="favorites" channelId="-1" name="+18:❤️ Alba XXX-HD8" group="For Adult" logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/adultchannel.png", +18:❤️ Alba XXX-HD8
+http://premium-ks.vip:2082/nlinesreshare/nlines2021since2017Forever353gbhdjeiuh965212474714547m692148658/23693
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: SpankMonster ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HU4ipe9.md.png", AEx: SpankMonster ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566143
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Swallowed Blowjob ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/Hg0mMkx.md.png", AEx: Swallowed Blowjob ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566157
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: TeamSkeet ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/Hg0Buqv.md.png", AEx: TeamSkeet ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566144
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: TrueAnal ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/Hg0Icp2.md.png", AEx: TrueAnal ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566154
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Tushy ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUQiAW7.md.png", AEx: Tushy ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566130
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Vixen 1 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUQrnjt.md.png", AEx: Vixen 1 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566127
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Vixen 2 ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HUQrnjt.md.png", AEx: Vixen 2 ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566128
+#EXTINF:0 type="favorites" channelId="-1" name="AEx: Wicked ᴴᴰ" group="ADULT EXCLUSIVE" logo="https://iili.io/HU4sy2p.md.png", AEx: Wicked ᴴᴰ
+http://mix-dns.com:8080/manny@hcmaintenance.com/zYRimMKOin/566151
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 CINEMA" logo="https://1.bp.blogspot.com/-GFfnBWpa0mE/X1lHMzBkP3I/AAAAAAAABOk/7tX6TLJ0YjMLlf_t5PRdSGAPs8bPnUd6gCLcBGAsYHQ/w200-h200/batman.png", 24/7 Batman (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/60048
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 INFANTIL" logo="https://1.bp.blogspot.com/-nrlqsphWNEE/XrXmYcgX-uI/AAAAAAAAB6U/r4C5gNOCSMgRp2EfTxsA_w6Jdy8oj0ODACLcBGAsYHQ/s200/He-Man%2BAnd%2BMaster%2Bof%2BUniverse.png", 24/7 He-Man y los amos del universo (e)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37771
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 SERIES" logo="https://1.bp.blogspot.com/-DMCrrOhXRhQ/Xj4KMCshfQI/AAAAAAAABJI/1rfzC9vtSLAPSJvini8sC8VujVngCE3bwCLcBGAsYHQ/s200/Game%2Bof%2BThrones.png", 24/7 Juego de Tronos (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37751
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 SERIES 4k" logo="https://1.bp.blogspot.com/-C8lxg5ulyBU/X4zXGFrpAAI/AAAAAAAAB2o/WMTKDEPlM4YWw6aOwmy_4NSc2HYgqiF6QCLcBGAsYHQ/w200-h200/Juego%2BDe%2Btronos4k.png" shift="4", 24/7 Juego de tronos (PM)(4k)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63763
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 INFANTIL" logo="https://1.bp.blogspot.com/-4BoAXsTQu3c/XuxOC7I8fxI/AAAAAAAAAsw/vM8WVGFKVucH9OPecuk7FeslQk2PlO5QQCK4BGAsYHg/s640/panterarosa.png", 24/7 La Pantera Rosa (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/38447
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 SERIES" logo="https://1.bp.blogspot.com/-da9CSwbo3wg/XucNUuunTWI/AAAAAAAACGQ/F-yL2JzQaI0Jp-tAj9akBeYCv0jVBaOXgCLcBGAsYHQ/s200/Los%2Blocos%2Baddams.png", 24/7 Los Locos Addams  (e)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37786
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 INFANTIL" logo="https://1.bp.blogspot.com/-vCqAmYP0dgo/XrNO_m6g5kI/AAAAAAAAB40/s3NWfLDzXrAcEuQpMS1By9yWKJslPJPrgCLcBGAsYHQ/s200/SHE-RA.png", 24/7 SHE-RA La princesa del poder (e)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37849
+#EXTINF:0 type="favorites" channelId="-1" group="24/7 SERIES" logo="https://1.bp.blogspot.com/-uGpM0WEnrxI/Xr2pZLvnwoI/AAAAAAAAB8o/SiwcoZWczBsuiXpCdngMJSni-ooUgcHUQCLcBGAsYHQ/s200/xena.png", 24/7 Xena warrior princess (e)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37781
