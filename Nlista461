@@ -1,0 +1,383 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="TV PREMIUM",TECNOTV 5
+http://clubtv.link/FEB190225/phpcode/0smartv.php?c=712&token=PlaylistTecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
+http://clubtv.link/FEB190225/phpcode/0smartv.php?c=712&token=PlaylistTecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m9ieeUa.png" group-title="INFO",Redes Sociales
+http://clubtv.link/redes.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp
+http://clubtv.link/FEB190225/phpcode/distro.php?c=wapptv
+#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
+http://clubtv.link/FEB190225/phpcode/distro.php?c=el-conflicto-tv
+#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
+http://clubtv.link/FEB190225/phpcode/distro.php?c=glewedtv-spanish
+#EXTINF:-1 tvg-logo="https://imgur.com/h5FABgC.png" group-title="DISTRO TV",La Bocina Latina
+http://clubtv.link/FEB190225/phpcode/distro.php?c=la-bocina-latina
+#EXTINF:-1 tvg-logo="https://imgur.com/WXphVgs.png" group-title="DISTRO TV",Banda
+http://clubtv.link/FEB190225/phpcode/distro.php?c=freetv-banda
+#EXTINF:-1 tvg-logo="https://imgur.com/yc3nhlP.png" group-title="DISTRO TV",trace Latina
+http://clubtv.link/FEB190225/phpcode/distro.php?c=trace-latina
+#EXTINF:-1 tvg-logo="https://imgur.com/HTNpaS8.png" group-title="DISTRO TV",FreeTV Hits
+http://clubtv.link/FEB190225/phpcode/distro.php?c=freetv-hits
+#EXTINF:-1 tvg-logo="https://imgur.com/3GDuhMn.png" group-title="DISTRO TV",XFT TV
+http://clubtv.link/FEB190225/phpcode/distro.php?c=xfc-tv
+#EXTINF:-1 tvg-logo="https://imgur.com/WSvu9xq.png" group-title="DISTRO TV",Familia
+http://clubtv.link/FEB190225/phpcode/distro.php?c=freetv-familia
+#EXTINF:-1 tvg-logo="https://imgur.com/E8RXQRD.png" group-title="DISTRO TV",Terror
+http://clubtv.link/FEB190225/phpcode/distro.php?c=freetv-terror
+#EXTINF:-1 tvg-logo="https://imgur.com/CBFAltb.png" group-title="DISTRO TV",Drama
+http://clubtv.link/FEB190225/phpcode/distro.php?c=freetv-drama-latam
+#EXTINF:-1 tvg-logo="https://imgur.com/qbMr4PF.png" group-title="DISTRO TV",Accion
+http://clubtv.link/FEB190225/phpcode/distro.php?c=freetv-accion-latam
+#EXTINF:-1 tvg-logo="https://imgur.com/jnHDmSw.png" group-title="DISTRO TV",Estelar
+http://clubtv.link/FEB190225/phpcode/distro.php?c=freetv-estelar-latam
+#EXTINF:-1 tvg-logo="https://imgur.com/DRRHYTq.png" group-title="DISTRO TV",Zaz
+http://clubtv.link/FEB190225/phpcode/distro.php?c=zaz
+#EXTINF:-1 tvg-logo="https://imgur.com/3HNdbe7.png" group-title="DISTRO TV",TV kids
+http://clubtv.link/FEB190225/phpcode/distro.php?c=kids-tv-espano
+#EXTINF:-1 tvg-logo="https://imgur.com/GsXkH1B.png" group-title="DISTRO TV",Pitufo TV
+http://clubtv.link/FEB190225/phpcode/distro.php?c=pitufo-tv
+
+
+
+
+
+#EXTINF:-1 group-title="TV PREMIUM", A&E
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04y&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", A&E HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02g&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", A&E-EMM Card1
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05w&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", AMC
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a051&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", AMC HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02h&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", ATV
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05g&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", AXN
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01y&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", AXN HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04m&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", AXN-EMM Card2
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05x&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", AZ click HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02n&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Animal Planet
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a033&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Animal Planet HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02d&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Azcorazon
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01p&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Azmundo
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02w&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", BBC World
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a022&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Baby First
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00p&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Baby TV
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a003&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", CINECANAL HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03d&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", CNN Internacional
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a054&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", CNNE
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a021&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Canal 11 
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00o&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Canal 11 - GUA
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=1ca1&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Canal 13-GUA-e1
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00m&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Canal 3 - GUA
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02u&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Canal 7 - GUA
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a060&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Canal 7 - GUA
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02t&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Canal Antigua - GUA
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02r&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Canal Azteca - GUA
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02s&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Canal Claro
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01f&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Cartoon Network
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01h&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Cartoonito
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01j&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Cine Latino
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a049&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", CineCanal
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04c&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", CineMax
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04a&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Claro Cinema
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a039&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Claro Musica
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a010&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Claro Sports 1 HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05a&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Claro Sports SD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00w&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Comedy Central HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03m&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Concert Channel
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a045&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Corazon de Jesus TV
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05d&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", DHE
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00d&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", DHE HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02m&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", DISC THEATHER HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03j&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Channel
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a032&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Home & Health
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a040&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Discovery ID
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a041&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Kids
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03v&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Science
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a007&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Discovery Turbo
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03z&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Disney
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03x&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Disney JR
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01k&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", E!
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02z&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", E! Entertairment HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02e&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", ESPN
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a036&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", ESPN  4 HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05p&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 2
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a037&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 2 HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05l&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 3
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00x&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 3 HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05m&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 6
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05o&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", ESPN 6 HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05n&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", ESPN HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05k&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", EURO Channel
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00s&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", EWTN
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a025&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", El Gourmet
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00u&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Europa HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02k&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Exa TV
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a038&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", FX
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00q&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", FX HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02j&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Film & Arts
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00c&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Film & arts HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02f&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Fox Sport 3
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01v&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", France24
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a023&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Golden
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a013&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Golf Channel HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02p&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Guatevision - GUA
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01g&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", H2
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00t&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", HBO Family HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00k&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", HBO HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00h&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", HBO Plus
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04f&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", HBO Plus HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00j&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", HBO XTREME
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00l&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", HBO2 HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00i&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", HOLA! TV HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03l&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", HTV
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a012&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", History Channel
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a034&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", History HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a026&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Hola!TV
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a008&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Home & Health HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03k&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Home Garden Latino
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a006&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", ISAT
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a047&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", LIFE TIME
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01u&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", La voz de Maria
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a042&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Latin America Sport
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00z&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", MTV
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a044&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", MTV 00s
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a011&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", MTV 00s HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03o&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", MTV 80s
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01x&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", MTV HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a028&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", MTV Hits
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01w&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", MTV SIM HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03n&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Mas Chic
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a005&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Multicinema
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05q&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Multicinema
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a009&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Multipremier
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a048&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", National Geographic
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01t&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Nicarao TV
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01l&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Nick Jr
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01i&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Nick SIM HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03g&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Nickelodeon
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03w&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Paramount
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00e&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Pasiones HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04t&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Playboy
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a052&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Pregon Infirmativo 
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05j&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", RCN - GUA
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05b&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", RCN Novelas
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00r&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", RHEMA TV
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04k&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Radio Renacer TV
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05e&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", SEMILLITAS
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01m&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", SONY
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02x&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", SONY HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03c&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", SPACE
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01q&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", SPACE HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04n&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03y&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03a&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Sony Movies HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02l&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Star TVE HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02o&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Studio Universal
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04b&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Studio Universal HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02b&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Sun Channel
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00v&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", SyFy
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a031&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", TBN Enlace
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a024&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", TBS
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01s&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", TCM
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a014&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", TD+2 HD CR
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01d&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", TD+HD CR
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01c&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", TLC
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a035&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", TNT
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01z&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", TNT HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03i&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", TNT Series
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01r&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Teen Nick HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02a&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Telemundo
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01o&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Telemundo HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02i&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Televida RD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04r&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Tigo Sports GT
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05c&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Tooncast
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02v&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Tru TV
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a01n&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL COMEDY
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a017&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL COMEDY HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03t&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a016&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL CRIME HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03s&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04i&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03p&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE O
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04j&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL PREMIERE O HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03q&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL REALITY
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a015&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", UNIVERSAL REALITY HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03r&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Universal
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a046&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Univision HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a04u&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", WARNER HD
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a03b&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", Warner
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a02y&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", ZooMoo
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a004&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", canal 3 Gt
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a00n&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", la liga
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05i&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", tigo
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a062&token=PlaylistTecnotv
+#EXTINF:-1 group-title="TV PREMIUM", tv agro
+http://clubtv.link/FEB190225/phpcode/lista5.php?c=a05f&token=PlaylistTecnotv
