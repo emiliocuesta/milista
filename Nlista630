@@ -1,0 +1,1001 @@
+#EXTM3U
+#EXTINF:0 type="favorites" channelId="-1" group="Classic" logo="https://i.imgur.com/viJBL6f.png", Retrox TV (576p) [Geo-blocked]
+https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Music" logo="https://i.imgur.com/1nHxdkR.png", Infinita TV (1080p)
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/5Rc8mA5.png", TeleMas (480p) [Geo-blocked]
+https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="LATINO" logo="https://i.imgur.com/SXTD6Iu.jpg", FMTV HD
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="LATINO" logo="http://www.retroplaytv.club/img/logo-radio.png", Retro Play TV
+https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="General" logo="https://i.imgur.com/DEUR7mB.png", Cascara TV (720p)
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Animation;Kids" logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg", Tiguerito TV (720p) [Not 24/7]
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="General" logo="https://i.imgur.com/mdfiWG9.png", Canal 3 Impresionante (480p)
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="General" logo="https://i.imgur.com/HXRpRlK.png", Misiones Cuatro
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Movies;News" logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png", Cosmos Tv (720p)
+https://canaletaplus.com:3922/hybrid/play.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="General" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png", Bayres TV (720p)
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Retro Plus TV Señal 3 ✪ | CL" group="▶️ CHILE DIRECTO" logo="http://flx.lat:8080/images/cfb759b5d7e79c562ff2fe82d87052a2.png", Retro Plus TV Señal 3 ✪ | CL
+http://flx.lat:8080//live/DanielLoaiza7/T8CSE9MY9/253108.ts
+#EXTINF:0 type="favorites" channelId="-1" name="PE | PANAMERICANA SD D" group="▶️ PERU" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSTnGyri4Qkk07RZ7PsVaykDEAvtrxkDhsQQ&usqp=CAU", PE | PANAMERICANA SD D
+http://flx.lat:8080//live/DanielLoaiza7/T8CSE9MY9/142711.ts
+#EXTINF:0 type="favorites" channelId="-1" name="PE | TVPE HD" group="▶️ PERU" logo="https://static.wikia.nocookie.net/logopedia/images/1/18/TV_Per%C3%BA_2008.svg/revision/latest/smart/width/386/height/259?cb=20220906161424&path-prefix=es", PE | TVPE HD
+http://flx.lat:8080//live/DanielLoaiza7/T8CSE9MY9/142713.ts
+#EXTINF:0 type="favorites" channelId="-1" name="PE | AMERICA TV HD" group="▶️ PERU" logo="https://static.wikia.nocookie.net/doblaje/images/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png/revision/latest/scale-to-width-down/592?cb=201609220", PE | AMERICA TV HD
+http://flx.lat:8080//live/DanielLoaiza7/T8CSE9MY9/142699.ts
+#EXTINF:0 type="favorites" channelId="-1" group="General" logo="https://imgur.com/ejKctXc.png", Telever (1080p) [Not 24/7]
+https://soportedvb.click:3413/live/televerlive.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Undefined" logo="https://i.imgur.com/ZDenyAE.png", TeleCinco Trelew (240p)
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/bZWoDTg.png", Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://canalesdominicanos.live/template/images/radios/small/mega-cine-tv.png", Mega Cine TV (720p)
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/hCA5BRr.png", Cine Clásico
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
+#EXTINF:0 type="favorites" channelId="-1" name="Showtime HD West", Showtime HD West
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/116.ts
+#EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/I5XxyLI.png", Cine Terror
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/UC8WrEN.jpg", Maxivisión TV (720p)
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/KYtJp8F.png", Super Cable
+http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/z5NwizH.png", Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Starz Encore Action
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/122.ts
+#EXTINF:0 type="favorites" channelId="-1", Starz Encore Black
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/123.ts
+#EXTINF:0 type="favorites" channelId="-1" group="General" logo="https://i.imgur.com/TerY4iM.png", Bum Televisión (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:0 type="favorites" channelId="1404" group="Undefined" logo="https://i.imgur.com/S0JrfIl.png", Visión TV (720p)
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Undefined" logo="https://i.imgur.com/HQGBqGU.png", Unsion TV (1080p)
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2422" group="Entertainment" logo="https://i.imgur.com/a2YX1oj.jpg", TVS (540p) [Not 24/7]
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 34 (Chile)" logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png", Teleuno | CR
+https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 34 (Chile)" logo="https://i.paste.pics/d4c6f55f55efbda0faf59a7835b568b7.png", Caracola TV | CL
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ENTRETENIMIENTO" logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png", Series Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="favorites" channelId="-1" group="General" logo="https://imgur.com/0fWQS53.png", Nueva Vision 14 [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Undefined", Latino Classic TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="PERU" logo="https://i0.wp.com/ondadigitaltv.com/wp-content/uploads/2020/07/LOGO-ODTV-2.png?resize=300%2C269&ssl=1", Onda Digital 2
+https://v4.tustreaming.cl/odtv2/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Undefined", Grjngo Spain (720p)
+https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Undefined", Rakuten TV Sci-Fi Spain
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+#EXTINF:0 type="favorites" channelId="188", SONY
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278405.m3u8
+#EXTINF:0 type="favorites" channelId="1330", HBO
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278488.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | UNIVERSAL PREMIERE SUR FHD" group="CINE PREMIUM" logo="https://www.universalplus.com/assets/logo_premiere_hero.png", CINE | UNIVERSAL PREMIERE SUR FHD
+http://imaxplay.net:8880//live/ALI202366/PYWPF/198730.ts
+#EXTINF:0 type="favorites" channelId="-1" name="CINE | UNIVERSAL REALITY" group="CINE PREMIUM" logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Universal_Reality.png/revision/latest/scale-to-width-down/250?cb=20211201172008", CINE | UNIVERSAL REALITY
+http://imaxplay.net:8880//live/ALI202366/PYWPF/439782.ts
+#EXTINF:0 type="favorites" channelId="188" group="Undefined" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png", Sony Channel
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="General" logo="https://i.imgur.com/lNpgFAU.png", Vallevision Canal 10 (720p) [Not 24/7]
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CUYO" logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj", COSMOS TV SAN JUAN
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/XJQhy9wh/CINE-TERROR.png", CINE TERROR 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31d6ed5a-e18e-40e7-86c3-072f2b86df3c&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1", Run Time Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:0 type="favorites" channelId="-1" name="Aguacate TV (1080p)" group="▶️ + Entertainment International" logo="http://flx.lat:8080/images/1c247554e232b0cd851657b836874d69.jpg", Aguacate TV (1080p)
+http://flx.lat:8080//live/LuisCruz6/389HREVXW/147760.ts
+#EXTINF:0 type="favorites" channelId="-1" name="P | UNIVERSAL CINEMA HD" group="⭐️⭐️ CINE PREMIUM HD ⭐️⭐️" logo="http://daleplay.club:8080/images/2f9119fd3e55f3968f4c683b2e9916d9.png", P | UNIVERSAL CINEMA HD
+http://flx.lat:8080//live/DanielLoaiza7/T8CSE9MY9/120105.ts
+#EXTINF:0 type="favorites" channelId="1330", HBO
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/105.ts
+#EXTINF:0 type="favorites" channelId="895", TCM
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278406.m3u8
+#EXTINF:0 type="favorites" channelId="292" name="MULTIPREMIER" group="CANALES DE ENTRETENIMIETO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png", MULTIPREMIER
+http://playtv44.com:8080/hsandoval758/123456/369799
+#EXTINF:0 type="favorites" channelId="-1" name="DISCOVERY H&H" group="CANALES DOCUMENTALES Y CULTURALES" logo="https://i.postimg.cc/nh01L9ff/tlc-2.png", DISCOVERY H&H
+http://playtv44.com:8080/hsandoval758/123456/52672
+#EXTINF:0 type="favorites" channelId="-1" name="DISCOVER TLC" group="CANALES DOCUMENTALES Y CULTURALES" logo="https://i.postimg.cc/FHSygk0S/tlc.png", DISCOVER TLC
+http://playtv44.com:8080/hsandoval758/123456/52667
+#EXTINF:0 type="favorites" channelId="-1" name="Universal Cinema" group="✅ CANALES CINE 5 MB" logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png", Universal Cinema
+http://playtv44.com:8080/hsandoval758/123456/369751
+#EXTINF:0 type="favorites" channelId="-1" group="General" logo="https://www.vivalivetv.com/public/files/shows/0/1/3708-294x165-FFFFFF.jpg", GM7 Digital [Not 24/7]
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://admin.worldlivetv.stream/upload/files/thumbnail/vuth_1676133370_91639_20154.png", Revry LatinX
+https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1", UNIVERSAL PREMIER
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278476.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="24/7 | BAYWATCH RETRO" group="24/7" logo="https://toppng.com/uploads/preview/baywatch-the-movie-is-in-the-works-starring-the-rock-baywatch-logo-11562998371txxgrib3re.png", 24/7 | BAYWATCH RETRO
+http://imaxplay.net:8880//live/ALI202366/PYWPF/107877.ts
+#EXTINF:0 type="favorites" channelId="-1" group="Classic" logo="https://i.imgur.com/jdnHci0.png", TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/z9JkxcM.png", Nitida TV
+https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ARGENTINA" logo="https://i.postimg.cc/25fDFDNy/neotv.png", NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/jP19sGt.png", Pelis y Popcorn
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
+#EXTINF:0 type="favorites" channelId="-1" group="General" logo="https://i.imgur.com/oxycMeA.png", CR Televisión Moyobamba (720p) [Not 24/7]
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/CxmvXnYF/SERIES-RETRO.png", SERIES RETRO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae21-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb5479a-1735-4d57-9b8e-16487d9760c3&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="4592", HBO Zone HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/106.ts
+#EXTINF:0 type="favorites" channelId="-1", HBO HD Weast
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/104.ts
+#EXTINF:0 type="favorites" channelId="-1", Starz Weast
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.ts
+#EXTINF:0 type="favorites" channelId="-1", Starz Encore Wester
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/124.ts
+#EXTINF:0 type="favorites" channelId="3227", Starz Encore
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.ts
+#EXTINF:0 type="favorites" channelId="-1", Starz East
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/120.ts
+#EXTINF:0 type="favorites" channelId="4550" name="LA: STARZ CINEMA" group="Latin" logo="https://asiagrandiptv.us/logo/starzcinema.png" country="la", STARZ CINEMA
+http://lunar.pm:8080/bonmax/blackjack816/115159
+#EXTINF:0 type="favorites" channelId="-1" group="Pluto TV" logo="https://i.imgur.com/F1Jhfsb.png", Series Retro| HD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=db5bac6c-046f-43a7-9933-a5a040378960&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="4550" name="LA: STARZ CINEMA" group="Latin" logo="https://asiagrandiptv.us/logo/starzcinema.png" country="la", STARZ CINEMA
+http://lunar.pm:8080/shacara/7274249488/115159
+#EXTINF:0 type="favorites" channelId="-1" group="COSTA RICA" logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-12/stv-sarapiquitv-costa-rica.png.webp?itok=GS7udggT", STV El Canal Familiar
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="PE: LATINA HD" group="PERU" country="pe", LATINA HD
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/110640
+#EXTINF:0 type="favorites" channelId="-1" name="PE: PANAMERICANA HD" group="PERU" country="pe", PANAMERICANA HD
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/110633
+#EXTINF:0 type="favorites" channelId="-1" name="LA: SHOWTIME EAST" group="Latin" logo="https://asiagrandiptv.us/logo//SHOWTIMEEASTHD1080P.png" country="la", SHOWTIME EAST
+http://lunar.pm:8080/shacara/7274249488/115145
+#EXTINF:0 type="favorites" channelId="-1" name="Mega Cine TV" logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV | DO
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" group="COSTA RICA" logo="https://i.postimg.cc/63VSjvyk/teleuno.png", NICOYA TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="COL: WIN SPORTS PLUS HD (EXCLUSIVO)" group="Colombia" country="co", WIN SPORTS PLUS HD (EXCLUSIVO)
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/78697
+#EXTINF:0 type="favorites" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/7YB94Hf.png", AVIVAMIENTO TV
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3226" name="LA: STARZ" group="Latin" logo="https://asiagrandiptv.us/logo/starz.png" country="la", STARZ
+http://lunar.pm:8080/bonmax/blackjack816/115158
+#EXTINF:0 type="favorites" channelId="4552" name="LA: ACTION MAX" group="Latin" logo="https://asiagrandiptv.us/logo/actionmax.png" country="la", ACTION MAX
+http://lunar.pm:8080/bonmax/blackjack816/115046
+#EXTINF:0 type="favorites" channelId="935" name="ARG: HBO 2" group="Argentina" logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" country="ar", HBO 2
+http://lunar.pm:8080/bonmax/blackjack816/122360
+#EXTINF:0 type="favorites" channelId="2583" name="ARG: HBO SIGNATURE" group="Argentina" logo="http://fanc.tmsimg.com/assets/s80120_ll_h3_aa.png" country="ar", HBO SIGNATURE
+http://lunar.pm:8080/bonmax/blackjack816/122363
+#EXTINF:0 type="favorites" channelId="1200" name="ARG: LIFETIME" group="Argentina" logo="http://fanc.tmsimg.com/assets/s89197_h3_aa.png" country="ar", LIFETIME
+http://lunar.pm:8080/bonmax/blackjack816/122367
+#EXTINF:0 type="favorites" channelId="361" name="ARG: MAX UP" group="Argentina" logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OG7PCzYQZoBctnpubHNJ_ywRuF5zwB0bwjlh9b_zV8pEA.png" country="ar", MAX UP
+http://lunar.pm:8080/bonmax/blackjack816/122370
+#EXTINF:0 type="favorites" channelId="177" name="ARG: STAR CHANNEL" group="Argentina" country="ar", STAR CHANNEL
+http://lunar.pm:8080/bonmax/blackjack816/122383
+#EXTINF:0 type="favorites" channelId="3186" group="CINE Y SERIES" logo="https://i.postimg.cc/cLt4CXxJ/SCIFI.png", SCI-FI
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="3186" group="CINE Y SERIES" logo="https://i.postimg.cc/cLt4CXxJ/SCIFI.png", SCI-FI (España)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="Pluto TV" logo="https://i.imgur.com/lfVFANx.png", Cine Terror| HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=00bc8ba0-f68d-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="Pluto TV" logo="https://i.imgur.com/m9GKSyx.png", Series | HD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=2f9733fd-2d6f-4060-bfdb-229bce68a159&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES 2" logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png", THE WALKING DEAD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="favorites" channelId="-1" group="SPAIN" logo="https://yt3.ggpht.com/a/AGF-l7-V99DQEMCD9jnhaeWOzSw_8hfBQ5IDa22H0g=s900-mo-c-c0xffffffff-rj-k-no", TV Ferrol
+https://directo.tvferrol.es/tv.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Cosmos TV" logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png", Cosmos TV | AR
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="CO: Win Sports + FHD" group="Colombia" country="co", Win Sports + FHD
+http://fortv.cc:8080/0n8u9R/169324/78717
+#EXTINF:0 type="favorites" channelId="-1" group="DEPORTES" logo="https://i.imgur.com/ftKWvUb.png", Bein Sports Xtra N HD
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MUSICA" logo="https://i.imgur.com/jTgQZmV.png", The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="RELIGION" logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg", SOLIDARIA TV INTERNACIONAL
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700003T8_20220914T041131.png", Bjgtjme
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 type="favorites" channelId="-1" group="TUCUMAN" logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png", CANAL 12 TUCUMAN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+#EXTINF:0 type="favorites" channelId="-1" group="COSTA RICA" logo="https://i.postimg.cc/fb3yh5wX/tvsur9cr.png", TV SUR CANAL 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="AMBA" logo="https://img.onesignal.com/permanent/2abdeea6-0a9d-4083-913c-277bf221b79e", SICARDI TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Antares TV" logo="https://lh3.googleusercontent.com/-GXO0Icql4EQ/XoKCsLIBYYI/AAAAAAAAxU8/orolaAsdhtcwmmCf7538H7VopRGVo2wbwCK8BGAsYHg/s0/2020-03-30.png", Antares TV | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1", TV Capital
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="COSTA RICA" logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080", Tele Uno
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="PERU" logo="https://pbs.twimg.com/profile_images/2306398664/anatares_tv_radio.jpg", ANTARES TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="PERU" logo="https://i2.paste.pics/ff4a1765643e8c760881b4ca5ed2da18.png", CR TV
+https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" group="REP DOMINICANA" logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png", Ready TV Canal 6
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="REP DOMINICANA" logo="https://i.imgur.com/rv3jShy.jpg", Romana TV Canal 42
+https://movil.romanatv42.com/cvmhbyrcat/cvmhbyrcat/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png", Runtime Peliculas
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png", Runtime Accion
+https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png", Runtime Comedia
+https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png", Runtime Crimen
+https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png", Runtime Romance
+https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png", Runtime Familia
+https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2", MY TIME MOVIES 1
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE" logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png", Runtime Terror
+https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Canais | Pluto TV Espanha" logo="http://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png", Pluto TV Sci-Fi
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a7faf2-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2584e551-0c4f-40ea-9e64-a79449401d6c&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/kgGwbRzG/TWD.png", THE WALKING DEAD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" name="Caracola TV" logo="https://www.m3u.cl/logo/1020_Caracola_TV.png", Caracola TV * | CL
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" group="PAMPEANA" logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg", SOLIDARIA TV ARGENTINA
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Metro TV Canal 12 Tucuman  | AR
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" group="solo deportes", LUCHA LIBRE AAA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="NOVELAS Y TALKSHOWS" logo="https://i.postimg.cc/RhmStg9H/run_time.png", ESPAÑOL RUN TIME
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=46fe0760-cd6b-11eb-89a0-1911255476a4&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc63e9bf-5ac9-45b2-9ed9-bf287900f7a8&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" name="Canal 2000 La Solana" group="Castilla-La Mancha" logo="https://pbs.twimg.com/profile_images/1703771489/logo1p_200x200.jpg", Canal 2000 La Solana
+http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+#EXTINF:0 type="favorites" channelId="2163" group="CINE Y SERIES" logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png", CINE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="DEPORTES" logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png", WORLD POKER TOUR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
+#EXTINF:0 type="favorites" channelId="-1" group="SERIES" logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320", Auténtica Televisión
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png", Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png", Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png", Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:0 type="favorites" channelId="3186" group="CINE Y SERIES 2" logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png", SCI-FI
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" name="MTV Latino" group="USA PLUTO" logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png", MTV Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="favorites" channelId="-1" group="24/7" logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png", MTV ORIGINALS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4495152-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c371865e-69ac-45d8-80b7-62e5b4982b87&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="DEPORTES Y COMPETENCIAS" logo="https://i.postimg.cc/MGksqpyf/COMPETENCIAS.png", PLUTO TV COMPETENCIAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c3600a0-cf5d-4708-b2b3-adcada18c483&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="LISTA 5" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU", SONY NOVELAS
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Pluto TV" logo="https://i.imgur.com/NEywAm3.png", Reality| HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1b593072-f695-11ea-b314-0242ac110002&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/XvV9jbHr/cine_clasico.png", CINE CLÁSICO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6026fca0-c970-11eb-8484-c3c002d1fa3f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d0e47f8-f10a-4450-8221-6f3976c9f746&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/XJQhy9wh/CINE-TERROR.png", CINE TERROR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00070-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c808f376-3c51-4ce4-8dc1-f9b1e9c494cc&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="1190" group="ENTRETENIMIENTO" logo="http://x.playerlatino.live/comedycentral.png", Comedy Central
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="2146" group="MEXICO" logo="https://i2.paste.pics/650655e93128d58811d51cd25e5453d5.png", Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080", TELE UNO HD
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="NOTICIAS INTERNACIONAL" logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg", DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="PERU" logo="https://yt3.ggpht.com/ytc/AKedOLQRrS2R_HFcGI0RVqhw9IN02y3s05eq4oq10yZ5UQ=s88-c-k-c0x00ffffff-no-rj", Onda Digital Noticias
+https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Emocion TV" logo="https://i2.paste.pics/2337c738e62db5b6e2b573580e2d9e82.png", Emocion TV | CL
+https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="Canal 21 Chillán" logo="https://lh3.googleusercontent.com/-G3a4EWWVHDM/YLwWdi2a_KI/AAAAAAABCt8/9O8xWNi1f_UbcvwqCXhAHEvJhcrgSF2lwCJEEGAsYHg/s512/2021-06-05.jpg", Canal 21 Chillán | CL
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="Televida HD" logo="https://i2.paste.pics/a33717fb4cfdc7ac0983ec9b03947e7e.png", Televida HD | CL
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="Promar TV" logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png", Promar TV | VE
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="Cali TV" logo="https://lh3.googleusercontent.com/-Qtn4FPkMhMI/XzggR9q6ebI/AAAAAAAA4XU/egrRXsJN-hYw04hboMtcwXBDGhCufLQjACK8BGAsYHg/s0/2020-08-15.jpg", Cali TV | CO
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="4649" name="Canal Institucional" logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png", Canal Institucional | CO
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="2488" name="Señal Colombia" logo="https://lh3.googleusercontent.com/-53_HtUb3jnc/XzgiULPdOxI/AAAAAAAA4Yg/u_kS47iatBgohPcQ3uOpO8Rz7r5RMBARwCK8BGAsYHg/s0/2020-08-15.png", Señal Colombia | CO
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="2533" name="RT Español" logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png", RT Español | RU
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="Canal Visión Dorada" logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Visión Dorada | CO
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" name="Puranoticia" logo="https://i2.paste.pics/3dcc431073eca367aef2011ebdd26387.png", Puranoticia | CL
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" group="DEPORTES Y COMPETENCIAS" logo="https://i.postimg.cc/Wpm5jV3h/AAA.png", LUCHA LIBRE AAA 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/KzDYFjZr/ESTRELLAS-DE-ACCI-N.png", ESTRELLAS DE ACCIÓN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="NOTICIAS INTERNACIONAL" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU", RT  25.5
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="NOTICIAS INTERNACIONAL" logo="https://pbs.twimg.com/profile_images/1566826453190205442/EWGUZmdC_400x400.jpg", 24 HORAS ESPAÑA
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="SAN JUAN" logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png", CANAL 34 SAN JUAN
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="4649" group="COLOMBIA" logo="https://www.m3u.cl/logo/120_Canal_Institucional.png", CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="2488" group="COLOMBIA" logo="https://lh3.googleusercontent.com/-53_HtUb3jnc/XzgiULPdOxI/AAAAAAAA4Yg/u_kS47iatBgohPcQ3uOpO8Rz7r5RMBARwCK8BGAsYHg/s0/2020-08-15.png", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="VENEZUELA" logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png", Promar TV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MEXICO" logo="https://i.imgur.com/YDp8MlN.png", Canal 44 Chihuahua
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="3366" group="COSTA RICA" logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg", Canal 8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0 type="favorites" channelId="2689" group="MEXICO" logo="https://i.ibb.co/SsNPsnR/adn-40-m.png", ADN40
+http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MEXICO" logo="https://i.imgur.com/vakdxny.jpg", CANAL 10 CANCUN
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png", THRILLERS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="4778" group="Undefined" logo="https://i.imgur.com/kuqkTMC.png", Red+ [Geo-blocked]
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/MJzuRAN.png", RCN Más (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="1862" group="latino", FOXMOVIES
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="argentina" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png", NET TV  27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="VALLEVISION CANAL 10 HD" group="REPUBLICA DOMINICANA" logo="https://es.live-tv-channels.org/pt-data/uploads/logo/do-vallevision-canal-10-9607-300x225.jpg" country="DO", VALLEVISION CANAL 10 HD
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w1749406618.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="http://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png", INDIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?serverSideAds=false&deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES 2" logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png", ANDROMEDA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bccae160007c71eec/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="favorites" channelId="-1", Promar TV  | VE
+http://vcp1.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" group="COSTA RICA" logo="https://i2.paste.pics/5ecf42519354156b3900d181808176ef.png", Limon TV
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="MISIONES" logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png", CANAL 21 POSADAS
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="BOLIVIA", TV SHOW ORURO
+http://tv.istbolivia.com:1935/tvshow/tvshow/media_w1686059153_1296.ts.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/TY6HW91N/SERIES.png", SERIES 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59508532-73e8-480a-a7ac-ca658e672783&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/yd9kg98B/SERIES-LATINAS.png", SERIES LATINAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="24/7" logo="http://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png", ESCAPE PERFECTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="24/7" logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png", MTV EMBARAZADA A LOS 16
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/dVT7Tqsr/CSI.png", CSI EN ESPAÑOL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="DOCUMENTALES Y CULTURA" logo="https://i.postimg.cc/J7HKz0XV/AVENTURA.png", PLUTO TV AVENTURA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="DOCUMENTALES Y CULTURA" logo="https://i.postimg.cc/90LrDV1x/misteriosmedicos.png", MISTERIOS MÉDICOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27173-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25a22310-9312-4b9f-b9e9-92dac7411fe9&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="COMEDIA Y ENTRETENIMIENTO" logo="https://i.postimg.cc/VkQRvsn0/comedy_central.png", COMEDY CENTRAL LATINO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21b9ab81-ee95-4efe-8594-158f8ea6d0c7&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="COMEDIA Y ENTRETENIMIENTO" logo="https://i.postimg.cc/L412LTS5/comedia_spain.jpg", COMEDIA MADE IN SPAIN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c681-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01d86952-90df-4d0a-b9ae-c63701be5b5c&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="COMEDIA Y ENTRETENIMIENTO" logo="https://i.postimg.cc/SsFpRsrZ/mtvlatino.png", MTV LATINO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="MESOPOTAMIA" logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg", CANAL 9 PARANA
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="NOVELAS Y TALKSHOWS" logo="https://i.postimg.cc/sfP3Bpb5/estrellatv.png", ESTRELLA TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="ADULTO" logo="http://www.intercambiocantabria.com/nuevo/wp-content/uploads/2016/04/adultos2.png", JENNY LIVE TV
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Costa Rica" logo="https://i.imgur.com/9axkCVr.png", Teleuno | HD | San Ramón
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w1960667504.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/NjS9j6rR/CINE_PREMIERE.png", CINE PREMIERE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eeb650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d68de35-eba9-49ed-8345-3e39294775b8&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png", CINE ESTELAR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="SPAIN" logo="https://yt3.ggpht.com/a/AGF-l79uAn_Np-huZgqS15HqmzGnzFWTMaviA0HoXQ=s900-mo-c-c0xffffffff-rj-k-no", Solidaria tv Spain
+http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="CO: Win Sports + FHD" group="Colombia" country="co", Win Sports + FHD
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/78717
+#EXTINF:0 type="favorites" channelId="-1" name="CO: TELEMEDELLIN" group="Colombia" country="co", TELEMEDELLIN
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/78722
+#EXTINF:0 type="favorites" channelId="-1" name="CO: NTN24 HD" group="Colombia" country="co", NTN24 HD
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/78704
+#EXTINF:0 type="favorites" channelId="-1" name="US Latin Discovery (F)" group="LATINO", US Latin Discovery (F)
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/57645
+#EXTINF:0 type="favorites" channelId="-1" name="US Univision (East) (SP)" group="USA" logo="https://w7.pngwing.com/pngs/618/904/png-transparent-logo-univision-mexico-television-san-antonio-disney-junior-logo-television-text-logo.png", US Univision (East) (SP)
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/15336
+#EXTINF:0 type="favorites" channelId="-1" name="CO: ESPN COLOMBIA" group="Colombia" country="co", ESPN COLOMBIA
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/86765
+#EXTINF:0 type="favorites" channelId="2546" name="PE: AMERICA TV" group="PERU" country="pe", AMERICA TV
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/110637
+#EXTINF:0 type="favorites" channelId="-1" group="News" logo="https://i.imgur.com/A1xzjOI.png", DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", MI ABUELO ES UN PELIGRO
+https://goo.gl/KYCQoX
+#EXTINF:0 type="favorites" channelId="-1", Colossal
+http://ow.ly/FXZ930eWtrs
+#EXTINF:0 type="favorites" channelId="-1", Chucky el Muñeco Diabolico II
+http://bit.ly/MRAQCCHUK2
+#EXTINF:0 type="favorites" channelId="-1" group="Familiares" logo="https://i.imgur.com/UbZXTKF.jpg", Pitufo TV
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="DW Español" logo="https://www.m3u.cl/logo/511_DW_Espanol.png", DW Español | DE
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" group="Bics Extra", CANAL 57 USA
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png", RUN:TIME 4
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="-1" group="Moda" logo="https://i.imgur.com/vTv1ysB.png", FashionTV Czech&Slovak | SD | Francia
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ESPAÑA" logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200", Canal Málaga
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Telecolor
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 34 (Chile)" logo="https://lh3.googleusercontent.com/-fpmZty2YwYo/XzghYb0Ii5I/AAAAAAAA4X8/pFIdyPz9X-Uaj2c-3F3oDS265pBZ6TE91MsDaQghfjACgBGUCk/s0/2020-08-15.png", Canal TRO | CO
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Lista 34 (Chile)" logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png", Soy Plancha TV | CR
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ITALIA" logo="https://i.ytimg.com/vi/2kV-d4g35jg/maxresdefault.jpg", Cafe 24 TV
+https://srvx1.selftv.video/cafe/live/chunklist_w2069292049.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/CnAc7jU.png", COCO TV (720p)
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="CINE Y SERIES" logo="https://i.postimg.cc/k5ZDjspW/CINE.png", CINE 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3548ea01-ec9a-4077-95c1-67068b0dfecd&userId=&serverSideAds=true
+#EXTINF:0 type="favorites" channelId="4788" group="-", Win Sports
+http://38.44.109.41:8003/play/a03n/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HWHve49nrZcVjmg_Y-OI-Nx_oL46L-76qL91INvMjBDlA5nvuyG41oMk&s=10", \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\,Telemundo Accion
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HWHve49nrZcVjmg_Y-OI-Nx_oL46L-76qL91INvMjBDlA5nvuyG41oMk&s=10", \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\, Telemundo PR (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1" logo="https://i.imgur.com/yijitpa.png", Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="1954" logo="https://i.imgur.com/g5ShxZ7.png", Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0 type="favorites" channelId="3729" logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png", Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Run Time Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:0 type="favorites" channelId="-1", Run Tim Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+#EXTINF:0 type="favorites" channelId="-1", Run Tim Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+#EXTINF:0 type="favorites" channelId="-1", Run Tim Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:0 type="favorites" channelId="-1", Clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+#EXTINF:0 type="favorites" channelId="530" name="SONY HD" group="CANALES CINE" logo="https://i.ibb.co/gzV8SF9/sony-channel.png", SONY HD
+http://playtv44.com:8080/976515597/123456/218804
+#EXTINF:0 type="favorites" channelId="-1" name="GOLDEN PREMIER HD" group="CANALES CINE" logo="https://i.postimg.cc/LsnTZBbH/GOLDEN_PREMIER.png", GOLDEN PREMIER HD
+http://playtv44.com:8080/976515597/123456/315894
+#EXTINF:0 type="favorites" channelId="-1" name="De Pelicula Classic HD" group="CANALES CINE" logo="https://i.ibb.co/12py1Vx/De-Pel-cula-Cl-sico.png", De Pelicula Classic HD
+http://playtv44.com:8080/976515597/123456/218795
+#EXTINF:0 type="favorites" channelId="935" name="HBO 2 HD" group="CANALES CINE" logo="https://i.ibb.co/99W1t8h/HBO-2.png", HBO 2 HD
+http://playtv44.com:8080/976515597/123456/218784
+#EXTINF:0 type="favorites" channelId="-1" name="STUDIO UNIVERSAL HD1" group="CANALES CINE" logo="https://i.ibb.co/SVCpKvf/Studio-Universal.png", STUDIO UNIVERSAL HD1
+http://playtv44.com:8080/976515597/123456/210939
+#EXTINF:0 type="favorites" channelId="2900" name="TNT HD" group="CANALES CINE" logo="https://i.ibb.co/dkDhX7n/TNT.png", TNT HD
+http://playtv44.com:8080/976515597/123456/78398
+#EXTINF:0 type="favorites" channelId="2903" name="Warner HD" group="CANALES CINE" logo="https://i.ibb.co/gSrJS1d/1200px-Warner-Channel-svg.png", Warner HD
+http://playtv44.com:8080/976515597/123456/78396
+#EXTINF:0 type="favorites" channelId="284" name="CINECANAL  HD" group="CANALES CINE" logo="https://i.postimg.cc/nzWRZHxJ/CINECANAL.png", CINECANAL  HD
+http://playtv44.com:8080/976515597/123456/78381
+#EXTINF:0 type="favorites" channelId="1330" name="HBO HD" group="CANALES CINE" logo="https://i.ibb.co/GMcRNWY/HBO.png", HBO HD
+http://playtv44.com:8080/976515597/123456/78379
+#EXTINF:0 type="favorites" channelId="2584" name="HBO FAMILY" group="CANALES CINE" logo="https://i.ibb.co/34ZnF8s/FAMILY.png", HBO FAMILY
+http://playtv44.com:8080/976515597/123456/78377
+#EXTINF:0 type="favorites" channelId="-1" name="HBO XTREME HD" group="CANALES CINE" logo="https://i.ibb.co/yQQk3Vk/XTREME.png", HBO XTREME HD
+http://playtv44.com:8080/976515597/123456/39371
+#EXTINF:0 type="favorites" channelId="3317" name="UNIVERSAL HD" group="CANALES CINE" logo="https://i.postimg.cc/G2n28RzF/UNIVERSAL.png", UNIVERSAL HD
+http://playtv44.com:8080/976515597/123456/12347
+#EXTINF:0 type="favorites" channelId="2725" name="HBO MUNDI HD" group="CANALES CINE" logo="https://i.postimg.cc/vB5ZzHQZ/HBO-MUNDI.png", HBO MUNDI HD
+http://playtv44.com:8080/976515597/123456/12340
+#EXTINF:0 type="favorites" channelId="-1" name="CINE LATINO HD" group="CANALES CINE" logo="https://i.postimg.cc/JhjbjVdc/CINE-LATINO.png", CINE LATINO HD
+http://playtv44.com:8080/976515597/123456/12338
+#EXTINF:0 type="favorites" channelId="-1" group="Undefined" logo="https://i.imgur.com/sjxVdPh.png", UMTV (1080p) [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="ARGENTINA" logo="https://i.postimg.cc/WbgDddSW/21TV.png", 21 TV POSADAS
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Neo TV" logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV * | AR
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:0 type="favorites" channelId="-1" group="Entertainment" logo="https://i.imgur.com/MJzuRAN.png", RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="187" name="LA: UNIVERSAL CHANNEL" group="Latin" logo="https://asiagrandiptv.us/logo/universalchannel.png" country="la", UNIVERSAL CHANNEL
+http://lunar.pm:8080/shacara/7274249488/115192
+#EXTINF:0 type="favorites" channelId="67" name="LA: TLC" group="Latin" logo="https://asiagrandiptv.us/logo/tlc.png" country="la", TLC
+http://lunar.pm:8080/shacara/7274249488/115181
+#EXTINF:0 type="favorites" channelId="73" name="LA: SYFY" group="Latin" logo="https://asiagrandiptv.us/logo/syfy.png" country="la", SYFY
+http://lunar.pm:8080/shacara/7274249488/115169
+#EXTINF:0 type="favorites" channelId="2625" name="LA: STUDIO UNIVERSAL" group="Latin" logo="https://asiagrandiptv.us/logo/studiouniversal.png" country="la", STUDIO UNIVERSAL
+http://lunar.pm:8080/shacara/7274249488/115166
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STARZ EAST" group="Latin" logo="https://asiagrandiptv.us/logo//STARZEASTHD1080P.jpg" country="la", STARZ EAST
+http://lunar.pm:8080/shacara/7274249488/115162
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STARZ CINEMA WEST" group="Latin" logo="https://asiagrandiptv.us/logo/starzcinemawest.png" country="la", STARZ CINEMA WEST
+http://lunar.pm:8080/shacara/7274249488/115160
+#EXTINF:0 type="favorites" channelId="3226" name="LA: STARZ" group="Latin" logo="https://asiagrandiptv.us/logo/starz.png" country="la", STARZ
+http://lunar.pm:8080/shacara/7274249488/115158
+#EXTINF:0 type="favorites" channelId="-1" name="LA: STAR ACTION" group="Latin" logo="https://asiagrandiptv.us/logo/staraction.png" country="la", STAR ACTION
+http://lunar.pm:8080/shacara/7274249488/115150
+#EXTINF:0 type="favorites" channelId="383" name="LA: SPACE" group="Latin" logo="https://asiagrandiptv.us/logo/space.png" country="la", SPACE
+http://lunar.pm:8080/shacara/7274249488/115148
+#EXTINF:0 type="favorites" channelId="188" name="LA: SONY" group="Latin" logo="https://asiagrandiptv.us/logo/sony.png" country="la", SONY
+http://lunar.pm:8080/shacara/7274249488/115147
+#EXTINF:0 type="favorites" channelId="-1" name="LA: PAN_:TV MAX 9" group="Latin" country="la", PAN_:TV MAX 9
+http://lunar.pm:8080/shacara/7274249488/115134
+#EXTINF:0 type="favorites" channelId="361" name="LA: MAX UP" group="Latin" logo="https://asiagrandiptv.us/logo/maxup.png" country="la", MAX UP
+http://lunar.pm:8080/shacara/7274249488/115121
+#EXTINF:0 type="favorites" channelId="-1" group="-", Oromar
+http://38.44.109.41:8003/play/a01a/index.m3u8
+#EXTINF:0 type="favorites" channelId="2663" group="-", Telesur
+http://38.44.109.41:8003/play/a01q/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="-", ESPN5_MOD
+http://38.44.109.41:8003/play/a03w/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="[+18⭕️] Desire TV FHD" group="→ ADULTOS DS ←" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLSjPMP6yxXHLWywiypHwk-ROr0FXxkS09A&s", [+18⭕️] Desire TV FHD
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="[+18⭕️] Bazzers FHD" group="→ ADULTOS DS ←" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1HWGNc83HguMs48kFsq7p9lY34YxI1EbMtA&s", [+18⭕️] Bazzers FHD
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="[+18⭕️] Dorcel TV FHD" group="→ ADULTOS DS ←" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzjbVoXL9t8xUEMgImRDBthCRBahHAaMCwidItpIWOgeoolSHKbfE5uZ9rkizj4HBPl_rxjaA09RtEPp-j_AGpoUBGCPrS4rrrNlMneJMkBZ3f4xDZE9_Gy2VWztqa2EBZLUVXVxht0kF/w1200-h630-p-k-no-nu/dorcel-tv-logotipo.png", [+18⭕️] Dorcel TV FHD
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Canela Skin" group="XXX CHANNELS", X4 | Canela Skin
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/215500
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Asian" group="XXX CHANNELS", X4 | Asian
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/215465
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Carla Cute" group="XXX CHANNELS", X4 | Carla Cute
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/215501
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Girls Only" group="XXX CHANNELS", X4 | Girls Only
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/215568
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Jays Pov" group="XXX CHANNELS", X4 | Jays Pov
+http://tv14s.xyz:8080/rockstone2771@yahoo.com/UN77CG3M68/215584
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: ABELLA DANGER" group="XXX CHANNELS", STARS EXCLUSIVE: ABELLA DANGER
+http://fortv.cc:8080/0n8u9R/169324/160049
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: ADRIANA CHECHIK" group="XXX CHANNELS", STARS EXCLUSIVE: ADRIANA CHECHIK
+http://fortv.cc:8080/0n8u9R/169324/160050
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: ALINA LOPEZ" group="XXX CHANNELS", STARS EXCLUSIVE: ALINA LOPEZ
+http://fortv.cc:8080/0n8u9R/169324/160051
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: ANGELA WHITE" group="XXX CHANNELS", STARS EXCLUSIVE: ANGELA WHITE
+http://fortv.cc:8080/0n8u9R/169324/160052
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: ARIANA MARIE" group="XXX CHANNELS", STARS EXCLUSIVE: ARIANA MARIE
+http://fortv.cc:8080/0n8u9R/169324/160053
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: AUGUST AMES" group="XXX CHANNELS", STARS EXCLUSIVE: AUGUST AMES
+http://fortv.cc:8080/0n8u9R/169324/160054
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: AUTUMN FALLS" group="XXX CHANNELS", STARS EXCLUSIVE: AUTUMN FALLS
+http://fortv.cc:8080/0n8u9R/169324/160055
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: BRANDI LOVE" group="XXX CHANNELS", STARS EXCLUSIVE: BRANDI LOVE
+http://fortv.cc:8080/0n8u9R/169324/160056
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: DANI DANIELS" group="XXX CHANNELS", STARS EXCLUSIVE: DANI DANIELS
+http://fortv.cc:8080/0n8u9R/169324/160057
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: DANI JENSEN" group="XXX CHANNELS", STARS EXCLUSIVE: DANI JENSEN
+http://fortv.cc:8080/0n8u9R/169324/160058
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: ELSA JEAN" group="XXX CHANNELS", STARS EXCLUSIVE: ELSA JEAN
+http://fortv.cc:8080/0n8u9R/169324/160059
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: EMILY WILLIS" group="XXX CHANNELS", STARS EXCLUSIVE: EMILY WILLIS
+http://fortv.cc:8080/0n8u9R/169324/160060
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: EVA LOVIA" group="XXX CHANNELS", STARS EXCLUSIVE: EVA LOVIA
+http://fortv.cc:8080/0n8u9R/169324/160061
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: GINA VALENTINA" group="XXX CHANNELS", STARS EXCLUSIVE: GINA VALENTINA
+http://fortv.cc:8080/0n8u9R/169324/160062
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: JANICE GRIFFITH" group="XXX CHANNELS", STARS EXCLUSIVE: JANICE GRIFFITH
+http://fortv.cc:8080/0n8u9R/169324/160063
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: JESSA RHODES" group="XXX CHANNELS", STARS EXCLUSIVE: JESSA RHODES
+http://fortv.cc:8080/0n8u9R/169324/160064
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: LANA RHOADES" group="XXX CHANNELS", STARS EXCLUSIVE: LANA RHOADES
+http://fortv.cc:8080/0n8u9R/169324/160065
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: LENA PAUL" group="XXX CHANNELS", STARS EXCLUSIVE: LENA PAUL
+http://fortv.cc:8080/0n8u9R/169324/160066
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: LISA ANN" group="XXX CHANNELS", STARS EXCLUSIVE: LISA ANN
+http://fortv.cc:8080/0n8u9R/169324/160067
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: MADISON IVY" group="XXX CHANNELS", STARS EXCLUSIVE: MADISON IVY
+http://fortv.cc:8080/0n8u9R/169324/160068
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: MIA MALKOVA" group="XXX CHANNELS", STARS EXCLUSIVE: MIA MALKOVA
+http://fortv.cc:8080/0n8u9R/169324/160069
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: NICOLE ANISTON" group="XXX CHANNELS", STARS EXCLUSIVE: NICOLE ANISTON
+http://fortv.cc:8080/0n8u9R/169324/160070
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: RILEY REID" group="XXX CHANNELS", STARS EXCLUSIVE: RILEY REID
+http://fortv.cc:8080/0n8u9R/169324/160071
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: UMA JOLIE" group="XXX CHANNELS", STARS EXCLUSIVE: UMA JOLIE
+http://fortv.cc:8080/0n8u9R/169324/160072
+#EXTINF:0 type="favorites" channelId="-1" name="STARS EXCLUSIVE: VALENTINA NAPPI" group="XXX CHANNELS", STARS EXCLUSIVE: VALENTINA NAPPI
+http://fortv.cc:8080/0n8u9R/169324/160073
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: ALICE REDLIPS" group="XXX CHANNELS", VERIFIED AMATEURS: ALICE REDLIPS
+http://fortv.cc:8080/0n8u9R/169324/160074
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: BIGTITTYGOTHEGG" group="XXX CHANNELS", VERIFIED AMATEURS: BIGTITTYGOTHEGG
+http://fortv.cc:8080/0n8u9R/169324/160075
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: CHERRY GRACE" group="XXX CHANNELS", VERIFIED AMATEURS: CHERRY GRACE
+http://fortv.cc:8080/0n8u9R/169324/160076
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: DIANA DANIELS" group="XXX CHANNELS", VERIFIED AMATEURS: DIANA DANIELS
+http://fortv.cc:8080/0n8u9R/169324/160078
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: ELLAKAI" group="XXX CHANNELS", VERIFIED AMATEURS: ELLAKAI
+http://fortv.cc:8080/0n8u9R/169324/160079
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: FIAMURR" group="XXX CHANNELS", VERIFIED AMATEURS: FIAMURR
+http://fortv.cc:8080/0n8u9R/169324/160080
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: KRISS KISS" group="XXX CHANNELS", VERIFIED AMATEURS: KRISS KISS
+http://fortv.cc:8080/0n8u9R/169324/160081
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: LEAH MEOW" group="XXX CHANNELS", VERIFIED AMATEURS: LEAH MEOW
+http://fortv.cc:8080/0n8u9R/169324/160082
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: LUXURYGIRL" group="XXX CHANNELS", VERIFIED AMATEURS: LUXURYGIRL
+http://fortv.cc:8080/0n8u9R/169324/160083
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: MIKANIKA69" group="XXX CHANNELS", VERIFIED AMATEURS: MIKANIKA69
+http://fortv.cc:8080/0n8u9R/169324/160084
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: MINI DIVA" group="XXX CHANNELS", VERIFIED AMATEURS: MINI DIVA
+http://fortv.cc:8080/0n8u9R/169324/160085
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: MOLLYREDWOLF" group="XXX CHANNELS", VERIFIED AMATEURS: MOLLYREDWOLF
+http://fortv.cc:8080/0n8u9R/169324/160086
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: NOFACEGIRL" group="XXX CHANNELS", VERIFIED AMATEURS: NOFACEGIRL
+http://fortv.cc:8080/0n8u9R/169324/160087
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: NYNA FERRAGNI" group="XXX CHANNELS", VERIFIED AMATEURS: NYNA FERRAGNI
+http://fortv.cc:8080/0n8u9R/169324/160089
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: PURPLE BITCH" group="XXX CHANNELS", VERIFIED AMATEURS: PURPLE BITCH
+http://fortv.cc:8080/0n8u9R/169324/160090
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: REISLIN" group="XXX CHANNELS", VERIFIED AMATEURS: REISLIN
+http://fortv.cc:8080/0n8u9R/169324/160091
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: SECRETCRUSH" group="XXX CHANNELS", VERIFIED AMATEURS: SECRETCRUSH
+http://fortv.cc:8080/0n8u9R/169324/160092
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: SHAIDEN ROUGE" group="XXX CHANNELS", VERIFIED AMATEURS: SHAIDEN ROUGE
+http://fortv.cc:8080/0n8u9R/169324/160093
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: SOLAZOLA" group="XXX CHANNELS", VERIFIED AMATEURS: SOLAZOLA
+http://fortv.cc:8080/0n8u9R/169324/160094
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: SWEET BUNNY" group="XXX CHANNELS", VERIFIED AMATEURS: SWEET BUNNY
+http://fortv.cc:8080/0n8u9R/169324/160095
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: TESSA WINTERS" group="XXX CHANNELS", VERIFIED AMATEURS: TESSA WINTERS
+http://fortv.cc:8080/0n8u9R/169324/160096
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: TINNA ANGEL" group="XXX CHANNELS", VERIFIED AMATEURS: TINNA ANGEL
+http://fortv.cc:8080/0n8u9R/169324/160097
+#EXTINF:0 type="favorites" channelId="-1" name="VERIFIED AMATEURS: YINYLEON" group="XXX CHANNELS", VERIFIED AMATEURS: YINYLEON
+http://fortv.cc:8080/0n8u9R/169324/160098
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | 404HotFound" group="XXX CHANNELS", X4 | 404HotFound
+http://fortv.cc:8080/0n8u9R/169324/215434
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | A Girls Knows" group="XXX CHANNELS", X4 | A Girls Knows
+http://fortv.cc:8080/0n8u9R/169324/215435
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Abella Danger" group="XXX CHANNELS", X4 | Abella Danger
+http://fortv.cc:8080/0n8u9R/169324/215436
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Adria Rae" group="XXX CHANNELS", X4 | Adria Rae
+http://fortv.cc:8080/0n8u9R/169324/215438
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Adriana Chechik" group="XXX CHANNELS", X4 | Adriana Chechik
+http://fortv.cc:8080/0n8u9R/169324/215439
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Adult Mobile" group="XXX CHANNELS", X4 | Adult Mobile
+http://fortv.cc:8080/0n8u9R/169324/215440
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Aeries Steele" group="XXX CHANNELS", X4 | Aeries Steele
+http://fortv.cc:8080/0n8u9R/169324/215441
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Alex Adams" group="XXX CHANNELS", X4 | Alex Adams
+http://fortv.cc:8080/0n8u9R/169324/215442
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Alexis Crystal" group="XXX CHANNELS", X4 | Alexis Crystal
+http://fortv.cc:8080/0n8u9R/169324/215443
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Alexis Fawx" group="XXX CHANNELS", X4 | Alexis Fawx
+http://fortv.cc:8080/0n8u9R/169324/215444
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Alexis Tae" group="XXX CHANNELS", X4 | Alexis Tae
+http://fortv.cc:8080/0n8u9R/169324/215445
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Alexis Texas" group="XXX CHANNELS", X4 | Alexis Texas
+http://fortv.cc:8080/0n8u9R/169324/215446
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Alina Lopez" group="XXX CHANNELS", X4 | Alina Lopez
+http://fortv.cc:8080/0n8u9R/169324/215447
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Alina Rai" group="XXX CHANNELS", X4 | Alina Rai
+http://fortv.cc:8080/0n8u9R/169324/215448
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Allinika" group="XXX CHANNELS", X4 | Allinika
+http://fortv.cc:8080/0n8u9R/169324/215449
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Amadani" group="XXX CHANNELS", X4 | Amadani
+http://fortv.cc:8080/0n8u9R/169324/215450
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Amateur Euro" group="XXX CHANNELS", X4 | Amateur Euro
+http://fortv.cc:8080/0n8u9R/169324/215451
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Amateurtwo" group="XXX CHANNELS", X4 | Amateurtwo
+http://fortv.cc:8080/0n8u9R/169324/215452
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Amber Moore" group="XXX CHANNELS", X4 | Amber Moore
+http://fortv.cc:8080/0n8u9R/169324/215453
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Anal" group="XXX CHANNELS", X4 | Anal
+http://fortv.cc:8080/0n8u9R/169324/215454
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Anal" group="XXX CHANNELS", X4 | Anal
+http://fortv.cc:8080/0n8u9R/169324/215455
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Anal Mom" group="XXX CHANNELS", X4 | Anal Mom
+http://fortv.cc:8080/0n8u9R/169324/215456
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Anal4K" group="XXX CHANNELS", X4 | Anal4K
+http://fortv.cc:8080/0n8u9R/169324/215457
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Analized" group="XXX CHANNELS", X4 | Analized
+http://fortv.cc:8080/0n8u9R/169324/215458
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Anastangel" group="XXX CHANNELS", X4 | Anastangel
+http://fortv.cc:8080/0n8u9R/169324/215459
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Anastasia Knight" group="XXX CHANNELS", X4 | Anastasia Knight
+http://fortv.cc:8080/0n8u9R/169324/215460
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Angela White" group="XXX CHANNELS", X4 | Angela White
+http://fortv.cc:8080/0n8u9R/169324/215461
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Anny Walker" group="XXX CHANNELS", X4 | Anny Walker
+http://fortv.cc:8080/0n8u9R/169324/215462
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Aria Lee" group="XXX CHANNELS", X4 | Aria Lee
+http://fortv.cc:8080/0n8u9R/169324/215463
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | ASGmax" group="XXX CHANNELS", X4 | ASGmax
+http://fortv.cc:8080/0n8u9R/169324/215464
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Asian" group="XXX CHANNELS", X4 | Asian
+http://fortv.cc:8080/0n8u9R/169324/215465
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Athena Faris" group="XXX CHANNELS", X4 | Athena Faris
+http://fortv.cc:8080/0n8u9R/169324/215466
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Aunt Judys XXX" group="XXX CHANNELS", X4 | Aunt Judys XXX
+http://fortv.cc:8080/0n8u9R/169324/215467
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | BadFamilyPov" group="XXX CHANNELS", X4 | BadFamilyPov
+http://fortv.cc:8080/0n8u9R/169324/215471
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Bang Bros Network" group="XXX CHANNELS", X4 | Bang Bros Network
+http://fortv.cc:8080/0n8u9R/169324/215472
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | BBC Pie" group="XXX CHANNELS", X4 | BBC Pie
+http://fortv.cc:8080/0n8u9R/169324/215473
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | BBW" group="XXX CHANNELS", X4 | BBW
+http://fortv.cc:8080/0n8u9R/169324/215474
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Behind the Scenes" group="XXX CHANNELS", X4 | Behind the Scenes
+http://fortv.cc:8080/0n8u9R/169324/215475
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Bellamurr" group="XXX CHANNELS", X4 | Bellamurr
+http://fortv.cc:8080/0n8u9R/169324/215476
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | BFFs" group="XXX CHANNELS", X4 | BFFs
+http://fortv.cc:8080/0n8u9R/169324/215477
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Big Ass" group="XXX CHANNELS", X4 | Big Ass
+http://fortv.cc:8080/0n8u9R/169324/215478
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Big Boobs" group="XXX CHANNELS", X4 | Big Boobs
+http://fortv.cc:8080/0n8u9R/169324/215479
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Black Money" group="XXX CHANNELS", X4 | Black Money
+http://fortv.cc:8080/0n8u9R/169324/215481
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Blaze Rager" group="XXX CHANNELS", X4 | Blaze Rager
+http://fortv.cc:8080/0n8u9R/169324/215485
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Blake Blossom" group="XXX CHANNELS", X4 | Blake Blossom
+http://fortv.cc:8080/0n8u9R/169324/215484
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Blonde" group="XXX CHANNELS", X4 | Blonde
+http://fortv.cc:8080/0n8u9R/169324/215486
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Blowjob" group="XXX CHANNELS", X4 | Blowjob
+http://fortv.cc:8080/0n8u9R/169324/215487
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Blowjob" group="XXX CHANNELS", X4 | Blowjob
+http://fortv.cc:8080/0n8u9R/169324/215488
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Bob Big Tula" group="XXX CHANNELS", X4 | Bob Big Tula
+http://fortv.cc:8080/0n8u9R/169324/215489
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Bondage" group="XXX CHANNELS", X4 | Bondage
+http://fortv.cc:8080/0n8u9R/169324/215490
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Bonniealex" group="XXX CHANNELS", X4 | Bonniealex
+http://fortv.cc:8080/0n8u9R/169324/215491
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Brandi Love" group="XXX CHANNELS", X4 | Brandi Love
+http://fortv.cc:8080/0n8u9R/169324/215492
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Bratty Milf" group="XXX CHANNELS", X4 | Bratty Milf
+http://fortv.cc:8080/0n8u9R/169324/215493
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Bratty Sis" group="XXX CHANNELS", X4 | Bratty Sis
+http://fortv.cc:8080/0n8u9R/169324/215494
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Brazzers" group="XXX CHANNELS", X4 | Brazzers
+http://fortv.cc:8080/0n8u9R/169324/215495
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Brooke Tilli" group="XXX CHANNELS", X4 | Brooke Tilli
+http://fortv.cc:8080/0n8u9R/169324/215497
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Brunette" group="XXX CHANNELS", X4 | Brunette
+http://fortv.cc:8080/0n8u9R/169324/215498
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Candy Love" group="XXX CHANNELS", X4 | Candy Love
+http://fortv.cc:8080/0n8u9R/169324/215499
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Canela Skin" group="XXX CHANNELS", X4 | Canela Skin
+http://fortv.cc:8080/0n8u9R/169324/215500
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Carla Cute" group="XXX CHANNELS", X4 | Carla Cute
+http://fortv.cc:8080/0n8u9R/169324/215501
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Casting" group="XXX CHANNELS", X4 | Casting
+http://fortv.cc:8080/0n8u9R/169324/215502
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Casting Couch" group="XXX CHANNELS", X4 | Casting Couch
+http://fortv.cc:8080/0n8u9R/169324/215503
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Cherie DeVille" group="XXX CHANNELS", X4 | Cherie DeVille
+http://fortv.cc:8080/0n8u9R/169324/215504
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Chessie Rae" group="XXX CHANNELS", X4 | Chessie Rae
+http://fortv.cc:8080/0n8u9R/169324/215505
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Chole Temple" group="XXX CHANNELS", X4 | Chole Temple
+http://fortv.cc:8080/0n8u9R/169324/215506
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Chuck Hunter" group="XXX CHANNELS", X4 | Chuck Hunter
+http://fortv.cc:8080/0n8u9R/169324/215507
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Close Up" group="XXX CHANNELS", X4 | Close Up
+http://fortv.cc:8080/0n8u9R/169324/215508
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | College" group="XXX CHANNELS", X4 | College
+http://fortv.cc:8080/0n8u9R/169324/215509
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Cory Chase" group="XXX CHANNELS", X4 | Cory Chase
+http://fortv.cc:8080/0n8u9R/169324/215510
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Cosplay" group="XXX CHANNELS", X4 | Cosplay
+http://fortv.cc:8080/0n8u9R/169324/215511
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Creampie" group="XXX CHANNELS", X4 | Creampie
+http://fortv.cc:8080/0n8u9R/169324/215512
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Crystal Lust" group="XXX CHANNELS", X4 | Crystal Lust
+http://fortv.cc:8080/0n8u9R/169324/215514
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Creamy Spot" group="XXX CHANNELS", X4 | Creamy Spot
+http://fortv.cc:8080/0n8u9R/169324/215513
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Cum in Mouth" group="XXX CHANNELS", X4 | Cum in Mouth
+http://fortv.cc:8080/0n8u9R/169324/215517
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Cumshot" group="XXX CHANNELS", X4 | Cumshot
+http://fortv.cc:8080/0n8u9R/169324/215518
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Cutie Kim" group="XXX CHANNELS", X4 | Cutie Kim
+http://fortv.cc:8080/0n8u9R/169324/215519
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Czech Soles" group="XXX CHANNELS", X4 | Czech Soles
+http://fortv.cc:8080/0n8u9R/169324/215520
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Czrok" group="XXX CHANNELS", X4 | Czrok
+http://fortv.cc:8080/0n8u9R/169324/215521
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Dani Daniels" group="XXX CHANNELS", X4 | Dani Daniels
+http://fortv.cc:8080/0n8u9R/169324/215522
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Daniela Antury" group="XXX CHANNELS", X4 | Daniela Antury
+http://fortv.cc:8080/0n8u9R/169324/215523
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Davcina" group="XXX CHANNELS", X4 | Davcina
+http://fortv.cc:8080/0n8u9R/169324/215524
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Delphine" group="XXX CHANNELS", X4 | Delphine
+http://fortv.cc:8080/0n8u9R/169324/215525
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | DeLuXeGirL" group="XXX CHANNELS", X4 | DeLuXeGirL
+http://fortv.cc:8080/0n8u9R/169324/215526
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Diana Daniels" group="XXX CHANNELS", X4 | Diana Daniels
+http://fortv.cc:8080/0n8u9R/169324/215527
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Diana Rider" group="XXX CHANNELS", X4 | Diana Rider
+http://fortv.cc:8080/0n8u9R/169324/215528
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | DickForLily" group="XXX CHANNELS", X4 | DickForLily
+http://fortv.cc:8080/0n8u9R/169324/215529
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Digital Climaxxx" group="XXX CHANNELS", X4 | Digital Climaxxx
+http://fortv.cc:8080/0n8u9R/169324/215530
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Digital Playground" group="XXX CHANNELS", X4 | Digital Playground
+http://fortv.cc:8080/0n8u9R/169324/215531
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Dillion Harper" group="XXX CHANNELS", X4 | Dillion Harper
+http://fortv.cc:8080/0n8u9R/169324/215532
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Doghouse Digital" group="XXX CHANNELS", X4 | Doghouse Digital
+http://fortv.cc:8080/0n8u9R/169324/215533
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Double Penetration" group="XXX CHANNELS", X4 | Double Penetration
+http://fortv.cc:8080/0n8u9R/169324/215534
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Ebony" group="XXX CHANNELS", X4 | Ebony
+http://fortv.cc:8080/0n8u9R/169324/215535
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Eliza Ibarra" group="XXX CHANNELS", X4 | Eliza Ibarra
+http://fortv.cc:8080/0n8u9R/169324/215537
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Elsa Jean" group="XXX CHANNELS", X4 | Elsa Jean
+http://fortv.cc:8080/0n8u9R/169324/215539
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Ema Karter" group="XXX CHANNELS", X4 | Ema Karter
+http://fortv.cc:8080/0n8u9R/169324/215540
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Emma Hix" group="XXX CHANNELS", X4 | Emma Hix
+http://fortv.cc:8080/0n8u9R/169324/215544
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Estter Muniz" group="XXX CHANNELS", X4 | Estter Muniz
+http://fortv.cc:8080/0n8u9R/169324/215545
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Eva Elfie" group="XXX CHANNELS", X4 | Eva Elfie
+http://fortv.cc:8080/0n8u9R/169324/215546
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Eva Lovia" group="XXX CHANNELS", X4 | Eva Lovia
+http://fortv.cc:8080/0n8u9R/169324/215547
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Exotic4K" group="XXX CHANNELS", X4 | Exotic4K
+http://fortv.cc:8080/0n8u9R/169324/215548
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Family Hookups" group="XXX CHANNELS", X4 | Family Hookups
+http://fortv.cc:8080/0n8u9R/169324/215550
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | FAMILYxxx" group="XXX CHANNELS", X4 | FAMILYxxx
+http://fortv.cc:8080/0n8u9R/169324/215552
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Feet" group="XXX CHANNELS", X4 | Feet
+http://fortv.cc:8080/0n8u9R/169324/215553
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Fetish" group="XXX CHANNELS", X4 | Fetish
+http://fortv.cc:8080/0n8u9R/169324/215554
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | First Class POV" group="XXX CHANNELS", X4 | First Class POV
+http://fortv.cc:8080/0n8u9R/169324/215555
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Fisting" group="XXX CHANNELS", X4 | Fisting
+http://fortv.cc:8080/0n8u9R/169324/215556
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Full" group="XXX CHANNELS", X4 | Full
+http://fortv.cc:8080/0n8u9R/169324/215557
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Futanari" group="XXX CHANNELS", X4 | Futanari
+http://fortv.cc:8080/0n8u9R/169324/215558
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Gabbie Carter" group="XXX CHANNELS", X4 | Gabbie Carter
+http://fortv.cc:8080/0n8u9R/169324/215559
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Gangbang" group="XXX CHANNELS", X4 | Gangbang
+http://fortv.cc:8080/0n8u9R/169324/215560
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | GentlyPerv" group="XXX CHANNELS", X4 | GentlyPerv
+http://fortv.cc:8080/0n8u9R/169324/215561
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Family Strokes" group="XXX CHANNELS", X4 | Family Strokes
+http://fortv.cc:8080/0n8u9R/169324/215551
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | German Scout" group="XXX CHANNELS", X4 | German Scout
+http://fortv.cc:8080/0n8u9R/169324/215562
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Gia Paige" group="XXX CHANNELS", X4 | Gia Paige
+http://fortv.cc:8080/0n8u9R/169324/215563
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Ginebra Bellucci" group="XXX CHANNELS", X4 | Ginebra Bellucci
+http://fortv.cc:8080/0n8u9R/169324/215565
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Girl Cum" group="XXX CHANNELS", X4 | Girl Cum
+http://fortv.cc:8080/0n8u9R/169324/215566
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | GirlGirlXXX" group="XXX CHANNELS", X4 | GirlGirlXXX
+http://fortv.cc:8080/0n8u9R/169324/215567
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Girls Only" group="XXX CHANNELS", X4 | Girls Only
+http://fortv.cc:8080/0n8u9R/169324/215568
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Hailey Rose" group="XXX CHANNELS", X4 | Hailey Rose
+http://fortv.cc:8080/0n8u9R/169324/215569
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Handjob" group="XXX CHANNELS", X4 | Handjob
+http://fortv.cc:8080/0n8u9R/169324/215571
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Hardcore" group="XXX CHANNELS", X4 | Hardcore
+http://fortv.cc:8080/0n8u9R/169324/215572
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Hazel Moore" group="XXX CHANNELS", X4 | Hazel Moore
+http://fortv.cc:8080/0n8u9R/169324/215573
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Her Limit" group="XXX CHANNELS", X4 | Her Limit
+http://fortv.cc:8080/0n8u9R/169324/215575
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Hijab" group="XXX CHANNELS", X4 | Hijab
+http://fortv.cc:8080/0n8u9R/169324/215577
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Horny Hostel" group="XXX CHANNELS", X4 | Horny Hostel
+http://fortv.cc:8080/0n8u9R/169324/215579
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Hot Wife XXX" group="XXX CHANNELS", X4 | Hot Wife XXX
+http://fortv.cc:8080/0n8u9R/169324/215580
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Janice Griffith" group="XXX CHANNELS", X4 | Janice Griffith
+http://fortv.cc:8080/0n8u9R/169324/215582
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Japan Uncensored" group="XXX CHANNELS", X4 | Japan Uncensored
+http://fortv.cc:8080/0n8u9R/169324/215583
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Jays Pov" group="XXX CHANNELS", X4 | Jays Pov
+http://fortv.cc:8080/0n8u9R/169324/215584
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Jenny Lux" group="XXX CHANNELS", X4 | Jenny Lux
+http://fortv.cc:8080/0n8u9R/169324/215585
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Jessa Rhodes" group="XXX CHANNELS", X4 | Jessa Rhodes
+http://fortv.cc:8080/0n8u9R/169324/215586
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Jia Lissa" group="XXX CHANNELS", X4 | Jia Lissa
+http://fortv.cc:8080/0n8u9R/169324/215588
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Joey Lee" group="XXX CHANNELS", X4 | Joey Lee
+http://fortv.cc:8080/0n8u9R/169324/215589
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | John and Sky" group="XXX CHANNELS", X4 | John and Sky
+http://fortv.cc:8080/0n8u9R/169324/215590
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Julie Jess" group="XXX CHANNELS", X4 | Julie Jess
+http://fortv.cc:8080/0n8u9R/169324/215591
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Karlee Grey" group="XXX CHANNELS", X4 | Karlee Grey
+http://fortv.cc:8080/0n8u9R/169324/215593
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Karma Rx" group="XXX CHANNELS", X4 | Karma Rx
+http://fortv.cc:8080/0n8u9R/169324/215594
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Kate Koss" group="XXX CHANNELS", X4 | Kate Koss
+http://fortv.cc:8080/0n8u9R/169324/215595
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Kate Marley" group="XXX CHANNELS", X4 | Kate Marley
+http://fortv.cc:8080/0n8u9R/169324/215596
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Kelsi Monroe" group="XXX CHANNELS", X4 | Kelsi Monroe
+http://fortv.cc:8080/0n8u9R/169324/215597
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Kenna James" group="XXX CHANNELS", X4 | Kenna James
+http://fortv.cc:8080/0n8u9R/169324/215599
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Kenzie Madison" group="XXX CHANNELS", X4 | Kenzie Madison
+http://fortv.cc:8080/0n8u9R/169324/215600
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Kenzie Reeves" group="XXX CHANNELS", X4 | Kenzie Reeves
+http://fortv.cc:8080/0n8u9R/169324/215601
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Kitty K" group="XXX CHANNELS", X4 | Kitty K
+http://fortv.cc:8080/0n8u9R/169324/215603
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Klinky Spa" group="XXX CHANNELS", X4 | Klinky Spa
+http://fortv.cc:8080/0n8u9R/169324/215604
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Kourtney Love" group="XXX CHANNELS", X4 | Kourtney Love
+http://fortv.cc:8080/0n8u9R/169324/215605
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Kylie Rocket" group="XXX CHANNELS", X4 | Kylie Rocket
+http://fortv.cc:8080/0n8u9R/169324/215607
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Lacy Lennon" group="XXX CHANNELS", X4 | Lacy Lennon
+http://fortv.cc:8080/0n8u9R/169324/215609
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Lana Rhoades" group="XXX CHANNELS", X4 | Lana Rhoades
+http://fortv.cc:8080/0n8u9R/169324/215610
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | LaSirena69" group="XXX CHANNELS", X4 | LaSirena69
+http://fortv.cc:8080/0n8u9R/169324/215611
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Elle Lee" group="XXX CHANNELS", X4 | Elle Lee
+http://fortv.cc:8080/0n8u9R/169324/215793
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Yoursexwife" group="XXX CHANNELS", X4 | Yoursexwife
+http://fortv.cc:8080/0n8u9R/169324/215791
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Xreindeers" group="XXX CHANNELS", X4 | Xreindeers
+http://fortv.cc:8080/0n8u9R/169324/215789
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Xev Bellringer" group="XXX CHANNELS", X4 | Xev Bellringer
+http://fortv.cc:8080/0n8u9R/169324/215788
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Willow Ryder" group="XXX CHANNELS", X4 | Willow Ryder
+http://fortv.cc:8080/0n8u9R/169324/215787
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Violet Moreau" group="XXX CHANNELS", X4 | Violet Moreau
+http://fortv.cc:8080/0n8u9R/169324/215785
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Vintage" group="XXX CHANNELS", X4 | Vintage
+http://fortv.cc:8080/0n8u9R/169324/215784
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Vic Alouqua" group="XXX CHANNELS", X4 | Vic Alouqua
+http://fortv.cc:8080/0n8u9R/169324/215782
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | VibeWithMommy" group="XXX CHANNELS", X4 | VibeWithMommy
+http://fortv.cc:8080/0n8u9R/169324/215781
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Up Close" group="XXX CHANNELS", X4 | Up Close
+http://fortv.cc:8080/0n8u9R/169324/215777
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Twistys" group="XXX CHANNELS", X4 | Twistys
+http://fortv.cc:8080/0n8u9R/169324/215776
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | True Amateurs" group="XXX CHANNELS", X4 | True Amateurs
+http://fortv.cc:8080/0n8u9R/169324/215774
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Tru Kait" group="XXX CHANNELS", X4 | Tru Kait
+http://fortv.cc:8080/0n8u9R/169324/215773
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Tiny 4K" group="XXX CHANNELS", X4 | Tiny 4K
+http://fortv.cc:8080/0n8u9R/169324/215771
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Sweetheart Video" group="XXX CHANNELS", X4 | Sweetheart Video
+http://fortv.cc:8080/0n8u9R/169324/215761
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Step Siblings Caught" group="XXX CHANNELS", X4 | Step Siblings Caught
+http://fortv.cc:8080/0n8u9R/169324/215759
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Stella Cox" group="XXX CHANNELS", X4 | Stella Cox
+http://fortv.cc:8080/0n8u9R/169324/215758
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Squirt" group="XXX CHANNELS", X4 | Squirt
+http://fortv.cc:8080/0n8u9R/169324/215757
+#EXTINF:0 type="favorites" channelId="-1" name="X4 | Pinkloving" group="XXX CHANNELS", X4 | Pinkloving
+http://fortv.cc:8080/0n8u9R/169324/215707
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: BANG BROS NETWORK" group="XXX CHANNELS", PORNBOX: BANG BROS NETWORK
+http://fortv.cc:8080/0n8u9R/169324/159960
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: ALL BLACK X" group="XXX CHANNELS", PORNBOX: ALL BLACK X
+http://fortv.cc:8080/0n8u9R/169324/159955
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: BABES" group="XXX CHANNELS", PORNBOX: BABES
+http://fortv.cc:8080/0n8u9R/169324/159959
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: BRATTY SIS" group="XXX CHANNELS", PORNBOX: BRATTY SIS
+http://fortv.cc:8080/0n8u9R/169324/159965
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: CUM 4K" group="XXX CHANNELS", PORNBOX: CUM 4K
+http://fortv.cc:8080/0n8u9R/169324/159969
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: GOTMYLF" group="XXX CHANNELS", PORNBOX: GOTMYLF
+http://fortv.cc:8080/0n8u9R/169324/159987
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: LETHAL HARDCORE" group="XXX CHANNELS", PORNBOX: LETHAL HARDCORE
+http://fortv.cc:8080/0n8u9R/169324/160001
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: MAMACITAZ" group="XXX CHANNELS", PORNBOX: MAMACITAZ
+http://fortv.cc:8080/0n8u9R/169324/160009
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: JESH BY JESH" group="XXX CHANNELS", PORNBOX: JESH BY JESH
+http://fortv.cc:8080/0n8u9R/169324/159995
+#EXTINF:0 type="favorites" channelId="-1" name="PORNBOX: MOFOS" group="XXX CHANNELS", PORNBOX: MOFOS
+http://fortv.cc:8080/0n8u9R/169324/160012
